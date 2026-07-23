@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:00:48.308Z",
+  "updatedAt": "2026-07-23T20:01:12.364Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -286,6 +286,30 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Gehc&job=e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
+    },
+    {
+      "id": "custom:google:95141459539174086",
+      "company": "Google",
+      "title": "Software Engineering Intern, MS, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Multiple U.S. locations",
+      "posted": "2026-07-20",
+      "age": "3d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
+      "applySupported": false
+    },
+    {
+      "id": "custom:google:85564713261245126",
+      "company": "Google",
+      "title": "Software Engineering Intern, BS, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Multiple U.S. locations",
+      "posted": "2026-07-20",
+      "age": "3d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+      "applySupported": false
     },
     {
       "id": "f471519b-c5fe-4cf4-a761-3fb0ec7a0bdf",
@@ -2296,7 +2320,7 @@
       "category": "Software Engineering",
       "location": "Chicago, IL",
       "posted": "2026-06-30",
-      "age": "22d",
+      "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
     },
