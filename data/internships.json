@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:15:44.291Z",
+  "updatedAt": "2026-07-23T22:19:08.063Z",
   "jobs": [
     {
       "id": "dce006db-2f24-410a-9c17-3c6d0d2ba891",
@@ -50,42 +50,6 @@
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
     },
     {
-      "id": "b1653546-80b4-4d04-9d18-8610862d4c79",
-      "company": "Denari",
-      "title": "Summer '26 Product & Software Internship",
-      "category": "Software Engineering",
-      "location": "Madison, WI",
-      "season": "Summer 2026",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Denari&job=b1653546-80b4-4d04-9d18-8610862d4c79&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282"
-    },
-    {
-      "id": "f1f363e8-c941-4132-8d06-7df46fca9165",
-      "company": "Gitar, Inc.",
-      "title": "Software Engineer Intern (Ph.D.)",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Gitar%2C+Inc.&job=f1f363e8-c941-4132-8d06-7df46fca9165&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49"
-    },
-    {
-      "id": "2ab843c7-62d7-4509-a3c0-62bdc4b8f28f",
-      "company": "Gitar, Inc.",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Gitar%2C+Inc.&job=2ab843c7-62d7-4509-a3c0-62bdc4b8f28f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda"
-    },
-    {
       "id": "b4ac60b4-dd12-495c-9d76-f86274c8b1b6",
       "company": "HP",
       "title": "Software Engineering Intern, Device Experiences",
@@ -98,18 +62,6 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
     },
     {
-      "id": "bd5a6092-4381-4de6-9362-46689cb2dfde",
-      "company": "LightGuide, Inc.",
-      "title": "Product Innovation Co-op",
-      "category": "Product",
-      "location": "Wixom, MI",
-      "season": "Co-op",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=LightGuide%2C+Inc.&job=bd5a6092-4381-4de6-9362-46689cb2dfde&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408"
-    },
-    {
       "id": "4e4a76bf-d611-40e0-8776-7de03e723649",
       "company": "Massey Services",
       "title": "BI Software Engineer Intern - Orlando",
@@ -120,78 +72,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Massey+Services&job=4e4a76bf-d611-40e0-8776-7de03e723649&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR103623"
-    },
-    {
-      "id": "d3730e4d-354b-45bf-9358-3b54eeb3d7be",
-      "company": "Moon",
-      "title": "Software Engineering Intern, Data & Machine Learning",
-      "category": "Software Engineering",
-      "location": "Glendale, CA",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Moon&job=d3730e4d-354b-45bf-9358-3b54eeb3d7be&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094"
-    },
-    {
-      "id": "2ca5c72c-220f-4251-bff0-94b06ad61ca2",
-      "company": "Moon",
-      "title": "Software Engineering Intern, Backend & API",
-      "category": "Software Engineering",
-      "location": "Glendale, CA",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Moon&job=2ca5c72c-220f-4251-bff0-94b06ad61ca2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
-    },
-    {
-      "id": "50e2a2ec-5f63-44fe-a136-e82178e7e33f",
-      "company": "Pendulum Intelligence",
-      "title": "Product Manager Intern",
-      "category": "Product",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Pendulum+Intelligence&job=50e2a2ec-5f63-44fe-a136-e82178e7e33f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27"
-    },
-    {
-      "id": "9ced12b3-f224-47cd-a25f-9f116053f4d2",
-      "company": "Rippling",
-      "title": "Machine Learning Software Engineer Intern - Winter 2027",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Rippling&job=9ced12b3-f224-47cd-a25f-9f116053f4d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781"
-    },
-    {
-      "id": "90e378b0-fafc-4b7a-9c15-68f8ec130c54",
-      "company": "Rippling",
-      "title": "Full Stack Software Engineer Intern - Winter 2027",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Rippling&job=90e378b0-fafc-4b7a-9c15-68f8ec130c54&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a"
-    },
-    {
-      "id": "65387a76-fa40-4ecc-8114-4c568fc99097",
-      "company": "Rippling",
-      "title": "Software Engineer Intern - Backend Focused - Winter 2027",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Winter 2027",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Rippling&job=65387a76-fa40-4ecc-8114-4c568fc99097&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484"
     },
     {
       "id": "8d7f7613-09db-4574-aa58-db871929938e",
