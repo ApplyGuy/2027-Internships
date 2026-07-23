@@ -6,7 +6,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **190** active U.S. internships posted within the last **30 days**
+- **189** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
 - Last refresh: **Jul 23, 2026, 2:45 PM PDT**
@@ -18,7 +18,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 
 ## Software Engineering Internships
 
-**171 open roles**
+**170 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
@@ -72,7 +72,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 | Beyondsoft Consulting | Software Engineer Intern | US-United States (Remote) | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Beyondsoft+Consulting&job=c41b3bb6-c52b-4267-bcff-bebf9d165456&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://careers-beyondsoft.icims.com/jobs/10912/software-engineer-intern/job) |
 | Black Cape | US Military Skillbridge Internship (Software Engineer)_Arlington, VA | Arlington, VA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Black+Cape&job=d5ab0e69-98d2-4d3a-b18b-60ced3b1845f&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://blackcape.applytojob.com/apply/7o6mmAYryt) |
 | Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | In-Office | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cloudflare&job=896765d6-434a-4ada-890c-b8e5e475443a&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
-| CMS Preparation Services | [TEST] Software Development Intern | San Francisco, CA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CMS+Preparation+Services&job=afa904dc-c4e2-4060-87ed-74b138a4f66e&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://cmsprep.applytojob.com/apply/mQg2yj) |
 | FABER & BRAND, LLC | Apprentice Developer | Columbia, MO, USA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FABER+%26+BRAND%2C+LLC&job=e582b38c-acdd-4162-a685-dc32f99a46ff&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4333463) |
 | HEALTHPEAK PROPERTIES, INC. | Forward Deployed Software Engineer Internship | Irvine, CA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HEALTHPEAK+PROPERTIES%2C+INC.&job=4980d11b-ff71-4eeb-9cb3-de8fccad12db&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://healthpeak.applytojob.com/apply/U3DSnosY5g) |
 | Ils | Intern or Entry-level Software Engineer | Herndon, Virginia | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ils&job=a6ff4708-226d-4fcc-ad16-52597f9f69d7&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://ils.bamboohr.com/careers/30) |
