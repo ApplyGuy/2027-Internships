@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:09:16.912Z",
+  "updatedAt": "2026-07-23T22:10:18.069Z",
   "jobs": [
     {
       "id": "dce006db-2f24-410a-9c17-3c6d0d2ba891",
@@ -909,7 +909,7 @@
       "title": "Summer Intern 2027 - Software Developer",
       "category": "Software Engineering",
       "location": "New York City, NY",
-      "season": "Summer",
+      "season": "Summer 2027",
       "posted": "2026-07-14",
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Five+Rings&job=f3f044de-b40c-4c80-b5d1-7aac266eff49&utm_source=github&utm_medium=listing&utm_campaign=internships",
@@ -1832,7 +1832,7 @@
       "company": "Comcast",
       "title": "Comcast Software Engineer Co-op",
       "category": "Software Engineering",
-      "location": "Philadelphia, 1800 Arch St, PA",
+      "location": "Philadelphia, PA",
       "season": "Co-op",
       "posted": "2026-07-03",
       "age": "20d",
@@ -1844,7 +1844,7 @@
       "company": "Comcast",
       "title": "Comcast Platform Software Engineer Co-op",
       "category": "Software Engineering",
-      "location": "Philadelphia, 1800 Arch St, PA",
+      "location": "Philadelphia, PA",
       "season": "Co-op",
       "posted": "2026-07-02",
       "age": "21d",
@@ -1856,7 +1856,7 @@
       "company": "Gorbel",
       "title": "Front-End Web Developer Co-Op",
       "category": "Software Engineering",
-      "location": "USA, New York, Victor",
+      "location": "Victor, NY",
       "season": "Co-op",
       "posted": "2026-07-02",
       "age": "21d",
