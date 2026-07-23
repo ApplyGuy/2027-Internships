@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:30:32.697Z",
+  "updatedAt": "2026-07-23T20:42:06.271Z",
   "jobs": [
     {
       "id": "dce006db-2f24-410a-9c17-3c6d0d2ba891",
@@ -496,18 +496,6 @@
       "bigTech": false
     },
     {
-      "id": "56b585e0-2175-45dd-9ac4-3889f1e3c07e",
-      "company": "Binance.US",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "U.S. ",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Binance.US&job=56b585e0-2175-45dd-9ac4-3889f1e3c07e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895",
-      "bigTech": false
-    },
-    {
       "id": "1b30e9e1-ba06-4c22-9129-9687ee37c326",
       "company": "Expivia",
       "title": "Customer-Facing AI Prompt Engineer Trainee (Not a developer position)",
@@ -517,18 +505,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Expivia&job=1b30e9e1-ba06-4c22-9129-9687ee37c326&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://expivia.bamboohr.com/careers/103",
-      "bigTech": false
-    },
-    {
-      "id": "aa4c34c7-5c1e-41c1-bb03-7a3cc959aae7",
-      "company": "Flagright",
-      "title": "Product Operations Intern",
-      "category": "Product",
-      "location": "San Francisco, USA",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Flagright&job=aa4c34c7-5c1e-41c1-bb03-7a3cc959aae7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e",
       "bigTech": false
     },
     {
@@ -589,18 +565,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Hanes+Companies&job=2b3a7c22-7a55-45c4-bf5a-2b1792b3e241&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hanescompanies.applytojob.com/apply/NIzUOdFpia",
-      "bigTech": false
-    },
-    {
-      "id": "98351508-9e32-4256-9c6c-4e657802066b",
-      "company": "Human Computer Lab",
-      "title": "Intern - Software/ML Engineering",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Human+Computer+Lab&job=98351508-9e32-4256-9c6c-4e657802066b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705",
       "bigTech": false
     },
     {
@@ -676,78 +640,6 @@
       "bigTech": false
     },
     {
-      "id": "51333dbd-0e64-46dc-b6ad-f2fd2544bb85",
-      "company": "Persona AI Inc",
-      "title": "Teleoperation Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Pensacola, FL or Houston, TX ",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=51333dbd-0e64-46dc-b6ad-f2fd2544bb85&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c",
-      "bigTech": false
-    },
-    {
-      "id": "d9ca67eb-1585-4137-ab76-9cd1f02d57bb",
-      "company": "rivian-vw-tech",
-      "title": "Software Engineering Intern - Applications (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Irvine, California",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=d9ca67eb-1585-4137-ab76-9cd1f02d57bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
-      "bigTech": false
-    },
-    {
-      "id": "ba7d12af-94d8-46f2-a855-58c1d91e0760",
-      "company": "rivian-vw-tech",
-      "title": "Software Engineering Intern - Connected Systems (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Irvine, California",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=ba7d12af-94d8-46f2-a855-58c1d91e0760&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
-      "bigTech": false
-    },
-    {
-      "id": "ac73ba75-3751-4a68-86eb-b30672106bff",
-      "company": "rivian-vw-tech",
-      "title": "Android Developer Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Palo Alto, California",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=ac73ba75-3751-4a68-86eb-b30672106bff&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd",
-      "bigTech": false
-    },
-    {
-      "id": "922b3256-3747-45ff-908e-b1264312f240",
-      "company": "rivian-vw-tech",
-      "title": "Software Engineering Intern - Embedded Platforms (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Palo Alto, California",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=922b3256-3747-45ff-908e-b1264312f240&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
-      "bigTech": false
-    },
-    {
-      "id": "2c018353-8753-4b34-8bb4-81f9d3f689a0",
-      "company": "rivian-vw-tech",
-      "title": "Software Engineering Intern - Vehicle Controls (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Irvine, California",
-      "posted": "2026-07-16",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=2c018353-8753-4b34-8bb4-81f9d3f689a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
-      "bigTech": false
-    },
-    {
       "id": "60d670e5-dcf7-4bac-8ef8-ca68a4bebcee",
       "company": "Salesforce",
       "title": "Summer 2027 Intern - Associate Product Manager (APM)",
@@ -808,18 +700,6 @@
       "bigTech": false
     },
     {
-      "id": "2f9c8d77-7bb5-4e5c-a464-5e0aed5cbcdf",
-      "company": "AfterQuery",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=AfterQuery&job=2f9c8d77-7bb5-4e5c-a464-5e0aed5cbcdf&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/afterquery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b",
-      "bigTech": false
-    },
-    {
       "id": "79b73f7b-3f9b-426c-a0c5-380ab72a23c2",
       "company": "Apprenticely",
       "title": "AI Software Engineer Intern- Bastazo",
@@ -829,18 +709,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Apprenticely&job=79b73f7b-3f9b-426c-a0c5-380ab72a23c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4",
-      "bigTech": false
-    },
-    {
-      "id": "842fe157-00a5-47ce-a218-9255c1be9b87",
-      "company": "Beacon Software",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Beacon+Software&job=842fe157-00a5-47ce-a218-9255c1be9b87&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1",
       "bigTech": false
     },
     {
@@ -898,45 +766,9 @@
       "category": "Software Engineering",
       "location": "San Francisco, CA",
       "posted": "2026-07-15",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=CMS+Preparation+Services&job=afa904dc-c4e2-4060-87ed-74b138a4f66e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cmsprep.applytojob.com/apply/mQg2yj",
-      "bigTech": false
-    },
-    {
-      "id": "65240c75-0810-4b91-bb15-db5be5211b94",
-      "company": "CTGT",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=CTGT&job=65240c75-0810-4b91-bb15-db5be5211b94&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155",
-      "bigTech": false
-    },
-    {
-      "id": "561af4a3-bfd9-430d-9779-390f5b3e8904",
-      "company": "Dexmate",
-      "title": "Frontend Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Fremont Office",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Dexmate&job=561af4a3-bfd9-430d-9779-390f5b3e8904&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
-      "bigTech": false
-    },
-    {
-      "id": "1eb7cfa0-63ba-4b97-a6d4-1b6a45ee9391",
-      "company": "Droyd",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Droyd&job=1eb7cfa0-63ba-4b97-a6d4-1b6a45ee9391&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694",
       "bigTech": false
     },
     {
@@ -1036,30 +868,6 @@
       "bigTech": false
     },
     {
-      "id": "b51b86a0-02e5-459d-ae2c-780b2015a288",
-      "company": "Oligo Space",
-      "title": "Spacecraft Engineer Intern (Flight Software)",
-      "category": "Software Engineering",
-      "location": "Hawthorne",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Oligo+Space&job=b51b86a0-02e5-459d-ae2c-780b2015a288&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/oligo/45d070de-bbb0-4dea-a726-06bf64709e49",
-      "bigTech": false
-    },
-    {
-      "id": "fc109c93-04e6-4dcf-bfbe-16298b374d54",
-      "company": "Phonely",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, California",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Phonely&job=fc109c93-04e6-4dcf-bfbe-16298b374d54&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5",
-      "bigTech": false
-    },
-    {
       "id": "08e2db52-83c4-4a47-89e6-d1655ac218bf",
       "company": "Reliable Robotics Corporation",
       "title": "Flight Software Engineering Intern (Fall 2026 Internship)",
@@ -1069,30 +877,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Reliable+Robotics+Corporation&job=08e2db52-83c4-4a47-89e6-d1655ac218bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/reliable-robotics/c4968e8a-a901-4ec1-9a9d-bb5cd96efc4f",
-      "bigTech": false
-    },
-    {
-      "id": "f68b3086-da65-4e56-ba86-e473927cc5d6",
-      "company": "Saronic Technologies",
-      "title": "Software Engineer Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Saronic+Technologies&job=f68b3086-da65-4e56-ba86-e473927cc5d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7",
-      "bigTech": false
-    },
-    {
-      "id": "724d2e46-9847-4dad-90f4-05979d501248",
-      "company": "Spacial AI",
-      "title": "Software Engineering Intern (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "Palo Alto",
-      "posted": "2026-07-15",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Spacial+AI&job=724d2e46-9847-4dad-90f4-05979d501248&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26",
       "bigTech": false
     },
     {
@@ -1372,6 +1156,18 @@
       "bigTech": false
     },
     {
+      "id": "51333dbd-0e64-46dc-b6ad-f2fd2544bb85",
+      "company": "Persona AI Inc",
+      "title": "Teleoperation Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Pensacola, FL or Houston, TX ",
+      "posted": "2026-07-13",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=51333dbd-0e64-46dc-b6ad-f2fd2544bb85&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c",
+      "bigTech": false
+    },
+    {
       "id": "c66e1c12-c41e-48b5-8301-d12bf6a85678",
       "company": "Serval",
       "title": "Software Engineer Intern",
@@ -1381,18 +1177,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Serval&job=c66e1c12-c41e-48b5-8301-d12bf6a85678&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b",
-      "bigTech": false
-    },
-    {
-      "id": "b4cf1308-45c4-49a3-b34f-3ad0d6736a9a",
-      "company": "Vital Lyfe",
-      "title": "Software Engineering Internship - Fall 2026",
-      "category": "Software Engineering",
-      "location": "Los Angeles - Greater Area",
-      "posted": "2026-07-12",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Vital+Lyfe&job=b4cf1308-45c4-49a3-b34f-3ad0d6736a9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
       "bigTech": false
     },
     {
@@ -1450,7 +1234,7 @@
       "category": "Software Engineering",
       "location": "Home Office, CA",
       "posted": "2026-07-10",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Iherb&job=07f0b931-47be-47af-a8ad-3ab7ca03d43e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://iherb.wd5.myworkdayjobs.com/careers/job/Home-Office-CA/Software-Development-Intern_R107025-1",
       "bigTech": false
@@ -1561,6 +1345,18 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Caci&job=abf855f8-2895-498d-8940-878c93b252e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+      "bigTech": false
+    },
+    {
+      "id": "b4cf1308-45c4-49a3-b34f-3ad0d6736a9a",
+      "company": "Vital Lyfe",
+      "title": "Software Engineering Internship - Fall 2026",
+      "category": "Software Engineering",
+      "location": "Los Angeles - Greater Area",
+      "posted": "2026-07-09",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Vital+Lyfe&job=b4cf1308-45c4-49a3-b34f-3ad0d6736a9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
       "bigTech": false
     },
     {
@@ -1684,78 +1480,6 @@
       "bigTech": true
     },
     {
-      "id": "9551b083-3fed-4c35-83e7-ad35a94cc07d",
-      "company": "Creatify Lab Inc",
-      "title": "Product Manager Intern",
-      "category": "Product",
-      "location": "Mountain View",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Creatify+Lab+Inc&job=9551b083-3fed-4c35-83e7-ad35a94cc07d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2",
-      "bigTech": false
-    },
-    {
-      "id": "6ee179fe-fb44-4349-86e8-a4c5ec78bd2b",
-      "company": "Creatify Lab Inc",
-      "title": "Software Engineer Intern 2026",
-      "category": "Software Engineering",
-      "location": "Mountain View",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Creatify+Lab+Inc&job=6ee179fe-fb44-4349-86e8-a4c5ec78bd2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f",
-      "bigTech": false
-    },
-    {
-      "id": "dac9f2d4-9d9e-4dc3-9aa6-fd8a527d9cf1",
-      "company": "Deductive AI",
-      "title": "Software Engineer Intern (Fall '24)",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Deductive+AI&job=dac9f2d4-9d9e-4dc3-9aa6-fd8a527d9cf1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d",
-      "bigTech": false
-    },
-    {
-      "id": "ef283e94-2824-4b6b-a88d-44fc32df1aa0",
-      "company": "Dryft",
-      "title": "Full-Stack Engineering Intern ",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Dryft&job=ef283e94-2824-4b6b-a88d-44fc32df1aa0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78",
-      "bigTech": false
-    },
-    {
-      "id": "893896bc-8ce0-4250-9738-5d6c75daf5b7",
-      "company": "Etched",
-      "title": "Chip Simulation Software Intern",
-      "category": "Software Engineering",
-      "location": "San Jose",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Etched&job=893896bc-8ce0-4250-9738-5d6c75daf5b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8",
-      "bigTech": false
-    },
-    {
-      "id": "7a0d516e-a04b-4e30-857f-5d4c9fc3c5f5",
-      "company": "Etched",
-      "title": "Firmware Intern",
-      "category": "Software Engineering",
-      "location": "San Jose",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Etched&job=7a0d516e-a04b-4e30-857f-5d4c9fc3c5f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
-      "bigTech": false
-    },
-    {
       "id": "458b6a73-66ec-4294-af27-88724b55d87d",
       "company": "Fizz",
       "title": "Software Engineering Intern (Summer 2026)",
@@ -1864,18 +1588,6 @@
       "bigTech": false
     },
     {
-      "id": "8060b6f9-1846-4d38-8a58-6ea7290c1fdc",
-      "company": "Junior AI",
-      "title": "Software Engineering Intern — Fall 2026",
-      "category": "Software Engineering",
-      "location": "New York City",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Junior+AI&job=8060b6f9-1846-4d38-8a58-6ea7290c1fdc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891",
-      "bigTech": false
-    },
-    {
       "id": "b6c35ebe-71e2-4e80-8978-186f0bbf45f1",
       "company": "Kognitos",
       "title": "Software Engineer Intern (AI-Native) — Summer 2026",
@@ -1888,54 +1600,6 @@
       "bigTech": false
     },
     {
-      "id": "5afa1928-f9c8-4e5a-b01c-35a65c34d70c",
-      "company": "Mechanize, Inc.",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Mechanize%2C+Inc.&job=5afa1928-f9c8-4e5a-b01c-35a65c34d70c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e",
-      "bigTech": false
-    },
-    {
-      "id": "ff8949bf-a91e-44c8-8f27-dc104a3e7dac",
-      "company": "N1",
-      "title": "Software Engineer Intern (Backend, Rust)",
-      "category": "Software Engineering",
-      "location": "New York City",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=N1&job=ff8949bf-a91e-44c8-8f27-dc104a3e7dac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
-      "bigTech": false
-    },
-    {
-      "id": "387c8ac9-c1b1-4941-9a9e-b7f512943f95",
-      "company": "N1",
-      "title": "Software Engineer Intern (Fullstack)",
-      "category": "Software Engineering",
-      "location": "New York City",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=N1&job=387c8ac9-c1b1-4941-9a9e-b7f512943f95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064",
-      "bigTech": false
-    },
-    {
-      "id": "cc651468-6f9f-41dc-ae41-39380ea0b50c",
-      "company": "Notion",
-      "title": "Software Engineer Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "San Francisco, California",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Notion&job=cc651468-6f9f-41dc-ae41-39380ea0b50c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
-      "bigTech": false
-    },
-    {
       "id": "7b4c518f-a9a7-4585-aa00-d29e58ea6e22",
       "company": "NOX METALS",
       "title": "Software Engineering Intern",
@@ -1945,30 +1609,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=NOX+METALS&job=7b4c518f-a9a7-4585-aa00-d29e58ea6e22&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f",
-      "bigTech": false
-    },
-    {
-      "id": "21ee0c33-90a5-45a6-a613-468402028731",
-      "company": "Nuclear Promise X",
-      "title": "Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "Ontario",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Nuclear+Promise+X&job=21ee0c33-90a5-45a6-a613-468402028731&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634",
-      "bigTech": false
-    },
-    {
-      "id": "9d5ac6cc-de68-41d4-a146-1b144f24cf93",
-      "company": "Odys Aviation",
-      "title": "Robotics & Embedded Systems Intern",
-      "category": "Software Engineering",
-      "location": "Long Beach CA",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Odys+Aviation&job=9d5ac6cc-de68-41d4-a146-1b144f24cf93&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f",
       "bigTech": false
     },
     {
@@ -1993,66 +1633,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Pinterest&job=4e4aa96e-b03e-4eb7-85c3-cd897ea32e3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=8016532",
-      "bigTech": false
-    },
-    {
-      "id": "381e27dd-ba29-4881-9584-382c257f2d1f",
-      "company": "Ramp",
-      "title": "Software Engineer Internship, Android ",
-      "category": "Software Engineering",
-      "location": "New York, NY (HQ)",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Ramp&job=381e27dd-ba29-4881-9584-382c257f2d1f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
-      "bigTech": false
-    },
-    {
-      "id": "054a05ec-e8df-4899-95e3-926ad80fbf20",
-      "company": "Replit",
-      "title": "Software Engineering Intern (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "Foster City, CA",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Replit&job=054a05ec-e8df-4899-95e3-926ad80fbf20&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
-      "bigTech": false
-    },
-    {
-      "id": "f13e33de-83b9-4b9a-bf92-aad3f76b3240",
-      "company": "Rilla",
-      "title": "Software Engineering Intern - 2027 Graduates ",
-      "category": "Software Engineering",
-      "location": "New York City",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Rilla&job=f13e33de-83b9-4b9a-bf92-aad3f76b3240&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
-      "bigTech": false
-    },
-    {
-      "id": "65536463-a501-4ac0-b833-29f15941c988",
-      "company": "Scientech Research LLC",
-      "title": "Quantitative Developer Intern",
-      "category": "Software Engineering",
-      "location": "New Jersey",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Scientech+Research+LLC&job=65536463-a501-4ac0-b833-29f15941c988&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c",
-      "bigTech": false
-    },
-    {
-      "id": "03f01ff8-e326-4a9a-91a2-30dff9e42add",
-      "company": "Simular",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Palo Alto",
-      "posted": "2026-07-06",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Simular&job=03f01ff8-e326-4a9a-91a2-30dff9e42add&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a",
       "bigTech": false
     },
     {
@@ -2098,7 +1678,7 @@
       "category": "Product",
       "location": "New York City",
       "posted": "2026-07-05",
-      "age": "17d",
+      "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Astronomer&job=277a3102-ce89-4d7b-bb92-e562d2751d0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/astronomer/6f3751ca-f1e6-467e-8731-6140d9490282",
       "bigTech": false
@@ -2116,54 +1696,6 @@
       "bigTech": false
     },
     {
-      "id": "a6ab7ecb-4e38-4339-9f3f-c4c07cf5a938",
-      "company": "Sweatpals",
-      "title": "Product Manager Internship",
-      "category": "Product",
-      "location": "USA",
-      "posted": "2026-07-05",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Sweatpals&job=a6ab7ecb-4e38-4339-9f3f-c4c07cf5a938&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522",
-      "bigTech": false
-    },
-    {
-      "id": "5b20432c-c75f-4d35-a119-6c11135ad80c",
-      "company": "TENEX.AI",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=TENEX.AI&job=5b20432c-c75f-4d35-a119-6c11135ad80c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304",
-      "bigTech": false
-    },
-    {
-      "id": "c6bd5832-e7e3-45f8-ad1f-01976f68a35c",
-      "company": "Terranova",
-      "title": "Embedded Systems Intern",
-      "category": "Software Engineering",
-      "location": "Berkeley",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Terranova&job=c6bd5832-e7e3-45f8-ad1f-01976f68a35c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da",
-      "bigTech": false
-    },
-    {
-      "id": "8e5670e2-1d0a-449c-bd1f-2b0e17d57014",
-      "company": "Tessera Labs",
-      "title": "Product Manager, Intern",
-      "category": "Product",
-      "location": "San Jose Office (HQ)",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Tessera+Labs&job=8e5670e2-1d0a-449c-bd1f-2b0e17d57014&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544",
-      "bigTech": false
-    },
-    {
       "id": "578e37cf-aef4-45cd-b5e5-01c1e335e190",
       "company": "Tessera Labs",
       "title": "Software Engineering Intern, Frontend",
@@ -2176,18 +1708,6 @@
       "bigTech": false
     },
     {
-      "id": "c1a5328b-0440-45e5-b5ca-59028aedc4a6",
-      "company": "Tilde Research",
-      "title": "ML Engineer (Internship and Full-time)",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Tilde+Research&job=c1a5328b-0440-45e5-b5ca-59028aedc4a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef",
-      "bigTech": false
-    },
-    {
       "id": "b92aa16b-c525-4f82-8f0e-c02dd616cffb",
       "company": "Tower Research Capital",
       "title": "Quantitative Developer Intern - Summer 2027",
@@ -2197,30 +1717,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Tower+Research+Capital&job=b92aa16b-c525-4f82-8f0e-c02dd616cffb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-      "bigTech": false
-    },
-    {
-      "id": "23a58bbb-24e7-4743-95c8-a0ca73382d6e",
-      "company": "Uncountable Inc.",
-      "title": "Full-Stack Intern",
-      "category": "Software Engineering",
-      "location": "New York, San Francisco, Munich or London",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Uncountable+Inc.&job=23a58bbb-24e7-4743-95c8-a0ca73382d6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae",
-      "bigTech": false
-    },
-    {
-      "id": "a9f5a629-8ea3-48c5-9e27-a7cbbfc96b58",
-      "company": "Zettabyte",
-      "title": "Software Engineering Intern (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "United States",
-      "posted": "2026-07-05",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Zettabyte&job=a9f5a629-8ea3-48c5-9e27-a7cbbfc96b58&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759",
       "bigTech": false
     },
     {
@@ -2257,78 +1753,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=fe6be644-3892-4009-a360-4918d6f0c94f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
-      "bigTech": false
-    },
-    {
-      "id": "4a464498-a68a-4964-b4ae-75d4f51d1422",
-      "company": "Auctor",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Auctor&job=4a464498-a68a-4964-b4ae-75d4f51d1422&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607",
-      "bigTech": false
-    },
-    {
-      "id": "e3077e32-7fba-40fc-89ef-03d8d5b798f2",
-      "company": "Base Power Company",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Base+Power+Company&job=e3077e32-7fba-40fc-89ef-03d8d5b798f2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc",
-      "bigTech": false
-    },
-    {
-      "id": "8dabd93f-cfae-46ba-b2d6-357b98b07df8",
-      "company": "Base Power Company",
-      "title": "Firmware Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Base+Power+Company&job=8dabd93f-cfae-46ba-b2d6-357b98b07df8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
-      "bigTech": false
-    },
-    {
-      "id": "26337b8b-72cb-4a17-ba79-3f9b9f056d4a",
-      "company": "Base Power Company",
-      "title": "Quantitative Developer Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Base+Power+Company&job=26337b8b-72cb-4a17-ba79-3f9b9f056d4a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
-      "bigTech": false
-    },
-    {
-      "id": "ff32685e-2ecb-46f7-ad69-c9e55111d3a0",
-      "company": "Centerfield",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Los Angeles, California",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Centerfield&job=ff32685e-2ecb-46f7-ad69-c9e55111d3a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60",
-      "bigTech": false
-    },
-    {
-      "id": "f32e8a1d-e485-489a-a082-7b47fecdcd22",
-      "company": "Centerfield",
-      "title": "Product Manager Intern",
-      "category": "Product",
-      "location": "Los Angeles, California",
-      "posted": "2026-07-04",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Centerfield&job=f32e8a1d-e485-489a-a082-7b47fecdcd22&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2",
       "bigTech": false
     },
     {
@@ -2728,6 +2152,18 @@
       "bigTech": false
     },
     {
+      "id": "8060b6f9-1846-4d38-8a58-6ea7290c1fdc",
+      "company": "Junior AI",
+      "title": "Software Engineering Intern — Fall 2026",
+      "category": "Software Engineering",
+      "location": "New York City",
+      "posted": "2026-06-30",
+      "age": "23d",
+      "url": "https://applyguy.ai/jobs?company=Junior+AI&job=8060b6f9-1846-4d38-8a58-6ea7290c1fdc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891",
+      "bigTech": false
+    },
+    {
       "id": "7ea98819-ad90-483b-8f21-31e2530ba99c",
       "company": "Palantir Technologies",
       "title": "Forward Deployed Software Engineer, Internship - Commercial",
@@ -2797,6 +2233,30 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Borgwarner&job=9d039843-b31b-4568-932c-64999bed28e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
+      "bigTech": false
+    },
+    {
+      "id": "65240c75-0810-4b91-bb15-db5be5211b94",
+      "company": "CTGT",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco",
+      "posted": "2026-06-26",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=CTGT&job=65240c75-0810-4b91-bb15-db5be5211b94&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155",
+      "bigTech": false
+    },
+    {
+      "id": "56b585e0-2175-45dd-9ac4-3889f1e3c07e",
+      "company": "Binance.US",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "U.S. ",
+      "posted": "2026-06-25",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=Binance.US&job=56b585e0-2175-45dd-9ac4-3889f1e3c07e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895",
       "bigTech": false
     },
     {
