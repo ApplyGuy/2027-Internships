@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-23T23:30:36.663Z",
+  "updatedAt": "2026-07-23T23:45:12.635Z",
   "jobs": [
+    {
+      "id": "9ffaa72b-b4b6-4bf9-b7c9-1d34b8c6c58e",
+      "company": "Anthelion Capital",
+      "title": "Quant Developer / Quant Research Intern - 2026/2027",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "2026",
+      "posted": "2026-07-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Anthelion+Capital&job=9ffaa72b-b4b6-4bf9-b7c9-1d34b8c6c58e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96"
+    },
     {
       "id": "442623e8-463e-47f1-8a9a-c93366534454",
       "company": "Appian Corporation",
