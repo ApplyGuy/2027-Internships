@@ -1,0 +1,55 @@
+name: Suggest a missing internship
+description: Submit a recent U.S. SWE or product internship from an employer career page.
+title: "[New listing]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping students discover fresh internships. Please link directly to the employer.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Example Corp
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+      placeholder: Software Engineering Intern
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Direct employer listing URL
+      placeholder: https://company.example/careers/job/123
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Software Engineering
+        - Product Management
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: U.S. location
+      placeholder: New York, NY or Remote, U.S.
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Authoritative posting date
+      description: Leave blank if the employer does not publish one.
+      placeholder: YYYY-MM-DD
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or evidence
+      description: Add any useful source details.
