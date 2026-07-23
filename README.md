@@ -6,17 +6,17 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **219** active U.S. internships
+- **220** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 11:30 AM PDT**
+- Last refresh: **Jul 23, 2026, 11:31 AM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
 
 ## Software Engineering Internships
 
-**196 open roles**
+**197 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
@@ -210,6 +210,7 @@ A continuously verified list of U.S. software engineering and product management
 | Palantir Technologies | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | Charles River Analytics | Software QA Tester Intern/Co-op (Fall 2026) | Cambridge, MA | 23d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Charles+River+Analytics&job=78700edb-77d0-4aa1-9399-0d225d785d01&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) |
 | Halo Industries | Software Engineer Intern - Machine Learning Workflow | Santa Clara, United States | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Halo+Industries&job=49ccea7d-9f39-4187-b46c-6823bb909f24&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://apply.workable.com/halo-industries/j/29728B1DAF/) |
+| Quadrillion | Software Engineering Intern | New York City | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Quadrillion&job=49a57489-169a-453d-8517-91f1480d380f&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd) |
 | Zipline | Software Engineer Intern (Fall 2026) | South San Francisco, California, USA | 26d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=4756a0b7-6913-4670-8771-bf324b1e3d1e&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles?gh_jid=7787509003) |
 | Borgwarner | Software Engineering Intern (Year-Round) | Auburn Hills - Michigan - USA | 26d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Borgwarner&job=9d039843-b31b-4568-932c-64999bed28e4&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1) |
 | Astranis | Hardware Design Intern, Software Defined Radio Team (Fall 2026) | San Francisco | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Astranis&job=2e86a3d7-8acf-4624-9807-44c70bdb36bc&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/astranis/jobs/4691163006) |
