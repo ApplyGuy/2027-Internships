@@ -6,10 +6,10 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **218** active U.S. internships
+- **220** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 1:00 PM PDT**
+- Last refresh: **Jul 23, 2026, 1:01 PM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View listing** actions open an employer's career site directly.
@@ -18,7 +18,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 
 ## Software Engineering Internships
 
-**195 open roles**
+**197 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
@@ -44,6 +44,8 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 | CEV MULTIMEDIA LTD | Content Developer Intern | Lubbock, TX, USA | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CEV+MULTIMEDIA+LTD&job=1be0931c-ed5f-48a0-b819-23399f484ccf&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4348308) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Chicago, Illinois, United States | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Chicago+Trading+Company&job=552e89f3-34a6-42f4-b51b-24ff859b8df2&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
 | Gehc | Edison Engineering Development Program Intern – Software | Waukesha | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gehc&job=e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
+| Google | Software Engineering Intern, MS, Summer 2027 | Multiple U.S. locations | 3d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027) |
+| Google | Software Engineering Intern, BS, Summer 2027 | Multiple U.S. locations | 3d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | HyperLight | Software Engineer Intern | Cambridge, United States | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HyperLight&job=f471519b-c5fe-4cf4-a761-3fb0ec7a0bdf&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://apply.workable.com/hyperlight/j/5581EA0668/) |
 | Nxp | AI / Software Engineering Intern - Fall 2026 | Austin (Oakhill, Office) | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nxp&job=d22059a4-aa1d-4cfe-823d-4f1c6601bc18&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) |
 | Altera | AI Software Development Engineer - Intern | San Jose, California, United States | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Altera&job=23c5e711-8b9d-438b-89a4-6462f4744c98&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) |
@@ -207,7 +209,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 | Sonyglobal | Software Engineer Intern | San Diego | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sonyglobal&job=9a6e8fd8-901e-4ecc-9051-cde5a2359e41&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282) |
 | Volarisgroup | Software Development Intern | United States - TX | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Volarisgroup&job=3c3a3860-bc06-4d9e-8985-0a0bbbb60431&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://volarisgroup.wd3.myworkdayjobs.com/goassetworks/job/United-States---TX/Software-Development-Intern_R67762) |
 | Avav | Software Test Engineer Intern | Albuquerque, NM | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Avav&job=bc5f44e3-2901-49a3-8af5-2609f168f2fc&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Software-Test-Engineer-Intern_8033) |
-| Palantir Technologies | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
+| Palantir Technologies | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 23d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | Charles River Analytics | Software QA Tester Intern/Co-op (Fall 2026) | Cambridge, MA | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Charles+River+Analytics&job=78700edb-77d0-4aa1-9399-0d225d785d01&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) |
 | Halo Industries | Software Engineer Intern - Machine Learning Workflow | Santa Clara, United States | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Halo+Industries&job=49ccea7d-9f39-4187-b46c-6823bb909f24&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://apply.workable.com/halo-industries/j/29728B1DAF/) |
 | Quadrillion | Software Engineering Intern | New York City | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Quadrillion&job=49a57489-169a-453d-8517-91f1480d380f&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd) |
