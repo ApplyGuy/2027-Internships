@@ -6,10 +6,10 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **216** active U.S. internships
+- **217** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 12:50 PM PDT**
+- Last refresh: **Jul 23, 2026, 12:51 PM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View listing** actions open an employer's career site directly.
@@ -18,7 +18,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 
 ## Software Engineering Internships
 
-**193 open roles**
+**194 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
@@ -142,6 +142,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 | Etched | Firmware Intern | San Jose | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Etched&job=7a0d516e-a04b-4e30-857f-5d4c9fc3c5f5&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) |
 | Fizz | Software Engineering Intern (Summer 2026) | New York | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Fizz&job=458b6a73-66ec-4294-af27-88724b55d87d&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20) |
 | Heron Power | Intern, System Integration & Test Software | Scotts Valley | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Heron+Power&job=e94b1465-c4be-47e4-88d6-8f8338bf8697&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
+| Jane Street | Software Engineer | New York, New York, United States | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jane+Street&job=e21efd08-2dc0-4fc5-a638-0df9f86edb46&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/janestreet/jobs/8599644002) |
 | Junior AI | Software Engineering Intern — Fall 2026 | New York City | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Junior+AI&job=8060b6f9-1846-4d38-8a58-6ea7290c1fdc&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891) |
 | Kognitos | Software Engineer Intern (AI-Native) — Summer 2026 | San Jose - HQ | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kognitos&job=b6c35ebe-71e2-4e80-8978-186f0bbf45f1&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5) |
 | Mechanize, Inc. | Software Engineering Intern | San Francisco | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mechanize%2C+Inc.&job=5afa1928-f9c8-4e5a-b01c-35a65c34d70c&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
