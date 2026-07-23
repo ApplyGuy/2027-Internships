@@ -6,17 +6,17 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **187** active U.S. internships
+- **188** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 10:45 AM PDT**
+- Last refresh: **Jul 23, 2026, 10:47 AM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
 
 ## Software Engineering Internships
 
-**165 open roles**
+**166 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
@@ -85,6 +85,7 @@ A continuously verified list of U.S. software engineering and product management
 | Apprenticely | AI Software Engineer Intern- Bastazo | Bentonville, AR | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Apprenticely&job=79b73f7b-3f9b-426c-a0c5-380ab72a23c2&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4) |
 | The Trade Desk | 2027 North America Software Engineering Internship | Bellevue; Boulder; Denver; Irvine; New York; Seattle | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Trade+Desk&job=da454023-d04b-4f4f-ba03-eec1ab969797&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | FABER & BRAND, LLC | Apprentice Developer | Columbia, MO, USA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FABER+%26+BRAND%2C+LLC&job=e582b38c-acdd-4162-a685-dc32f99a46ff&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4333463) |
+| Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | In-Office | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cloudflare&job=896765d6-434a-4ada-890c-b8e5e475443a&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Liveramp | Co-Op, Software Engineer - Action Runtime | 4 Locations | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Liveramp&job=06b512d8-6239-425a-8b8c-ebdaabf77801&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1) |
 | Formlabs | Test Software - Manufacturing Intern (Fall 2026) | Boston, MA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Formlabs&job=ed35047b-9a71-476d-a67a-708577650a88&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) |
 | Five Rings LLC - Careers | Summer Intern 2027 - Software Developer | New York | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Five+Rings+LLC+-+Careers&job=f3f044de-b40c-4c80-b5d1-7aac266eff49&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
