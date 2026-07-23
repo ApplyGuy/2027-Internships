@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:18:30.251Z",
+  "updatedAt": "2026-07-23T18:30:45.638Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -198,6 +198,28 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Denari&job=b1653546-80b4-4d04-9d18-8610862d4c79&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282"
+    },
+    {
+      "id": "7c5a72e2-e8a8-4490-a8aa-e0936a8df19e",
+      "company": "pony.ai",
+      "title": "Research Intern - Deep Learning",
+      "category": "Software Engineering",
+      "location": "Fremont, United States",
+      "posted": "2026-07-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=pony.ai&job=7c5a72e2-e8a8-4490-a8aa-e0936a8df19e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/"
+    },
+    {
+      "id": "44e73d3b-90e7-4585-b321-1fad92cb72be",
+      "company": "pony.ai",
+      "title": "Software Engineer Intern - Generalist",
+      "category": "Software Engineering",
+      "location": "Fremont, United States",
+      "posted": "2026-07-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=pony.ai&job=44e73d3b-90e7-4585-b321-1fad92cb72be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
     },
     {
       "id": "bda16720-5bfd-459f-9f1b-edf50e85f566",
@@ -1108,7 +1130,7 @@
       "category": "Software Engineering",
       "location": "Chicago, IL",
       "posted": "2026-07-13",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=3136c06b-556a-447c-ae27-27e2ad636df9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
     },
@@ -1119,7 +1141,7 @@
       "category": "Software Engineering",
       "location": "Chicago, IL",
       "posted": "2026-07-13",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=1778066f-8b6a-4f55-ab4b-8cbfbcb08010&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
     },
@@ -1130,7 +1152,7 @@
       "category": "Software Engineering",
       "location": "Chicago, IL",
       "posted": "2026-07-13",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=c7102bb4-ff27-499c-8f3a-e19f4f8e55b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
     },
@@ -2376,6 +2398,17 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Altasciences&job=5b571d2e-18ea-4230-9e50-46e703c63baa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750"
+    },
+    {
+      "id": "0abc9ea5-807c-496c-a1fd-1e80a1eb0d39",
+      "company": "Palantir Technologies",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "posted": "2026-06-24",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=0abc9ea5-807c-496c-a1fd-1e80a1eb0d39&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
     }
   ]
 }
