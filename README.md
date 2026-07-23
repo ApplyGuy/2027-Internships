@@ -9,7 +9,7 @@ A continuously verified list of U.S. software engineering and product management
 - **192** active U.S. internships
 - Big Tech & FAANG roles are shown for **60 days**; all other roles for **30 days**
 - Every listing is still open and reverified every 15 minutes
-- Last refresh: **Jul 23, 2026, 1:42 PM PDT**
+- Last refresh: **Jul 23, 2026, 1:45 PM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View listing** actions open an employer's career site directly.
