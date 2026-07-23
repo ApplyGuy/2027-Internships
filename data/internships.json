@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:50:58.360Z",
+  "updatedAt": "2026-07-23T19:51:41.108Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -1496,6 +1496,17 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Heron+Power&job=e94b1465-c4be-47e4-88d6-8f8338bf8697&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784"
+    },
+    {
+      "id": "e21efd08-2dc0-4fc5-a638-0df9f86edb46",
+      "company": "Jane Street",
+      "title": "Software Engineer",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e21efd08-2dc0-4fc5-a638-0df9f86edb46&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8599644002"
     },
     {
       "id": "8060b6f9-1846-4d38-8a58-6ea7290c1fdc",
