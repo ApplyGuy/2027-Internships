@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:45:16.416Z",
+  "updatedAt": "2026-07-23T17:47:56.327Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -836,6 +836,17 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=FABER+%26+BRAND%2C+LLC&job=e582b38c-acdd-4162-a685-dc32f99a46ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4333463"
+    },
+    {
+      "id": "896765d6-434a-4ada-890c-b8e5e475443a",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
+      "category": "Software Engineering",
+      "location": "In-Office",
+      "posted": "2026-07-15",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Cloudflare&job=896765d6-434a-4ada-890c-b8e5e475443a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785"
     },
     {
       "id": "06b512d8-6239-425a-8b8c-ebdaabf77801",
