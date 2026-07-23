@@ -1,0 +1,33 @@
+name: Report a closed or incorrect listing
+description: Flag a closed role, bad link, duplicate, date issue, or category problem.
+title: "[Listing correction]: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Listing URL
+      placeholder: Paste the GitHub row or employer listing URL
+    validations:
+      required: true
+  - type: dropdown
+    id: issue
+    attributes:
+      label: What is wrong?
+      options:
+        - Role is closed
+        - Link is broken
+        - Duplicate listing
+        - Incorrect posting date
+        - Incorrect company or title
+        - Incorrect category
+        - Not a U.S. internship
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Details or evidence
+      description: Include the authoritative employer source when possible.
+    validations:
+      required: true
