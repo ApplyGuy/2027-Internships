@@ -9,7 +9,7 @@ A continuously verified list of U.S. software engineering and product management
 - **218** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 11:09 AM PDT**
+- Last refresh: **Jul 23, 2026, 11:15 AM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
