@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-23T20:01:12.364Z",
+  "updatedAt": "2026-07-23T20:09:31.815Z",
   "jobs": [
+    {
+      "id": "dce006db-2f24-410a-9c17-3c6d0d2ba891",
+      "company": "Axogen",
+      "title": "Intern, AI/ML Engineer (Fall 2026)",
+      "category": "Software Engineering",
+      "location": "Tampa, Florida, United States",
+      "posted": "2026-07-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Axogen&job=dce006db-2f24-410a-9c17-3c6d0d2ba891&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002"
+    },
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
       "company": "Copart",
@@ -200,6 +211,17 @@
       "listingUrl": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523"
     },
     {
+      "id": "e48f5863-bfea-4b96-aa00-334f00485a57",
+      "company": "Jane Street",
+      "title": "Windows Engineer — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-21",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e48f5863-bfea-4b96-aa00-334f00485a57&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8628843002"
+    },
+    {
       "id": "d944d568-6569-42b9-8f64-66d335c87a0f",
       "company": "Join Our Talent Community",
       "title": "2027 US Firmware Engineering Internship",
@@ -286,6 +308,17 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Gehc&job=e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
+    },
+    {
+      "id": "d898d9fa-d8f1-4722-aa1c-67bd6ed1d28c",
+      "company": "Globalhr",
+      "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
+      "category": "Software Engineering",
+      "location": "US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K",
+      "posted": "2026-07-20",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Globalhr&job=d898d9fa-d8f1-4722-aa1c-67bd6ed1d28c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050"
     },
     {
       "id": "custom:google:95141459539174086",
@@ -576,6 +609,17 @@
       "listingUrl": "https://careers-persistentsystems.icims.com/jobs/2272/intern---embedded-software-engineer-%28fall-2026%29/job"
     },
     {
+      "id": "467dee8e-fe64-41dc-8fee-a96014ae756b",
+      "company": "Persistent Systems",
+      "title": "Intern - Hardware Engineer (Fall 2026)",
+      "category": "Software Engineering",
+      "location": "US-NY-New York",
+      "posted": "2026-07-16",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Persistent+Systems&job=467dee8e-fe64-41dc-8fee-a96014ae756b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-persistentsystems.icims.com/jobs/2270/intern---hardware-engineer-%28fall-2026%29/job"
+    },
+    {
       "id": "51333dbd-0e64-46dc-b6ad-f2fd2544bb85",
       "company": "Persona AI Inc",
       "title": "Teleoperation Software Engineering Internship",
@@ -851,6 +895,17 @@
       "listingUrl": "https://ils.bamboohr.com/careers/30"
     },
     {
+      "id": "e2db64d8-ea1c-403a-8784-57f430c80a23",
+      "company": "Jane Street",
+      "title": "Linux Engineer — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-15",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e2db64d8-ea1c-403a-8784-57f430c80a23&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8626260002"
+    },
+    {
       "id": "c181ab4e-0f19-4822-a7b0-7cb51d5bae5a",
       "company": "Joby Aviation",
       "title": "Software Engineer Intern - Air Taxi",
@@ -1060,6 +1115,17 @@
       "listingUrl": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
     },
     {
+      "id": "87fe4514-bb9a-4341-81e0-bceef7fb8fe0",
+      "company": "Jane Street",
+      "title": "Data Engineer — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-14",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=87fe4514-bb9a-4341-81e0-bceef7fb8fe0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
+    },
+    {
       "id": "eec1b0ae-0cc1-4135-b2e1-26cea1f8a333",
       "company": "Usbank",
       "title": "Mainframe Software Engineering Apprentice 2",
@@ -1102,6 +1168,17 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=cd03890d-6b23-4e6a-98c2-c5478ecca87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
+    },
+    {
+      "id": "08a4d303-2594-470d-9c35-6084fcc1531e",
+      "company": "Akuna Capital",
+      "title": "Hardware Engineer Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Chicago, IL ",
+      "posted": "2026-07-13",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=08a4d303-2594-470d-9c35-6084fcc1531e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"
     },
     {
       "id": "3136c06b-556a-447c-ae27-27e2ad636df9",
@@ -1198,7 +1275,7 @@
       "category": "Software Engineering",
       "location": "Los Angeles - Greater Area",
       "posted": "2026-07-12",
-      "age": "10d",
+      "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Vital+Lyfe&job=b4cf1308-45c4-49a3-b34f-3ad0d6736a9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
     },
@@ -1256,6 +1333,17 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Iherb&job=07f0b931-47be-47af-a8ad-3ab7ca03d43e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://iherb.wd5.myworkdayjobs.com/careers/job/Home-Office-CA/Software-Development-Intern_R107025-1"
+    },
+    {
+      "id": "4fc07828-7f40-464e-b273-1b3db8685488",
+      "company": "Jane Street",
+      "title": "Hardware Engineer (FPGA/ASIC) — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-10",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=4fc07828-7f40-464e-b273-1b3db8685488&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002"
     },
     {
       "id": "bebdf235-3b1a-4a96-b907-36d88569d09d",
@@ -1324,6 +1412,17 @@
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105"
     },
     {
+      "id": "7958264f-6003-4f59-9efa-9fe0d7dbad3f",
+      "company": "Thehartford",
+      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
+      "category": "Software Engineering",
+      "location": "Hartford, CT",
+      "posted": "2026-07-10",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Thehartford&job=7958264f-6003-4f59-9efa-9fe0d7dbad3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103"
+    },
+    {
       "id": "abf855f8-2895-498d-8940-878c93b252e2",
       "company": "Caci",
       "title": "Software Engineering Intern - Fall 2026",
@@ -1335,6 +1434,17 @@
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740"
     },
     {
+      "id": "d7bf1f74-740f-480b-9d62-77ec54683bd1",
+      "company": "Cisco",
+      "title": "Hardware Engineer II (Co-op) - United States",
+      "category": "Software Engineering",
+      "location": "3 Locations",
+      "posted": "2026-07-08",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=d7bf1f74-740f-480b-9d62-77ec54683bd1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2000128"
+    },
+    {
       "id": "b27e4678-830e-4c2e-bd11-9206c1439ffa",
       "company": "Copart",
       "title": "DevOps Engineering Intern",
@@ -1344,6 +1454,17 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Copart&job=b27e4678-830e-4c2e-bd11-9206c1439ffa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490"
+    },
+    {
+      "id": "c5bf5cfa-d225-4284-b289-9f209df4e52d",
+      "company": "Jump Trading",
+      "title": "Campus Data Engineer (Intern)",
+      "category": "Software Engineering",
+      "location": "Chicago",
+      "posted": "2026-07-08",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Jump+Trading&job=c5bf5cfa-d225-4284-b289-9f209df4e52d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
     },
     {
       "id": "1ba4bcac-a8de-4f85-af98-879412f044c8",
@@ -1522,6 +1643,39 @@
       "listingUrl": "https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784"
     },
     {
+      "id": "fb0ad5b8-4f56-4533-8ad4-ddee344fde44",
+      "company": "Jane Street",
+      "title": "Strategy and Product — Summer Internship",
+      "category": "Product",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=fb0ad5b8-4f56-4533-8ad4-ddee344fde44&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8621552002"
+    },
+    {
+      "id": "edab39f8-332d-4fec-9a5b-a4b358d63208",
+      "company": "Jane Street",
+      "title": "Network Engineer — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=edab39f8-332d-4fec-9a5b-a4b358d63208&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8620793002"
+    },
+    {
+      "id": "d9fba6f8-ecee-4a28-8844-87f8dc7398de",
+      "company": "Jane Street",
+      "title": "Machine Learning Engineer — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=d9fba6f8-ecee-4a28-8844-87f8dc7398de&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002"
+    },
+    {
       "id": "e21efd08-2dc0-4fc5-a638-0df9f86edb46",
       "company": "Jane Street",
       "title": "Software Engineer — Summer Internship",
@@ -1542,6 +1696,17 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Jane+Street&job=8896a9c1-731f-4709-8b55-2b64186c9db7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8419303002"
+    },
+    {
+      "id": "daf97094-9d4b-41d0-b3b9-80f8993cf273",
+      "company": "Jane Street",
+      "title": "Machine Learning Researcher — Summer Internship",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=daf97094-9d4b-41d0-b3b9-80f8993cf273&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002"
     },
     {
       "id": "8060b6f9-1846-4d38-8a58-6ea7290c1fdc",
@@ -1828,6 +1993,17 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Tessera+Labs&job=578e37cf-aef4-45cd-b5e5-01c1e335e190&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06"
+    },
+    {
+      "id": "c1a5328b-0440-45e5-b5ca-59028aedc4a6",
+      "company": "Tilde Research",
+      "title": "ML Engineer (Internship and Full-time)",
+      "category": "Software Engineering",
+      "location": "San Francisco",
+      "posted": "2026-07-05",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Tilde+Research&job=c1a5328b-0440-45e5-b5ca-59028aedc4a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef"
     },
     {
       "id": "b92aa16b-c525-4f82-8f0e-c02dd616cffb",
@@ -2235,6 +2411,17 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=IMC&job=1f978cc5-16ca-4e82-9322-9b80e70ca369&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    {
+      "id": "1c59016f-339c-452c-89b5-105b300337ab",
+      "company": "IMC",
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Chicago, United States",
+      "posted": "2026-07-01",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=IMC&job=1c59016f-339c-452c-89b5-105b300337ab&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"
     },
     {
       "id": "aa8708a5-9931-4f46-9d7b-55a45fcb280f",
