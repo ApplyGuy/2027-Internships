@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-07-23T18:15:15.506Z",
+  "updatedAt": "2026-07-23T18:17:40.984Z",
   "jobs": [
-    {
-      "id": "394e6325-35f0-4acd-9083-c75b82e476ae",
-      "company": "Bild AI",
-      "title": "AI/SWE Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-23",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Bild+AI&job=394e6325-35f0-4acd-9083-c75b82e476ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364"
-    },
-    {
-      "id": "e2078636-d13a-4a1a-8473-050cbe4618bc",
-      "company": "Blackstar Computers",
-      "title": "Embedded Systems Engineering Intern (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-23",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Blackstar+Computers&job=e2078636-d13a-4a1a-8473-050cbe4618bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a"
-    },
-    {
-      "id": "a6f7820d-60c2-4948-889b-20baa3d04645",
-      "company": "Blackstar Computers",
-      "title": "SWE Internship (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-23",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Blackstar+Computers&job=a6f7820d-60c2-4948-889b-20baa3d04645&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700"
-    },
     {
       "id": "65a27398-8cf9-4d20-82be-8c2195e1e1d1",
       "company": "Blackstar Computers",
@@ -297,6 +264,17 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Join+Our+Talent+Community&job=810af19f-a0e7-4535-8142-b4863f8c0ad7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003"
+    },
+    {
+      "id": "394e6325-35f0-4acd-9083-c75b82e476ae",
+      "company": "Bild AI",
+      "title": "AI/SWE Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco",
+      "posted": "2026-07-21",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Bild+AI&job=394e6325-35f0-4acd-9083-c75b82e476ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364"
     },
     {
       "id": "1be0931c-ed5f-48a0-b819-23399f484ccf",
@@ -2178,6 +2156,17 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Eulerity&job=ccae99da-cf95-433d-aa2c-2d4f38af347a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006"
+    },
+    {
+      "id": "e2078636-d13a-4a1a-8473-050cbe4618bc",
+      "company": "Blackstar Computers",
+      "title": "Embedded Systems Engineering Intern (Summer 2026)",
+      "category": "Software Engineering",
+      "location": "San Francisco",
+      "posted": "2026-07-03",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Blackstar+Computers&job=e2078636-d13a-4a1a-8473-050cbe4618bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a"
     },
     {
       "id": "54bd0043-49d0-4ba5-a8ba-a8acba3bbe8c",
