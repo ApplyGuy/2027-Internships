@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:31:05.366Z",
+  "updatedAt": "2026-07-23T18:45:08.305Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -198,28 +198,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Denari&job=b1653546-80b4-4d04-9d18-8610862d4c79&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282"
-    },
-    {
-      "id": "7c5a72e2-e8a8-4490-a8aa-e0936a8df19e",
-      "company": "pony.ai",
-      "title": "Research Intern - Deep Learning",
-      "category": "Software Engineering",
-      "location": "Fremont, United States",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=pony.ai&job=7c5a72e2-e8a8-4490-a8aa-e0936a8df19e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/"
-    },
-    {
-      "id": "44e73d3b-90e7-4585-b321-1fad92cb72be",
-      "company": "pony.ai",
-      "title": "Software Engineer Intern - Generalist",
-      "category": "Software Engineering",
-      "location": "Fremont, United States",
-      "posted": "2026-07-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=pony.ai&job=44e73d3b-90e7-4585-b321-1fad92cb72be&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
     },
     {
       "id": "bda16720-5bfd-459f-9f1b-edf50e85f566",
@@ -1119,7 +1097,7 @@
       "category": "Software Engineering",
       "location": "Chicago, IL",
       "posted": "2026-07-13",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=cd03890d-6b23-4e6a-98c2-c5478ecca87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
     },
@@ -2208,7 +2186,7 @@
       "category": "Software Engineering",
       "location": "New York City",
       "posted": "2026-07-02",
-      "age": "20d",
+      "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Traackr&job=53f43a21-2732-4ed3-ad7b-1c9b062c3ad5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688"
     },
@@ -2252,7 +2230,7 @@
       "category": "Software Engineering",
       "location": "Austin, Texas, United States",
       "posted": "2026-07-01",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Optiver&job=aa8708a5-9931-4f46-9d7b-55a45fcb280f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
     },
@@ -2263,7 +2241,7 @@
       "category": "Software Engineering",
       "location": "Chicago, Illinois, United States",
       "posted": "2026-07-01",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Optiver&job=d17e81d1-3582-4311-bfe3-1cfb25cb4079&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
     },
@@ -2329,7 +2307,7 @@
       "category": "Software Engineering",
       "location": "Cambridge, MA",
       "posted": "2026-06-29",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Charles+River+Analytics&job=78700edb-77d0-4aa1-9399-0d225d785d01&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563"
     },
