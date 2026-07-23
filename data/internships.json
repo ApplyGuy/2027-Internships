@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:51:41.108Z",
+  "updatedAt": "2026-07-23T19:53:56.949Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -1500,13 +1500,24 @@
     {
       "id": "e21efd08-2dc0-4fc5-a638-0df9f86edb46",
       "company": "Jane Street",
-      "title": "Software Engineer",
+      "title": "Software Engineer — Summer Internship",
       "category": "Software Engineering",
       "location": "New York, New York, United States",
       "posted": "2026-07-06",
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e21efd08-2dc0-4fc5-a638-0df9f86edb46&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8599644002"
+    },
+    {
+      "id": "8896a9c1-731f-4709-8b55-2b64186c9db7",
+      "company": "Jane Street",
+      "title": "Software Engineer — Winter Co-Op",
+      "category": "Software Engineering",
+      "location": "New York, New York, United States",
+      "posted": "2026-07-06",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=8896a9c1-731f-4709-8b55-2b64186c9db7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/janestreet/jobs/8419303002"
     },
     {
       "id": "8060b6f9-1846-4d38-8a58-6ea7290c1fdc",
