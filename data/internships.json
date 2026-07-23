@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:30:45.638Z",
+  "updatedAt": "2026-07-23T18:31:05.366Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -2343,6 +2343,17 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Halo+Industries&job=49ccea7d-9f39-4187-b46c-6823bb909f24&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apply.workable.com/halo-industries/j/29728B1DAF/"
+    },
+    {
+      "id": "49a57489-169a-453d-8517-91f1480d380f",
+      "company": "Quadrillion",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City",
+      "posted": "2026-06-28",
+      "age": "25d",
+      "url": "https://applyguy.ai/jobs?company=Quadrillion&job=49a57489-169a-453d-8517-91f1480d380f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd"
     },
     {
       "id": "4756a0b7-6913-4670-8771-bf324b1e3d1e",
