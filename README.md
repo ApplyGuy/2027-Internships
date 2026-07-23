@@ -9,7 +9,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **190** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Jul 23, 2026, 2:39 PM PDT**
+- Last refresh: **Jul 23, 2026, 2:45 PM PDT**
 - Machine-readable internship data: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View listing** actions open an employer's career site directly.
