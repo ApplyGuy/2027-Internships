@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:09:13.964Z",
+  "updatedAt": "2026-07-23T17:15:11.238Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -1047,7 +1047,7 @@
       "location": "San Francisco",
       "workModel": "On-site",
       "posted": "2026-07-13",
-      "age": "9d",
+      "age": "10d",
       "logoUrl": "https://www.google.com/s2/favicons?domain=www.serval.com&sz=64",
       "url": "https://applyguy.ai/jobs?company=Serval&job=c66e1c12-c41e-48b5-8301-d12bf6a85678&utm_source=github&utm_medium=listing&utm_campaign=internships"
     },
@@ -2137,7 +2137,7 @@
       "location": "Chicago, United States",
       "workModel": "—",
       "posted": "2026-07-01",
-      "age": "21d",
+      "age": "22d",
       "logoUrl": "https://pub-981b75587a1148acb811f036eda06ce8.r2.dev/logos/companies/f152bddd-7a76-419d-8be5-02bd01c762ac-dd3c81d9.png",
       "url": "https://applyguy.ai/jobs?company=IMC&job=1f978cc5-16ca-4e82-9322-9b80e70ca369&utm_source=github&utm_medium=listing&utm_campaign=internships"
     },
