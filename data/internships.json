@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:45:12.928Z",
+  "updatedAt": "2026-07-23T18:52:47.781Z",
   "jobs": [
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
@@ -33,28 +33,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hp&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
-    },
-    {
-      "id": "3ecba3d1-39e9-4ace-8bce-51ba0d368798",
-      "company": "pony.ai",
-      "title": "Software Engineer Intern - Generalist",
-      "category": "Software Engineering",
-      "location": "Fremont",
-      "posted": "2026-07-22",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=pony.ai&job=3ecba3d1-39e9-4ace-8bce-51ba0d368798&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/fMNdv7wiX6977RgdBwZGEp/software-engineer-intern---generalist-in-fremont-at-pony.ai"
-    },
-    {
-      "id": "59f26ec5-9d0b-4d2b-83d8-df4bf8cd0f15",
-      "company": "pony.ai",
-      "title": "Research Intern - Deep Learning",
-      "category": "Software Engineering",
-      "location": "Fremont",
-      "posted": "2026-07-22",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=pony.ai&job=59f26ec5-9d0b-4d2b-83d8-df4bf8cd0f15&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/dg7mE62ASKJNz8hiNyQd13/research-intern---deep-learning-in-fremont-at-pony.ai"
     },
     {
       "id": "8d7f7613-09db-4574-aa58-db871929938e",
