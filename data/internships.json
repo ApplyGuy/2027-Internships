@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-23T18:17:40.984Z",
+  "updatedAt": "2026-07-23T18:18:30.251Z",
   "jobs": [
-    {
-      "id": "65a27398-8cf9-4d20-82be-8c2195e1e1d1",
-      "company": "Blackstar Computers",
-      "title": "MLE Internship (Summer 2026)",
-      "category": "Software Engineering",
-      "location": "San Francisco",
-      "posted": "2026-07-23",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Blackstar+Computers&job=65a27398-8cf9-4d20-82be-8c2195e1e1d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/blackstar/6a5c531a-5ccc-4f81-a8e5-95ee8c395f4f"
-    },
     {
       "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
       "company": "Copart",
