@@ -1,6 +1,6 @@
-# 2027 Software Engineering & Product Internships
+# 2027 SWE Internships & Product Management Internships
 
-A continuously verified list of U.S. software engineering and product management internships, sourced from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
+A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current Fall/Winter 2026 co-ops in the United States. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
 > 🚨 **Apply early.** Get a free email when a new internship opens: [Turn on internship alerts →](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
@@ -8,12 +8,13 @@ A continuously verified list of U.S. software engineering and product management
 
 - **190** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
-- Last refresh: **Jul 23, 2026, 2:30 PM PDT**
-- Machine-readable export: [data/internships.json](data/internships.json)
+- Closed and expired internships are removed automatically
+- Last refresh: **Jul 23, 2026, 2:39 PM PDT**
+- Machine-readable internship data: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View listing** actions open an employer's career site directly.
 
-**Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
+**Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships) · [Contributing](#contributing)
 
 ## Software Engineering Internships
 
@@ -219,6 +220,14 @@ Orange **Apply Guy** actions support one-click apply. Blue **View listing** acti
 | Travelers | Product Management Development Program (PMDP) Internship - Summer 2027 | CT - Hartford | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Travelers&job=f0338af1-0cd3-4ad0-9e1f-be038bdeaa56&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214) |
 | Gemini | Product Management Intern (Fall 2026) | New York, New York | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gemini&job=d5bd4273-20c1-431d-9393-c2e81cab06ee&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) |
 
+## Contributing
+
+Help keep the 2027 internship list complete and accurate:
+
+- [Suggest a missing internship](https://github.com/ApplyGuy/2027-Internships/issues/new?template=new-listing.yml)
+- [Report a closed or incorrect listing](https://github.com/ApplyGuy/2027-Internships/issues/new?template=report-listing.yml)
+- Read the [contribution guidelines](CONTRIBUTING.md)
+
 ---
 
-Found a missing or closed role? [Open an issue](https://github.com/ApplyGuy/2027-Internships/issues/new). Listings come from public employer career pages and can change at any time.
+Listings come from public employer career pages and can change at any time. This repository focuses on recent U.S. software engineering and product management internships so students can apply while openings are fresh.
