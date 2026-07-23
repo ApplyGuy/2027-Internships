@@ -6,21 +6,20 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **217** active U.S. internships
+- **216** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 11:17 AM PDT**
+- Last refresh: **Jul 23, 2026, 11:18 AM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
 
 ## Software Engineering Internships
 
-**194 open roles**
+**193 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
-| Blackstar Computers | MLE Internship (Summer 2026) | San Francisco | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Blackstar+Computers&job=65a27398-8cf9-4d20-82be-8c2195e1e1d1&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/blackstar/6a5c531a-5ccc-4f81-a8e5-95ee8c395f4f) |
 | Moog | Intern, Software Engineering | Buffalo, NY | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Moog&job=b214e140-9684-404b-85c4-83986aa80c2a&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) |
 | Hp | Software Engineering Intern, Device Experiences | San Francisco, California, United States of America | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hp&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166) |
 | pony.ai | Software Engineer Intern - Generalist | Fremont | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=pony.ai&job=3ecba3d1-39e9-4ace-8bce-51ba0d368798&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/fMNdv7wiX6977RgdBwZGEp/software-engineer-intern---generalist-in-fremont-at-pony.ai) |
