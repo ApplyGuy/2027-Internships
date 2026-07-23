@@ -6,24 +6,22 @@ A continuously verified list of U.S. software engineering and product management
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **218** active U.S. internships
+- **216** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 11:45 AM PDT**
+- Last refresh: **Jul 23, 2026, 11:52 AM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
 
 ## Software Engineering Internships
 
-**195 open roles**
+**193 open roles**
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
 | Moog | Intern, Software Engineering | Buffalo, NY | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Moog&job=b214e140-9684-404b-85c4-83986aa80c2a&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) |
 | Hp | Software Engineering Intern, Device Experiences | San Francisco, California, United States of America | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hp&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166) |
-| pony.ai | Software Engineer Intern - Generalist | Fremont | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=pony.ai&job=3ecba3d1-39e9-4ace-8bce-51ba0d368798&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/fMNdv7wiX6977RgdBwZGEp/software-engineer-intern---generalist-in-fremont-at-pony.ai) |
-| pony.ai | Research Intern - Deep Learning | Fremont | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=pony.ai&job=59f26ec5-9d0b-4d2b-83d8-df4bf8cd0f15&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/dg7mE62ASKJNz8hiNyQd13/research-intern---deep-learning-in-fremont-at-pony.ai) |
 | Selinc | Software Engineer Intern | Idaho - Boise | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Selinc&job=8d7f7613-09db-4574-aa58-db871929938e&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
 | Masseyservices | BI Software Engineer Intern - Orlando | Orlando, FL | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Masseyservices&job=4e4a76bf-d611-40e0-8776-7de03e723649&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR103623) |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Copart&job=80664307-9ab8-4868-96ba-fb9681f14004&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011) |
