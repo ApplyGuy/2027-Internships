@@ -9,7 +9,7 @@ A continuously verified list of U.S. software engineering and product management
 - **216** active U.S. internships
 - Only roles posted within the last **30 days** are shown
 - Updated every 15 minutes; closed roles disappear automatically
-- Last refresh: **Jul 23, 2026, 12:00 PM PDT**
+- Last refresh: **Jul 23, 2026, 12:15 PM PDT**
 - Machine-readable export: [data/internships.json](data/internships.json)
 
 **Jump to:** [Software Engineering](#software-engineering-internships) · [Product Management](#product-management-internships)
@@ -212,7 +212,7 @@ A continuously verified list of U.S. software engineering and product management
 | Astranis | Hardware Design Intern, Software Defined Radio Team (Fall 2026) | San Francisco | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Astranis&job=2e86a3d7-8acf-4624-9807-44c70bdb36bc&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/astranis/jobs/4691163006) |
 | Nvidia | PhD Research Intern, System Software and I/O Architecture - Fall 2026 | 3 Locations | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nvidia&job=c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, Kansas | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Altasciences&job=5b571d2e-18ea-4230-9e50-46e703c63baa&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) |
-| Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=0abc9ea5-807c-496c-a1fd-1e80a1eb0d39&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=0abc9ea5-807c-496c-a1fd-1e80a1eb0d39&utm_source=github&utm_medium=listing&utm_campaign=internships)<br>[![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
 
 ## Product Management Internships
 
