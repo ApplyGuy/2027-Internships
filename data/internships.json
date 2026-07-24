@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T00:45:18.888Z",
+  "updatedAt": "2026-07-24T01:00:09.915Z",
   "jobs": [
     {
       "id": "9ffaa72b-b4b6-4bf9-b7c9-1d34b8c6c58e",
@@ -950,6 +950,18 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Exowatt&job=76db5bf4-7ca6-4973-86cc-31934ef391fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c"
+    },
+    {
+      "id": "22ad4df1-71b4-48d4-b7dc-fd7cc4fbd8a5",
+      "company": "Haier",
+      "title": "Software Engineering Co-op_Spring 2027",
+      "category": "Software Engineering",
+      "location": "Ky, Louisville",
+      "season": "2027",
+      "posted": "2026-07-10",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Haier&job=22ad4df1-71b4-48d4-b7dc-fd7cc4fbd8a5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832"
     },
     {
       "id": "07f0b931-47be-47af-a8ad-3ab7ca03d43e",
