@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:45:48.525Z",
+  "updatedAt": "2026-07-24T23:00:16.242Z",
   "jobs": [
     {
       "id": "2cd125b1-a2c9-4d58-a3a5-0959e6d06406",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=BlackEdge+Capital&job=2cd125b1-a2c9-4d58-a3a5-0959e6d06406&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005"
+    },
+    {
+      "id": "873f857a-5605-497f-a5c6-9d9224b1a481",
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PDT+Partners&job=873f857a-5605-497f-a5c6-9d9224b1a481&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
     },
     {
       "id": "bafeed63-a419-44a8-880f-4ab784200b0a",
@@ -1670,18 +1682,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Binance.US&job=56b585e0-2175-45dd-9ac4-3889f1e3c07e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895"
-    },
-    {
-      "id": "c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9",
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Fall 2026",
-      "posted": "2026-06-24",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
     }
   ]
 }
