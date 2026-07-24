@@ -13,7 +13,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **140** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Jul 24, 2026, 3:45 PM PDT**
+- Last refresh: **Jul 24, 2026, 4:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,6 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | BlackEdge Capital | Quantitative Developer Intern | Chicago, IL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BlackEdge+Capital&job=2cd125b1-a2c9-4d58-a3a5-0959e6d06406&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) |
+| PDT Partners | Summer 2027 Software Engineering Intern | New York City, NY | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PDT+Partners&job=873f857a-5605-497f-a5c6-9d9224b1a481&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Quadrillion | Software Engineering Intern (Summer 2027) | New York City, NY | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Quadrillion&job=bafeed63-a419-44a8-880f-4ab784200b0a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
 | Anthelion Capital | Quant Developer / Quant Research Intern - 2026/2027 | New York City, NY | 2026 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Anthelion+Capital&job=9ffaa72b-b4b6-4bf9-b7c9-1d34b8c6c58e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) |
 | Appian Corporation | Software Engineering Intern | McLean, VA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Appian+Corporation&job=442623e8-463e-47f1-8a9a-c93366534454&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/appian/jobs/8041237) |
@@ -152,7 +153,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | BorgWarner | Software Engineering Intern (Year-Round) | Auburn Hills, MI | Year-round | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BorgWarner&job=9d039843-b31b-4568-932c-64999bed28e4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1) |
 | CTGT | Software Engineering Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CTGT&job=65240c75-0810-4b91-bb15-db5be5211b94&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
 | Binance.US | Software Engineering Intern | Remote, U.S. | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Binance.US&job=56b585e0-2175-45dd-9ac4-3889f1e3c07e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895) |
-| NVIDIA | PhD Research Intern, System Software and I/O Architecture - Fall 2026 | Santa Clara, CA | Fall 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
 
 ## Product Management Internships
 
