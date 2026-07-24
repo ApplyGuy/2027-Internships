@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-24T20:30:33.959Z",
+  "updatedAt": "2026-07-24T20:45:31.601Z",
   "jobs": [
+    {
+      "id": "2cd125b1-a2c9-4d58-a3a5-0959e6d06406",
+      "company": "BlackEdge Capital",
+      "title": "Quantitative Developer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=BlackEdge+Capital&job=2cd125b1-a2c9-4d58-a3a5-0959e6d06406&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005"
+    },
     {
       "id": "bafeed63-a419-44a8-880f-4ab784200b0a",
       "company": "Quadrillion",
