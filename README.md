@@ -8,10 +8,12 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 ⭐ **Star this repo** to keep the list one click away.
 
+🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
+
 - **140** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Jul 24, 2026, 1:00 PM PDT**
+- Last refresh: **Jul 24, 2026, 1:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
