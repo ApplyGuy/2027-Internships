@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:00:24.949Z",
+  "updatedAt": "2026-07-24T19:15:25.775Z",
   "jobs": [
     {
       "id": "bafeed63-a419-44a8-880f-4ab784200b0a",
@@ -1682,18 +1682,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
-    },
-    {
-      "id": "0abc9ea5-807c-496c-a1fd-1e80a1eb0d39",
-      "company": "Palantir Technologies",
-      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-06-24",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=0abc9ea5-807c-496c-a1fd-1e80a1eb0d39&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
     }
   ]
 }
