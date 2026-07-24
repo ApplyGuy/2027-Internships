@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-141-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-140-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -8,10 +8,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **141** active U.S. internships posted within the last **30 days**
+- **140** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Jul 24, 2026, 12:00 PM PDT**
+- Last refresh: **Jul 24, 2026, 12:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -20,7 +20,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**128 open roles**
+**127 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -151,7 +151,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Binance.US | Software Engineering Intern | Remote, U.S. | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Binance.US&job=56b585e0-2175-45dd-9ac4-3889f1e3c07e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895) |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, KS | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Altasciences&job=5b571d2e-18ea-4230-9e50-46e703c63baa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) |
 | NVIDIA | PhD Research Intern, System Software and I/O Architecture - Fall 2026 | Santa Clara, CA | Fall 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=c4b1bd4c-9f74-4d9e-a2e4-c9cee0117fa9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
-| Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=0abc9ea5-807c-496c-a1fd-1e80a1eb0d39&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
 
 ## Product Management Internships
 
