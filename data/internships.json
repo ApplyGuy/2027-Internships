@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T21:45:30.764Z",
+  "updatedAt": "2026-07-27T22:00:27.750Z",
   "jobs": [
     {
       "id": "d3020003-0db8-484f-8505-d0436e025f6d",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=afe46fa6-7e2f-472c-91a7-7226d7b54135&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801"
+    },
+    {
+      "id": "24e00f51-bffe-4165-8066-be29525a4159",
+      "company": "SRI International",
+      "title": "Drexel University Co-op: Software Engineering/Full stack development",
+      "category": "Software Engineering",
+      "location": "Princeton, NJ",
+      "season": "Co-op",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SRI+International&job=24e00f51-bffe-4165-8066-be29525a4159&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job"
     },
     {
       "id": "2caf31a7-5ea5-47b9-bfd9-edfecaeb7456",
