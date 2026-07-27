@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T00:01:02.291Z",
+  "updatedAt": "2026-07-27T00:15:29.891Z",
   "jobs": [
     {
       "id": "2cd125b1-a2c9-4d58-a3a5-0959e6d06406",
@@ -1634,18 +1634,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Quadrillion&job=49a57489-169a-453d-8517-91f1480d380f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd"
-    },
-    {
-      "id": "4756a0b7-6913-4670-8771-bf324b1e3d1e",
-      "company": "Zipline",
-      "title": "Software Engineer Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Fall 2026",
-      "posted": "2026-06-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=4756a0b7-6913-4670-8771-bf324b1e3d1e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   ]
 }
