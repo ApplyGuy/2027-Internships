@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T12:00:32.695Z",
+  "updatedAt": "2026-07-27T12:15:41.228Z",
   "jobs": [
     {
       "id": "fb442b69-fb84-43f1-b263-308e8334fdc2",
@@ -312,32 +312,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=GE+HealthCare&job=e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
-    },
-    {
-      "id": "custom:google:95141459539174086",
-      "company": "Google",
-      "title": "Software Engineering Intern, MS, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Multiple U.S. locations",
-      "season": "Summer 2027",
-      "posted": "2026-07-20",
-      "age": "7d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
-      "applySupported": false
-    },
-    {
-      "id": "custom:google:85564713261245126",
-      "company": "Google",
-      "title": "Software Engineering Intern, BS, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Multiple U.S. locations",
-      "season": "Summer 2027",
-      "posted": "2026-07-20",
-      "age": "7d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
-      "applySupported": false
     },
     {
       "id": "f471519b-c5fe-4cf4-a761-3fb0ec7a0bdf",
