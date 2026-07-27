@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-27T18:15:28.324Z",
+  "updatedAt": "2026-07-27T18:30:09.982Z",
   "jobs": [
+    {
+      "id": "d3020003-0db8-484f-8505-d0436e025f6d",
+      "company": "Northrop Grumman",
+      "title": "2027 Returning Intern Software Engineer",
+      "category": "Software Engineering",
+      "location": "Melbourne, FL",
+      "season": "2027",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d3020003-0db8-484f-8505-d0436e025f6d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
+    },
     {
       "id": "e5acb1c7-cc33-4eca-a3f0-93907705aacb",
       "company": "PathAI",
