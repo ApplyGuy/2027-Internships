@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-27T17:15:27.189Z",
+  "updatedAt": "2026-07-27T17:30:45.622Z",
   "jobs": [
+    {
+      "id": "e5acb1c7-cc33-4eca-a3f0-93907705aacb",
+      "company": "PathAI",
+      "title": "Software Engineering Co-op MLOps: September - December 2026",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "2026",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PathAI&job=e5acb1c7-cc33-4eca-a3f0-93907705aacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002"
+    },
     {
       "id": "afe46fa6-7e2f-472c-91a7-7226d7b54135",
       "company": "RTX",
@@ -12,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=afe46fa6-7e2f-472c-91a7-7226d7b54135&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801"
+    },
+    {
+      "id": "2caf31a7-5ea5-47b9-bfd9-edfecaeb7456",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "AI Product Management Intern",
+      "category": "Product",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=2caf31a7-5ea5-47b9-bfd9-edfecaeb7456&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007"
     },
     {
       "id": "fb442b69-fb84-43f1-b263-308e8334fdc2",
