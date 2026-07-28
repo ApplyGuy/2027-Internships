@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:30:18.411Z",
+  "updatedAt": "2026-07-28T23:45:20.008Z",
   "jobs": [
     {
       "id": "5243c947-c874-48dd-98e4-5c7f0cafb5d2",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=5243c947-c874-48dd-98e4-5c7f0cafb5d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://berkshiregrey.bamboohr.com/careers/749"
+    },
+    {
+      "id": "6db323b9-36eb-4100-ba6a-f276eb93ad3f",
+      "company": "Draper",
+      "title": "Electronics & Embedded Systems Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Summer 2027",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Draper&job=6db323b9-36eb-4100-ba6a-f276eb93ad3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735"
     },
     {
       "id": "12a932ef-afc5-4e4b-947e-c5a72509d326",
