@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-28T18:15:23.900Z",
+  "updatedAt": "2026-07-28T18:30:22.735Z",
   "jobs": [
+    {
+      "id": "5243c947-c874-48dd-98e4-5c7f0cafb5d2",
+      "company": "Berkshiregrey",
+      "title": "Fall 2026 Software Co-op",
+      "category": "Software Engineering",
+      "location": "Bedford, MA",
+      "season": "Fall 2026",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=5243c947-c874-48dd-98e4-5c7f0cafb5d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://berkshiregrey.bamboohr.com/careers/749"
+    },
+    {
+      "id": "12a932ef-afc5-4e4b-947e-c5a72509d326",
+      "company": "PCS Software Inc",
+      "title": "Internship -Technical Software Support Team (part-time)",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PCS+Software+Inc&job=12a932ef-afc5-4e4b-947e-c5a72509d326&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4368457"
+    },
     {
       "id": "9b50be2b-01ea-4586-ad98-8a9f5970f548",
       "company": "Apptronik",
