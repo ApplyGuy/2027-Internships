@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:45:26.867Z",
+  "updatedAt": "2026-07-29T22:00:22.960Z",
   "jobs": [
     {
       "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=31befc46-e7b4-44af-9a4a-85bca8f0dee7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"
+    },
+    {
+      "id": "47729c27-fa86-48cd-ac5a-04e888852a71",
+      "company": "Leidos",
+      "title": "Application Developer Intern",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Not specified",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=47729c27-fa86-48cd-ac5a-04e888852a71&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1"
+    },
+    {
+      "id": "22110d8b-ce63-493f-a822-4292e02ba032",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=22110d8b-ce63-493f-a822-4292e02ba032&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
     },
     {
       "id": "916a07db-1c7e-47e4-bcf9-de695fc88ca0",
