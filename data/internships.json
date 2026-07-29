@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:45:27.389Z",
+  "updatedAt": "2026-07-29T17:00:56.755Z",
   "jobs": [
     {
       "id": "31befc46-e7b4-44af-9a4a-85bca8f0dee7",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=31befc46-e7b4-44af-9a4a-85bca8f0dee7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"
+    },
+    {
+      "id": "916a07db-1c7e-47e4-bcf9-de695fc88ca0",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "State College, PA",
+      "season": "Summer 2027",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=916a07db-1c7e-47e4-bcf9-de695fc88ca0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842"
     },
     {
       "id": "5243c947-c874-48dd-98e4-5c7f0cafb5d2",
