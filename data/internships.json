@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-29T18:45:24.772Z",
+  "updatedAt": "2026-07-29T19:00:26.226Z",
   "jobs": [
+    {
+      "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
+      "company": "BorgWarner",
+      "title": "Software Application Engineering Intern (Year Round)",
+      "category": "Software Engineering",
+      "location": "Auburn Hills, MI",
+      "season": "Year-round",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=BorgWarner&job=c9fc187e-49c3-45f7-9935-852818937c2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645"
+    },
     {
       "id": "31befc46-e7b4-44af-9a4a-85bca8f0dee7",
       "company": "Brunswick",
