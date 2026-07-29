@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:30:23.039Z",
+  "updatedAt": "2026-07-29T18:45:24.772Z",
   "jobs": [
     {
       "id": "31befc46-e7b4-44af-9a4a-85bca8f0dee7",
@@ -1716,18 +1716,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
-    },
-    {
-      "id": "78700edb-77d0-4aa1-9399-0d225d785d01",
-      "company": "Charles River Analytics",
-      "title": "Software QA Tester Intern/Co-op ",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Co-op",
-      "posted": "2026-06-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Charles+River+Analytics&job=78700edb-77d0-4aa1-9399-0d225d785d01&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563"
     }
   ]
 }
