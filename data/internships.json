@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T20:00:23.194Z",
+  "updatedAt": "2026-07-30T20:15:19.282Z",
   "jobs": [
     {
       "id": "aefaebe9-adb0-46d2-9a46-eef8db01f999",
@@ -1764,18 +1764,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=bc5f44e3-2901-49a3-8af5-2609f168f2fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Software-Test-Engineer-Intern_8033"
-    },
-    {
-      "id": "7ea98819-ad90-483b-8f21-31e2530ba99c",
-      "company": "Palantir Technologies",
-      "title": "Forward Deployed Software Engineer, Internship - Commercial",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-06-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=7ea98819-ad90-483b-8f21-31e2530ba99c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
     }
   ]
 }
