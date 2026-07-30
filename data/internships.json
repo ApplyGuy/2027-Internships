@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-30T21:30:43.830Z",
+  "updatedAt": "2026-07-30T21:45:22.358Z",
   "jobs": [
+    {
+      "id": "b30ac639-887a-4cdb-ade0-df9c69f8f293",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=b30ac639-887a-4cdb-ade0-df9c69f8f293&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
+    },
     {
       "id": "aefaebe9-adb0-46d2-9a46-eef8db01f999",
       "company": "Relay",
@@ -372,18 +384,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=19fa38fe-e3ea-4823-a101-56b56ee7a25b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
-    },
-    {
-      "id": "80664307-9ab8-4868-96ba-fb9681f14004",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Dallas, TX",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Copart&job=80664307-9ab8-4868-96ba-fb9681f14004&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
     },
     {
       "id": "b4ac60b4-dd12-495c-9d76-f86274c8b1b6",
