@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-30T17:00:22.631Z",
+  "updatedAt": "2026-07-30T17:15:19.045Z",
   "jobs": [
+    {
+      "id": "e3dc5add-f764-4da0-9cbc-6bb0a9b37b02",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Mckinney, TX",
+      "season": "Summer 2027",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e3dc5add-f764-4da0-9cbc-6bb0a9b37b02&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
+    },
+    {
+      "id": "3cd9ca2a-be6a-4b77-bc0b-6da77a81c5d1",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Fullerton, CA",
+      "season": "Summer 2027",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3cd9ca2a-be6a-4b77-bc0b-6da77a81c5d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012"
+    },
     {
       "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
       "company": "BorgWarner",
