@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:45:17.608Z",
+  "updatedAt": "2026-07-30T23:00:19.730Z",
   "jobs": [
     {
       "id": "b30ac639-887a-4cdb-ade0-df9c69f8f293",
@@ -1752,18 +1752,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=3c3a3860-bc06-4d9e-8985-0a0bbbb60431&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/goassetworks/job/United-States---TX/Software-Development-Intern_R67762"
-    },
-    {
-      "id": "bc5f44e3-2901-49a3-8af5-2609f168f2fc",
-      "company": "AeroVironment",
-      "title": "Software Test Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Albuquerque, NM",
-      "season": "Not specified",
-      "posted": "2026-06-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=bc5f44e3-2901-49a3-8af5-2609f168f2fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Software-Test-Engineer-Intern_8033"
     }
   ]
 }
