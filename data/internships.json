@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-30T17:45:25.365Z",
+  "updatedAt": "2026-07-30T18:00:25.396Z",
   "jobs": [
+    {
+      "id": "aefaebe9-adb0-46d2-9a46-eef8db01f999",
+      "company": "Relay",
+      "title": "Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)",
+      "category": "Product",
+      "location": "Raleigh, NC",
+      "season": "Fall 2026",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Relay&job=aefaebe9-adb0-46d2-9a46-eef8db01f999&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8093012"
+    },
     {
       "id": "e3dc5add-f764-4da0-9cbc-6bb0a9b37b02",
       "company": "RTX",
