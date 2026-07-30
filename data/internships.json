@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T00:30:13.442Z",
+  "updatedAt": "2026-07-30T00:45:13.217Z",
   "jobs": [
     {
       "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=916a07db-1c7e-47e4-bcf9-de695fc88ca0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842"
+    },
+    {
+      "id": "dc297d3e-0ae3-433c-89dd-eabf732af930",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Frontend & User Experience",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "2027",
+      "posted": "2026-07-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Virtu+Financial&job=dc297d3e-0ae3-433c-89dd-eabf732af930&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
     },
     {
       "id": "5243c947-c874-48dd-98e4-5c7f0cafb5d2",
