@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-31T18:00:42.866Z",
+  "updatedAt": "2026-07-31T18:15:40.111Z",
   "jobs": [
+    {
+      "id": "411fb40e-4856-42c3-9ceb-23b3faac4172",
+      "company": "Relay",
+      "title": "Product & Strategy Intern (Summer 2027 Opportunity)",
+      "category": "Product",
+      "location": "Raleigh, NC",
+      "season": "Summer 2027",
+      "posted": "2026-07-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Relay&job=411fb40e-4856-42c3-9ceb-23b3faac4172&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8096572"
+    },
     {
       "id": "b30ac639-887a-4cdb-ade0-df9c69f8f293",
       "company": "Copart",
