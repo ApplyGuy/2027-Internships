@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T23:00:44.871Z",
+  "updatedAt": "2026-07-31T23:15:41.465Z",
   "jobs": [
     {
       "id": "411fb40e-4856-42c3-9ceb-23b3faac4172",
@@ -1680,18 +1680,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Traackr&job=53f43a21-2732-4ed3-ad7b-1c9b062c3ad5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688"
-    },
-    {
-      "id": "9a6e8fd8-901e-4ecc-9051-cde5a2359e41",
-      "company": "Sony",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Not specified",
-      "posted": "2026-07-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Sony&job=9a6e8fd8-901e-4ecc-9051-cde5a2359e41&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282"
     }
   ]
 }
