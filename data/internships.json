@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:30:46.328Z",
+  "updatedAt": "2026-07-31T18:45:13.179Z",
   "jobs": [
     {
       "id": "411fb40e-4856-42c3-9ceb-23b3faac4172",
@@ -1680,30 +1680,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Traackr&job=53f43a21-2732-4ed3-ad7b-1c9b062c3ad5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688"
-    },
-    {
-      "id": "aa8708a5-9931-4f46-9d7b-55a45fcb280f",
-      "company": "Optiver",
-      "title": "Software Engineer Intern (Summer 2027 - Austin)",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-07-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Optiver&job=aa8708a5-9931-4f46-9d7b-55a45fcb280f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
-    },
-    {
-      "id": "d17e81d1-3582-4311-bfe3-1cfb25cb4079",
-      "company": "Optiver",
-      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Optiver&job=d17e81d1-3582-4311-bfe3-1cfb25cb4079&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
     },
     {
       "id": "0a836476-4b3d-4cee-bb89-8c89720a78c9",
