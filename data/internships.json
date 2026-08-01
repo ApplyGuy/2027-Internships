@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T00:45:41.162Z",
+  "updatedAt": "2026-08-01T01:00:50.879Z",
   "jobs": [
     {
       "id": "411fb40e-4856-42c3-9ceb-23b3faac4172",
@@ -288,6 +288,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=fb442b69-fb84-43f1-b263-308e8334fdc2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007"
+    },
+    {
+      "id": "1c11d52f-7e86-4c99-b07a-95682abed401",
+      "company": "Anduril Industries",
+      "title": "Product Operations Specialist - SkillBridge — Intern",
+      "category": "Product",
+      "location": "Costa Mesa, CA",
+      "season": "Not specified",
+      "posted": "2026-07-24",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=1c11d52f-7e86-4c99-b07a-95682abed401&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5195719007?gh_jid=5195719007"
     },
     {
       "id": "2cd125b1-a2c9-4d58-a3a5-0959e6d06406",
