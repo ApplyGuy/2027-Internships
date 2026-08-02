@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:45:20.082Z",
+  "updatedAt": "2026-08-02T23:00:22.993Z",
   "jobs": [
     {
       "id": "1f5fd872-b1ba-4de4-b446-4bd30c55aa4d",
@@ -1656,18 +1656,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Travelers&job=f0338af1-0cd3-4ad0-9e1f-be038bdeaa56&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214"
-    },
-    {
-      "id": "ed637aaf-1b53-40c9-ad8f-b1e607553aee",
-      "company": "Comcast",
-      "title": "Comcast Software Engineer Co-op",
-      "category": "Software Engineering",
-      "location": "Philadelphia, PA",
-      "season": "Co-op",
-      "posted": "2026-07-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Comcast&job=ed637aaf-1b53-40c9-ad8f-b1e607553aee&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436169"
     }
   ]
 }
