@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T21:00:29.628Z",
+  "updatedAt": "2026-08-03T21:15:28.900Z",
   "jobs": [
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
@@ -86,6 +86,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713"
+    },
+    {
+      "id": "7b94fd17-6dff-4d75-b8ac-10b89c6d6b22",
+      "company": "Persona AI Inc",
+      "title": "Autonomy Software Engineering Internship, World Modeling",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=7b94fd17-6dff-4d75-b8ac-10b89c6d6b22&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
     },
     {
       "id": "9955155f-fd7c-4baa-8719-5eadf32a0f74",
