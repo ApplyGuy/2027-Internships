@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-03T23:00:28.235Z",
+  "updatedAt": "2026-08-03T23:15:28.341Z",
   "jobs": [
+    {
+      "id": "7a9e0187-ee3f-4a09-bbf4-a4c073243be1",
+      "company": "CTC Campus - Website",
+      "title": "Software Engineering Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CTC+Campus+-+Website&job=7a9e0187-ee3f-4a09-bbf4-a4c073243be1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
+    },
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
       "company": "Microchip",
@@ -98,6 +110,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=7b94fd17-6dff-4d75-b8ac-10b89c6d6b22&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
+    },
+    {
+      "id": "97b6f8ea-1962-4cc2-aebf-b42741670127",
+      "company": "SRI International",
+      "title": "Drexel University Co-op: Embedded Software Engineering",
+      "category": "Software Engineering",
+      "location": "Princeton, NJ",
+      "season": "Co-op",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SRI+International&job=97b6f8ea-1962-4cc2-aebf-b42741670127&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-sri.icims.com/jobs/6431/drexel-university-co-op%3a-embedded-software-engineering/job"
     },
     {
       "id": "9955155f-fd7c-4baa-8719-5eadf32a0f74",
