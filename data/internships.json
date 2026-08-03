@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:00:54.327Z",
+  "updatedAt": "2026-08-03T19:15:29.239Z",
   "jobs": [
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
@@ -26,6 +26,32 @@
       "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
     },
     {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "applySupported": false
+    },
+    {
       "id": "f1fb475a-6dd0-4b33-8b34-9266680c269d",
       "company": "Pentair",
       "title": "Product Management Leadership Development Internship Program - Summer 2027",
@@ -36,6 +62,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713"
+    },
+    {
+      "id": "9955155f-fd7c-4baa-8719-5eadf32a0f74",
+      "company": "Uline",
+      "title": "Business Intelligence Developer Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Pleasant Prairie, WI",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Uline&job=9955155f-fd7c-4baa-8719-5eadf32a0f74&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685"
+    },
+    {
+      "id": "402c63c2-dd0b-4036-9bb6-99e14d6efe81",
+      "company": "Uline",
+      "title": "Software Development Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Pleasant Prairie, WI",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Uline&job=402c63c2-dd0b-4036-9bb6-99e14d6efe81&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
+    },
+    {
+      "id": "253760e8-77e9-4a68-876c-1a07b1333f99",
+      "company": "Uline",
+      "title": "Product Management Internship - Summer 2027",
+      "category": "Product",
+      "location": "Pleasant Prairie, WI",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Uline&job=253760e8-77e9-4a68-876c-1a07b1333f99&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939"
     },
     {
       "id": "df50ce08-48f6-420c-a77c-a2dead3ccc65",
