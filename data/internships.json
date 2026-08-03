@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T00:15:25.532Z",
+  "updatedAt": "2026-08-03T00:30:24.532Z",
   "jobs": [
     {
       "id": "1f5fd872-b1ba-4de4-b446-4bd30c55aa4d",
@@ -1644,18 +1644,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Tencent&job=dac37234-62ee-4e67-9021-9f404ca83704&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872"
-    },
-    {
-      "id": "f0338af1-0cd3-4ad0-9e1f-be038bdeaa56",
-      "company": "Travelers",
-      "title": "Product Management Development Program (PMDP) Internship - Summer 2027",
-      "category": "Product",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-07-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=f0338af1-0cd3-4ad0-9e1f-be038bdeaa56&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214"
     }
   ]
 }
