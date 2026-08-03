@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-03T18:30:24.916Z",
+  "updatedAt": "2026-08-03T18:45:55.296Z",
   "jobs": [
+    {
+      "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
+      "company": "Microchip",
+      "title": "Intern-Engineering (Software Development)",
+      "category": "Software Engineering",
+      "location": "Houston - Compaq Center Dr, TX",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Microchip&job=6fce1d21-819b-4531-ba7a-bc737e69c6e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
+    },
+    {
+      "id": "5c671c52-2958-41fb-ad64-c84ceceaa87c",
+      "company": "Microchip",
+      "title": "Intern-Engineering (Firmware Development)",
+      "category": "Software Engineering",
+      "location": "Houston - Compaq Center Dr, TX",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
+    },
     {
       "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
