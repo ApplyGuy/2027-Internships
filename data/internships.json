@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:00:52.429Z",
+  "updatedAt": "2026-08-03T20:15:51.219Z",
   "jobs": [
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
@@ -50,6 +50,30 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
       "applySupported": false
+    },
+    {
+      "id": "d5226255-62fb-450b-981c-dc56e065d2fb",
+      "company": "Ntst",
+      "title": "Software Engineer Intern (Summer 2027 Internship)",
+      "category": "Software Engineering",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ntst&job=d5226255-62fb-450b-981c-dc56e065d2fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
+    },
+    {
+      "id": "b1568b63-dae5-4b2b-a034-a4a794b067e2",
+      "company": "Ntst",
+      "title": "Cloud Engineer Future  (Summer 2027 Internship)",
+      "category": "Software Engineering",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ntst&job=b1568b63-dae5-4b2b-a034-a4a794b067e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
     },
     {
       "id": "f1fb475a-6dd0-4b33-8b34-9266680c269d",
