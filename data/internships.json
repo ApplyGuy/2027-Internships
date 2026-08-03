@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:30:22.861Z",
+  "updatedAt": "2026-08-03T19:45:22.032Z",
   "jobs": [
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
@@ -24,6 +24,32 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "applySupported": false
     },
     {
       "id": "f1fb475a-6dd0-4b33-8b34-9266680c269d",
