@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T09:30:29.321Z",
+  "updatedAt": "2026-08-04T09:45:28.685Z",
   "jobs": [
     {
       "id": "custom:microsoft:1a75bbf16ed228cda7e2",
@@ -15,16 +15,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
       "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-08-04",
       "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
       "applySupported": false
     },
     {
@@ -41,16 +41,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
       "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-08-04",
       "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
       "applySupported": false
     },
     {
