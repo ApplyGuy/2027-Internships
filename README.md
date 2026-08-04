@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-147-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-152-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **147** active U.S. internships posted within the last **30 days**
+- **152** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 3, 2026, 6:15 PM PDT**
+- Last refresh: **Aug 3, 2026, 6:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,10 +22,15 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**128 open roles**
+**133 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
+| Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
+| Microsoft | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
+| Microsoft | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
+| Microsoft | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
 | CTC Campus - Website | Software Engineering Internship - Summer 2027 | Chicago, IL | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CTC+Campus+-+Website&job=7a9e0187-ee3f-4a09-bbf4-a4c073243be1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
 | Microchip | Intern-Engineering (Software Development) | Houston - Compaq Center Dr, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Microchip&job=6fce1d21-819b-4531-ba7a-bc737e69c6e0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) |
 | Microchip | Intern-Engineering (Firmware Development) | Houston - Compaq Center Dr, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) |
