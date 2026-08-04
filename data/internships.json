@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T12:00:27.979Z",
+  "updatedAt": "2026-08-04T12:15:58.088Z",
   "jobs": [
     {
       "id": "custom:microsoft:1a75bbf16ed228cda7e2",
@@ -65,6 +65,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "applySupported": false
+    },
+    {
+      "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
+      "company": "RTX",
+      "title": "Software Platform Internship (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Richardson, TX",
+      "season": "Summer 2027",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=49c3abab-438e-4d98-a80c-7d8a033ebd2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Internship--Summer-2027-_01863414"
     },
     {
       "id": "7502e13a-2c2b-4b32-a35e-754693fecccb",
