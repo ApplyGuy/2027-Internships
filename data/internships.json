@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:00:29.477Z",
+  "updatedAt": "2026-08-04T06:15:22.470Z",
   "jobs": [
     {
       "id": "custom:microsoft:1a75bbf16ed228cda7e2",
@@ -65,6 +65,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "applySupported": false
+    },
+    {
+      "id": "7502e13a-2c2b-4b32-a35e-754693fecccb",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7502e13a-2c2b-4b32-a35e-754693fecccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749"
     },
     {
       "id": "7a9e0187-ee3f-4a09-bbf4-a4c073243be1",
