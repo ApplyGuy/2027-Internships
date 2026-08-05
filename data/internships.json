@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:30:25.462Z",
+  "updatedAt": "2026-08-05T23:45:28.471Z",
   "jobs": [
     {
       "id": "4278e5ab-f1a7-4991-ab47-c0d3fa00e356",
@@ -440,6 +440,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Skydio&job=09722dcc-4a6e-4468-840a-2072d647c447&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf"
+    },
+    {
+      "id": "049c65cc-9a89-45ab-8568-c9d03df4ece7",
+      "company": "Pivotal",
+      "title": "Internship, GNC Engineering (Fall)",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Fall",
+      "posted": "2026-07-30",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"
     },
     {
       "id": "aefaebe9-adb0-46d2-9a46-eef8db01f999",
