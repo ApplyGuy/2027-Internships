@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T18:45:30.377Z",
+  "updatedAt": "2026-08-05T19:00:30.681Z",
   "jobs": [
     {
       "id": "4278e5ab-f1a7-4991-ab47-c0d3fa00e356",
@@ -1904,30 +1904,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e21efd08-2dc0-4fc5-a638-0df9f86edb46&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.janestreet.com/join-jane-street/apply/8599644002?gh_jid=8599644002"
-    },
-    {
-      "id": "8896a9c1-731f-4709-8b55-2b64186c9db7",
-      "company": "Jane Street",
-      "title": "Software Engineer — Winter Co-Op",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Winter",
-      "posted": "2026-07-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=8896a9c1-731f-4709-8b55-2b64186c9db7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.janestreet.com/join-jane-street/apply/8419303002?gh_jid=8419303002"
-    },
-    {
-      "id": "daf97094-9d4b-41d0-b3b9-80f8993cf273",
-      "company": "Jane Street",
-      "title": "Machine Learning Researcher — Summer Internship",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-07-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=daf97094-9d4b-41d0-b3b9-80f8993cf273&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002"
     }
   ]
 }
