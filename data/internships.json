@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:00:28.572Z",
+  "updatedAt": "2026-08-05T16:15:29.250Z",
   "jobs": [
     {
       "id": "4278e5ab-f1a7-4991-ab47-c0d3fa00e356",
@@ -26,6 +26,18 @@
       "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
     },
     {
+      "id": "4b859e34-d435-45ae-aa8e-7fdfbedd1483",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4b859e34-d435-45ae-aa8e-7fdfbedd1483&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
+    },
+    {
       "id": "bc091d03-d95a-4954-b269-1ca82145d575",
       "company": "RTX",
       "title": "Cyber/EW Research Developer, Intern (Onsite)",
@@ -36,18 +48,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=bc091d03-d95a-4954-b269-1ca82145d575&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
-    },
-    {
-      "id": "77787502-0180-4028-9fd6-2bfb6471ff27",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-05",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=77787502-0180-4028-9fd6-2bfb6471ff27&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1"
     },
     {
       "id": "1e145d9e-9d8f-4617-aea2-3f70ac31c567",
