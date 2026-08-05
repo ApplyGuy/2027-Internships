@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-05T01:15:26.841Z",
+  "updatedAt": "2026-08-05T01:30:54.447Z",
   "jobs": [
+    {
+      "id": "4278e5ab-f1a7-4991-ab47-c0d3fa00e356",
+      "company": "GDIT",
+      "title": "Summer 2027 Software Developer Internship",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Summer 2027",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=4278e5ab-f1a7-4991-ab47-c0d3fa00e356&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
+    },
     {
       "id": "bc091d03-d95a-4954-b269-1ca82145d575",
       "company": "RTX",
