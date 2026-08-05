@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:00:54.347Z",
+  "updatedAt": "2026-08-05T22:15:28.735Z",
   "jobs": [
     {
       "id": "4278e5ab-f1a7-4991-ab47-c0d3fa00e356",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
+    },
+    {
+      "id": "5d697427-9a27-4906-97fb-81be99147f49",
+      "company": "RTX",
+      "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
+      "category": "Software Engineering",
+      "location": "East Hartford, CT",
+      "season": "Fall 2026",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5d697427-9a27-4906-97fb-81be99147f49&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471"
     },
     {
       "id": "e43a5439-8de1-434e-93ba-d4be1025f449",
@@ -992,18 +1004,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=d22059a4-aa1d-4cfe-823d-4f1c6601bc18&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807"
-    },
-    {
-      "id": "d898d9fa-d8f1-4722-aa1c-67bd6ed1d28c",
-      "company": "RTX",
-      "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
-      "category": "Software Engineering",
-      "location": "East Hartford, CT",
-      "season": "Fall 2026",
-      "posted": "2026-07-20",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d898d9fa-d8f1-4722-aa1c-67bd6ed1d28c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050"
     },
     {
       "id": "23c5e711-8b9d-438b-89a4-6462f4744c98",
