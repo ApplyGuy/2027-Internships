@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T05:45:53.428Z",
+  "updatedAt": "2026-08-06T06:00:27.292Z",
   "jobs": [
     {
       "id": "217eb72e-34e6-4f50-884c-2bc9285fbcaa",
@@ -1904,18 +1904,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Caterpillar&job=7f823f50-7d80-4cd2-89aa-e66bae32887c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582"
-    },
-    {
-      "id": "07489166-9f26-48f0-85e1-1833c9026f22",
-      "company": "NVIDIA",
-      "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
-      "category": "Software Engineering",
-      "location": "Saint Louis, MO",
-      "season": "Fall 2026",
-      "posted": "2026-07-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=07489166-9f26-48f0-85e1-1833c9026f22&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     }
   ]
 }
