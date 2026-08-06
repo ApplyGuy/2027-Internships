@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T16:00:39.581Z",
+  "updatedAt": "2026-08-06T16:15:29.969Z",
   "jobs": [
     {
       "id": "217eb72e-34e6-4f50-884c-2bc9285fbcaa",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=217eb72e-34e6-4f50-884c-2bc9285fbcaa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1"
+    },
+    {
+      "id": "a0f32404-ff6f-402e-baf7-1eb97601807e",
+      "company": "Kbr",
+      "title": "Software Intern",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-08-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kbr&job=a0f32404-ff6f-402e-baf7-1eb97601807e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863"
     },
     {
       "id": "6c62a020-14d8-4db9-8ec7-172a10094ed2",
