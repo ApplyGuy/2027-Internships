@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-06T22:00:37.523Z",
+  "updatedAt": "2026-08-06T22:15:25.732Z",
   "jobs": [
+    {
+      "id": "693a6f3e-5c0c-4aa1-909f-e98172e426b5",
+      "company": "Centerfield",
+      "title": "Frontend Engineer Intern (6 month internship)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-08-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Centerfield&job=693a6f3e-5c0c-4aa1-909f-e98172e426b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"
+    },
     {
       "id": "217eb72e-34e6-4f50-884c-2bc9285fbcaa",
       "company": "GDIT",
