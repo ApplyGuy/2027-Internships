@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:00:41.067Z",
+  "updatedAt": "2026-08-07T06:15:40.876Z",
   "jobs": [
     {
       "id": "242e69c8-c839-41f4-abfb-0b0a6efc7d92",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=995713a0-8a3a-4e4c-8004-5044cb2034d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
+    },
+    {
+      "id": "74a77d6d-756f-4851-a034-d3dffca06ddd",
+      "company": "ODK Media",
+      "title": "QA & Usability Intern (Unpaid)",
+      "category": "Product",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ODK+Media&job=74a77d6d-756f-4851-a034-d3dffca06ddd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/5yHeiUZT89NpvTojroqADW/hybrid-qa-%26-usability-intern-(unpaid)-in-los-angeles-at-odk-media"
     },
     {
       "id": "bced95a1-b8e2-4de7-befd-c7cd5debb63e",
