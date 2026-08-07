@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:15:28.174Z",
+  "updatedAt": "2026-08-07T22:30:26.428Z",
   "jobs": [
     {
       "id": "ff169e00-dd1f-486d-8a0a-f47305aa983d",
@@ -2000,18 +2000,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Vital+Lyfe&job=b4cf1308-45c4-49a3-b34f-3ad0d6736a9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
-    },
-    {
-      "id": "4a397f1d-cd17-45ac-a84b-952fc44280ea",
-      "company": "Univision",
-      "title": "Co-Op, Product Manager - Personalization & New Experiences-Temp",
-      "category": "Product",
-      "location": "Miami, FL",
-      "season": "Co-op",
-      "posted": "2026-07-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Univision&job=4a397f1d-cd17-45ac-a84b-952fc44280ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://univision.wd1.myworkdayjobs.com/external/job/Miami-FL/Co-Op--Product-Manager---Personalization---New-Experiences-Temp_R020713"
     }
   ]
 }
