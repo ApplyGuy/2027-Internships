@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:30:25.317Z",
+  "updatedAt": "2026-08-07T18:45:43.401Z",
   "jobs": [
     {
       "id": "242e69c8-c839-41f4-abfb-0b0a6efc7d92",
@@ -216,6 +216,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=bc091d03-d95a-4954-b269-1ca82145d575&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
+    },
+    {
+      "id": "3f8d511d-1e9b-44e6-93c1-4ce36d385b38",
+      "company": "Belvedere Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-08-04",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=3f8d511d-1e9b-44e6-93c1-4ce36d385b38&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"
     },
     {
       "id": "1e145d9e-9d8f-4617-aea2-3f70ac31c567",
