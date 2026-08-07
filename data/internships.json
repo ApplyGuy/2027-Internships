@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:45:29.555Z",
+  "updatedAt": "2026-08-07T22:00:29.532Z",
   "jobs": [
     {
       "id": "ff169e00-dd1f-486d-8a0a-f47305aa983d",
@@ -73,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Securitymetrics&job=bced95a1-b8e2-4de7-befd-c7cd5debb63e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://securitymetrics.bamboohr.com/careers/212"
+    },
+    {
+      "id": "566d6ad0-b173-468c-863f-8e58bbd5c53b",
+      "company": "Spe",
+      "title": "Intern, Insights, Strategy & Analytics, Product Management – Data Science – Fall 2026",
+      "category": "Product",
+      "location": "Culver City, CA",
+      "season": "Fall 2026",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Spe&job=566d6ad0-b173-468c-863f-8e58bbd5c53b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spe.wd1.myworkdayjobs.com/sonypicturesentertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988"
     },
     {
       "id": "0bb930cf-2ec4-4506-8d04-935da0f34250",
