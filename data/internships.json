@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:00:32.665Z",
+  "updatedAt": "2026-08-07T20:15:56.471Z",
   "jobs": [
     {
       "id": "ff169e00-dd1f-486d-8a0a-f47305aa983d",
@@ -24,6 +24,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Kastle&job=242e69c8-c839-41f4-abfb-0b0a6efc7d92&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
     },
     {
       "id": "995713a0-8a3a-4e4c-8004-5044cb2034d2",
@@ -474,19 +487,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-08-03",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
     },
     {
       "id": "custom:microsoft:bd2e1c90c82a16ced04b",
