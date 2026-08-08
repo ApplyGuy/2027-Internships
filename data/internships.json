@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:00:28.047Z",
+  "updatedAt": "2026-08-08T13:15:56.340Z",
   "jobs": [
     {
       "id": "65ac9849-808d-4222-b0f1-b90194809103",
@@ -2000,18 +2000,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7958264f-6003-4f59-9efa-9fe0d7dbad3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103"
-    },
-    {
-      "id": "abf855f8-2895-498d-8940-878c93b252e2",
-      "company": "CACI",
-      "title": "Software Engineering Intern - Fall 2026",
-      "category": "Software Engineering",
-      "location": "Jessup, MD",
-      "season": "Fall 2026",
-      "posted": "2026-07-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=abf855f8-2895-498d-8940-878c93b252e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740"
     }
   ]
 }
