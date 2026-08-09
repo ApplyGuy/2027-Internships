@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:00:45.011Z",
+  "updatedAt": "2026-08-09T22:15:28.809Z",
   "jobs": [
     {
       "id": "65ac9849-808d-4222-b0f1-b90194809103",
@@ -1867,30 +1867,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=d093ea58-0bdd-4455-bab9-c80c7647fc21&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
-    },
-    {
-      "id": "d271d6e4-bbb4-4de6-ba77-b50ae47b65a8",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-07-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=d271d6e4-bbb4-4de6-ba77-b50ae47b65a8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105"
-    },
-    {
-      "id": "7958264f-6003-4f59-9efa-9fe0d7dbad3f",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-07-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7958264f-6003-4f59-9efa-9fe0d7dbad3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103"
     }
   ]
 }
