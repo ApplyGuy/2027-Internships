@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:45:42.831Z",
+  "updatedAt": "2026-08-09T03:00:32.219Z",
   "jobs": [
     {
       "id": "65ac9849-808d-4222-b0f1-b90194809103",
@@ -413,19 +413,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-08-04",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:422cce84ab8a91a0d7ce",
       "company": "Microsoft",
       "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
@@ -449,6 +436,19 @@
       "age": "5d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
       "applySupported": false
     },
     {
