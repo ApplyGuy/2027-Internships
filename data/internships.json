@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:30:46.402Z",
+  "updatedAt": "2026-08-09T19:45:29.710Z",
   "jobs": [
     {
       "id": "65ac9849-808d-4222-b0f1-b90194809103",
@@ -1831,30 +1831,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=CSBio&job=db772e87-8786-49f8-b23c-5c2cace44334&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/4b8cti3EET1LXfxv1NkS8A/ai-software-engineering-intern-in-menlo-park-at-csbio"
-    },
-    {
-      "id": "10df12e8-ae5c-4c57-88a4-ffb0f9449715",
-      "company": "Exowatt",
-      "title": "Software Engineering Intern  - Inventory Automation & IoT/Robotics",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-07-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Exowatt&job=10df12e8-ae5c-4c57-88a4-ffb0f9449715&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
-    },
-    {
-      "id": "76db5bf4-7ca6-4973-86cc-31934ef391fe",
-      "company": "Exowatt",
-      "title": "Software Engineering Intern - Agent Platform (AI)",
-      "category": "Software Engineering",
-      "location": "Miami, FL",
-      "season": "Not specified",
-      "posted": "2026-07-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Exowatt&job=76db5bf4-7ca6-4973-86cc-31934ef391fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c"
     },
     {
       "id": "07f0b931-47be-47af-a8ad-3ab7ca03d43e",
