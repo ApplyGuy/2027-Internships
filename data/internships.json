@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:45:50.665Z",
+  "updatedAt": "2026-08-10T21:00:22.275Z",
   "jobs": [
     {
       "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hiebing&job=89b04f94-34d4-4ddd-8e03-02597f775111&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hiebing.applytojob.com/apply/GYiQqWe8cL"
+    },
+    {
+      "id": "44d6c8fa-9da2-454e-9a9d-5a227459cacb",
+      "company": "Rlicorp",
+      "title": "Product Management Intern- Honolulu, HI",
+      "category": "Product",
+      "location": "Honolulu, HI",
+      "season": "Not specified",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"
+    },
+    {
+      "id": "40c2eb69-e179-4c37-b2b5-2e3ee0e85961",
+      "company": "Rockwellautomation",
+      "title": "Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027)",
+      "category": "Software Engineering",
+      "location": "Mayfield Heights, OH",
+      "season": "Spring 2027",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=40c2eb69-e179-4c37-b2b5-2e3ee0e85961&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473"
     },
     {
       "id": "f3db7fbd-ef14-449d-b240-6716d5cee8f5",
