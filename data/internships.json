@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-10T23:00:16.827Z",
+  "updatedAt": "2026-08-10T23:15:14.876Z",
   "jobs": [
+    {
+      "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
+      "company": "Chamberlain",
+      "title": "Intern, Community Product Management (Summer 2027)",
+      "category": "Product",
+      "location": "Oak Brook, IL",
+      "season": "Summer 2027",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
+    },
     {
       "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
       "company": "Figma",
