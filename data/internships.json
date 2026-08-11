@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-11T01:30:28.820Z",
+  "updatedAt": "2026-08-11T01:45:38.421Z",
   "jobs": [
+    {
+      "id": "846103b3-92af-4785-a848-0137154bd765",
+      "company": "Kpm",
+      "title": "Embedded Software Engineer — Internship",
+      "category": "Software Engineering",
+      "location": "Westborough, MA",
+      "season": "Not specified",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kpm&job=846103b3-92af-4785-a848-0137154bd765&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kpm.bamboohr.com/careers/123"
+    },
     {
       "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
       "company": "Chamberlain",
@@ -12,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
+    },
+    {
+      "id": "9b945b34-e6c5-4126-9f85-393cb9651385",
+      "company": "DV Trading",
+      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Summer 2027",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=9b945b34-e6c5-4126-9f85-393cb9651385&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
     },
     {
       "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
