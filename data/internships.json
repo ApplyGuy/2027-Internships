@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T06:30:48.698Z",
+  "updatedAt": "2026-08-11T06:45:25.971Z",
   "jobs": [
     {
       "id": "846103b3-92af-4785-a848-0137154bd765",
@@ -684,6 +684,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=HPR&job=1f5fd872-b1ba-4de4-b446-4bd30c55aa4d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
+    },
+    {
+      "id": "38e8bb6f-831e-4fc8-8a79-589297931bea",
+      "company": "CWILL",
+      "title": "Bilingual Mandarin R&D Trainee - Full-Stack Engineer (Backend）",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-07-31",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=CWILL&job=38e8bb6f-831e-4fc8-8a79-589297931bea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/kX4EA86ewjjZgv6J4Q8ntZ/remote-bilingual-mandarin-r%26d-trainee---full-stack-engineer-(backend%EF%BC%89-in-cary-at-cwill"
     },
     {
       "id": "411fb40e-4856-42c3-9ceb-23b3faac4172",
