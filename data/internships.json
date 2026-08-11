@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T20:30:13.435Z",
+  "updatedAt": "2026-08-11T20:45:17.579Z",
   "jobs": [
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OpusClip&job=73a61ac8-21e2-460f-af95-db37ab6d6c8c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea"
+    },
+    {
+      "id": "5be2c855-d823-4c04-89bb-f872eda58b18",
+      "company": "PathAI",
+      "title": "Software Engineering Co-op: September - December 2026",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "2026",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PathAI&job=5be2c855-d823-4c04-89bb-f872eda58b18&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
     },
     {
       "id": "65ddf1b1-7d9c-4ac5-90be-054fb00b1fef",
@@ -636,6 +648,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+    },
+    {
+      "id": "custom:microsoft:a25f6353594636fff77c",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "applySupported": false
     },
     {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
