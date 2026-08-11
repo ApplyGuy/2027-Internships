@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-08-11T16:45:13.062Z",
+  "updatedAt": "2026-08-11T17:00:46.541Z",
   "jobs": [
+    {
+      "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
+      "company": "Analytic Partners",
+      "title": "Software Engineer Co-Op | Georgia Tech",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Co-op",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=17f2310a-4b24-4d38-85ba-72a936489c54&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650"
+    },
+    {
+      "id": "cf330bf6-987d-4bea-b9f4-e45f6c4e967a",
+      "company": "Analytic Partners",
+      "title": "Software Engineer Co-Op | Northeastern University",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Co-op",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=cf330bf6-987d-4bea-b9f4-e45f6c4e967a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688"
+    },
+    {
+      "id": "451d00c8-15a6-408d-8b53-928f151fc9af",
+      "company": "Analytic Partners",
+      "title": "Software Engineer Co-Op | McGill University",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Co-op",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=451d00c8-15a6-408d-8b53-928f151fc9af&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54"
+    },
+    {
+      "id": "b1207ca1-e79a-4b6e-a98e-54394d33301c",
+      "company": "Analytic Partners",
+      "title": "Software Engineer Co-Op | University of Toronto",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Co-op",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=b1207ca1-e79a-4b6e-a98e-54394d33301c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9"
+    },
+    {
+      "id": "fc9bff1b-2f7b-493e-ac1f-d01aa9038aab",
+      "company": "Analytic Partners",
+      "title": "Software Engineer Co-Op | University of Waterloo",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Co-op",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b"
+    },
     {
       "id": "aa8c84b3-3941-4160-959c-c87d2b2399e8",
       "company": "Kimley Horn",
@@ -564,19 +624,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
-    },
-    {
-      "id": "custom:microsoft:a25f6353594636fff77c",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-08-04",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "applySupported": false
     },
     {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
