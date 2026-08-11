@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:00:46.541Z",
+  "updatedAt": "2026-08-11T17:15:13.649Z",
   "jobs": [
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b"
+    },
+    {
+      "id": "773c9706-9df3-4e82-94a8-caa605c522b5",
+      "company": "Foxconn Industrial Internet",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://foxconnggroup.applytojob.com/apply/xf0soVofyI"
     },
     {
       "id": "aa8c84b3-3941-4160-959c-c87d2b2399e8",
@@ -624,6 +636,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+    },
+    {
+      "id": "custom:microsoft:a25f6353594636fff77c",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "applySupported": false
     },
     {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
