@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:00:26.874Z",
+  "updatedAt": "2026-08-11T03:15:29.598Z",
   "jobs": [
     {
       "id": "846103b3-92af-4785-a848-0137154bd765",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OpusClip&job=73a61ac8-21e2-460f-af95-db37ab6d6c8c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea"
+    },
+    {
+      "id": "65ddf1b1-7d9c-4ac5-90be-054fb00b1fef",
+      "company": "Rockwellautomation",
+      "title": "Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027)",
+      "category": "Software Engineering",
+      "location": "Mayfield Heights, OH",
+      "season": "Spring 2027",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=65ddf1b1-7d9c-4ac5-90be-054fb00b1fef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
     },
     {
       "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
@@ -96,18 +108,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"
-    },
-    {
-      "id": "40c2eb69-e179-4c37-b2b5-2e3ee0e85961",
-      "company": "Rockwellautomation",
-      "title": "Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027)",
-      "category": "Software Engineering",
-      "location": "Mayfield Heights, OH",
-      "season": "Spring 2027",
-      "posted": "2026-08-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=40c2eb69-e179-4c37-b2b5-2e3ee0e85961&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473"
     },
     {
       "id": "f3db7fbd-ef14-449d-b240-6716d5cee8f5",
