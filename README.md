@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-169-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-168-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **169** active U.S. internships posted within the last **30 days**
+- **168** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 11, 2026, 2:00 PM PDT**
+- Last refresh: **Aug 11, 2026, 2:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**149 open roles**
+**148 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -75,7 +75,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, IL | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Belvedere+Trading&job=3f8d511d-1e9b-44e6-93c1-4ce36d385b38&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
 | Clarity Partners LLC | Salesforce Developer Internship | Chicago, IL | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=1e145d9e-9d8f-4617-aea2-3f70ac31c567&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4390893) |
 | Diversified Automation | Software Engineering Co-op | Louisville, KY | Co-op | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) |
-| Microsoft | Research Intern - Firmware Security | United States, Washington, Redmond | — | 7d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556955518) |
 | RTX | Software Platform Internship (Summer 2027) | Richardson, TX | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=49c3abab-438e-4d98-a80c-7d8a033ebd2f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Internship--Summer-2027-_01863414) |
 | RTX | Software Engineering  Intern (Summer 2027) | Remote, U.S. | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=7502e13a-2c2b-4b32-a35e-754693fecccb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) |
 | CTC Campus - Website | Software Engineering Internship - Summer 2027 | Chicago, IL | Summer 2027 | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CTC+Campus+-+Website&job=7a9e0187-ee3f-4a09-bbf4-a4c073243be1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
@@ -121,7 +120,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | HP | Software Engineering Intern, Device Experiences | San Francisco, CA | — | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166) |
 | Massey Services | BI Software Engineer Intern - Orlando | Orlando, FL | — | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Massey+Services&job=4e4a76bf-d611-40e0-8776-7de03e723649&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR103623) |
 | Axon | RenderATL 2026 US Firmware Engineering Internship | Seattle, WA | 2026 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Axon&job=d944d568-6569-42b9-8f64-66d335c87a0f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
-| Axon | RenderATL 2026 US Software Engineering Internship | Seattle, WA | 2026 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Axon&job=810af19f-a0e7-4535-8142-b4863f8c0ad7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
+| Axon | RenderATL 2027 US Software Engineering Internship | Seattle, WA | 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Axon&job=810af19f-a0e7-4535-8142-b4863f8c0ad7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
 | Bild AI | AI/SWE Intern | San Francisco, CA | — | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bild+AI&job=394e6325-35f0-4acd-9083-c75b82e476ae&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) |
 | Gritt Robotics Inc | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA | — | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gritt+Robotics+Inc&job=efb7914e-3f2e-4c00-a510-0a226b8407aa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) |
 | Jane Street | Windows Engineer — Summer Internship | New York City, NY | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jane+Street&job=e48f5863-bfea-4b96-aa00-334f00485a57&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.janestreet.com/join-jane-street/apply/8628843002?gh_jid=8628843002) |
