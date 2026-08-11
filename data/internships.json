@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T23:15:12.688Z",
+  "updatedAt": "2026-08-11T23:30:15.799Z",
   "jobs": [
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://foxconnggroup.applytojob.com/apply/xf0soVofyI"
+    },
+    {
+      "id": "4fd6a859-996e-4997-9427-63ec85b0fc1e",
+      "company": "HP",
+      "title": "Enterprise Operations Software Internship",
+      "category": "Software Engineering",
+      "location": "Spring, TX",
+      "season": "Not specified",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=4fd6a859-996e-4997-9427-63ec85b0fc1e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2"
     },
     {
       "id": "aa8c84b3-3941-4160-959c-c87d2b2399e8",
@@ -648,6 +660,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+    },
+    {
+      "id": "custom:microsoft:a25f6353594636fff77c",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-08-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "applySupported": false
     },
     {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
