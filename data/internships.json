@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:30:30.304Z",
+  "updatedAt": "2026-08-12T20:45:21.564Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HP&job=95ad5873-4d31-4a9a-b809-9649b7d92cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-1"
+    },
+    {
+      "id": "8d32474f-24a1-4933-af46-3e3a1daecef8",
+      "company": "Maverick Software Consulting",
+      "title": "Minnesota State University-Mankato -- Software Engineer Intern 2026",
+      "category": "Software Engineering",
+      "location": "Mankato, MN",
+      "season": "2026",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Maverick+Software+Consulting&job=8d32474f-24a1-4933-af46-3e3a1daecef8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mavericksoftware.bamboohr.com/careers/46"
     },
     {
       "id": "dc5a807c-81ad-46aa-af9d-09482de98721",
