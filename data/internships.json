@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:15:31.518Z",
+  "updatedAt": "2026-08-12T21:30:30.146Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=389b30e4-b128-4d65-b673-ae1f7957677c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
+    },
+    {
+      "id": "7ca23dfb-7781-4c2b-83f4-5a15acbac9bc",
+      "company": "Spaceworksgo",
+      "title": "Aerospace Software Sales Intern - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Spring 2027",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Spaceworksgo&job=7ca23dfb-7781-4c2b-83f4-5a15acbac9bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spaceworksgo.bamboohr.com/careers/158"
     },
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
