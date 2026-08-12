@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:30:29.242Z",
+  "updatedAt": "2026-08-12T15:45:19.344Z",
   "jobs": [
     {
       "id": "95ad5873-4d31-4a9a-b809-9649b7d92cd8",
@@ -660,19 +660,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
-    },
-    {
-      "id": "custom:microsoft:a25f6353594636fff77c",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-08-04",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "applySupported": false
     },
     {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
@@ -1993,18 +1980,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=c7102bb4-ff27-499c-8f3a-e19f4f8e55b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
-    },
-    {
-      "id": "4b0b0535-7a39-4636-b6c8-c993bf61d2f1",
-      "company": "Hudson River Trading",
-      "title": "Software Engineering Internship (C++ or Python) – Summer 2027",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-07-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=4b0b0535-7a39-4636-b6c8-c993bf61d2f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     }
   ]
 }
