@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:45:36.636Z",
+  "updatedAt": "2026-08-12T02:00:26.356Z",
   "jobs": [
     {
       "id": "95ad5873-4d31-4a9a-b809-9649b7d92cd8",
@@ -662,19 +662,6 @@
       "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
     },
     {
-      "id": "custom:microsoft:a25f6353594636fff77c",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-08-04",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "applySupported": false
-    },
-    {
       "id": "49c3abab-438e-4d98-a80c-7d8a033ebd2f",
       "company": "RTX",
       "title": "Software Platform Internship (Summer 2027)",
@@ -853,6 +840,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=HPR&job=1f5fd872-b1ba-4de4-b446-4bd30c55aa4d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
+    },
+    {
+      "id": "c3fb9767-dc11-45ac-983f-5963571c010c",
+      "company": "Sentry",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-01",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Sentry&job=c3fb9767-dc11-45ac-983f-5963571c010c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
     },
     {
       "id": "38e8bb6f-831e-4fc8-8a79-589297931bea",
