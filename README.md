@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-166-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-163-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **166** active U.S. internships posted within the last **30 days**
+- **163** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 12, 2026, 11:15 AM PDT**
+- Last refresh: **Aug 12, 2026, 11:30 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**147 open roles**
+**144 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -170,9 +170,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | U.S. Bank | Mainframe Software Engineering Apprentice 2 | Hopkins, MN | Apprenticeship | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=eec1b0ae-0cc1-4135-b2e1-26cea1f8a333&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Mainframe-Software-Engineering-Apprentice-2_2026-0020641) |
 | VetsEZ | Full Stack Developer Intern (Remote Opportunity) | Remote, U.S. | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=VetsEZ&job=49998318-aaca-48e9-aca8-b248e404aecd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://vetsez.breezy.hr/p/dc09a81a7b0801-full-stack-developer-intern-remote-opportunity) |
 | Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Akuna+Capital&job=cd03890d-6b23-4e6a-98c2-c5478ecca87c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
-| Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Akuna+Capital&job=3136c06b-556a-447c-ae27-27e2ad636df9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
-| Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Akuna+Capital&job=1778066f-8b6a-4f55-ab4b-8cbfbcb08010&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
-| Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Akuna+Capital&job=c7102bb4-ff27-499c-8f3a-e19f4f8e55b6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
 
 ## Product Management Internships
 
