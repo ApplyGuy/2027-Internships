@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:45:15.080Z",
+  "updatedAt": "2026-08-12T20:00:13.553Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Americanfidelity&job=c4e9f081-e566-4554-a903-0f074de85376&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005"
+    },
+    {
+      "id": "0eecf979-3406-4a4c-aef4-5f327ffb8d07",
+      "company": "Assured Guaranty",
+      "title": "Fall 2026 Intern - Product Software Developer",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Fall 2026",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Assured+Guaranty&job=0eecf979-3406-4a4c-aef4-5f327ffb8d07&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"
     },
     {
       "id": "95ad5873-4d31-4a9a-b809-9649b7d92cd8",
