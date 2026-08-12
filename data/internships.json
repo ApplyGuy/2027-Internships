@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:15:13.932Z",
+  "updatedAt": "2026-08-12T18:30:28.482Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -1956,42 +1956,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=cd03890d-6b23-4e6a-98c2-c5478ecca87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
-    },
-    {
-      "id": "3136c06b-556a-447c-ae27-27e2ad636df9",
-      "company": "Akuna Capital",
-      "title": "Software Engineer Intern - Python, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=3136c06b-556a-447c-ae27-27e2ad636df9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
-    },
-    {
-      "id": "1778066f-8b6a-4f55-ab4b-8cbfbcb08010",
-      "company": "Akuna Capital",
-      "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=1778066f-8b6a-4f55-ab4b-8cbfbcb08010&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
-    },
-    {
-      "id": "c7102bb4-ff27-499c-8f3a-e19f4f8e55b6",
-      "company": "Akuna Capital",
-      "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=c7102bb4-ff27-499c-8f3a-e19f4f8e55b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
     }
   ]
 }
