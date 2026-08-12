@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:30:18.074Z",
+  "updatedAt": "2026-08-12T19:45:15.080Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dc5a807c-81ad-46aa-af9d-09482de98721&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
+    },
+    {
+      "id": "102dbf05-fa6b-41b3-bc88-befae3883d8c",
+      "company": "RTX",
+      "title": "Summer 2027  Software Intern_OnSite",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=102dbf05-fa6b-41b3-bc88-befae3883d8c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160"
     },
     {
       "id": "389b30e4-b128-4d65-b673-ae1f7957677c",
