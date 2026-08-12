@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:30:28.482Z",
+  "updatedAt": "2026-08-12T18:45:41.666Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -1944,18 +1944,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=VetsEZ&job=49998318-aaca-48e9-aca8-b248e404aecd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://vetsez.breezy.hr/p/dc09a81a7b0801-full-stack-developer-intern-remote-opportunity"
-    },
-    {
-      "id": "cd03890d-6b23-4e6a-98c2-c5478ecca87c",
-      "company": "Akuna Capital",
-      "title": "Software Engineer Intern - C++, Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=cd03890d-6b23-4e6a-98c2-c5478ecca87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
     }
   ]
 }
