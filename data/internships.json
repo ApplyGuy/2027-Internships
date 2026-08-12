@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:15:32.940Z",
+  "updatedAt": "2026-08-12T17:30:44.250Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dc5a807c-81ad-46aa-af9d-09482de98721&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
+    },
+    {
+      "id": "389b30e4-b128-4d65-b673-ae1f7957677c",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=389b30e4-b128-4d65-b673-ae1f7957677c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
     },
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
@@ -612,18 +624,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e43a5439-8de1-434e-93ba-d4be1025f449&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01864017"
-    },
-    {
-      "id": "4b859e34-d435-45ae-aa8e-7fdfbedd1483",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-05",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4b859e34-d435-45ae-aa8e-7fdfbedd1483&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
     },
     {
       "id": "bc091d03-d95a-4954-b269-1ca82145d575",
