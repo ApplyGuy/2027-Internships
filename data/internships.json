@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:15:27.468Z",
+  "updatedAt": "2026-08-13T22:30:10.463Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -12,6 +12,78 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Copart&job=fbd916de-7c63-44b5-b414-e0b880aef91d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890"
+    },
+    {
+      "id": "ff08f8ae-846d-4e0a-a956-915edc973ae4",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Herndon, VA",
+      "season": "Spring 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=ff08f8ae-846d-4e0a-a956-915edc973ae4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/sPUQYcZd7YrUmJ7iigSZax/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-herndon-at-cynet-corp"
+    },
+    {
+      "id": "e9cca0a5-ab42-4618-9372-9d2b079fa49a",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Leesburg, VA",
+      "season": "Spring 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=e9cca0a5-ab42-4618-9372-9d2b079fa49a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/q4SJsdcnyaMXi4cBiM7GLE/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-leesburg-at-cynet-corp"
+    },
+    {
+      "id": "24c3aa49-958e-43b3-bb35-ac84644992b1",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Spring 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=24c3aa49-958e-43b3-bb35-ac84644992b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/j6afuGpvTpP1etNx9MLMrB/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-sterling-at-cynet-corp"
+    },
+    {
+      "id": "04d5624d-60b8-46b4-b774-7197c1a61dba",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
+      "category": "Software Engineering",
+      "location": "Herndon, VA",
+      "season": "Fall 2026",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=04d5624d-60b8-46b4-b774-7197c1a61dba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/ojjAeatXrSRYrrJELfxy3o/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-herndon-at-cynet-corp"
+    },
+    {
+      "id": "a1c6aeac-ae49-4a2b-8c2b-2bf5ffd19ef1",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
+      "category": "Software Engineering",
+      "location": "Leesburg, VA",
+      "season": "Fall 2026",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=a1c6aeac-ae49-4a2b-8c2b-2bf5ffd19ef1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/jhH6GsA15TcuBGDWzbvHvN/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-leesburg-at-cynet-corp"
+    },
+    {
+      "id": "64530570-fd97-4f6e-9c4a-741c0fb002c4",
+      "company": "Cynet Corp",
+      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Fall 2026",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=64530570-fd97-4f6e-9c4a-741c0fb002c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/479z3gNM4Bm35t6agCh8zV/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-sterling-at-cynet-corp"
     },
     {
       "id": "2f6fe88b-7bc3-4100-974b-778e50fc38cf",
