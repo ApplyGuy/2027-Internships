@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T07:45:49.133Z",
+  "updatedAt": "2026-08-13T08:00:26.458Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Copart&job=fbd916de-7c63-44b5-b414-e0b880aef91d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890"
+    },
+    {
+      "id": "2f6fe88b-7bc3-4100-974b-778e50fc38cf",
+      "company": "Exa",
+      "title": "Software Engineer, Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Exa&job=2f6fe88b-7bc3-4100-974b-778e50fc38cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
     },
     {
       "id": "4151b06a-8d00-473f-8fe3-a4c6c66bc68d",
