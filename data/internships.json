@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:45:28.732Z",
+  "updatedAt": "2026-08-13T20:00:13.421Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=4151b06a-8d00-473f-8fe3-a4c6c66bc68d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+    },
+    {
+      "id": "7bbcc238-dd1f-462f-a655-47ed70f1501a",
+      "company": "RTX",
+      "title": "Software Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Annapolis, MD",
+      "season": "Summer 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7bbcc238-dd1f-462f-a655-47ed70f1501a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370"
     },
     {
       "id": "63196e87-94ac-4bb6-9659-243304b5bdfa",
