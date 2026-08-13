@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:15:30.219Z",
+  "updatedAt": "2026-08-13T13:30:45.565Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -2004,18 +2004,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=ed35047b-9a71-476d-a67a-708577650a88&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
-    },
-    {
-      "id": "49998318-aaca-48e9-aca8-b248e404aecd",
-      "company": "VetsEZ",
-      "title": "Full Stack Developer Intern (Remote Opportunity)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-07-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=VetsEZ&job=49998318-aaca-48e9-aca8-b248e404aecd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://vetsez.breezy.hr/p/dc09a81a7b0801-full-stack-developer-intern-remote-opportunity"
     }
   ]
 }
