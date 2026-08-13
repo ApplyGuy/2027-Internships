@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:16:09.937Z",
+  "updatedAt": "2026-08-13T21:30:08.401Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Exa&job=2f6fe88b-7bc3-4100-974b-778e50fc38cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
+    },
+    {
+      "id": "fe327399-f484-4cf2-acfb-5461106bf168",
+      "company": "Flir",
+      "title": "NHRC Software Engineering Internship (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Flir&job=fe327399-f484-4cf2-acfb-5461106bf168&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
     },
     {
       "id": "4151b06a-8d00-473f-8fe3-a4c6c66bc68d",
@@ -384,18 +396,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
-    },
-    {
-      "id": "a1932da2-232e-4400-86af-2067b5c56981",
-      "company": "Flir",
-      "title": "NHRC Software Engineering Internship (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Flir&job=a1932da2-232e-4400-86af-2067b5c56981&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flirconfidential/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194"
     },
     {
       "id": "89b04f94-34d4-4ddd-8e03-02597f775111",
