@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:45:15.072Z",
+  "updatedAt": "2026-08-13T21:00:08.180Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -1980,18 +1980,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=da454023-d04b-4f4f-ba03-eec1ab969797&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"
-    },
-    {
-      "id": "ed35047b-9a71-476d-a67a-708577650a88",
-      "company": "Formlabs",
-      "title": "Test Software - Manufacturing Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Fall 2026",
-      "posted": "2026-07-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=ed35047b-9a71-476d-a67a-708577650a88&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
     }
   ]
 }
