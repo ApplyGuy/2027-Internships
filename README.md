@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-165-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-171-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **165** active U.S. internships posted within the last **30 days**
+- **171** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 13, 2026, 3:15 PM PDT**
+- Last refresh: **Aug 13, 2026, 3:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,10 +22,16 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**146 open roles**
+**152 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Spring 2027) | Herndon, VA | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=ff08f8ae-846d-4e0a-a956-915edc973ae4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/sPUQYcZd7YrUmJ7iigSZax/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-herndon-at-cynet-corp) |
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Spring 2027) | Leesburg, VA | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=e9cca0a5-ab42-4618-9372-9d2b079fa49a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/q4SJsdcnyaMXi4cBiM7GLE/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-leesburg-at-cynet-corp) |
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Spring 2027) | Sterling, VA | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=24c3aa49-958e-43b3-bb35-ac84644992b1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/j6afuGpvTpP1etNx9MLMrB/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-sterling-at-cynet-corp) |
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Fall 2026) | Herndon, VA | Fall 2026 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=04d5624d-60b8-46b4-b774-7197c1a61dba&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/ojjAeatXrSRYrrJELfxy3o/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-herndon-at-cynet-corp) |
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Fall 2026) | Leesburg, VA | Fall 2026 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=a1c6aeac-ae49-4a2b-8c2b-2bf5ffd19ef1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/jhH6GsA15TcuBGDWzbvHvN/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-leesburg-at-cynet-corp) |
+| Cynet Corp | Software Engineering Intern - Artificial Intelligence (Fall 2026) | Sterling, VA | Fall 2026 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cynet+Corp&job=64530570-fd97-4f6e-9c4a-741c0fb002c4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/479z3gNM4Bm35t6agCh8zV/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-sterling-at-cynet-corp) |
 | Exa | Software Engineer, Intern | San Francisco, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Exa&job=2f6fe88b-7bc3-4100-974b-778e50fc38cf&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
 | Flir | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Flir&job=fe327399-f484-4cf2-acfb-5461106bf168&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) |
 | Gevernova | Engineering Intern - Power Conversion & Storage AI Tool Developer  2027 | Niskayuna, NY | 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gevernova&job=4151b06a-8d00-473f-8fe3-a4c6c66bc68d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) |
