@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-13T05:30:41.705Z",
+  "updatedAt": "2026-08-13T05:45:29.544Z",
   "jobs": [
+    {
+      "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
+      "company": "Copart",
+      "title": "Technology Product Analyst Intern",
+      "category": "Product",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=fbd916de-7c63-44b5-b414-e0b880aef91d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890"
+    },
     {
       "id": "4151b06a-8d00-473f-8fe3-a4c6c66bc68d",
       "company": "Gevernova",
@@ -1332,18 +1344,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Axogen&job=dce006db-2f24-410a-9c17-3c6d0d2ba891&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002"
-    },
-    {
-      "id": "90a8ef83-a3ff-43e1-858b-abd4ebc9a861",
-      "company": "Copart",
-      "title": "Technology Product Analyst Intern",
-      "category": "Product",
-      "location": "Dallas, TX",
-      "season": "Not specified",
-      "posted": "2026-07-23",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Copart&job=90a8ef83-a3ff-43e1-858b-abd4ebc9a861&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078"
     },
     {
       "id": "b214e140-9684-404b-85c4-83986aa80c2a",
