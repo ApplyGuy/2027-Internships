@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:30:45.565Z",
+  "updatedAt": "2026-08-13T13:45:41.303Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=4151b06a-8d00-473f-8fe3-a4c6c66bc68d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+    },
+    {
+      "id": "63196e87-94ac-4bb6-9659-243304b5bdfa",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Tewksbury, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=63196e87-94ac-4bb6-9659-243304b5bdfa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineering-Intern--Summer-2027-_01866838"
     },
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
