@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:30:37.471Z",
+  "updatedAt": "2026-08-13T10:45:32.416Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -132,6 +132,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=389b30e4-b128-4d65-b673-ae1f7957677c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
+    },
+    {
+      "id": "2e864732-90ce-4e73-a6f5-65ee2cc1f454",
+      "company": "Security Risk Advisors",
+      "title": "DevOps Engineering Generalist Co-op",
+      "category": "Software Engineering",
+      "location": "Rochester, NY",
+      "season": "Co-op",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Security+Risk+Advisors&job=2e864732-90ce-4e73-a6f5-65ee2cc1f454&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"
     },
     {
       "id": "7ca23dfb-7781-4c2b-83f4-5a15acbac9bc",
