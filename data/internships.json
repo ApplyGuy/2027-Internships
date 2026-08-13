@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T00:15:14.533Z",
+  "updatedAt": "2026-08-13T00:30:19.515Z",
   "jobs": [
     {
       "id": "c4e9f081-e566-4554-a903-0f074de85376",
@@ -1956,18 +1956,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=ed35047b-9a71-476d-a67a-708577650a88&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
-    },
-    {
-      "id": "87fe4514-bb9a-4341-81e0-bceef7fb8fe0",
-      "company": "Jane Street",
-      "title": "Data Engineer — Summer Internship",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-07-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Jane+Street&job=87fe4514-bb9a-4341-81e0-bceef7fb8fe0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002"
     },
     {
       "id": "eec1b0ae-0cc1-4135-b2e1-26cea1f8a333",
