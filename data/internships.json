@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:45:30.480Z",
+  "updatedAt": "2026-08-14T20:00:27.462Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -1932,18 +1932,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tencent&job=94d6ea7b-983a-4927-b933-13b957e2fd50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794"
-    },
-    {
-      "id": "1652a529-ac47-473b-b12b-5366ffb97539",
-      "company": "Nebo",
-      "title": "Front-End Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Atlanta, GA",
-      "season": "Not specified",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nebo&job=1652a529-ac47-473b-b12b-5366ffb97539&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://neboagency.applytojob.com/apply/TtGKnP4ODV"
     },
     {
       "id": "826da19e-e120-4dd8-94a2-a05ebd2df779",
