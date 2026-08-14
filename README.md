@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-166-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-164-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **166** active U.S. internships posted within the last **30 days**
+- **164** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 14, 2026, 10:45 AM PDT**
+- Last refresh: **Aug 14, 2026, 11:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**146 open roles**
+**144 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -169,9 +169,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Tencent | Cloud Media Services Intern | Bellevue, WA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tencent&job=94d6ea7b-983a-4927-b933-13b957e2fd50&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
 | HEALTHPEAK PROPERTIES, INC. | Forward Deployed Software Engineer Internship | Irvine, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HEALTHPEAK+PROPERTIES%2C+INC.&job=4980d11b-ff71-4eeb-9cb3-de8fccad12db&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://healthpeak.applytojob.com/apply/U3DSnosY5g) |
 | Nebo | Front-End Engineering Intern | Atlanta, GA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nebo&job=1652a529-ac47-473b-b12b-5366ffb97539&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://neboagency.applytojob.com/apply/TtGKnP4ODV) |
-| Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Old+Mission&job=dd63a0a1-0487-4f35-b723-019a9dbe3886&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | Stellar Science | Scientific Software Developer Paid Co-op/Internship | Albuquerque, NM | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stellar+Science&job=826da19e-e120-4dd8-94a2-a05ebd2df779&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stellarscience.applytojob.com/apply/my4AC4VXHI) |
-| Tempo | Platform Software Engineering Intern | San Diego, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tempo&job=9ecdc530-929c-4500-9391-bd41471b2ce0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tempoenergy.com/careers/open-roles/?gh_jid=4318166009) |
 
 ## Product Management Internships
 
