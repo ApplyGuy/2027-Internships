@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T15:45:18.782Z",
+  "updatedAt": "2026-08-14T16:00:40.123Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -2016,18 +2016,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Tempo&job=9ecdc530-929c-4500-9391-bd41471b2ce0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tempoenergy.com/careers/open-roles/?gh_jid=4318166009"
-    },
-    {
-      "id": "da454023-d04b-4f4f-ba03-eec1ab969797",
-      "company": "The Trade Desk",
-      "title": "2027 North America Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "2027",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=da454023-d04b-4f4f-ba03-eec1ab969797&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"
     }
   ]
 }
