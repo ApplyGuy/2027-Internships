@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-14T04:30:21.852Z",
+  "updatedAt": "2026-08-14T04:45:31.463Z",
   "jobs": [
+    {
+      "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
+      "company": "Composio",
+      "title": "Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Fall 2026",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Composio&job=60cc6faa-e401-44bd-aa62-95710dd7c877&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
+    },
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
       "company": "Copart",
