@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T13:00:32.073Z",
+  "updatedAt": "2026-08-14T13:15:21.439Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -1944,18 +1944,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Apprenticely&job=79b73f7b-3f9b-426c-a0c5-380ab72a23c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4"
-    },
-    {
-      "id": "e582b38c-acdd-4162-a685-dc32f99a46ff",
-      "company": "FABER & BRAND, LLC",
-      "title": "Apprentice Developer",
-      "category": "Software Engineering",
-      "location": "Columbia, MO",
-      "season": "Apprenticeship",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=FABER+%26+BRAND%2C+LLC&job=e582b38c-acdd-4162-a685-dc32f99a46ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4333463"
     },
     {
       "id": "4980d11b-ff71-4eeb-9cb3-de8fccad12db",
