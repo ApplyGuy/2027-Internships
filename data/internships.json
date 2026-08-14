@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:45:31.915Z",
+  "updatedAt": "2026-08-14T21:00:16.337Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Composio&job=60cc6faa-e401-44bd-aa62-95710dd7c877&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
+    },
+    {
+      "id": "f2d5df56-1afd-46d2-b724-d2b52b8c696f",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Notion&job=f2d5df56-1afd-46d2-b724-d2b52b8c696f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+    },
+    {
+      "id": "8ab485f6-bc49-4f7a-8b1d-8d81bf69d6cb",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Winter 2027",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Notion&job=8ab485f6-bc49-4f7a-8b1d-8d81bf69d6cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
     },
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
