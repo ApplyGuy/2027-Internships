@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T02:00:33.033Z",
+  "updatedAt": "2026-08-14T02:15:43.700Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -1980,18 +1980,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Jane+Street&job=e2db64d8-ea1c-403a-8784-57f430c80a23&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.janestreet.com/join-jane-street/apply/8626260002?gh_jid=8626260002"
-    },
-    {
-      "id": "06b512d8-6239-425a-8b8c-ebdaabf77801",
-      "company": "LiveRamp",
-      "title": "Co-Op, Software Engineer - Action Runtime",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Co-op",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=LiveRamp&job=06b512d8-6239-425a-8b8c-ebdaabf77801&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1"
     },
     {
       "id": "1652a529-ac47-473b-b12b-5366ffb97539",
