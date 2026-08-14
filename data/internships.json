@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:15:18.005Z",
+  "updatedAt": "2026-08-14T20:30:32.916Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -1932,18 +1932,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tencent&job=94d6ea7b-983a-4927-b933-13b957e2fd50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794"
-    },
-    {
-      "id": "826da19e-e120-4dd8-94a2-a05ebd2df779",
-      "company": "Stellar Science",
-      "title": "Scientific Software Developer Paid Co-op/Internship",
-      "category": "Software Engineering",
-      "location": "Albuquerque, NM",
-      "season": "Co-op",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Stellar+Science&job=826da19e-e120-4dd8-94a2-a05ebd2df779&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://stellarscience.applytojob.com/apply/my4AC4VXHI"
     }
   ]
 }
