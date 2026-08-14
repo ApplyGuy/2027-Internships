@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:00:16.154Z",
+  "updatedAt": "2026-08-14T22:15:15.099Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=TransMarket+Group&job=5e19721e-24ff-41fa-9ef5-2f8de0ea30b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"
+    },
+    {
+      "id": "6281094f-21bf-4a91-b3f5-13c8b46a1e45",
+      "company": "Valeo",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Troy, MI",
+      "season": "Not specified",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Valeo&job=6281094f-21bf-4a91-b3f5-13c8b46a1e45&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575"
     },
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
