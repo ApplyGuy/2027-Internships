@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T02:30:13.719Z",
+  "updatedAt": "2026-08-14T02:45:21.246Z",
   "jobs": [
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
@@ -1932,18 +1932,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Apprenticely&job=79b73f7b-3f9b-426c-a0c5-380ab72a23c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4"
-    },
-    {
-      "id": "896765d6-434a-4ada-890c-b8e5e475443a",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Fall 2026",
-      "posted": "2026-07-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cloudflare&job=896765d6-434a-4ada-890c-b8e5e475443a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785"
     },
     {
       "id": "e582b38c-acdd-4162-a685-dc32f99a46ff",
