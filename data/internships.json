@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:00:16.337Z",
+  "updatedAt": "2026-08-14T21:15:13.841Z",
   "jobs": [
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Composio&job=60cc6faa-e401-44bd-aa62-95710dd7c877&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
+    },
+    {
+      "id": "7621bbf5-2984-4dca-a610-756591a37cb5",
+      "company": "Crowe",
+      "title": "Data Analytics Developer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago IL USA",
+      "season": "Not specified",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crowe&job=7621bbf5-2984-4dca-a610-756591a37cb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041"
+    },
+    {
+      "id": "064212f4-d4c4-4e5c-b65f-cccafcee53a2",
+      "company": "Generac",
+      "title": "Intern Firmware Engineering",
+      "category": "Software Engineering",
+      "location": "Reno, NV",
+      "season": "Not specified",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generac&job=064212f4-d4c4-4e5c-b65f-cccafcee53a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149"
     },
     {
       "id": "f2d5df56-1afd-46d2-b724-d2b52b8c696f",
@@ -36,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Notion&job=8ab485f6-bc49-4f7a-8b1d-8d81bf69d6cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
+    },
+    {
+      "id": "5e19721e-24ff-41fa-9ef5-2f8de0ea30b0",
+      "company": "TransMarket Group",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TransMarket+Group&job=5e19721e-24ff-41fa-9ef5-2f8de0ea30b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"
     },
     {
       "id": "fbd916de-7c63-44b5-b414-e0b880aef91d",
