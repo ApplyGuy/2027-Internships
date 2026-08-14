@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-171-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-170-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **171** active U.S. internships posted within the last **30 days**
+- **170** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 13, 2026, 7:00 PM PDT**
+- Last refresh: **Aug 13, 2026, 7:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**152 open roles**
+**151 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -172,7 +172,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | FABER & BRAND, LLC | Apprentice Developer | Columbia, MO | Apprenticeship | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FABER+%26+BRAND%2C+LLC&job=e582b38c-acdd-4162-a685-dc32f99a46ff&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4333463) |
 | HEALTHPEAK PROPERTIES, INC. | Forward Deployed Software Engineer Internship | Irvine, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HEALTHPEAK+PROPERTIES%2C+INC.&job=4980d11b-ff71-4eeb-9cb3-de8fccad12db&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://healthpeak.applytojob.com/apply/U3DSnosY5g) |
 | Jane Street | Linux Engineer — Summer Internship | New York City, NY | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jane+Street&job=e2db64d8-ea1c-403a-8784-57f430c80a23&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.janestreet.com/join-jane-street/apply/8626260002?gh_jid=8626260002) |
-| LiveRamp | Co-Op, Software Engineer - Action Runtime | San Francisco, CA | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=LiveRamp&job=06b512d8-6239-425a-8b8c-ebdaabf77801&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1) |
 | Nebo | Front-End Engineering Intern | Atlanta, GA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nebo&job=1652a529-ac47-473b-b12b-5366ffb97539&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://neboagency.applytojob.com/apply/TtGKnP4ODV) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Old+Mission&job=dd63a0a1-0487-4f35-b723-019a9dbe3886&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | Stellar Science | Scientific Software Developer Paid Co-op/Internship | Albuquerque, NM | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stellar+Science&job=826da19e-e120-4dd8-94a2-a05ebd2df779&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stellarscience.applytojob.com/apply/my4AC4VXHI) |
