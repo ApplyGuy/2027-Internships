@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:15:34.593Z",
+  "updatedAt": "2026-08-15T20:30:27.986Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Freeform&job=eef43ad5-3b6e-47a8-ae78-4b43a268163f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
+    },
+    {
+      "id": "aadc664f-cc11-4833-9b53-f7c3b6955fd9",
+      "company": "Replit",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Replit&job=aadc664f-cc11-4833-9b53-f7c3b6955fd9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
     },
     {
       "id": "ca3d8249-d077-4740-9c7b-fa5d6c5a7d7e",
