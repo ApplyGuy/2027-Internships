@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:45:18.768Z",
+  "updatedAt": "2026-08-15T07:00:45.881Z",
   "jobs": [
     {
       "id": "ee2b23ce-a05b-42f4-a328-4eabe8a11b8d",
@@ -2004,18 +2004,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Starfish&job=76d7b2a1-78c2-4e6f-9e58-76d27b4ac971&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Software-Engineer-Intern_R1381"
-    },
-    {
-      "id": "94d6ea7b-983a-4927-b933-13b957e2fd50",
-      "company": "Tencent",
-      "title": "Cloud Media Services Intern",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Not specified",
-      "posted": "2026-07-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tencent&job=94d6ea7b-983a-4927-b933-13b957e2fd50&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794"
     }
   ]
 }
