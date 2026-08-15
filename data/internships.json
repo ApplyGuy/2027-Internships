@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-15T03:30:49.603Z",
+  "updatedAt": "2026-08-15T03:45:32.194Z",
   "jobs": [
+    {
+      "id": "ee2b23ce-a05b-42f4-a328-4eabe8a11b8d",
+      "company": "Firstam",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Firstam&job=ee2b23ce-a05b-42f4-a328-4eabe8a11b8d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260"
+    },
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
       "company": "Freeform",
@@ -96,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=508fc40c-b027-4fea-a09e-fcc6951c6762&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808"
+    },
+    {
+      "id": "ad965373-d194-48c4-a036-2e26057fa69b",
+      "company": "Abridge",
+      "title": "Software Engineer, Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Abridge&job=ad965373-d194-48c4-a036-2e26057fa69b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
     },
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
