@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:30:28.632Z",
+  "updatedAt": "2026-08-15T23:45:37.823Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1956,18 +1956,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Signify&job=7ea58ede-058f-4ddc-9b89-90d59fadca80&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521"
-    },
-    {
-      "id": "60d670e5-dcf7-4bac-8ef8-ca68a4bebcee",
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern - Associate Product Manager (APM)",
-      "category": "Product",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-07-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Salesforce&job=60d670e5-dcf7-4bac-8ef8-ca68a4bebcee&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1"
     }
   ]
 }
