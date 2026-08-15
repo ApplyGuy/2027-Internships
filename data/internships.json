@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:00:31.286Z",
+  "updatedAt": "2026-08-15T08:15:50.136Z",
   "jobs": [
     {
       "id": "ee2b23ce-a05b-42f4-a328-4eabe8a11b8d",
@@ -192,6 +192,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=8ab485f6-bc49-4f7a-8b1d-8d81bf69d6cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
+    },
+    {
+      "id": "97ea48ee-4101-4eb1-b502-d18b18dc23d3",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392"
     },
     {
       "id": "5e19721e-24ff-41fa-9ef5-2f8de0ea30b0",
