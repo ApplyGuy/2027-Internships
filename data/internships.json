@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:30:25.138Z",
+  "updatedAt": "2026-08-15T16:45:38.315Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1956,30 +1956,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=d9f4496e-f33d-480b-8df0-3b2943415198&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676"
-    },
-    {
-      "id": "ab003da6-d6bd-4aa1-949f-e2dfe3f2c64c",
-      "company": "Formlabs",
-      "title": "Algorithms Software Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Fall 2026",
-      "posted": "2026-07-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=ab003da6-d6bd-4aa1-949f-e2dfe3f2c64c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759"
-    },
-    {
-      "id": "cfed89c4-2caf-45f2-b66a-ec284b1407bc",
-      "company": "Formlabs",
-      "title": "AI Software Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Fall 2026",
-      "posted": "2026-07-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=cfed89c4-2caf-45f2-b66a-ec284b1407bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641"
     },
     {
       "id": "60d670e5-dcf7-4bac-8ef8-ca68a4bebcee",
