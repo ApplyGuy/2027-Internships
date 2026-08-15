@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:45:34.833Z",
+  "updatedAt": "2026-08-15T22:00:26.745Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1968,18 +1968,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Salesforce&job=60d670e5-dcf7-4bac-8ef8-ca68a4bebcee&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1"
-    },
-    {
-      "id": "76d7b2a1-78c2-4e6f-9e58-76d27b4ac971",
-      "company": "Starfish",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Not specified",
-      "posted": "2026-07-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Starfish&job=76d7b2a1-78c2-4e6f-9e58-76d27b4ac971&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Software-Engineer-Intern_R1381"
     }
   ]
 }
