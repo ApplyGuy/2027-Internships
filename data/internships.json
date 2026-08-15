@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-15T01:45:33.328Z",
+  "updatedAt": "2026-08-15T02:00:49.239Z",
   "jobs": [
+    {
+      "id": "ca3d8249-d077-4740-9c7b-fa5d6c5a7d7e",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Fullerton, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ca3d8249-d077-4740-9c7b-fa5d6c5a7d7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439"
+    },
+    {
+      "id": "c06fa793-a784-4f8e-b651-ad0ecc21d2b5",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c06fa793-a784-4f8e-b651-ad0ecc21d2b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952"
+    },
+    {
+      "id": "a0dda24c-c08e-4402-b303-9dbfcb5a5d27",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a0dda24c-c08e-4402-b303-9dbfcb5a5d27&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619"
+    },
+    {
+      "id": "9c6fb15e-fd8b-4761-8f84-5964bb1c331f",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Burnsville, MN",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9c6fb15e-fd8b-4761-8f84-5964bb1c331f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681"
+    },
+    {
+      "id": "6f39e9f7-abef-4f50-838f-113e4c26b270",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6f39e9f7-abef-4f50-838f-113e4c26b270&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
+    },
+    {
+      "id": "5c34a584-d7e8-4428-af1b-d2d85924deb2",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Tucson, AZ",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5c34a584-d7e8-4428-af1b-d2d85924deb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777"
+    },
+    {
+      "id": "508fc40c-b027-4fea-a09e-fcc6951c6762",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "East Hartford, CT",
+      "season": "Summer 2027",
+      "posted": "2026-08-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=508fc40c-b027-4fea-a09e-fcc6951c6762&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808"
+    },
     {
       "id": "60cc6faa-e401-44bd-aa62-95710dd7c877",
       "company": "Composio",
@@ -326,18 +410,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160"
     },
     {
-      "id": "389b30e4-b128-4d65-b673-ae1f7957677c",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-12",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=389b30e4-b128-4d65-b673-ae1f7957677c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
-    },
-    {
       "id": "bea7669b-99fb-476c-9926-5552dd4e9ca0",
       "company": "Schweitzer Engineering Laboratories",
       "title": "Software Engineering Intern (AI Focus)",
@@ -504,18 +576,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=65ddf1b1-7d9c-4ac5-90be-054fb00b1fef&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
-    },
-    {
-      "id": "84b539f9-21c8-4aab-bf38-ab585f3d4aa0",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-11",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=84b539f9-21c8-4aab-bf38-ab585f3d4aa0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025"
     },
     {
       "id": "703b03d4-d810-4ecb-a7d8-a15b2865e6b9",
@@ -1236,18 +1296,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e3dc5add-f764-4da0-9cbc-6bb0a9b37b02&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
-    },
-    {
-      "id": "3cd9ca2a-be6a-4b77-bc0b-6da77a81c5d1",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Fullerton, CA",
-      "season": "Summer 2027",
-      "posted": "2026-07-30",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3cd9ca2a-be6a-4b77-bc0b-6da77a81c5d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012"
     },
     {
       "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
