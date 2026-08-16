@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:30:29.311Z",
+  "updatedAt": "2026-08-16T04:45:24.687Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1908,18 +1908,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Obsidian+Solutions+Group+LLC&job=bfb78df5-0ce3-4d79-b1be-3bf06327c5cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435"
-    },
-    {
-      "id": "7ea58ede-058f-4ddc-9b89-90d59fadca80",
-      "company": "Signify",
-      "title": "Product Management Intern - Fall 2026",
-      "category": "Product",
-      "location": "Menlo Park, CA",
-      "season": "Fall 2026",
-      "posted": "2026-07-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Signify&job=7ea58ede-058f-4ddc-9b89-90d59fadca80&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521"
     }
   ]
 }
