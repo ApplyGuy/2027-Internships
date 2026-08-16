@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:30:56.078Z",
+  "updatedAt": "2026-08-16T14:45:29.208Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1896,18 +1896,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=1cf30404-41ae-4554-bb54-d6d2b04f3f00&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
-    },
-    {
-      "id": "bfb78df5-0ce3-4d79-b1be-3bf06327c5cb",
-      "company": "Obsidian Solutions Group LLC",
-      "title": "Unity 3D Developer Intern",
-      "category": "Software Engineering",
-      "location": "Fredericksburg, VA",
-      "season": "Not specified",
-      "posted": "2026-07-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Obsidian+Solutions+Group+LLC&job=bfb78df5-0ce3-4d79-b1be-3bf06327c5cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435"
     }
   ]
 }
