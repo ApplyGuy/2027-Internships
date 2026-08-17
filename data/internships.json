@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:30:44.470Z",
+  "updatedAt": "2026-08-17T21:45:24.122Z",
   "jobs": [
     {
       "id": "cf200b35-953a-4c9e-afd8-b82e74491d5d",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pimco&job=6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626"
+    },
+    {
+      "id": "2b0d0e43-0cfb-4d10-be2f-7e41092777f7",
+      "company": "Point72",
+      "title": "Quantitative Developer Intern",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Point72&job=2b0d0e43-0cfb-4d10-be2f-7e41092777f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002"
     },
     {
       "id": "f985b482-45fa-4000-b9ed-df14f24d40ad",
