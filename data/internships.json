@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:00:41.759Z",
+  "updatedAt": "2026-08-17T05:15:46.675Z",
   "jobs": [
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
@@ -1860,18 +1860,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=d22059a4-aa1d-4cfe-823d-4f1c6601bc18&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807"
-    },
-    {
-      "id": "23c5e711-8b9d-438b-89a4-6462f4744c98",
-      "company": "Altera",
-      "title": "AI Software Development Engineer - Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-07-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Altera&job=23c5e711-8b9d-438b-89a4-6462f4744c98&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707"
     }
   ]
 }
