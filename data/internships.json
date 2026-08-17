@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-17T09:30:16.577Z",
+  "updatedAt": "2026-08-17T09:45:14.357Z",
   "jobs": [
+    {
+      "id": "f67d2570-0a56-49d2-bdfb-bed11daccff9",
+      "company": "Geaerospace",
+      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027",
+      "category": "Software Engineering",
+      "location": "Evendale, OH",
+      "season": "Fall 2027",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=f67d2570-0a56-49d2-bdfb-bed11daccff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1"
+    },
+    {
+      "id": "b068dab4-e132-469e-bde1-7e13af0749a0",
+      "company": "Geaerospace",
+      "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Evendale, OH",
+      "season": "Summer 2027",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=b068dab4-e132-469e-bde1-7e13af0749a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1"
+    },
+    {
+      "id": "ae1245bd-aa68-4290-834b-b251d848145c",
+      "company": "Geaerospace",
+      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027",
+      "category": "Software Engineering",
+      "location": "Evendale, OH",
+      "season": "Spring 2027",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"
+    },
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
       "company": "Freeform",
