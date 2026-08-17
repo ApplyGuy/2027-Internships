@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-166-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-167-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **166** active U.S. internships posted within the last **30 days**
+- **167** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 17, 2026, 2:45 PM PDT**
+- Last refresh: **Aug 17, 2026, 3:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**147 open roles**
+**148 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -32,6 +32,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Geaerospace | Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 | Evendale, OH | Fall 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=f67d2570-0a56-49d2-bdfb-bed11daccff9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1) |
 | Geaerospace | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=b068dab4-e132-469e-bde1-7e13af0749a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | Geaerospace | Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027 | Evendale, OH | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619) |
+| Intel | Software Development Graduate Intern | Folsom, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Intel&job=c9147049-dae9-4eac-8ae9-2aaf35e652ea&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
 | Point72 | Quantitative Developer Intern | New York | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Point72&job=2b0d0e43-0cfb-4d10-be2f-7e41092777f7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) |
 | RTX | Software Engineering Intern (Spring 2027) | Melbourne, FL | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=f985b482-45fa-4000-b9ed-df14f24d40ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146) |
 | RTX | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=758cc75a-30ab-45cc-82c6-b6bd8e580411&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487) |
