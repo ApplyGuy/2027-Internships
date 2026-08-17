@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:30:28.133Z",
+  "updatedAt": "2026-08-17T19:45:31.702Z",
   "jobs": [
     {
       "id": "cf200b35-953a-4c9e-afd8-b82e74491d5d",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Apprenticely&job=cf200b35-953a-4c9e-afd8-b82e74491d5d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787"
+    },
+    {
+      "id": "7c576cc9-c604-401d-baf8-c8fe3bb2dc7d",
+      "company": "Bear Robotics",
+      "title": "Software Engineering Intern, Developer Productivity",
+      "category": "Software Engineering",
+      "location": "Redwood City, CA",
+      "season": "Not specified",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
     },
     {
       "id": "73ebf29d-2f68-4870-b3f8-18ab6e5c24d5",
