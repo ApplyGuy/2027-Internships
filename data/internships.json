@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:15:21.880Z",
+  "updatedAt": "2026-08-17T14:30:19.846Z",
   "jobs": [
     {
       "id": "f67d2570-0a56-49d2-bdfb-bed11daccff9",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pimco&job=6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626"
+    },
+    {
+      "id": "30325d61-a66f-47d0-b75e-991cb843d868",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Summer 2027",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=30325d61-a66f-47d0-b75e-991cb843d868&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067"
     },
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
