@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:45:14.357Z",
+  "updatedAt": "2026-08-17T10:00:41.475Z",
   "jobs": [
     {
       "id": "f67d2570-0a56-49d2-bdfb-bed11daccff9",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"
+    },
+    {
+      "id": "6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c",
+      "company": "Pimco",
+      "title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "category": "Product",
+      "location": "Newport Beach, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Pimco&job=6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626"
     },
     {
       "id": "eef43ad5-3b6e-47a8-ae78-4b43a268163f",
