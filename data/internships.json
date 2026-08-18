@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:00:11.569Z",
+  "updatedAt": "2026-08-18T16:15:08.138Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Draper&job=f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
+    },
+    {
+      "id": "96f57e0a-dfd6-471a-89f9-01899ff31c67",
+      "company": "Pimco",
+      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
     },
     {
       "id": "6127eb0f-9258-420f-b898-0fb93b3bca5a",
