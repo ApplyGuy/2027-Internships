@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:30:10.482Z",
+  "updatedAt": "2026-08-18T21:45:31.748Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -108,6 +108,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=02799ef8-f589-4c30-a5aa-e3bd9b11fc44&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914"
+    },
+    {
+      "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
+      "company": "Zipline",
+      "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Spring 2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003"
+    },
+    {
+      "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
+      "company": "Zipline",
+      "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7891459003"
     },
     {
       "id": "9cfa83e5-041a-4dbf-b4c7-bfba5094a290",
