@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:15:39.159Z",
+  "updatedAt": "2026-08-18T21:30:10.482Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Five+Rings&job=b2ee60a7-e946-4868-8b56-dfd264602c94&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
+    },
+    {
+      "id": "9527486f-df6c-4b7f-b504-d62f61432e18",
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern ",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Garda+Capital+Partners&job=9527486f-df6c-4b7f-b504-d62f61432e18&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
     },
     {
       "id": "96f57e0a-dfd6-471a-89f9-01899ff31c67",
