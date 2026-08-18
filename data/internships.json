@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:30:39.615Z",
+  "updatedAt": "2026-08-18T08:45:22.113Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Conagrabrands&job=6f1ea15f-da9f-4092-8d4b-5643e3ac905f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://conagrabrands.wd1.myworkdayjobs.com/careers_us/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"
+    },
+    {
+      "id": "6127eb0f-9258-420f-b898-0fb93b3bca5a",
+      "company": "RTX",
+      "title": "2027 Software Engineering Intern (Onsite)",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6127eb0f-9258-420f-b898-0fb93b3bca5a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698"
+    },
+    {
+      "id": "02799ef8-f589-4c30-a5aa-e3bd9b11fc44",
+      "company": "RTX",
+      "title": "2027 Software Engineer Intern (Onsite)",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=02799ef8-f589-4c30-a5aa-e3bd9b11fc44&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914"
     },
     {
       "id": "9cfa83e5-041a-4dbf-b4c7-bfba5094a290",
