@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:00:42.335Z",
+  "updatedAt": "2026-08-18T21:15:39.159Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Draper&job=f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
+    },
+    {
+      "id": "b2ee60a7-e946-4868-8b56-dfd264602c94",
+      "company": "Five Rings",
+      "title": "LINK 2027: Software Development Intensive Program — Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Five+Rings&job=b2ee60a7-e946-4868-8b56-dfd264602c94&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
     },
     {
       "id": "96f57e0a-dfd6-471a-89f9-01899ff31c67",
