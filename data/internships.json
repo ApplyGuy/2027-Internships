@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:30:42.718Z",
+  "updatedAt": "2026-08-18T20:45:24.542Z",
   "jobs": [
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+    },
+    {
+      "id": "de59f0ee-f3e6-438d-a65e-59c63e115674",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Marlborough, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=de59f0ee-f3e6-438d-a65e-59c63e115674&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814"
+    },
+    {
+      "id": "32dbc7b4-a662-44f5-9c0d-336ba68bed8f",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Westford, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=32dbc7b4-a662-44f5-9c0d-336ba68bed8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678"
     },
     {
       "id": "6127eb0f-9258-420f-b898-0fb93b3bca5a",
@@ -948,18 +972,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f3db7fbd-ef14-449d-b240-6716d5cee8f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764"
-    },
-    {
-      "id": "366dc9a6-0c86-49a4-929e-04a13425e977",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=366dc9a6-0c86-49a4-929e-04a13425e977&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158"
     },
     {
       "id": "891baf96-98e6-4785-85b9-e9217305a4d5",
