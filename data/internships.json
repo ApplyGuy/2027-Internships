@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-19T12:30:38.095Z",
+  "updatedAt": "2026-08-19T12:45:48.820Z",
   "jobs": [
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
+    },
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
       "company": "Conagrabrands",
