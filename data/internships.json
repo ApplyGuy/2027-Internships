@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:45:16.559Z",
+  "updatedAt": "2026-08-19T22:00:51.993Z",
   "jobs": [
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
@@ -325,6 +325,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003"
+    },
+    {
+      "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
+      "company": "Zipline",
+      "title": "Enterprise Systems Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7886501003"
     },
     {
       "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
