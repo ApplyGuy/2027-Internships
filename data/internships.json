@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:30:31.733Z",
+  "updatedAt": "2026-08-19T18:45:48.160Z",
   "jobs": [
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=7d0cde15-28b9-4146-a3a3-bc6085f30be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433376"
+    },
+    {
+      "id": "8a9c8b90-d58d-4491-822a-ec605766dff9",
+      "company": "Fooji",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Lexington, KY",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fooji&job=8a9c8b90-d58d-4491-822a-ec605766dff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/fooji/j/6563DA99B5/"
     },
     {
       "id": "b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2",
@@ -36,19 +48,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
-    },
-    {
-      "id": "custom:microsoft:ae21949cd07442304893",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "applySupported": false
     },
     {
       "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
@@ -121,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2edec618-afcc-483d-a49d-f423f5cf9e4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691"
+    },
+    {
+      "id": "38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7",
+      "company": "Specialisterne",
+      "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Specialisterne&job=38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
     },
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
