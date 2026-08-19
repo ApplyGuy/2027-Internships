@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:15:21.823Z",
+  "updatedAt": "2026-08-19T22:30:34.629Z",
   "jobs": [
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
@@ -96,19 +96,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
-    },
-    {
-      "id": "custom:microsoft:ae21949cd07442304893",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "applySupported": false
     },
     {
       "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
