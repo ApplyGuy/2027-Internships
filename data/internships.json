@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:30:29.843Z",
+  "updatedAt": "2026-08-19T15:45:18.897Z",
   "jobs": [
     {
       "id": "custom:microsoft:ae21949cd07442304893",
@@ -13,6 +13,42 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
       "applySupported": false
+    },
+    {
+      "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
+      "company": "NLign Analytics, INC",
+      "title": "Software Quality Assurance Co-Op",
+      "category": "Software Engineering",
+      "location": "Blue Ash, OH",
+      "season": "Co-op",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=6c32e8ff-5a28-42cd-a440-cca6de337bbe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433126"
+    },
+    {
+      "id": "24e20519-876f-46ef-988a-01739253580f",
+      "company": "NLign Analytics, INC",
+      "title": "Software Developer Co-Op",
+      "category": "Software Engineering",
+      "location": "Blue Ash, OH",
+      "season": "Co-op",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=24e20519-876f-46ef-988a-01739253580f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433105"
+    },
+    {
+      "id": "af69997f-40ab-4aa4-a116-0912d4074299",
+      "company": "NLign Analytics, INC",
+      "title": "AI/ML Engineer Co-Op",
+      "category": "Software Engineering",
+      "location": "Blue Ash, OH",
+      "season": "Co-op",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=af69997f-40ab-4aa4-a116-0912d4074299&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433055"
     },
     {
       "id": "f647531b-2e87-4095-8996-4ea295b7be5b",
