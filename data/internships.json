@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:45:18.897Z",
+  "updatedAt": "2026-08-19T16:00:32.967Z",
   "jobs": [
     {
       "id": "custom:microsoft:ae21949cd07442304893",
@@ -2161,18 +2161,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Virtu+Financial&job=6ad42080-e3f8-411d-9076-079c46c0f4e7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
-    },
-    {
-      "id": "552e89f3-34a6-42f4-b51b-24ff859b8df2",
-      "company": "Chicago Trading Company",
-      "title": "Software Engineering Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-07-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Chicago+Trading+Company&job=552e89f3-34a6-42f4-b51b-24ff859b8df2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
     },
     {
       "id": "e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9",
