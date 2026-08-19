@@ -1,18 +1,41 @@
 {
-  "updatedAt": "2026-08-19T14:45:35.271Z",
+  "updatedAt": "2026-08-19T15:00:49.224Z",
   "jobs": [
     {
-      "id": "custom:microsoft:ae21949cd07442304893",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
+      "id": "f647531b-2e87-4095-8996-4ea295b7be5b",
+      "company": "RTX",
+      "title": "Software Engineering Intern-(Onsite)",
       "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "location": "San Diego, CA",
       "season": "Not specified",
       "posted": "2026-08-19",
       "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "applySupported": false
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f647531b-2e87-4095-8996-4ea295b7be5b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845"
+    },
+    {
+      "id": "cb21fc71-7f28-41ed-b849-2042da582a68",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=cb21fc71-7f28-41ed-b849-2042da582a68&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241"
+    },
+    {
+      "id": "2edec618-afcc-483d-a49d-f423f5cf9e4b",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2edec618-afcc-483d-a49d-f423f5cf9e4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691"
     },
     {
       "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
@@ -301,18 +324,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f985b482-45fa-4000-b9ed-df14f24d40ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
-    },
-    {
-      "id": "758cc75a-30ab-45cc-82c6-b6bd8e580411",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-17",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=758cc75a-30ab-45cc-82c6-b6bd8e580411&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487"
     },
     {
       "id": "30325d61-a66f-47d0-b75e-991cb843d868",
