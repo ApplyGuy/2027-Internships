@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:00:13.988Z",
+  "updatedAt": "2026-08-19T20:15:32.358Z",
   "jobs": [
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fooji&job=8a9c8b90-d58d-4491-822a-ec605766dff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apply.workable.com/fooji/j/6563DA99B5/"
+    },
+    {
+      "id": "f8844f2b-1938-4f77-be67-8dacd7421e44",
+      "company": "Fooji, Inc.",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Lexington, KY",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fooji%2C+Inc.&job=f8844f2b-1938-4f77-be67-8dacd7421e44&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc."
     },
     {
       "id": "b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2",
