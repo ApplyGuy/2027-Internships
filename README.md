@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-186-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-187-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **186** active U.S. internships posted within the last **30 days**
+- **187** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 19, 2026, 1:45 PM PDT**
+- Last refresh: **Aug 19, 2026, 2:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**167 open roles**
+**168 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -31,9 +31,11 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Fooji, Inc. | Software Engineering Intern | Lexington, KY | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Fooji%2C+Inc.&job=f8844f2b-1938-4f77-be67-8dacd7421e44&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc.) |
 | MCM | AI Agent Developer Internship | Remote, U.S. | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=MCM&job=b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/mcmjobs/jobs/66abfa59-bb9d-460a-b0b3-64445cfd74cf) |
 | METECS | Summer Software Internship | Houston, TX | Summer | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://metecs.applytojob.com/apply/XTBhKHIVhQ) |
+| Microsoft | AI Software Engineering Intern | United States, Washington, Redmond · United States, California, Mountain View | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556962891) |
 | NLign Analytics, INC | Software Quality Assurance Co-Op | Blue Ash, OH | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=6c32e8ff-5a28-42cd-a440-cca6de337bbe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433126) |
 | NLign Analytics, INC | Software Developer Co-Op | Blue Ash, OH | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=24e20519-876f-46ef-988a-01739253580f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433105) |
 | NLign Analytics, INC | AI/ML Engineer Co-Op | Blue Ash, OH | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=af69997f-40ab-4aa4-a116-0912d4074299&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433055) |
+| RTX | Software Engineering Intern (Summer 2027) | Aurora, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=4b738171-db0f-4c48-b23b-bf9af886547d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) |
 | RTX | Software Engineering Intern-(Onsite) | San Diego, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=f647531b-2e87-4095-8996-4ea295b7be5b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845) |
 | RTX | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=cb21fc71-7f28-41ed-b849-2042da582a68&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241) |
 | RTX | Software Engineering Intern (Summer 2027) | Sterling, VA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=2edec618-afcc-483d-a49d-f423f5cf9e4b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691) |
@@ -192,7 +194,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Jane Street | Windows Engineer — Summer Internship | New York City, NY | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jane+Street&job=e48f5863-bfea-4b96-aa00-334f00485a57&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.janestreet.com/join-jane-street/apply/8628843002?gh_jid=8628843002) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=8d7f7613-09db-4574-aa58-db871929938e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX | 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Virtu+Financial&job=6ad42080-e3f8-411d-9076-079c46c0f4e7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
-| GE HealthCare | Edison Engineering Development Program Intern – Software | Waukesha, WI | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GE+HealthCare&job=e7a4cb8a-6d75-47e7-81b0-dc7a3d439fb9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
 
 ## Product Management Internships
 
