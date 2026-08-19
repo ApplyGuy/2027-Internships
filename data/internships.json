@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:30:28.820Z",
+  "updatedAt": "2026-08-19T16:45:19.925Z",
   "jobs": [
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=7d0cde15-28b9-4146-a3a3-bc6085f30be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433376"
+    },
+    {
+      "id": "b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2",
+      "company": "MCM",
+      "title": "AI Agent Developer Internship",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=MCM&job=b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/mcmjobs/jobs/66abfa59-bb9d-460a-b0b3-64445cfd74cf"
     },
     {
       "id": "f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9",
