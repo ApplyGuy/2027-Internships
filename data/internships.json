@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:45:44.587Z",
+  "updatedAt": "2026-08-20T15:00:17.665Z",
   "jobs": [
     {
       "id": "93f8f57f-cb67-4564-a784-52c1d479c9a3",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
+    },
+    {
+      "id": "b2d6aa75-7e76-46ac-8ef1-fdc3b31b8c03",
+      "company": "RTX",
+      "title": "Software Development Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Tewksbury, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=b2d6aa75-7e76-46ac-8ef1-fdc3b31b8c03&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943"
     },
     {
       "id": "9dc1df25-03d2-4b5b-aa6b-bfbf0020b20e",
@@ -192,6 +204,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
@@ -1224,18 +1249,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=703b03d4-d810-4ecb-a7d8-a15b2865e6b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474"
-    },
-    {
-      "id": "49330a2d-df8f-48e5-aedb-2bb2069fac11",
-      "company": "RTX",
-      "title": "Software Development Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Tewksbury, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-11",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=49330a2d-df8f-48e5-aedb-2bb2069fac11&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635"
     },
     {
       "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
