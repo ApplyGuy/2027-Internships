@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:30:30.805Z",
+  "updatedAt": "2026-08-20T22:45:16.795Z",
   "jobs": [
     {
       "id": "custom:amazon:960a595f92abc9eb5521",
@@ -2426,18 +2426,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Massey+Services&job=4e4a76bf-d611-40e0-8776-7de03e723649&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR103623"
-    },
-    {
-      "id": "bda16720-5bfd-459f-9f1b-edf50e85f566",
-      "company": "ROCKWOOL Group",
-      "title": "Product Management - Intern",
-      "category": "Product",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-07-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=ROCKWOOL+Group&job=bda16720-5bfd-459f-9f1b-edf50e85f566&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Product-Management---Intern_R0035795"
     }
   ]
 }
