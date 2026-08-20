@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-193-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-195-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **193** active U.S. internships posted within the last **30 days**
+- **195** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 20, 2026, 9:00 AM PDT**
+- Last refresh: **Aug 20, 2026, 9:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**174 open roles**
+**176 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -30,6 +30,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | DMS International | Blockchain Application Developer Intern | Remote, U.S. | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DMS+International&job=1e88759e-1303-49a1-be38-c4251b159ed6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern) |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=E-Space&job=93f8f57f-cb67-4564-a784-52c1d479c9a3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3) |
 | LiveRamp | Co-Op, DevOps Engineer | San Francisco, CA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095) |
+| lthc | College Intern - Software Engineering - Fall 2026 (Multiple Openings) | Rochester, NY | Fall 2026 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=lthc&job=1f519721-6a4f-4129-975e-a7feb827a894&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2) |
 | RTX | Software Development Intern (Summer 2027) | Tewksbury, MA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=b2d6aa75-7e76-46ac-8ef1-fdc3b31b8c03&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943) |
 | Waggoner Financial | Software Engineer Internship | Lansing, MI | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waggoner+Financial&job=9dc1df25-03d2-4b5b-aa6b-bfbf0020b20e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/nQKsFUMzVNqymz4pk2ogxM/software-engineer-internship-in-lansing-at-waggoner-financial) |
 | Western Magnetics | Software Engineering Intern | South San Francisco, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics) |
@@ -45,6 +46,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Massey Services | Software Engineer Intern - Orlando | Orlando, FL | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Massey+Services&job=73eb214d-9fcf-4427-b4be-736ecdc78571&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566) |
 | MCM | AI Agent Developer Internship | Remote, U.S. | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=MCM&job=b9a1e41a-6d28-4ca3-8f0f-01f0342e87e2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/mcmjobs/jobs/66abfa59-bb9d-460a-b0b3-64445cfd74cf) |
 | METECS | Summer Software Internship | Houston, TX | Summer | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://metecs.applytojob.com/apply/XTBhKHIVhQ) |
+| Microsoft | AI Software Engineering Intern | United States, Washington, Redmond · United States, California, Mountain View | — | 1d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556962891) |
 | NLign Analytics, INC | Software Quality Assurance Co-Op | Blue Ash, OH | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=6c32e8ff-5a28-42cd-a440-cca6de337bbe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433126) |
 | NLign Analytics, INC | Software Developer Co-Op | Blue Ash, OH | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=24e20519-876f-46ef-988a-01739253580f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433105) |
 | NLign Analytics, INC | AI/ML Engineer Co-Op | Blue Ash, OH | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=af69997f-40ab-4aa4-a116-0912d4074299&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433055) |
