@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:00:16.078Z",
+  "updatedAt": "2026-08-20T08:15:14.683Z",
   "jobs": [
     {
       "id": "93f8f57f-cb67-4564-a784-52c1d479c9a3",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
+    },
+    {
+      "id": "9dc1df25-03d2-4b5b-aa6b-bfbf0020b20e",
+      "company": "Waggoner Financial",
+      "title": "Software Engineer Internship",
+      "category": "Software Engineering",
+      "location": "Lansing, MI",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waggoner+Financial&job=9dc1df25-03d2-4b5b-aa6b-bfbf0020b20e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/nQKsFUMzVNqymz4pk2ogxM/software-engineer-internship-in-lansing-at-waggoner-financial"
     },
     {
       "id": "03ead34e-2086-4dd5-97e6-2e1c14f2896f",
