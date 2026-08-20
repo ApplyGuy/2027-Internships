@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:15:15.290Z",
+  "updatedAt": "2026-08-20T16:30:41.555Z",
   "jobs": [
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
@@ -38,6 +38,42 @@
       "listingUrl": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
     },
     {
+      "id": "fcc9fa6f-d86f-4b29-ad0b-646e63d40638",
+      "company": "Fifththird",
+      "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Cincinnati, OH",
+      "season": "Summer 2027",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fifththird&job=fcc9fa6f-d86f-4b29-ad0b-646e63d40638&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
+    },
+    {
+      "id": "9810df8f-c62e-4d54-8e4a-58ae74294e50",
+      "company": "Intel",
+      "title": "Software Engineer Graduate Intern",
+      "category": "Software Engineering",
+      "location": "Phoenix, AZ",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=9810df8f-c62e-4d54-8e4a-58ae74294e50&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"
+    },
+    {
+      "id": "66442d85-486a-48a5-9ad9-be39501e696c",
+      "company": "Intel",
+      "title": "Software Engineer Graduate Intern",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=66442d85-486a-48a5-9ad9-be39501e696c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"
+    },
+    {
       "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
       "company": "LiveRamp",
       "title": "Co-Op, DevOps Engineer",
@@ -72,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=b2d6aa75-7e76-46ac-8ef1-fdc3b31b8c03&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943"
+    },
+    {
+      "id": "41497c85-f631-41af-91c6-b87ba52ac118",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=41497c85-f631-41af-91c6-b87ba52ac118&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"
     },
     {
       "id": "9dc1df25-03d2-4b5b-aa6b-bfbf0020b20e",
