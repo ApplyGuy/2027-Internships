@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-20T22:15:24.432Z",
+  "updatedAt": "2026-08-20T22:30:30.805Z",
   "jobs": [
+    {
+      "id": "custom:amazon:960a595f92abc9eb5521",
+      "company": "Amazon",
+      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+      "category": "Product",
+      "location": "US, WA, Seattle",
+      "season": "Summer 2027",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "applySupported": false
+    },
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
       "company": "DMS International",
@@ -96,6 +109,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=lthc&job=1f519721-6a4f-4129-975e-a7feb827a894&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
+    },
+    {
+      "id": "2f83e1d8-1b34-48ac-83c3-175f9df26d51",
+      "company": "Microchip",
+      "title": "Intern - Engineering (Device Software and Test)",
+      "category": "Software Engineering",
+      "location": "Chandler, AZ",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Microchip&job=2f83e1d8-1b34-48ac-83c3-175f9df26d51&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"
     },
     {
       "id": "1f6759b9-2eab-4fbb-ab1f-6b1954fe4600",
