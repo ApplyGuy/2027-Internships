@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T12:45:42.938Z",
+  "updatedAt": "2026-08-20T13:00:36.724Z",
   "jobs": [
     {
       "id": "93f8f57f-cb67-4564-a784-52c1d479c9a3",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=7d0cde15-28b9-4146-a3a3-bc6085f30be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433376"
+    },
+    {
+      "id": "969f4e3f-f662-452c-a042-3c2a9d17fa6c",
+      "company": "Copart",
+      "title": "Site Reliability Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=969f4e3f-f662-452c-a042-3c2a9d17fa6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"
     },
     {
       "id": "b249a568-eb27-434c-80fe-374bdbcf0b6a",
