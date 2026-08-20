@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:30:14.972Z",
+  "updatedAt": "2026-08-20T15:45:11.470Z",
   "jobs": [
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
@@ -2329,18 +2329,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=ROCKWOOL+Group&job=bda16720-5bfd-459f-9f1b-edf50e85f566&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Product-Management---Intern_R0035795"
-    },
-    {
-      "id": "6ad42080-e3f8-411d-9076-079c46c0f4e7",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Software Engineer",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "2027",
-      "posted": "2026-07-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Virtu+Financial&job=6ad42080-e3f8-411d-9076-079c46c0f4e7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
     }
   ]
 }
