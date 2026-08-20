@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-20T15:00:17.665Z",
+  "updatedAt": "2026-08-20T15:15:33.751Z",
   "jobs": [
+    {
+      "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
+      "company": "DMS International",
+      "title": "Data Scientist & Machine Learning Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DMS+International&job=c7c72578-c9f1-461f-9487-1c8a6f77283f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dms-international.breezy.hr/p/b4d4ab7c9426-data-scientist-machine-learning-engineer-intern"
+    },
+    {
+      "id": "1e88759e-1303-49a1-be38-c4251b159ed6",
+      "company": "DMS International",
+      "title": "Blockchain Application Developer Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DMS+International&job=1e88759e-1303-49a1-be38-c4251b159ed6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern"
+    },
     {
       "id": "93f8f57f-cb67-4564-a784-52c1d479c9a3",
       "company": "E-Space",
