@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-20T02:30:17.474Z",
+  "updatedAt": "2026-08-20T02:45:36.507Z",
   "jobs": [
+    {
+      "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
+      "company": "LiveRamp",
+      "title": "Co-Op, DevOps Engineer",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Co-op",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
+    },
     {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
       "company": "Clarity Partners LLC",
