@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:00:17.702Z",
+  "updatedAt": "2026-08-20T22:15:24.432Z",
   "jobs": [
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
@@ -156,6 +156,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
+    },
+    {
+      "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Spring 2027",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003"
     },
     {
       "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
