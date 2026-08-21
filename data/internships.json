@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:00:18.188Z",
+  "updatedAt": "2026-08-21T23:15:22.808Z",
   "jobs": [
     {
       "id": "9457e019-15d4-4f46-8e35-7e63eaa37096",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ambrook&job=9457e019-15d4-4f46-8e35-7e63eaa37096&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456"
+    },
+    {
+      "id": "12350583-9c7d-4386-af89-50fac70de452",
+      "company": "Availity",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Availity&job=12350583-9c7d-4386-af89-50fac70de452&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
     },
     {
       "id": "cb502748-87df-4183-87d3-cbbd92777eb4",
