@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-21T22:15:50.101Z",
+  "updatedAt": "2026-08-21T22:30:47.037Z",
   "jobs": [
+    {
+      "id": "9457e019-15d4-4f46-8e35-7e63eaa37096",
+      "company": "Ambrook",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ambrook&job=9457e019-15d4-4f46-8e35-7e63eaa37096&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456"
+    },
     {
       "id": "cb502748-87df-4183-87d3-cbbd92777eb4",
       "company": "Brunswick",
@@ -38,6 +50,19 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
     },
     {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern - Edge",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
+    },
+    {
       "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
       "company": "RTX",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -48,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=65e327aa-ac26-48e1-82ff-db9be8e4ef91&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664"
+    },
+    {
+      "id": "2eb3f992-0013-439a-86d9-316e292a1264",
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003"
     },
     {
       "id": "custom:amazon:960a595f92abc9eb5521",
