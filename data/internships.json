@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-21T03:00:31.895Z",
+  "updatedAt": "2026-08-21T03:15:33.501Z",
   "jobs": [
+    {
+      "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Tucson, AZ",
+      "season": "Summer 2027",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=65e327aa-ac26-48e1-82ff-db9be8e4ef91&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664"
+    },
     {
       "id": "custom:amazon:960a595f92abc9eb5521",
       "company": "Amazon",
