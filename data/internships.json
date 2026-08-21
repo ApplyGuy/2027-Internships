@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-21T20:15:19.324Z",
+  "updatedAt": "2026-08-21T20:30:15.118Z",
   "jobs": [
+    {
+      "id": "78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13",
+      "company": "Gevernova",
+      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1"
+    },
     {
       "id": "5888759d-4743-4424-9558-5b1cb66e5772",
       "company": "HP",
