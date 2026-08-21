@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:30:47.037Z",
+  "updatedAt": "2026-08-21T22:45:21.206Z",
   "jobs": [
     {
       "id": "9457e019-15d4-4f46-8e35-7e63eaa37096",
@@ -73,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=65e327aa-ac26-48e1-82ff-db9be8e4ef91&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664"
+    },
+    {
+      "id": "fec93f9c-f4de-4847-9cf9-c4985637e1fb",
+      "company": "Syska Hennessy Group",
+      "title": "Innovations Intern (Full Stack/Front End Engineering)  ",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Syska+Hennessy+Group&job=fec93f9c-f4de-4847-9cf9-c4985637e1fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
     },
     {
       "id": "2eb3f992-0013-439a-86d9-316e292a1264",
@@ -2499,18 +2511,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=19fa38fe-e3ea-4823-a101-56b56ee7a25b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
-    },
-    {
-      "id": "b4ac60b4-dd12-495c-9d76-f86274c8b1b6",
-      "company": "HP",
-      "title": "Software Engineering Intern, Device Experiences",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
     }
   ]
 }
