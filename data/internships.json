@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:15:33.501Z",
+  "updatedAt": "2026-08-21T03:30:14.883Z",
   "jobs": [
     {
       "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
@@ -25,6 +25,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
       "applySupported": false
+    },
+    {
+      "id": "592ecf39-0d39-402b-be13-e5bfd97ed4e8",
+      "company": "Databricks",
+      "title": "Software Engineering Intern (2027 Start) - Winter",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Winter",
+      "posted": "2026-08-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Databricks&job=592ecf39-0d39-402b-be13-e5bfd97ed4e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     },
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
