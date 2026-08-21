@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-209-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-210-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **209** active U.S. internships posted within the last **30 days**
+- **210** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 21, 2026, 4:00 PM PDT**
+- Last refresh: **Aug 21, 2026, 4:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,11 +22,12 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**190 open roles**
+**191 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Ambrook | Software Engineering Intern | New York | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ambrook&job=9457e019-15d4-4f46-8e35-7e63eaa37096&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456) |
+| Availity | Software Engineering Intern | Remote, U.S. | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Availity&job=12350583-9c7d-4386-af89-50fac70de452&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) |
 | Brunswick | Software Engineering Intern | Tulsa, OK | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Brunswick&job=cb502748-87df-4183-87d3-cbbd92777eb4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) |
 | Gevernova | GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue, WA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gevernova&job=78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) |
 | HP | Software Internship Roles - HP Solutions (HPS) | Spring, TX | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP&job=5888759d-4743-4424-9558-5b1cb66e5772&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
