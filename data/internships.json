@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-21T22:00:16.488Z",
+  "updatedAt": "2026-08-21T22:15:50.101Z",
   "jobs": [
+    {
+      "id": "cb502748-87df-4183-87d3-cbbd92777eb4",
+      "company": "Brunswick",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Tulsa, OK",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=cb502748-87df-4183-87d3-cbbd92777eb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
+    },
     {
       "id": "78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13",
       "company": "Gevernova",
