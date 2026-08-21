@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T06:30:44.853Z",
+  "updatedAt": "2026-08-21T06:45:37.438Z",
   "jobs": [
     {
       "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
@@ -2438,18 +2438,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
-    },
-    {
-      "id": "4e4a76bf-d611-40e0-8776-7de03e723649",
-      "company": "Massey Services",
-      "title": "BI Software Engineer Intern - Orlando",
-      "category": "Software Engineering",
-      "location": "Orlando, FL",
-      "season": "Not specified",
-      "posted": "2026-07-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Massey+Services&job=4e4a76bf-d611-40e0-8776-7de03e723649&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR103623"
     }
   ]
 }
