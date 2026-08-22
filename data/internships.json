@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:30:22.212Z",
+  "updatedAt": "2026-08-22T15:45:36.075Z",
   "jobs": [
     {
       "id": "a1788a65-c165-4945-b21a-679649343922",
@@ -84,6 +84,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lab37&job=f0494edc-603a-4c19-8eb4-95e2f759811f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/lab37/jobs/8695475002"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern - Edge",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
@@ -481,6 +494,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
