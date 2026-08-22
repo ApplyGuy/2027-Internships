@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-22T02:45:22.767Z",
+  "updatedAt": "2026-08-22T03:00:20.892Z",
   "jobs": [
+    {
+      "id": "a1788a65-c165-4945-b21a-679649343922",
+      "company": "HP",
+      "title": "Software Internship Roles - HP Solutions (HPS)",
+      "category": "Software Engineering",
+      "location": "Spring, TX",
+      "season": "Not specified",
+      "posted": "2026-08-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=a1788a65-c165-4945-b21a-679649343922&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906"
+    },
     {
       "id": "9dcab96c-24e0-4596-8f34-41e1c43febcd",
       "company": "SimIS Inc.",
@@ -60,18 +72,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1"
-    },
-    {
-      "id": "5888759d-4743-4424-9558-5b1cb66e5772",
-      "company": "HP",
-      "title": "Software Internship Roles - HP Solutions (HPS)",
-      "category": "Software Engineering",
-      "location": "Spring, TX",
-      "season": "Not specified",
-      "posted": "2026-08-21",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=5888759d-4743-4424-9558-5b1cb66e5772&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
     },
     {
       "id": "f0494edc-603a-4c19-8eb4-95e2f759811f",
