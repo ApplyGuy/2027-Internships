@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:45:18.352Z",
+  "updatedAt": "2026-08-22T02:00:14.469Z",
   "jobs": [
     {
       "id": "9dcab96c-24e0-4596-8f34-41e1c43febcd",
@@ -121,6 +121,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Syska+Hennessy+Group&job=fec93f9c-f4de-4847-9cf9-c4985637e1fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
+    },
+    {
+      "id": "f11f0063-9712-4ddc-9817-46697118803a",
+      "company": "Toyota of Cedar Park Keating LLC",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Cedar Park, TX",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Toyota+of+Cedar+Park+Keating+LLC&job=f11f0063-9712-4ddc-9817-46697118803a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442958"
     },
     {
       "id": "2eb3f992-0013-439a-86d9-316e292a1264",
