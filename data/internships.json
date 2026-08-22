@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:00:14.385Z",
+  "updatedAt": "2026-08-22T22:15:30.008Z",
   "jobs": [
     {
       "id": "a1788a65-c165-4945-b21a-679649343922",
@@ -2475,18 +2475,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Quadrillion&job=bafeed63-a419-44a8-880f-4ab784200b0a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05"
-    },
-    {
-      "id": "bb560116-fe84-4885-8318-4bf816c78158",
-      "company": "Astranis",
-      "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Fall 2026",
-      "posted": "2026-07-23",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Astranis&job=bb560116-fe84-4885-8318-4bf816c78158&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     }
   ]
 }
