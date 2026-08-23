@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:15:19.657Z",
+  "updatedAt": "2026-08-23T20:30:31.381Z",
   "jobs": [
     {
       "id": "4c9335e6-fa63-47c7-8665-8ce5495a0014",
@@ -2427,18 +2427,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=fb442b69-fb84-43f1-b263-308e8334fdc2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007"
-    },
-    {
-      "id": "873f857a-5605-497f-a5c6-9d9224b1a481",
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-07-24",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=PDT+Partners&job=873f857a-5605-497f-a5c6-9d9224b1a481&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
     }
   ]
 }
