@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:00:24.518Z",
+  "updatedAt": "2026-08-24T17:15:47.628Z",
   "jobs": [
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
@@ -26,6 +26,18 @@
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
     },
     {
+      "id": "b6884cfe-880f-4e14-8a03-c6e2e93c0025",
+      "company": "Freddiemac",
+      "title": "Single-Family Software Developer Intern- Summer 2027",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freddiemac&job=b6884cfe-880f-4e14-8a03-c6e2e93c0025&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
+    },
+    {
       "id": "ec351986-25e5-4607-b18c-9cfb3c8f417e",
       "company": "Gevernova",
       "title": "GE Vernova GridOS  Software Test Engineer - Intern - Summer 2027",
@@ -40,15 +52,39 @@
     {
       "id": "custom:google:91436104816698054",
       "company": "Google",
-      "title": "Software Engineering Intern, PhD, Summer 2026",
+      "title": "Software Engineering Intern, PhD, Summer 2027",
       "category": "Software Engineering",
       "location": "Multiple U.S. locations",
-      "season": "Summer 2026",
+      "season": "Summer 2027",
       "posted": "2026-08-24",
       "age": "Today",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
       "applySupported": false
+    },
+    {
+      "id": "8740ff58-c42f-4ed0-a1da-1c6af8bddd87",
+      "company": "Sage",
+      "title": "Software Engineering Intern (Edge) – Summer 2027",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sage&job=8740ff58-c42f-4ed0-a1da-1c6af8bddd87&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
+    },
+    {
+      "id": "f4baf88f-6bd6-44cc-bb50-19071093162f",
+      "company": "Sage",
+      "title": "Software Engineering Intern (Full Stack) – Summer 2027",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sage&job=f4baf88f-6bd6-44cc-bb50-19071093162f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
     },
     {
       "id": "4c9335e6-fa63-47c7-8665-8ce5495a0014",
