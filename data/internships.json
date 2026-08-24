@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-24T10:45:17.397Z",
+  "updatedAt": "2026-08-24T11:00:18.527Z",
   "jobs": [
+    {
+      "id": "6aa06ddf-a599-4ed0-a208-784a4beffd47",
+      "company": "Disney",
+      "title": "Glendale System Software Engineering Internship, Spring 2027",
+      "category": "Software Engineering",
+      "location": "Glendale, CA",
+      "season": "Spring 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Disney&job=6aa06ddf-a599-4ed0-a208-784a4beffd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
+    },
     {
       "id": "custom:google:91436104816698054",
       "company": "Google",
