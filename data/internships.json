@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:00:19.662Z",
+  "updatedAt": "2026-08-24T20:15:17.933Z",
   "jobs": [
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Disney&job=6aa06ddf-a599-4ed0-a208-784a4beffd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
+    },
+    {
+      "id": "5eabc682-bc38-41d8-932f-af3ad42faaae",
+      "company": "Dmainc",
+      "title": "Software Development Intern - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Fort Wayne, IN",
+      "season": "Spring 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dmainc&job=5eabc682-bc38-41d8-932f-af3ad42faaae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634"
+    },
+    {
+      "id": "49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c",
+      "company": "Dmainc",
+      "title": "Software Development Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Fort Wayne, IN",
+      "season": "Summer 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dmainc&job=49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
     },
     {
       "id": "b6884cfe-880f-4e14-8a03-c6e2e93c0025",
