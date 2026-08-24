@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-24T23:30:14.923Z",
+  "updatedAt": "2026-08-24T23:45:22.712Z",
   "jobs": [
+    {
+      "id": "b67e3c2f-94c0-4bdb-85c9-b38c0fa3bf5c",
+      "company": "Advanced Space",
+      "title": "2027 Software Engineering Summer Internship",
+      "category": "Software Engineering",
+      "location": "Westminster, CO",
+      "season": "Summer",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Advanced+Space&job=b67e3c2f-94c0-4bdb-85c9-b38c0fa3bf5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
+    },
+    {
+      "id": "77e0d160-ce56-40c6-be89-7db56be69b9a",
+      "company": "Advanced Space",
+      "title": "2027 DevOps Summer Internship ",
+      "category": "Software Engineering",
+      "location": "Westminster, CO",
+      "season": "Summer",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Advanced+Space&job=77e0d160-ce56-40c6-be89-7db56be69b9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"
+    },
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
       "company": "Audax Group",
