@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:45:18.299Z",
+  "updatedAt": "2026-08-24T20:00:19.662Z",
   "jobs": [
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
@@ -74,6 +74,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
       "applySupported": false
+    },
+    {
+      "id": "c9282e8c-48d2-49bc-8acf-d2866cf6cf8b",
+      "company": "Philips",
+      "title": "Co-op – Software System Engineering – Plymouth, MN – January 2027",
+      "category": "Software Engineering",
+      "location": "Plymouth, MN",
+      "season": "2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=c9282e8c-48d2-49bc-8acf-d2866cf6cf8b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
     },
     {
       "id": "8740ff58-c42f-4ed0-a1da-1c6af8bddd87",
