@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:00:26.384Z",
+  "updatedAt": "2026-08-24T23:15:49.269Z",
   "jobs": [
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
@@ -86,6 +86,18 @@
       "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
     },
     {
+      "id": "af216a3e-4da9-4089-921d-b4be7ebd36c1",
+      "company": "Freddiemac",
+      "title": "Multifamily Software Development Intern – Summer 2027",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freddiemac&job=af216a3e-4da9-4089-921d-b4be7ebd36c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
+    },
+    {
       "id": "b6884cfe-880f-4e14-8a03-c6e2e93c0025",
       "company": "Freddiemac",
       "title": "Single-Family Software Developer Intern- Summer 2027",
@@ -120,6 +132,19 @@
       "age": "Today",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern - Edge",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
       "applySupported": false
     },
     {
@@ -650,6 +675,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "6c32e8ff-5a28-42cd-a440-cca6de337bbe",
