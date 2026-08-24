@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-24T16:00:40.234Z",
+  "updatedAt": "2026-08-24T16:15:49.931Z",
   "jobs": [
+    {
+      "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
+      "company": "Audax Group",
+      "title": "Data Engineer CO-OP",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Audax+Group&job=8df659df-87d2-484c-b4a8-eb5b48ee3687&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005"
+    },
     {
       "id": "6aa06ddf-a599-4ed0-a208-784a4beffd47",
       "company": "Disney",
