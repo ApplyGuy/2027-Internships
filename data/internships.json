@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:30:15.571Z",
+  "updatedAt": "2026-08-24T21:45:18.739Z",
   "jobs": [
     {
       "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
@@ -122,6 +122,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Philips&job=c9282e8c-48d2-49bc-8acf-d2866cf6cf8b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
+    },
+    {
+      "id": "3af4870a-9e10-48c6-a379-b7607edd916b",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3af4870a-9e10-48c6-a379-b7607edd916b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058"
     },
     {
       "id": "8740ff58-c42f-4ed0-a1da-1c6af8bddd87",
