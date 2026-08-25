@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:00:16.356Z",
+  "updatedAt": "2026-08-25T20:15:18.582Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=501cfed4-9f01-46db-9915-051ffb2aa04c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3"
+    },
+    {
+      "id": "1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb",
+      "company": "Haier",
+      "title": "Software Engineering Co-op_Fall 2027",
+      "category": "Software Engineering",
+      "location": "Ky, Louisville",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Haier&job=1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592"
     },
     {
       "id": "custom:microsoft:8c80b3c58339f2aef50f",
