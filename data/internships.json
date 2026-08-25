@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:45:32.783Z",
+  "updatedAt": "2026-08-25T23:00:19.054Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -12,6 +12,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bah&job=092abb6f-a74f-48dc-b0b8-351bc2817ed3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
+    },
+    {
+      "id": "b23a7070-e4a2-4cd8-92a8-a31a3249fdce",
+      "company": "Brunswick",
+      "title": "Mercury Marine: Software Validation Intern",
+      "category": "Software Engineering",
+      "location": "Oshkosh, WI",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=b23a7070-e4a2-4cd8-92a8-a31a3249fdce&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
+    },
+    {
+      "id": "7a4e6a9d-5bbb-4584-90ba-15322e33c683",
+      "company": "Brunswick",
+      "title": "Merucry Marine: Product Management Intern – Parts & Accessories",
+      "category": "Product",
+      "location": "Fond du Lac, WI",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=7a4e6a9d-5bbb-4584-90ba-15322e33c683&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142"
+    },
+    {
+      "id": "48f82219-c830-4b82-aff4-deb80a20dd1d",
+      "company": "Brunswick",
+      "title": "Mercury Marine - Systems/Software Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Fond du Lac, WI",
+      "season": "Co-op",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=48f82219-c830-4b82-aff4-deb80a20dd1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
     },
     {
       "id": "ca72c830-bd32-41aa-a682-c309302caa51",
