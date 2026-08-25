@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:45:35.772Z",
+  "updatedAt": "2026-08-25T22:00:25.148Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -74,19 +74,6 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
-    },
-    {
       "id": "510ed6aa-e3ce-4b3f-872e-e7322391185e",
       "company": "Northrop Grumman",
       "title": "2027 Software Test Engineering Intern- Huntsville AL",
@@ -109,6 +96,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d0396227-ee14-4ba4-96c7-a95d37622ad7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
+    },
+    {
+      "id": "3c315d55-fdc5-4e9d-a800-d50f3933f6ec",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Anaheim, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3c315d55-fdc5-4e9d-a800-d50f3933f6ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697"
+    },
+    {
+      "id": "10a8055b-0712-496e-bb0c-c036929f1378",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Jupiter, FL",
+      "season": "Summer 2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=10a8055b-0712-496e-bb0c-c036929f1378&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485"
     },
     {
       "id": "0c6f296f-72eb-4d19-9373-e8351e808beb",
