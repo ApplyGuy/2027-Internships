@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:00:18.800Z",
+  "updatedAt": "2026-08-25T15:15:50.044Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bah&job=092abb6f-a74f-48dc-b0b8-351bc2817ed3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
+    },
+    {
+      "id": "501cfed4-9f01-46db-9915-051ffb2aa04c",
+      "company": "Gevernova",
+      "title": "GE Vernova Controls Product Management Intern - Summer 2027",
+      "category": "Product",
+      "location": "Greenville, NC",
+      "season": "Summer 2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=501cfed4-9f01-46db-9915-051ffb2aa04c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3"
     },
     {
       "id": "d0396227-ee14-4ba4-96c7-a95d37622ad7",
