@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:30:32.430Z",
+  "updatedAt": "2026-08-25T23:45:21.306Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -110,6 +110,19 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
+    },
+    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -170,6 +183,18 @@
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
     },
     {
+      "id": "b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723",
+      "company": "Prophet Security",
+      "title": "Software Engineer, Backend Intern",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612"
+    },
+    {
       "id": "3c315d55-fdc5-4e9d-a800-d50f3933f6ec",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -216,6 +241,66 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=talentpluto&job=5895d62e-d5bd-4358-a6d7-b6a02945d140&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/qYVV4sY6JpikAqUfG4yfKQ/full-stack-engineering-intern-in-new-york-at-talentpluto"
+    },
+    {
+      "id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
+      "company": "Verkada",
+      "title": "Mobile Software Engineering Intern 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
+    },
+    {
+      "id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
+    },
+    {
+      "id": "dd6e9c1e-920a-43d2-a078-18914384469b",
+      "company": "Verkada",
+      "title": "Frontend Software Engineering Intern 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
+    },
+    {
+      "id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
+      "company": "Verkada",
+      "title": "Embedded Software Engineering Intern 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
+    },
+    {
+      "id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
+      "company": "Verkada",
+      "title": "Backend Software Engineering Intern 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
     },
     {
       "id": "aebc61e4-6d42-4c65-8621-41e79d8d092b",
