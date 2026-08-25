@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:30:17.803Z",
+  "updatedAt": "2026-08-25T19:45:24.614Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=ca72c830-bd32-41aa-a682-c309302caa51&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"
+    },
+    {
+      "id": "752b8aed-8353-4c40-95cf-9cd7e47b4bfe",
+      "company": "empirical foods, inc",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Dakota Dunes, SD",
+      "season": "Summer 2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=empirical+foods%2C+inc&job=752b8aed-8353-4c40-95cf-9cd7e47b4bfe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-empiricalfoods.icims.com/jobs/4161/software-engineering-intern---summer-2027/job"
     },
     {
       "id": "501cfed4-9f01-46db-9915-051ffb2aa04c",
