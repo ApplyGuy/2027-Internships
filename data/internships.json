@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:30:21.742Z",
+  "updatedAt": "2026-08-25T15:45:18.622Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -204,6 +204,19 @@
       "age": "1d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern - Edge",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-24",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
       "applySupported": false
     },
     {
@@ -770,6 +783,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=METECS&job=f6204d3b-8bbc-4afa-a1d1-bfbc2653f3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://metecs.applytojob.com/apply/XTBhKHIVhQ"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-19",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "ff8949bf-a91e-44c8-8f27-dc104a3e7dac",
@@ -1382,6 +1408,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392"
+    },
+    {
+      "id": "68ee3b6b-28a0-48eb-b95d-bb1fc797fefe",
+      "company": "The Voleon Group",
+      "title": "Software Engineer Intern - (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Berkeley, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-14",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
     },
     {
       "id": "5e19721e-24ff-41fa-9ef5-2f8de0ea30b0",
