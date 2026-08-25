@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:15:30.286Z",
+  "updatedAt": "2026-08-25T23:30:32.430Z",
   "jobs": [
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -110,19 +110,6 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
-    },
-    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -169,6 +156,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d0396227-ee14-4ba4-96c7-a95d37622ad7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
+    },
+    {
+      "id": "0b3e6b90-7082-4ab8-8418-e7c828764a7c",
+      "company": "Plexus",
+      "title": "Intern - Software Engineer (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Neenah, WI",
+      "season": "Spring 2027",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Plexus&job=0b3e6b90-7082-4ab8-8418-e7c828764a7c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
     },
     {
       "id": "3c315d55-fdc5-4e9d-a800-d50f3933f6ec",
