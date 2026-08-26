@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T10:00:12.834Z",
+  "updatedAt": "2026-08-26T10:15:25.028Z",
   "jobs": [
+    {
+      "id": "5eb46d90-c9e3-47e9-bc85-bcf443a40b97",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Woburn, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5eb46d90-c9e3-47e9-bc85-bcf443a40b97&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890"
+    },
     {
       "id": "c71e8175-37f4-48c4-a6c2-4d674d9ff693",
       "company": "RTX",
