@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T00:00:18.892Z",
+  "updatedAt": "2026-08-26T00:15:30.033Z",
   "jobs": [
+    {
+      "id": "376c3baa-a3f4-47cf-9d36-c88241060ce5",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)",
+      "category": "Software Engineering",
+      "location": "Columbus, OH",
+      "season": "Summer 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=376c3baa-a3f4-47cf-9d36-c88241060ce5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
+    },
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
       "company": "Bah",
