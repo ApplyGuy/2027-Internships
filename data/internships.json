@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:30:19.970Z",
+  "updatedAt": "2026-08-26T01:45:31.590Z",
   "jobs": [
     {
       "id": "376c3baa-a3f4-47cf-9d36-c88241060ce5",
@@ -325,6 +325,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/insuresoft/job/United-States---Tuscaloosa-AL/Intern---Software-Development_R70565"
+    },
+    {
+      "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+      "company": "Zip",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
     },
     {
       "id": "aebc61e4-6d42-4c65-8621-41e79d8d092b",
