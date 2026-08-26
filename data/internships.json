@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T19:30:24.108Z",
+  "updatedAt": "2026-08-26T19:45:42.823Z",
   "jobs": [
     {
       "id": "665c9f94-3e85-4ef4-ab0f-548251fea3a0",
@@ -2955,18 +2955,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=PCS+Software+Inc&job=12a932ef-afc5-4e4b-947e-c5a72509d326&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4368457"
-    },
-    {
-      "id": "9b50be2b-01ea-4586-ad98-8a9f5970f548",
-      "company": "Apptronik",
-      "title": "Software Engineer Intern - ML Systems",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-07-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Apptronik&job=9b50be2b-01ea-4586-ad98-8a9f5970f548&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004"
     },
     {
       "id": "24e00f51-bffe-4165-8066-be29525a4159",
