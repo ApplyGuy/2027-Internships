@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T20:00:18.005Z",
+  "updatedAt": "2026-08-26T20:15:19.193Z",
   "jobs": [
+    {
+      "id": "9304ace2-67d9-4693-af30-db4e7193aa99",
+      "company": "CACI",
+      "title": "Software Developer/Data Scientist Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Denver CO",
+      "season": "Summer 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=9304ace2-67d9-4693-af30-db4e7193aa99&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
+    },
     {
       "id": "665c9f94-3e85-4ef4-ab0f-548251fea3a0",
       "company": "Jj",
