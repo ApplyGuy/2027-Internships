@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:15:41.286Z",
+  "updatedAt": "2026-08-26T14:30:38.839Z",
   "jobs": [
     {
       "id": "5eb46d90-c9e3-47e9-bc85-bcf443a40b97",
@@ -144,19 +144,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -2979,18 +2966,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=PathAI&job=e5acb1c7-cc33-4eca-a3f0-93907705aacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002"
-    },
-    {
-      "id": "afe46fa6-7e2f-472c-91a7-7226d7b54135",
-      "company": "RTX",
-      "title": "Software Engineering Intern (On-site)",
-      "category": "Software Engineering",
-      "location": "State College, PA",
-      "season": "Not specified",
-      "posted": "2026-07-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=afe46fa6-7e2f-472c-91a7-7226d7b54135&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801"
     },
     {
       "id": "24e00f51-bffe-4165-8066-be29525a4159",
