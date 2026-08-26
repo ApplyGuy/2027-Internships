@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T03:45:40.146Z",
+  "updatedAt": "2026-08-26T04:00:11.329Z",
   "jobs": [
+    {
+      "id": "c71e8175-37f4-48c4-a6c2-4d674d9ff693",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Tucson, AZ",
+      "season": "Summer 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c71e8175-37f4-48c4-a6c2-4d674d9ff693&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineering-Intern--Summer-2027-_01869473"
+    },
     {
       "id": "376c3baa-a3f4-47cf-9d36-c88241060ce5",
       "company": "The Hartford",
@@ -1563,18 +1575,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9c6fb15e-fd8b-4761-8f84-5964bb1c331f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681"
-    },
-    {
-      "id": "5c34a584-d7e8-4428-af1b-d2d85924deb2",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Tucson, AZ",
-      "season": "Summer 2027",
-      "posted": "2026-08-15",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5c34a584-d7e8-4428-af1b-d2d85924deb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777"
     },
     {
       "id": "508fc40c-b027-4fea-a09e-fcc6951c6762",
