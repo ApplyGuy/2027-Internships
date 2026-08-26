@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T22:45:17.446Z",
+  "updatedAt": "2026-08-26T23:00:21.214Z",
   "jobs": [
     {
       "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jj&job=665c9f94-3e85-4ef4-ab0f-548251fea3a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
+    },
+    {
+      "id": "941d7482-e7ef-4dd8-987f-42c8668e9809",
+      "company": "Kognitos",
+      "title": "Software Engineer Intern (AI-Native) — Fall 2026",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Fall 2026",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kognitos&job=941d7482-e7ef-4dd8-987f-42c8668e9809&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
     },
     {
       "id": "5eb46d90-c9e3-47e9-bc85-bcf443a40b97",
