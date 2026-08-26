@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T23:15:22.808Z",
+  "updatedAt": "2026-08-26T23:30:17.390Z",
   "jobs": [
     {
       "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=376c3baa-a3f4-47cf-9d36-c88241060ce5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
+    },
+    {
+      "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
+      "company": "Zipline",
+      "title": "Embedded Software Engineer Intern (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Spring 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003"
     },
     {
       "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
@@ -421,18 +433,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
-    },
-    {
-      "id": "aebc61e4-6d42-4c65-8621-41e79d8d092b",
-      "company": "Zipline",
-      "title": "Embedded Software Engineer Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-25",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974897003"
     },
     {
       "id": "b67e3c2f-94c0-4bdb-85c9-b38c0fa3bf5c",
