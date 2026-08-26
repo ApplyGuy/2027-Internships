@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T17:15:18.749Z",
+  "updatedAt": "2026-08-26T17:30:39.957Z",
   "jobs": [
+    {
+      "id": "665c9f94-3e85-4ef4-ab0f-548251fea3a0",
+      "company": "Jj",
+      "title": "Software Engineering Co-Op, Spring 2027",
+      "category": "Software Engineering",
+      "location": "Cincinnati, OH",
+      "season": "Spring 2027",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=665c9f94-3e85-4ef4-ab0f-548251fea3a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
+    },
     {
       "id": "5eb46d90-c9e3-47e9-bc85-bcf443a40b97",
       "company": "RTX",
