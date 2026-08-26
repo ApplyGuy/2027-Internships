@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T22:30:11.989Z",
+  "updatedAt": "2026-08-26T22:45:17.446Z",
   "jobs": [
+    {
+      "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
+      "company": "Ancestry",
+      "title": "Software Engineer – Observability, Co-op",
+      "category": "Software Engineering",
+      "location": "Draper, UT",
+      "season": "Co-op",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ancestry&job=d4e309c1-1043-4a6d-a10f-caf759cfa6a5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
+    },
     {
       "id": "77811058-85e4-4a83-8364-c4dd1d898e2b",
       "company": "Aoins",
