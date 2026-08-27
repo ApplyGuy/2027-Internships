@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-264-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-265-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **264** active U.S. internships posted within the last **30 days**
+- **265** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 27, 2026, 3:45 PM PDT**
+- Last refresh: **Aug 27, 2026, 4:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**243 open roles**
+**244 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -30,6 +30,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | US, CA, Cupertino | 2027 | Today | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
 | Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | US, MA, Westboro | Fall | Today | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
 | Aoins | Software Developer Internship - Summer 2027 | Lansing, MI | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
+| Jbssolutions | Software Development Specialist - Payload Activity Requirement Coordinator (PARC) Productivity Enhancement Tool (PET) (JR082726T-15) — Internship | Huntsville, AL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jbssolutions&job=7d41e9df-95d6-416e-a143-ed3d1bb1f348&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jbssolutions.bamboohr.com/careers/156) |
 | RJ Lee Group, Inc | Internship - Artificial Intelligence - Software Modernization | Pittsburgh, PA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg) |
 | RTX | Software Engineering Intern(Summer 2027) | Cedar Rapids, IA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=02a5bf79-5a49-4632-9f3c-9d6239bba68b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1) |
 | RTX | Software Platform Intern (Summer 2027) | Richardson, TX | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=f745df63-b60e-453c-b548-c84f7d46b9bd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01870211) |
