@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T22:15:17.322Z",
+  "updatedAt": "2026-08-27T22:30:22.283Z",
   "jobs": [
     {
       "id": "a84fb00d-6b1b-4c7e-b05a-445d8b8046eb",
@@ -62,6 +62,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg"
+    },
+    {
+      "id": "02a5bf79-5a49-4632-9f3c-9d6239bba68b",
+      "company": "RTX",
+      "title": "Software Engineering Intern(Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=02a5bf79-5a49-4632-9f3c-9d6239bba68b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1"
     },
     {
       "id": "f745df63-b60e-453c-b548-c84f7d46b9bd",
@@ -1457,18 +1469,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f647531b-2e87-4095-8996-4ea295b7be5b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845"
-    },
-    {
-      "id": "cb21fc71-7f28-41ed-b849-2042da582a68",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-19",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=cb21fc71-7f28-41ed-b849-2042da582a68&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241"
     },
     {
       "id": "2edec618-afcc-483d-a49d-f423f5cf9e4b",
