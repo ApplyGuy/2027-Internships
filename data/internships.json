@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-27T02:15:23.115Z",
+  "updatedAt": "2026-08-27T02:30:17.121Z",
   "jobs": [
+    {
+      "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
+      "company": "Aoins",
+      "title": "Software Developer Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Lansing, MI",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
+    },
     {
       "id": "9e1ad9d8-9f73-4141-89a6-f114830e30b7",
       "company": "The Hartford",
