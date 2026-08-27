@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T18:00:25.885Z",
+  "updatedAt": "2026-08-27T18:15:43.536Z",
   "jobs": [
     {
       "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
+    },
+    {
+      "id": "11275e42-4bc3-4e09-b415-8faa69df882e",
+      "company": "RJ Lee Group, Inc",
+      "title": "Internship - Artificial Intelligence - Software Modernization",
+      "category": "Software Engineering",
+      "location": "Pittsburgh, PA",
+      "season": "Not specified",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg"
     },
     {
       "id": "f745df63-b60e-453c-b548-c84f7d46b9bd",
@@ -348,19 +360,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
