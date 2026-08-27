@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T21:30:21.585Z",
+  "updatedAt": "2026-08-27T21:45:20.672Z",
   "jobs": [
     {
       "id": "a84fb00d-6b1b-4c7e-b05a-445d8b8046eb",
@@ -12,6 +12,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Advantage+Design+Group&job=a84fb00d-6b1b-4c7e-b05a-445d8b8046eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://advantage-design-group.breezy.hr/p/03388b8828d9-web-developer-intern"
+    },
+    {
+      "id": "custom:amazon:ec8dbedff8d95fe6a434",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "category": "Software Engineering",
+      "location": "US, CA, Cupertino",
+      "season": "2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "applySupported": false
     },
     {
       "id": "custom:amazon:ee324a21d09920af6bd8",
