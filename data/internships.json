@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-27T18:15:43.536Z",
+  "updatedAt": "2026-08-27T18:30:23.448Z",
   "jobs": [
+    {
+      "id": "custom:amazon:ee324a21d09920af6bd8",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+      "category": "Software Engineering",
+      "location": "US, MA, Westboro",
+      "season": "Fall",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
+      "applySupported": false
+    },
     {
       "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
       "company": "Aoins",
@@ -96,6 +109,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=850a2e78-c608-47d6-9056-72b278ef2d9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869"
+    },
+    {
+      "id": "e541a297-0812-42a5-b30e-35206be1e5ee",
+      "company": "TELUS Digital",
+      "title": "Software Engineering Intern (US) - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Charlottesville, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TELUS+Digital&job=e541a297-0812-42a5-b30e-35206be1e5ee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
+    },
+    {
+      "id": "e51af54c-5c4d-4741-a309-29ce50de3eb2",
+      "company": "TELUS Digital",
+      "title": "Product Analyst Intern (US) - Summer 2027",
+      "category": "Product",
+      "location": "Columbus, OH",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TELUS+Digital&job=e51af54c-5c4d-4741-a309-29ce50de3eb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7"
     },
     {
       "id": "9e1ad9d8-9f73-4141-89a6-f114830e30b7",
@@ -360,6 +397,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -3062,18 +3112,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Virtu+Financial&job=dc297d3e-0ae3-433c-89dd-eabf732af930&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
-    },
-    {
-      "id": "5243c947-c874-48dd-98e4-5c7f0cafb5d2",
-      "company": "Berkshiregrey",
-      "title": "Fall 2026 Software Co-op",
-      "category": "Software Engineering",
-      "location": "Bedford, MA",
-      "season": "Fall 2026",
-      "posted": "2026-07-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=5243c947-c874-48dd-98e4-5c7f0cafb5d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://berkshiregrey.bamboohr.com/careers/749"
     },
     {
       "id": "6db323b9-36eb-4100-ba6a-f276eb93ad3f",
