@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:30:23.299Z",
+  "updatedAt": "2026-08-27T14:45:46.400Z",
   "jobs": [
     {
       "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
@@ -12,6 +12,66 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
+    },
+    {
+      "id": "f745df63-b60e-453c-b548-c84f7d46b9bd",
+      "company": "RTX",
+      "title": "Software Platform Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Richardson, TX",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f745df63-b60e-453c-b548-c84f7d46b9bd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01870211"
+    },
+    {
+      "id": "bea00037-5c16-4aca-9007-5408904fe5b0",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "State College, PA",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=bea00037-5c16-4aca-9007-5408904fe5b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
+    },
+    {
+      "id": "a93ecdda-650f-49ab-97b7-47a776ea01a0",
+      "company": "RTX",
+      "title": "Software Platform Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Aurora, CO",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a93ecdda-650f-49ab-97b7-47a776ea01a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01870216"
+    },
+    {
+      "id": "29158fb6-cada-4526-9da2-7bcd5d57a5cd",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Woburn, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=29158fb6-cada-4526-9da2-7bcd5d57a5cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1"
+    },
+    {
+      "id": "2174b225-642d-432a-9bc6-954283071da6",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2174b225-642d-432a-9bc6-954283071da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
     },
     {
       "id": "850a2e78-c608-47d6-9056-72b278ef2d9b",
@@ -144,18 +204,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=e42e90cb-3776-45aa-8e57-195161fd623c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648"
-    },
-    {
-      "id": "5eb46d90-c9e3-47e9-bc85-bcf443a40b97",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Woburn, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-26",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5eb46d90-c9e3-47e9-bc85-bcf443a40b97&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890"
     },
     {
       "id": "c71e8175-37f4-48c4-a6c2-4d674d9ff693",
@@ -2608,18 +2656,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471"
     },
     {
-      "id": "e43a5439-8de1-434e-93ba-d4be1025f449",
-      "company": "RTX",
-      "title": "Software Platform Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-08-05",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e43a5439-8de1-434e-93ba-d4be1025f449&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01864017"
-    },
-    {
       "id": "bc091d03-d95a-4954-b269-1ca82145d575",
       "company": "RTX",
       "title": "Cyber/EW Research Developer, Intern (Onsite)",
@@ -3002,18 +3038,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Redwood+Materials&job=3881a4fa-7f03-4d58-bce2-4d0309e724c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
-    },
-    {
-      "id": "916a07db-1c7e-47e4-bcf9-de695fc88ca0",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "State College, PA",
-      "season": "Summer 2027",
-      "posted": "2026-07-29",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=916a07db-1c7e-47e4-bcf9-de695fc88ca0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842"
     },
     {
       "id": "dc297d3e-0ae3-433c-89dd-eabf732af930",
