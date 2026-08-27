@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T13:00:15.370Z",
+  "updatedAt": "2026-08-27T13:15:14.858Z",
   "jobs": [
     {
       "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
@@ -3063,18 +3063,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Draper&job=6db323b9-36eb-4100-ba6a-f276eb93ad3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735"
-    },
-    {
-      "id": "12a932ef-afc5-4e4b-947e-c5a72509d326",
-      "company": "PCS Software Inc",
-      "title": "Internship -Technical Software Support Team (part-time)",
-      "category": "Software Engineering",
-      "location": "Houston, TX",
-      "season": "Not specified",
-      "posted": "2026-07-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=PCS+Software+Inc&job=12a932ef-afc5-4e4b-947e-c5a72509d326&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4368457"
     }
   ]
 }
