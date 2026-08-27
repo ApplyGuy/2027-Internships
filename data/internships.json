@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-27T00:15:19.027Z",
+  "updatedAt": "2026-08-27T00:30:19.188Z",
   "jobs": [
+    {
+      "id": "9e1ad9d8-9f73-4141-89a6-f114830e30b7",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago)",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=9e1ad9d8-9f73-4141-89a6-f114830e30b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650"
+    },
+    {
+      "id": "93da7565-8da5-45a6-a6bd-7b8d498e1090",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)",
+      "category": "Software Engineering",
+      "location": "Charlotte, NC",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=93da7565-8da5-45a6-a6bd-7b8d498e1090&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
+    },
+    {
+      "id": "3f61b926-7d5a-4905-89be-13e9c184a41d",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
+      "category": "Software Engineering",
+      "location": "Charlotte, NC",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3f61b926-7d5a-4905-89be-13e9c184a41d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
+    },
     {
       "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
       "company": "Ancestry",
