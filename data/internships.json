@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T20:00:27.504Z",
+  "updatedAt": "2026-08-27T20:15:20.695Z",
   "jobs": [
     {
       "id": "custom:amazon:ee324a21d09920af6bd8",
@@ -169,6 +169,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3f61b926-7d5a-4905-89be-13e9c184a41d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
+    },
+    {
+      "id": "40210a22-d69b-4091-8c42-44eb4d1b4bd5",
+      "company": "Workiva",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Workiva&job=40210a22-d69b-4091-8c42-44eb4d1b4bd5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
+    },
+    {
+      "id": "1f576f00-4bad-4892-9149-bafe34f2eaeb",
+      "company": "Workiva",
+      "title": "Spring & Summer 2027 Intern - Product Management",
+      "category": "Product",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Workiva&job=1f576f00-4bad-4892-9149-bafe34f2eaeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355"
     },
     {
       "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
