@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-28T03:45:21.533Z",
+  "updatedAt": "2026-08-28T04:00:49.145Z",
   "jobs": [
+    {
+      "id": "5eca5450-c44c-4e89-9f74-1af5bc1059b5",
+      "company": "Bah",
+      "title": "University, 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=5eca5450-c44c-4e89-9f74-1af5bc1059b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
+    },
+    {
+      "id": "92555034-672b-4a32-8eb9-f3557fae4f61",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=92555034-672b-4a32-8eb9-f3557fae4f61&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
+    },
+    {
+      "id": "08f244f0-fe13-43d5-b7c7-0887080cac4f",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=08f244f0-fe13-43d5-b7c7-0887080cac4f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
+    },
     {
       "id": "f9546405-19e0-4e75-ac11-dd868267f6fe",
       "company": "Leidos",
@@ -494,19 +530,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
