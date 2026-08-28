@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-28T03:00:22.588Z",
+  "updatedAt": "2026-08-28T03:30:22.597Z",
   "jobs": [
+    {
+      "id": "f9546405-19e0-4e75-ac11-dd868267f6fe",
+      "company": "Leidos",
+      "title": "Software Developer Co-op",
+      "category": "Software Engineering",
+      "location": "Bethesda, MD",
+      "season": "Co-op",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=f9546405-19e0-4e75-ac11-dd868267f6fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
+    },
     {
       "id": "8142aa53-ace5-41a6-942b-1554a07808aa",
       "company": "Manulife",
