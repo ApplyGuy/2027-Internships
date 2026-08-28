@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:45:25.967Z",
+  "updatedAt": "2026-08-28T19:00:48.845Z",
   "jobs": [
     {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
@@ -566,6 +566,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -3184,18 +3197,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e3dc5add-f764-4da0-9cbc-6bb0a9b37b02&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
-    },
-    {
-      "id": "c9fc187e-49c3-45f7-9935-852818937c2b",
-      "company": "BorgWarner",
-      "title": "Software Application Engineering Intern (Year Round)",
-      "category": "Software Engineering",
-      "location": "Auburn Hills, MI",
-      "season": "Year-round",
-      "posted": "2026-07-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=BorgWarner&job=c9fc187e-49c3-45f7-9935-852818937c2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645"
     },
     {
       "id": "47729c27-fa86-48cd-ac5a-04e888852a71",
