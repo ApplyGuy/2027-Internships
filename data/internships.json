@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T17:15:54.397Z",
+  "updatedAt": "2026-08-28T17:30:24.775Z",
   "jobs": [
     {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bah&job=08f244f0-fe13-43d5-b7c7-0887080cac4f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
+    },
+    {
+      "id": "1016893c-e282-4af8-ab3f-bd70bacd9dc6",
+      "company": "Brunswick",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Menomonee Falls, WI",
+      "season": "Not specified",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=1016893c-e282-4af8-ab3f-bd70bacd9dc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1"
     },
     {
       "id": "f9546405-19e0-4e75-ac11-dd868267f6fe",
@@ -554,19 +566,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
