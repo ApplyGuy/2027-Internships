@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:30:39.180Z",
+  "updatedAt": "2026-08-28T21:45:41.358Z",
   "jobs": [
     {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
@@ -3221,18 +3221,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=22110d8b-ce63-493f-a822-4292e02ba032&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
-    },
-    {
-      "id": "dc297d3e-0ae3-433c-89dd-eabf732af930",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Frontend Engineer (UI)",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "2027",
-      "posted": "2026-07-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Virtu+Financial&job=dc297d3e-0ae3-433c-89dd-eabf732af930&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
     }
   ]
 }
