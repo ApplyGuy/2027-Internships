@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-28T00:15:26.235Z",
+  "updatedAt": "2026-08-28T00:30:21.484Z",
   "jobs": [
+    {
+      "id": "8142aa53-ace5-41a6-942b-1554a07808aa",
+      "company": "Manulife",
+      "title": "Summer Intern 2027 - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Manulife&job=8142aa53-ace5-41a6-942b-1554a07808aa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+    },
     {
       "id": "a84fb00d-6b1b-4c7e-b05a-445d8b8046eb",
       "company": "Advantage Design Group",
