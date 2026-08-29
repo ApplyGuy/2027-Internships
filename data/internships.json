@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T02:30:17.655Z",
+  "updatedAt": "2026-08-29T02:45:48.276Z",
   "jobs": [
     {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=8142aa53-ace5-41a6-942b-1554a07808aa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+    },
+    {
+      "id": "3fcbebaf-2cc2-44fc-92b6-5ef366304fe8",
+      "company": "Persona AI Inc",
+      "title": "Robotics Software Internship, Manipulation",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-08-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=3fcbebaf-2cc2-44fc-92b6-5ef366304fe8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc"
     },
     {
       "id": "50c9d7f1-a860-49d6-92c0-77c3131d0535",
@@ -578,19 +590,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
