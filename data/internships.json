@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T17:00:51.533Z",
+  "updatedAt": "2026-08-29T17:15:46.024Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -3221,18 +3221,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"
-    },
-    {
-      "id": "e3dc5add-f764-4da0-9cbc-6bb0a9b37b02",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Mckinney, TX",
-      "season": "Summer 2027",
-      "posted": "2026-07-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e3dc5add-f764-4da0-9cbc-6bb0a9b37b02&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
     }
   ]
 }
