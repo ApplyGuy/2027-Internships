@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:15:15.103Z",
+  "updatedAt": "2026-08-29T21:30:29.974Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -84,18 +84,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=1016893c-e282-4af8-ab3f-bd70bacd9dc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1"
-    },
-    {
-      "id": "f9546405-19e0-4e75-ac11-dd868267f6fe",
-      "company": "Leidos",
-      "title": "Software Developer Co-op",
-      "category": "Software Engineering",
-      "location": "Bethesda, MD",
-      "season": "Co-op",
-      "posted": "2026-08-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=f9546405-19e0-4e75-ac11-dd868267f6fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
     },
     {
       "id": "8142aa53-ace5-41a6-942b-1554a07808aa",
@@ -448,18 +436,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
     },
     {
-      "id": "e42e90cb-3776-45aa-8e57-195161fd623c",
-      "company": "Leidos",
-      "title": "Software Engineering & AI Intern",
-      "category": "Software Engineering",
-      "location": "6314 RemoteTeleworker",
-      "season": "Not specified",
-      "posted": "2026-08-26",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=e42e90cb-3776-45aa-8e57-195161fd623c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648"
-    },
-    {
       "id": "c71e8175-37f4-48c4-a6c2-4d674d9ff693",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -602,19 +578,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -3173,18 +3136,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Skydio&job=09722dcc-4a6e-4468-840a-2072d647c447&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf"
-    },
-    {
-      "id": "049c65cc-9a89-45ab-8568-c9d03df4ece7",
-      "company": "Pivotal",
-      "title": "Internship, GNC Engineering (Fall)",
-      "category": "Software Engineering",
-      "location": "Palo Alto, CA",
-      "season": "Fall",
-      "posted": "2026-07-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"
     }
   ]
 }
