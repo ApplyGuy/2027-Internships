@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T02:45:48.276Z",
+  "updatedAt": "2026-08-29T03:00:55.306Z",
   "jobs": [
     {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
@@ -120,6 +120,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=talentpluto&job=a9bc0a70-a78b-46be-9d98-6370b9bb3cb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/26T9jKSBYdv8hobdEqdH7i/full-stack-engineering-intern-in-new-york-at-talentpluto"
+    },
+    {
+      "id": "5ea7ac46-f591-4786-864a-2f714dfeff83",
+      "company": "Wize Solutions",
+      "title": "Software Engineering Intern - AI & Integrations",
+      "category": "Software Engineering",
+      "location": "Sandy, UT",
+      "season": "Not specified",
+      "posted": "2026-08-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wize+Solutions&job=5ea7ac46-f591-4786-864a-2f714dfeff83&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4461585"
     },
     {
       "id": "a84fb00d-6b1b-4c7e-b05a-445d8b8046eb",
@@ -590,6 +602,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
