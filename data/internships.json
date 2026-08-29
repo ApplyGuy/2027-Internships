@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:15:19.320Z",
+  "updatedAt": "2026-08-29T20:30:12.537Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -376,30 +376,6 @@
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
     },
     {
-      "id": "40210a22-d69b-4091-8c42-44eb4d1b4bd5",
-      "company": "Workiva",
-      "title": "Summer 2027 Intern - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Workiva&job=40210a22-d69b-4091-8c42-44eb4d1b4bd5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
-    },
-    {
-      "id": "1f576f00-4bad-4892-9149-bafe34f2eaeb",
-      "company": "Workiva",
-      "title": "Spring & Summer 2027 Intern - Product Management",
-      "category": "Product",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Workiva&job=1f576f00-4bad-4892-9149-bafe34f2eaeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355"
-    },
-    {
       "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
       "company": "Ancestry",
       "title": "Software Engineer – Observability, Co-op",
@@ -628,19 +604,6 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
-    },
-    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -819,18 +782,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/insuresoft/job/United-States---Tuscaloosa-AL/Intern---Software-Development_R70565"
-    },
-    {
-      "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
-      "company": "Zip",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-25",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
     },
     {
       "id": "b67e3c2f-94c0-4bdb-85c9-b38c0fa3bf5c",
