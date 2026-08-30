@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T11:15:33.969Z",
+  "updatedAt": "2026-08-30T11:30:24.396Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -530,19 +530,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -2023,18 +2010,6 @@
       "listingUrl": "https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005"
     },
     {
-      "id": "0eecf979-3406-4a4c-aef4-5f327ffb8d07",
-      "company": "Assured Guaranty",
-      "title": "Fall 2026 Intern - Product Software Developer",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Fall 2026",
-      "posted": "2026-08-12",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Assured+Guaranty&job=0eecf979-3406-4a4c-aef4-5f327ffb8d07&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"
-    },
-    {
       "id": "8d32474f-24a1-4933-af46-3e3a1daecef8",
       "company": "Maverick Software Consulting",
       "title": "Minnesota State University-Mankato -- Software Engineer Intern 2026",
@@ -2273,18 +2248,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
-    },
-    {
-      "id": "9b945b34-e6c5-4126-9f85-393cb9651385",
-      "company": "DV Trading",
-      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=9b945b34-e6c5-4126-9f85-393cb9651385&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
     },
     {
       "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
