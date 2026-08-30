@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T15:00:34.246Z",
+  "updatedAt": "2026-08-30T15:15:50.897Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -484,18 +484,6 @@
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803"
     },
     {
-      "id": "1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb",
-      "company": "Haier",
-      "title": "Software Engineering Co-op_Fall 2027",
-      "category": "Software Engineering",
-      "location": "Ky, Louisville",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Haier&job=1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592"
-    },
-    {
       "id": "3cbb5213-f855-40eb-b326-cde8672cf246",
       "company": "Mesa Quantum Systems",
       "title": "Internship: Junior Developer - AI Operations",
@@ -506,6 +494,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -1300,18 +1301,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Specialisterne&job=38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
-    },
-    {
-      "id": "6f1ea15f-da9f-4092-8d4b-5643e3ac905f",
-      "company": "Conagrabrands",
-      "title": "Software Development Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Omaha, NE",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Conagrabrands&job=6f1ea15f-da9f-4092-8d4b-5643e3ac905f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://conagrabrands.wd1.myworkdayjobs.com/careers_us/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"
     },
     {
       "id": "f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8",
@@ -2428,18 +2417,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
-    },
-    {
-      "id": "020f5de0-997a-49f5-93b0-82c6330419d8",
-      "company": "Haier",
-      "title": "Software Engineering Co-op_Summer 2027",
-      "category": "Software Engineering",
-      "location": "Ky, Louisville",
-      "season": "2027",
-      "posted": "2026-08-05",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Haier&job=020f5de0-997a-49f5-93b0-82c6330419d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
     },
     {
       "id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
