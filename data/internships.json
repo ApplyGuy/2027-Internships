@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:30:41.194Z",
+  "updatedAt": "2026-08-30T00:45:13.538Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -699,66 +699,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0c6f296f-72eb-4d19-9373-e8351e808beb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518"
-    },
-    {
-      "id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
-      "company": "Verkada",
-      "title": "Mobile Software Engineering Intern 2027",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
-    },
-    {
-      "id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
-      "company": "Verkada",
-      "title": "Security Software Engineering Intern 2027",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
-    },
-    {
-      "id": "dd6e9c1e-920a-43d2-a078-18914384469b",
-      "company": "Verkada",
-      "title": "Frontend Software Engineering Intern 2027",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
-    },
-    {
-      "id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
-    },
-    {
-      "id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
-      "company": "Verkada",
-      "title": "Backend Software Engineering Intern 2027",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
     },
     {
       "id": "cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17",
