@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-253-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-252-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **253** active U.S. internships posted within the last **30 days**
+- **252** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 29, 2026, 7:15 PM PDT**
+- Last refresh: **Aug 29, 2026, 7:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**235 open roles**
+**234 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -259,7 +259,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Uline | Software Development Internship - Summer 2027 | Pleasant Prairie, WI | Summer 2027 | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Uline&job=402c63c2-dd0b-4036-9bb6-99e14d6efe81&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
 | HPR | Software Engineering Intern - Summer 2027 | Needham, MA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HPR&job=1f5fd872-b1ba-4de4-b446-4bd30c55aa4d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Sentry | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sentry&job=c3fb9767-dc11-45ac-983f-5963571c010c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1) |
-| CWILL | Bilingual Mandarin R&D Trainee - Full-Stack Engineer (Backend） | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CWILL&job=38e8bb6f-831e-4fc8-8a79-589297931bea&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/kX4EA86ewjjZgv6J4Q8ntZ/remote-bilingual-mandarin-r%26d-trainee---full-stack-engineer-(backend%EF%BC%89-in-cary-at-cwill) |
 | SK hynix memory solutions America Inc. | Test Automation Software Engineer Intern | San Jose, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 
 ## Product Management Internships
