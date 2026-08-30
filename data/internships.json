@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:30:41.370Z",
+  "updatedAt": "2026-08-30T23:45:10.965Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -326,18 +326,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3f61b926-7d5a-4905-89be-13e9c184a41d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
-    },
-    {
-      "id": "d4e309c1-1043-4a6d-a10f-caf759cfa6a5",
-      "company": "Ancestry",
-      "title": "Software Engineer – Observability, Co-op",
-      "category": "Software Engineering",
-      "location": "Draper, UT",
-      "season": "Co-op",
-      "posted": "2026-08-26",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Ancestry&job=d4e309c1-1043-4a6d-a10f-caf759cfa6a5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
     },
     {
       "id": "77811058-85e4-4a83-8364-c4dd1d898e2b",
