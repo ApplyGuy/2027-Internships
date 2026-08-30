@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T10:15:12.870Z",
+  "updatedAt": "2026-08-30T10:30:25.767Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -36,42 +36,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Analogdevices&job=29532d19-742a-465b-af6b-7ffb7df0556e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"
-    },
-    {
-      "id": "5eca5450-c44c-4e89-9f74-1af5bc1059b5",
-      "company": "Bah",
-      "title": "University, 2027 Summer Games Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "McLean, VA",
-      "season": "Summer 2027",
-      "posted": "2026-08-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=5eca5450-c44c-4e89-9f74-1af5bc1059b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
-    },
-    {
-      "id": "92555034-672b-4a32-8eb9-f3557fae4f61",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=92555034-672b-4a32-8eb9-f3557fae4f61&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
-    },
-    {
-      "id": "08f244f0-fe13-43d5-b7c7-0887080cac4f",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=08f244f0-fe13-43d5-b7c7-0887080cac4f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
     },
     {
       "id": "1016893c-e282-4af8-ab3f-bd70bacd9dc6",
@@ -470,18 +434,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003"
-    },
-    {
-      "id": "092abb6f-a74f-48dc-b0b8-351bc2817ed3",
-      "company": "Bah",
-      "title": "Software Engineer - Intern",
-      "category": "Software Engineering",
-      "location": "Bremerton, WA",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=092abb6f-a74f-48dc-b0b8-351bc2817ed3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
     },
     {
       "id": "b23a7070-e4a2-4cd8-92a8-a31a3249fdce",
@@ -918,18 +870,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4443596"
     },
     {
-      "id": "a1788a65-c165-4945-b21a-679649343922",
-      "company": "HP",
-      "title": "Software Internship Roles - HP Solutions (HPS)",
-      "category": "Software Engineering",
-      "location": "Spring, TX",
-      "season": "Not specified",
-      "posted": "2026-08-22",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=a1788a65-c165-4945-b21a-679649343922&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906"
-    },
-    {
       "id": "9dcab96c-24e0-4596-8f34-41e1c43febcd",
       "company": "SimIS Inc.",
       "title": "Aerospace/Aviation Artificial Intelligence Developer - Intern",
@@ -988,6 +928,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=2caec0aa-d798-462b-8a30-f20e6fe9d5d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2"
+    },
+    {
+      "id": "5888759d-4743-4424-9558-5b1cb66e5772",
+      "company": "HP",
+      "title": "Software Internship Roles - HP Solutions (HPS)",
+      "category": "Software Engineering",
+      "location": "Spring, TX",
+      "season": "Not specified",
+      "posted": "2026-08-21",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=5888759d-4743-4424-9558-5b1cb66e5772&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
     },
     {
       "id": "65e327aa-ac26-48e1-82ff-db9be8e4ef91",
@@ -2083,18 +2035,6 @@
       "listingUrl": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"
     },
     {
-      "id": "95ad5873-4d31-4a9a-b809-9649b7d92cd8",
-      "company": "HP",
-      "title": "Enterprise Operations Software Internship",
-      "category": "Software Engineering",
-      "location": "Spring, TX",
-      "season": "Not specified",
-      "posted": "2026-08-12",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=95ad5873-4d31-4a9a-b809-9649b7d92cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-1"
-    },
-    {
       "id": "8d32474f-24a1-4933-af46-3e3a1daecef8",
       "company": "Maverick Software Consulting",
       "title": "Minnesota State University-Mankato -- Software Engineer Intern 2026",
@@ -2237,6 +2177,18 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://foxconnggroup.applytojob.com/apply/xf0soVofyI"
+    },
+    {
+      "id": "4fd6a859-996e-4997-9427-63ec85b0fc1e",
+      "company": "HP",
+      "title": "Enterprise Operations Software Internship",
+      "category": "Software Engineering",
+      "location": "Spring, TX",
+      "season": "Not specified",
+      "posted": "2026-08-11",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=4fd6a859-996e-4997-9427-63ec85b0fc1e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2"
     },
     {
       "id": "aa8c84b3-3941-4160-959c-c87d2b2399e8",
@@ -2717,18 +2669,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Tnuck&job=ad69fe51-4adf-4511-8a90-e0dd4adf4f6a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tnuck.bamboohr.com/careers/273"
-    },
-    {
-      "id": "7a9e0187-ee3f-4a09-bbf4-a4c073243be1",
-      "company": "CTC Campus - Website",
-      "title": "Software Engineering Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=CTC+Campus+-+Website&job=7a9e0187-ee3f-4a09-bbf4-a4c073243be1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
     },
     {
       "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
