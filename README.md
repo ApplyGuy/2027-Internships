@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-248-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-246-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **248** active U.S. internships posted within the last **30 days**
+- **246** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 29, 2026, 10:30 PM PDT**
+- Last refresh: **Aug 29, 2026, 10:45 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**231 open roles**
+**229 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -85,7 +85,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Audax Group | Data Engineer CO-OP | Boston, MA | Co-op | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Audax+Group&job=8df659df-87d2-484c-b4a8-eb5b48ee3687&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005) |
 | Brunswick | Software Engineering Intern | Champaign, IL | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Brunswick&job=92ce2ea6-3d20-4f43-b815-9401479e0e03&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316) |
 | BTI360 Website | Software Engineering Intern | Herndon, VA | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BTI360+Website&job=6537ed5f-9def-4e65-9445-e87cb8a6682a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bti36021/jobs/8155152) |
-| DAKTRONICS INC /SD/ | Firmware/Hardware Design Co-op Intern | Brookings, SD | Co-op | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DAKTRONICS+INC+%2FSD%2F&job=40dfb9d2-7c5f-4f5c-9798-98489ee199e7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-daktronics.icims.com/jobs/7518/firmware-hardware-design-co-op-intern/job) |
 | Disney | Glendale System Software Engineering Internship, Spring 2027 | Glendale, CA | Spring 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Disney&job=6aa06ddf-a599-4ed0-a208-784a4beffd47&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137) |
 | Dmainc | Software Development Intern - Spring 2027 | Fort Wayne, IN | Spring 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Dmainc&job=5eabc682-bc38-41d8-932f-af3ad42faaae&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634) |
 | Dmainc | Software Development Intern - Summer 2027 | Fort Wayne, IN | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Dmainc&job=49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636) |
@@ -254,7 +253,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | SRI International | Drexel University Co-op: Embedded Software Engineering | Princeton, NJ | Co-op | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SRI+International&job=97b6f8ea-1962-4cc2-aebf-b42741670127&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sri.icims.com/jobs/6431/drexel-university-co-op%3a-embedded-software-engineering/job) |
 | Uline | Business Intelligence Developer Internship - Summer 2027 | Pleasant Prairie, WI | Summer 2027 | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Uline&job=9955155f-fd7c-4baa-8719-5eadf32a0f74&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685) |
 | Uline | Software Development Internship - Summer 2027 | Pleasant Prairie, WI | Summer 2027 | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Uline&job=402c63c2-dd0b-4036-9bb6-99e14d6efe81&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
-| HPR | Software Engineering Intern - Summer 2027 | Needham, MA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HPR&job=1f5fd872-b1ba-4de4-b446-4bd30c55aa4d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Sentry | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sentry&job=c3fb9767-dc11-45ac-983f-5963571c010c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1) |
 | SK hynix memory solutions America Inc. | Test Automation Software Engineer Intern | San Jose, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 
