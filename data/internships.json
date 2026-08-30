@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:00:32.664Z",
+  "updatedAt": "2026-08-30T00:15:23.335Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -580,19 +580,6 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
-    },
-    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -879,30 +866,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Dmainc&job=49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
-    },
-    {
-      "id": "af216a3e-4da9-4089-921d-b4be7ebd36c1",
-      "company": "Freddiemac",
-      "title": "Multifamily Software Development Intern – Summer 2027",
-      "category": "Software Engineering",
-      "location": "McLean, VA",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Freddiemac&job=af216a3e-4da9-4089-921d-b4be7ebd36c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
-    },
-    {
-      "id": "b6884cfe-880f-4e14-8a03-c6e2e93c0025",
-      "company": "Freddiemac",
-      "title": "Single-Family Software Developer Intern- Summer 2027",
-      "category": "Software Engineering",
-      "location": "McLean, VA",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Freddiemac&job=b6884cfe-880f-4e14-8a03-c6e2e93c0025&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
     },
     {
       "id": "9a13bf5f-7986-4bd7-9607-8c1167bd09c2",
