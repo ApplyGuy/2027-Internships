@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:15:21.711Z",
+  "updatedAt": "2026-08-30T18:30:43.377Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -482,19 +482,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -1723,18 +1710,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
     },
     {
-      "id": "5e19721e-24ff-41fa-9ef5-2f8de0ea30b0",
-      "company": "TransMarket Group",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-08-14",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=TransMarket+Group&job=5e19721e-24ff-41fa-9ef5-2f8de0ea30b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"
-    },
-    {
       "id": "6281094f-21bf-4a91-b3f5-13c8b46a1e45",
       "company": "Valeo",
       "title": "Software Engineer Intern",
@@ -2275,30 +2250,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
     },
     {
-      "id": "f71eaf6d-143b-44c0-864d-4937a380baa5",
-      "company": "Varda Space Industries",
-      "title": "Site Reliability Internship - Spring 2027",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-07",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=f71eaf6d-143b-44c0-864d-4937a380baa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003"
-    },
-    {
-      "id": "d1f32d8c-9a19-41de-91ac-9f9c77062c99",
-      "company": "Varda Space Industries",
-      "title": "Flight Software Internship - Spring 2027",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-07",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=d1f32d8c-9a19-41de-91ac-9f9c77062c99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003"
-    },
-    {
       "id": "693a6f3e-5c0c-4aa1-909f-e98172e426b5",
       "company": "Centerfield",
       "title": "Frontend Engineer Intern (6 month internship)",
@@ -2573,18 +2524,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Sentry&job=c3fb9767-dc11-45ac-983f-5963571c010c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
-    },
-    {
-      "id": "da083c4f-058c-4b8d-8b5d-54e824e988e3",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "Test Automation Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-07-31",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
     }
   ]
 }
