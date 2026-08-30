@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:45:32.362Z",
+  "updatedAt": "2026-08-30T15:00:34.246Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -506,19 +506,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -2093,18 +2080,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b"
-    },
-    {
-      "id": "773c9706-9df3-4e82-94a8-caa605c522b5",
-      "company": "Foxconn Industrial Internet",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Houston, TX",
-      "season": "Not specified",
-      "posted": "2026-08-11",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://foxconnggroup.applytojob.com/apply/xf0soVofyI"
     },
     {
       "id": "4fd6a859-996e-4997-9427-63ec85b0fc1e",
