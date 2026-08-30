@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-231-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-230-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **231** active U.S. internships posted within the last **30 days**
+- **230** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 30, 2026, 5:00 AM PDT**
+- Last refresh: **Aug 30, 2026, 5:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**214 open roles**
+**213 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -65,6 +65,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | empirical foods, inc | Software Engineering Intern - Summer 2027 | Dakota Dunes, SD | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=empirical+foods%2C+inc&job=752b8aed-8353-4c40-95cf-9cd7e47b4bfe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-empiricalfoods.icims.com/jobs/4161/software-engineering-intern---summer-2027/job) |
 | Haier | Software Engineering Co-op_Fall 2027 | Ky, Louisville | 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Haier&job=1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592) |
 | Mesa Quantum Systems | Internship: Junior Developer - AI Operations | Boulder, CO | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems) |
+| Microsoft | AI Software Engineering Intern | United States, Washington, Redmond · United States, California, Mountain View | — | 5d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556979054) |
 | North Atlantic Industries, Inc | Intern-Software Engineer Fall 2026 | Bohemia, NY | Fall 2026 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=37acf7c4-9586-4546-ad5d-150ccc417524&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421) |
 | North Atlantic Industries, Inc | Intern-Full Stack Software Engineer Fall 2026 | Bohemia, NY | Fall 2026 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=47bff3ce-09e8-4556-af76-66f15662a4b4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017) |
 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | Huntsville, AL | 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=510ed6aa-e3ce-4b3f-872e-e7322391185e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487) |
@@ -86,8 +87,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Google | Software Engineering Intern, PhD, Summer 2027 | Multiple U.S. locations | Summer 2027 | 6d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027) |
 | Philips | Co-op – Software System Engineering – Plymouth, MN – January 2027 | Plymouth, MN | 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=c9282e8c-48d2-49bc-8acf-d2866cf6cf8b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406) |
 | RTX | Software Engineering Intern | Annapolis Junction, MD | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3af4870a-9e10-48c6-a379-b7607edd916b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058) |
-| Sage | Software Engineering Intern (Edge) – Summer 2027 | New York City, NY | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sage&job=8740ff58-c42f-4ed0-a1da-1c6af8bddd87&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/sage49/jobs/6131191004) |
-| Sage | Software Engineering Intern (Full Stack) – Summer 2027 | New York City, NY | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sage&job=f4baf88f-6bd6-44cc-bb50-19071093162f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/sage49/jobs/6131185004) |
 | The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) | Hartford, CT | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=a70f2545-efe9-4b34-a8c9-65b30859755e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) |
 | The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=7bef89fc-7153-4adf-bd51-52d203d09f4b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
 | The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus) | Columbus, OH | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=4ab5499d-aa04-454b-99b0-9aac5efbfd82&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) |
