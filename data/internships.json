@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:45:20.616Z",
+  "updatedAt": "2026-08-30T05:00:23.122Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -578,19 +578,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
-    },
-    {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
