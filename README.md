@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-250-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-248-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **250** active U.S. internships posted within the last **30 days**
+- **248** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 29, 2026, 10:15 PM PDT**
+- Last refresh: **Aug 29, 2026, 10:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**232 open roles**
+**231 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -160,7 +160,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Americanfidelity | Software Test Intern (OKC Local Only) | Oklahoma City, OK | — | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Americanfidelity&job=2244155d-9128-482e-90dc-5599935d5b58&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Test-Intern--OKC-Local-Only-_JR1020) |
 | Apprenticely | Align AI Software Development Intern | Bentonville, AR | — | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Apprenticely&job=cf200b35-953a-4c9e-afd8-b82e74491d5d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787) |
 | Bear Robotics | Software Engineering Intern, Developer Productivity | Redwood City, CA | — | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity) |
-| Datadog | Software Engineering Intern (Winter) | Boston, MA | Winter | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Datadog&job=73ebf29d-2f68-4870-b3f8-18ab6e5c24d5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
 | Geaerospace | Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 | Evendale, OH | Fall 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=f67d2570-0a56-49d2-bdfb-bed11daccff9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1) |
 | Geaerospace | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | Summer 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=b068dab4-e132-469e-bde1-7e13af0749a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | Geaerospace | Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027 | Evendale, OH | Spring 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619) |
@@ -261,7 +260,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**18 open roles**
+**17 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -271,7 +270,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Brunswick | Mercury Marine: Product Management Intern – Oils & Lubricants | Fond du Lac, WI | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Brunswick&job=ca72c830-bd32-41aa-a682-c309302caa51&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213) |
 | Gevernova | GE Vernova Controls Product Management Intern - Summer 2027 | Greenville, NC | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gevernova&job=abf73af9-8b8a-4ff5-a288-0154e9e66228&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | US, WA, Seattle | Summer 2027 | 10d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
-| Datadog | Product Management Intern | New York | — | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Datadog&job=5a8f2b7e-a1f0-4662-a3db-24b881bf14b3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) |
 | Pimco | 2027 Summer Intern - Product Strategy Analyst, US | Newport Beach, CA | Summer 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pimco&job=6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) |
 | Trucker Path, Inc | AI-Native Product Management Intern (Marketplace & Growth) | Phoenix, AZ | — | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Trucker+Path%2C+Inc&job=285c4cf6-0aaa-4625-96ae-04d555052566&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116481) |
 | OpusClip | AI Product Management Intern | Mountain View, CA | — | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=OpusClip&job=73a61ac8-21e2-460f-af95-db37ab6d6c8c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea) |
