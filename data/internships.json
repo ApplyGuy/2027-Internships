@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T12:00:46.547Z",
+  "updatedAt": "2026-08-30T12:15:20.706Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -532,6 +532,19 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
+    },
+    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -783,30 +796,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3af4870a-9e10-48c6-a379-b7607edd916b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058"
-    },
-    {
-      "id": "8740ff58-c42f-4ed0-a1da-1c6af8bddd87",
-      "company": "Sage",
-      "title": "Software Engineering Intern (Edge) – Summer 2027",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Sage&job=8740ff58-c42f-4ed0-a1da-1c6af8bddd87&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
-    },
-    {
-      "id": "f4baf88f-6bd6-44cc-bb50-19071093162f",
-      "company": "Sage",
-      "title": "Software Engineering Intern (Full Stack) – Summer 2027",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Sage&job=f4baf88f-6bd6-44cc-bb50-19071093162f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
     },
     {
       "id": "a70f2545-efe9-4b34-a8c9-65b30859755e",
