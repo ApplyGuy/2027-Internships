@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:00:43.923Z",
+  "updatedAt": "2026-08-30T16:15:19.632Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -472,18 +472,6 @@
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"
     },
     {
-      "id": "abf73af9-8b8a-4ff5-a288-0154e9e66228",
-      "company": "Gevernova",
-      "title": "GE Vernova Controls Product Management Intern - Summer 2027",
-      "category": "Product",
-      "location": "Greenville, NC",
-      "season": "Summer 2027",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=abf73af9-8b8a-4ff5-a288-0154e9e66228&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803"
-    },
-    {
       "id": "3cbb5213-f855-40eb-b326-cde8672cf246",
       "company": "Mesa Quantum Systems",
       "title": "Internship: Junior Developer - AI Operations",
@@ -494,6 +482,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mesa+Quantum+Systems&job=3cbb5213-f855-40eb-b326-cde8672cf246&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
+    },
+    {
+      "id": "custom:microsoft:8c80b3c58339f2aef50f",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-08-25",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "applySupported": false
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
@@ -700,18 +701,6 @@
       "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
     },
     {
-      "id": "9a13bf5f-7986-4bd7-9607-8c1167bd09c2",
-      "company": "Gevernova",
-      "title": "GE Vernova GridOS  Software Test Engineer - Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Atlanta, GA",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=9a13bf5f-7986-4bd7-9607-8c1167bd09c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-GridOS--Software-Test-Engineer---Intern---Summer-2027_R5049907-2"
-    },
-    {
       "id": "custom:google:91436104816698054",
       "company": "Google",
       "title": "Software Engineering Intern, PhD, Summer 2027",
@@ -843,18 +832,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=cb502748-87df-4183-87d3-cbbd92777eb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
-    },
-    {
-      "id": "2caec0aa-d798-462b-8a30-f20e6fe9d5d9",
-      "company": "Gevernova",
-      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-08-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=2caec0aa-d798-462b-8a30-f20e6fe9d5d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2"
     },
     {
       "id": "5888759d-4743-4424-9558-5b1cb66e5772",
@@ -1864,18 +1841,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=fe327399-f484-4cf2-acfb-5461106bf168&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
-    },
-    {
-      "id": "94bc8bc2-cbf4-4041-881f-4b7504781a0a",
-      "company": "Gevernova",
-      "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
-      "category": "Software Engineering",
-      "location": "Niskayuna, NY",
-      "season": "2027",
-      "posted": "2026-08-13",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=94bc8bc2-cbf4-4041-881f-4b7504781a0a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
     },
     {
       "id": "7bbcc238-dd1f-462f-a655-47ed70f1501a",
