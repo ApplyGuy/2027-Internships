@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:30:15.832Z",
+  "updatedAt": "2026-08-31T12:45:24.663Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -700,18 +700,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=lthc&job=1f519721-6a4f-4129-975e-a7feb827a894&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
-    },
-    {
-      "id": "2f83e1d8-1b34-48ac-83c3-175f9df26d51",
-      "company": "Microchip",
-      "title": "Intern - Engineering (Device Software and Test)",
-      "category": "Software Engineering",
-      "location": "Chandler, AZ",
-      "season": "Not specified",
-      "posted": "2026-08-20",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=2f83e1d8-1b34-48ac-83c3-175f9df26d51&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"
     },
     {
       "id": "1f6759b9-2eab-4fbb-ab1f-6b1954fe4600",
@@ -1782,18 +1770,6 @@
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
     {
-      "id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Mateo, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-05",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
-    },
-    {
       "id": "5d697427-9a27-4906-97fb-81be99147f49",
       "company": "RTX",
       "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
@@ -1876,30 +1852,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7502e13a-2c2b-4b32-a35e-754693fecccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749"
-    },
-    {
-      "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
-      "company": "Microchip",
-      "title": "Intern-Engineering (Software Development)",
-      "category": "Software Engineering",
-      "location": "Houston - Compaq Center Dr, TX",
-      "season": "Not specified",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=6fce1d21-819b-4531-ba7a-bc737e69c6e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
-    },
-    {
-      "id": "5c671c52-2958-41fb-ad64-c84ceceaa87c",
-      "company": "Microchip",
-      "title": "Intern-Engineering (Firmware Development)",
-      "category": "Software Engineering",
-      "location": "Houston - Compaq Center Dr, TX",
-      "season": "Not specified",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
     },
     {
       "id": "d5226255-62fb-450b-981c-dc56e065d2fb",
