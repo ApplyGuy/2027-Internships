@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-183-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-182-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **183** active U.S. internships posted within the last **30 days**
+- **182** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 30, 2026, 11:45 PM PDT**
+- Last refresh: **Aug 31, 2026, 12:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -199,7 +199,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**13 open roles**
+**12 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -213,7 +213,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Rlicorp | Product Management Intern- Honolulu, HI | Honolulu, HI | — | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646) |
 | ODK Media | QA & Usability Intern (Unpaid) | Los Angeles, CA | — | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ODK+Media&job=74a77d6d-756f-4851-a034-d3dffca06ddd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/5yHeiUZT89NpvTojroqADW/hybrid-qa-%26-usability-intern-(unpaid)-in-los-angeles-at-odk-media) |
 | Spe | Intern, Insights, Strategy & Analytics, Product Management – Data Science – Fall 2026 | Culver City, CA | Fall 2026 | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Spe&job=566d6ad0-b173-468c-863f-8e58bbd5c53b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://spe.wd1.myworkdayjobs.com/sonypicturesentertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988) |
-| Tnuck | Product Management Intern | Washington, DC | — | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tnuck&job=ad69fe51-4adf-4511-8a90-e0dd4adf4f6a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tnuck.bamboohr.com/careers/273) |
 | Pentair | Product Management Leadership Development Internship Program - Summer 2027 | Golden Valley, MN | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) |
 | Uline | Product Management Internship - Summer 2027 | Pleasant Prairie, WI | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Uline&job=253760e8-77e9-4a68-876c-1a07b1333f99&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) |
 
