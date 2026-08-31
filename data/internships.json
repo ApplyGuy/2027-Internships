@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-31T15:00:24.015Z",
+  "updatedAt": "2026-08-31T15:15:22.134Z",
   "jobs": [
+    {
+      "id": "custom:google:100648618540573382",
+      "company": "Google",
+      "title": "Software Engineering Intern, BS, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Multiple U.S. locations",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+      "applySupported": false
+    },
+    {
+      "id": "custom:google:94172495052972742",
+      "company": "Google",
+      "title": "Software Engineering Intern, MS, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Multiple U.S. locations",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+      "applySupported": false
+    },
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
       "company": "Northwood Space",
@@ -892,18 +918,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2edec618-afcc-483d-a49d-f423f5cf9e4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691"
-    },
-    {
-      "id": "38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7",
-      "company": "Specialisterne",
-      "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
-      "category": "Software Engineering",
-      "location": "Dallas, TX",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Specialisterne&job=38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
     },
     {
       "id": "de59f0ee-f3e6-438d-a65e-59c63e115674",
