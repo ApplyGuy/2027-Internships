@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:15:16.201Z",
+  "updatedAt": "2026-08-31T09:30:25.052Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -542,30 +542,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Disney&job=6aa06ddf-a599-4ed0-a208-784a4beffd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
-    },
-    {
-      "id": "5eabc682-bc38-41d8-932f-af3ad42faaae",
-      "company": "Dmainc",
-      "title": "Software Development Intern - Spring 2027",
-      "category": "Software Engineering",
-      "location": "Fort Wayne, IN",
-      "season": "Spring 2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Dmainc&job=5eabc682-bc38-41d8-932f-af3ad42faaae&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634"
-    },
-    {
-      "id": "49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c",
-      "company": "Dmainc",
-      "title": "Software Development Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Fort Wayne, IN",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Dmainc&job=49b58c29-8c7c-4c6b-bc1c-ae8fcc0a245c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
     },
     {
       "id": "custom:google:91436104816698054",
@@ -1660,18 +1636,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=703b03d4-d810-4ecb-a7d8-a15b2865e6b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474"
-    },
-    {
-      "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
-      "company": "Chamberlain",
-      "title": "Intern, Community Product Management (Summer 2027)",
-      "category": "Product",
-      "location": "Oak Brook, IL",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
     },
     {
       "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
