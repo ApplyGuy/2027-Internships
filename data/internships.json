@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T01:00:48.152Z",
+  "updatedAt": "2026-08-31T01:15:23.090Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -292,42 +292,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7"
     },
     {
-      "id": "9e1ad9d8-9f73-4141-89a6-f114830e30b7",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago)",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=9e1ad9d8-9f73-4141-89a6-f114830e30b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650"
-    },
-    {
-      "id": "93da7565-8da5-45a6-a6bd-7b8d498e1090",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)",
-      "category": "Software Engineering",
-      "location": "Charlotte, NC",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=93da7565-8da5-45a6-a6bd-7b8d498e1090&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
-    },
-    {
-      "id": "3f61b926-7d5a-4905-89be-13e9c184a41d",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
-      "category": "Software Engineering",
-      "location": "Charlotte, NC",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3f61b926-7d5a-4905-89be-13e9c184a41d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
-    },
-    {
       "id": "77811058-85e4-4a83-8364-c4dd1d898e2b",
       "company": "Aoins",
       "title": "Intern - Analytics Web Systems Developer",
@@ -386,18 +350,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c71e8175-37f4-48c4-a6c2-4d674d9ff693&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineering-Intern--Summer-2027-_01869473"
-    },
-    {
-      "id": "376c3baa-a3f4-47cf-9d36-c88241060ce5",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)",
-      "category": "Software Engineering",
-      "location": "Columbus, OH",
-      "season": "Summer 2027",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=376c3baa-a3f4-47cf-9d36-c88241060ce5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
     },
     {
       "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
@@ -699,42 +651,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3af4870a-9e10-48c6-a379-b7607edd916b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058"
-    },
-    {
-      "id": "a70f2545-efe9-4b34-a8c9-65b30859755e",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=a70f2545-efe9-4b34-a8c9-65b30859755e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
-    },
-    {
-      "id": "7bef89fc-7153-4adf-bd51-52d203d09f4b",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7bef89fc-7153-4adf-bd51-52d203d09f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
-    },
-    {
-      "id": "4ab5499d-aa04-454b-99b0-9aac5efbfd82",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus)",
-      "category": "Software Engineering",
-      "location": "Columbus, OH",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=4ab5499d-aa04-454b-99b0-9aac5efbfd82&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610"
     },
     {
       "id": "4c9335e6-fa63-47c7-8665-8ce5495a0014",
@@ -1758,18 +1674,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
     },
     {
-      "id": "fe327399-f484-4cf2-acfb-5461106bf168",
-      "company": "Flir",
-      "title": "NHRC Software Engineering Internship (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-08-13",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Flir&job=fe327399-f484-4cf2-acfb-5461106bf168&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
-    },
-    {
       "id": "7bbcc238-dd1f-462f-a655-47ed70f1501a",
       "company": "RTX",
       "title": "Software Intern (Summer 2027)",
@@ -2044,6 +1948,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+    },
+    {
+      "id": "a1932da2-232e-4400-86af-2067b5c56981",
+      "company": "Flir",
+      "title": "NHRC Software Engineering Internship (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-08-10",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Flir&job=a1932da2-232e-4400-86af-2067b5c56981&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flirconfidential/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194"
     },
     {
       "id": "44d6c8fa-9da2-454e-9a9d-5a227459cacb",
