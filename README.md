@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-155-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-154-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **155** active U.S. internships posted within the last **30 days**
+- **154** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 31, 2026, 8:45 AM PDT**
+- Last refresh: **Aug 31, 2026, 9:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**145 open roles**
+**144 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -136,7 +136,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Maverick Software Consulting | Minnesota State University-Mankato -- Software Engineer Intern 2026 | Mankato, MN | 2026 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Maverick+Software+Consulting&job=8d32474f-24a1-4933-af46-3e3a1daecef8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mavericksoftware.bamboohr.com/careers/46) |
 | Northrop Grumman | 2027 Intern Software Engineer | Melbourne, FL | 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=dc5a807c-81ad-46aa-af9d-09482de98721&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | RTX | Summer 2027  Software Intern_OnSite | Huntsville, AL | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=102dbf05-fa6b-41b3-bc88-befae3883d8c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160) |
-| Security Risk Advisors | DevOps Engineering Generalist Co-op | Rochester, NY | Co-op | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Security+Risk+Advisors&job=2e864732-90ce-4e73-a6f5-65ee2cc1f454&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/) |
 | Analytic Partners | Software Engineer Co-Op \| Georgia Tech | Miami, FL | Co-op | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=17f2310a-4b24-4d38-85ba-72a936489c54&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650) |
 | Analytic Partners | Software Engineer Co-Op \| Northeastern University | Miami, FL | Co-op | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=cf330bf6-987d-4bea-b9f4-e45f6c4e967a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688) |
 | Analytic Partners | Software Engineer Co-Op \| McGill University | Miami, FL | Co-op | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=451d00c8-15a6-408d-8b53-928f151fc9af&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54) |
