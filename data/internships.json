@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:15:28.810Z",
+  "updatedAt": "2026-08-31T21:30:18.754Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -138,78 +138,6 @@
       "applySupported": false
     },
     {
-      "id": "cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7",
-      "company": "Aoins",
-      "title": "Software Developer Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Lansing, MI",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
-    },
-    {
-      "id": "f745df63-b60e-453c-b548-c84f7d46b9bd",
-      "company": "RTX",
-      "title": "Software Platform Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Richardson, TX",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f745df63-b60e-453c-b548-c84f7d46b9bd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01870211"
-    },
-    {
-      "id": "bea00037-5c16-4aca-9007-5408904fe5b0",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "State College, PA",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=bea00037-5c16-4aca-9007-5408904fe5b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
-    },
-    {
-      "id": "a93ecdda-650f-49ab-97b7-47a776ea01a0",
-      "company": "RTX",
-      "title": "Software Platform Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a93ecdda-650f-49ab-97b7-47a776ea01a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01870216"
-    },
-    {
-      "id": "29158fb6-cada-4526-9da2-7bcd5d57a5cd",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Woburn, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=29158fb6-cada-4526-9da2-7bcd5d57a5cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1"
-    },
-    {
-      "id": "2174b225-642d-432a-9bc6-954283071da6",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2174b225-642d-432a-9bc6-954283071da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
-    },
-    {
       "id": "e541a297-0812-42a5-b30e-35206be1e5ee",
       "company": "TELUS Digital",
       "title": "Software Engineering Intern (US) - Summer 2027",
@@ -232,18 +160,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=TELUS+Digital&job=e51af54c-5c4d-4741-a309-29ce50de3eb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7"
-    },
-    {
-      "id": "77811058-85e4-4a83-8364-c4dd1d898e2b",
-      "company": "Aoins",
-      "title": "Intern - Analytics Web Systems Developer",
-      "category": "Software Engineering",
-      "location": "Lansing, MI",
-      "season": "Not specified",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Aoins&job=77811058-85e4-4a83-8364-c4dd1d898e2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272"
     },
     {
       "id": "665c9f94-3e85-4ef4-ab0f-548251fea3a0",
@@ -992,18 +908,6 @@
       "listingUrl": "https://mavericksoftware.bamboohr.com/careers/46"
     },
     {
-      "id": "389b30e4-b128-4d65-b673-ae1f7957677c",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-12",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=389b30e4-b128-4d65-b673-ae1f7957677c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
-    },
-    {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
       "company": "Analytic Partners",
       "title": "Software Engineer Co-Op | Georgia Tech",
@@ -1196,18 +1100,6 @@
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
     {
-      "id": "5d697427-9a27-4906-97fb-81be99147f49",
-      "company": "RTX",
-      "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
-      "category": "Software Engineering",
-      "location": "East Hartford, CT",
-      "season": "Fall 2026",
-      "posted": "2026-08-05",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5d697427-9a27-4906-97fb-81be99147f49&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471"
-    },
-    {
       "id": "3f8d511d-1e9b-44e6-93c1-4ce36d385b38",
       "company": "Belvedere Trading",
       "title": "Software Engineer Intern - Summer 2027",
@@ -1266,18 +1158,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Ntst&job=b1568b63-dae5-4b2b-a034-a4a794b067e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
-    },
-    {
-      "id": "f1fb475a-6dd0-4b33-8b34-9266680c269d",
-      "company": "Pentair",
-      "title": "Product Management Leadership Development Internship Program - Summer 2027",
-      "category": "Product",
-      "location": "Golden Valley, MN",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713"
     },
     {
       "id": "7b94fd17-6dff-4d75-b8ac-10b89c6d6b22",
