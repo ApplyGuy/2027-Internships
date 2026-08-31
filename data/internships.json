@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:15:15.613Z",
+  "updatedAt": "2026-08-31T18:30:15.998Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -584,18 +584,6 @@
       "listingUrl": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
     },
     {
-      "id": "1f519721-6a4f-4129-975e-a7feb827a894",
-      "company": "lthc",
-      "title": "College Intern - Software Engineering - Fall 2026 (Multiple Openings)",
-      "category": "Software Engineering",
-      "location": "Rochester, NY",
-      "season": "Fall 2026",
-      "posted": "2026-08-20",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=lthc&job=1f519721-6a4f-4129-975e-a7feb827a894&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
-    },
-    {
       "id": "1f6759b9-2eab-4fbb-ab1f-6b1954fe4600",
       "company": "Phoebe",
       "title": "Software Engineering Intern",
@@ -1172,18 +1160,6 @@
       "listingUrl": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
     },
     {
-      "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-08-10",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
-    },
-    {
       "id": "a1932da2-232e-4400-86af-2067b5c56981",
       "company": "Flir",
       "title": "NHRC Software Engineering Internship (Summer 2027)",
@@ -1290,42 +1266,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Terranova&job=0bb930cf-2ec4-4506-8d04-935da0f34250&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0"
-    },
-    {
-      "id": "9ea0ea26-6241-4321-a853-2db06a8e9284",
-      "company": "The Nuclear Company",
-      "title": "Summer 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Washington, DC",
-      "season": "Summer 2027",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=The+Nuclear+Company&job=9ea0ea26-6241-4321-a853-2db06a8e9284&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
-    },
-    {
-      "id": "24f0f28b-a3d3-46cf-988c-b8e10d95ad72",
-      "company": "The Nuclear Company",
-      "title": "Spring 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Washington, DC",
-      "season": "Spring 2027",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=The+Nuclear+Company&job=24f0f28b-a3d3-46cf-988c-b8e10d95ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
-    },
-    {
-      "id": "643d0554-d1cf-4118-b69e-950e9a9d4be6",
-      "company": "The Nuclear Company",
-      "title": "Fall 2026 AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Washington, DC",
-      "season": "Fall 2026",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=The+Nuclear+Company&job=643d0554-d1cf-4118-b69e-950e9a9d4be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
     },
     {
       "id": "693a6f3e-5c0c-4aa1-909f-e98172e426b5",
