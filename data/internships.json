@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:15:12.682Z",
+  "updatedAt": "2026-08-31T23:30:13.705Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -304,18 +304,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612"
-    },
-    {
-      "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
-      "company": "Audax Group",
-      "title": "Data Engineer CO-OP",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Co-op",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Audax+Group&job=8df659df-87d2-484c-b4a8-eb5b48ee3687&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005"
     },
     {
       "id": "92ce2ea6-3d20-4f43-b815-9401479e0e03",
