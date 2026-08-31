@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-122-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-121-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **122** active U.S. internships posted within the last **30 days**
+- **121** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 31, 2026, 10:45 AM PDT**
+- Last refresh: **Aug 31, 2026, 11:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**112 open roles**
+**111 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -116,7 +116,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Analytic Partners | Software Engineer Co-Op \| University of Toronto | Miami, FL | Co-op | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=b1207ca1-e79a-4b6e-a98e-54394d33301c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9) |
 | Analytic Partners | Software Engineer Co-Op \| University of Waterloo | Miami, FL | Co-op | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b) |
 | HP | Enterprise Operations Software Internship | Spring, TX | — | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP&job=4fd6a859-996e-4997-9427-63ec85b0fc1e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
-| Kpm | Embedded Software Engineer — Internship | Westborough, MA | — | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kpm&job=846103b3-92af-4785-a848-0137154bd765&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kpm.bamboohr.com/careers/123) |
 | PathAI | Software Engineering Co-op: September - December 2026 | Boston, MA | 2026 | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PathAI&job=5be2c855-d823-4c04-89bb-f872eda58b18&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.pathai.com/careers/8623056002?gh_jid=8623056002) |
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA | Winter 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
 | Flir | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Flir&job=a1932da2-232e-4400-86af-2067b5c56981&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://flir.wd1.myworkdayjobs.com/flirconfidential/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194) |
