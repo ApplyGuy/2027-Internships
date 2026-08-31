@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:00:13.270Z",
+  "updatedAt": "2026-08-31T07:15:13.280Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -48,18 +48,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=1016893c-e282-4af8-ab3f-bd70bacd9dc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1"
-    },
-    {
-      "id": "8142aa53-ace5-41a6-942b-1554a07808aa",
-      "company": "Manulife",
-      "title": "Summer Intern 2027 - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-28",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Manulife&job=8142aa53-ace5-41a6-942b-1554a07808aa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
     },
     {
       "id": "3fcbebaf-2cc2-44fc-92b6-5ef366304fe8",
@@ -1589,18 +1577,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=102dbf05-fa6b-41b3-bc88-befae3883d8c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160"
-    },
-    {
-      "id": "bea7669b-99fb-476c-9926-5552dd4e9ca0",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineering Intern (AI Focus)",
-      "category": "Software Engineering",
-      "location": "Pullman, WA",
-      "season": "Not specified",
-      "posted": "2026-08-12",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=bea7669b-99fb-476c-9926-5552dd4e9ca0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601"
     },
     {
       "id": "2e864732-90ce-4e73-a6f5-65ee2cc1f454",
