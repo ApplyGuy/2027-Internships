@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:15:51.328Z",
+  "updatedAt": "2026-08-31T19:30:28.138Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -364,30 +364,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=47bff3ce-09e8-4556-af76-66f15662a4b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017"
-    },
-    {
-      "id": "510ed6aa-e3ce-4b3f-872e-e7322391185e",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Test Engineering Intern- Huntsville AL",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=510ed6aa-e3ce-4b3f-872e-e7322391185e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487"
-    },
-    {
-      "id": "d0396227-ee14-4ba4-96c7-a95d37622ad7",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern- Huntsville AL",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d0396227-ee14-4ba4-96c7-a95d37622ad7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
     },
     {
       "id": "0b3e6b90-7082-4ab8-8418-e7c828764a7c",
@@ -1026,18 +1002,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Maverick+Software+Consulting&job=8d32474f-24a1-4933-af46-3e3a1daecef8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mavericksoftware.bamboohr.com/careers/46"
-    },
-    {
-      "id": "dc5a807c-81ad-46aa-af9d-09482de98721",
-      "company": "Northrop Grumman",
-      "title": "2027 Intern Software Engineer",
-      "category": "Software Engineering",
-      "location": "Melbourne, FL",
-      "season": "2027",
-      "posted": "2026-08-12",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dc5a807c-81ad-46aa-af9d-09482de98721&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
     },
     {
       "id": "389b30e4-b128-4d65-b673-ae1f7957677c",
