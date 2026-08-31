@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T06:30:14.932Z",
+  "updatedAt": "2026-08-31T06:45:25.205Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -1075,18 +1075,6 @@
       "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
     },
     {
-      "id": "f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8",
-      "company": "Draper",
-      "title": "Full Stack Web Development Co-Op (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Spring 2027",
-      "posted": "2026-08-18",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Draper&job=f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
-    },
-    {
       "id": "b2ee60a7-e946-4868-8b56-dfd264602c94",
       "company": "Five Rings",
       "title": "LINK 2027: Software Development Intensive Program — Intern",
@@ -1109,18 +1097,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Garda+Capital+Partners&job=9527486f-df6c-4b7f-b504-d62f61432e18&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
-    },
-    {
-      "id": "96f57e0a-dfd6-471a-89f9-01899ff31c67",
-      "company": "Pimco",
-      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
     },
     {
       "id": "de59f0ee-f3e6-438d-a65e-59c63e115674",
@@ -1229,54 +1205,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
-    },
-    {
-      "id": "f67d2570-0a56-49d2-bdfb-bed11daccff9",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Fall 2027",
-      "posted": "2026-08-17",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=f67d2570-0a56-49d2-bdfb-bed11daccff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1"
-    },
-    {
-      "id": "b068dab4-e132-469e-bde1-7e13af0749a0",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Summer 2027",
-      "posted": "2026-08-17",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=b068dab4-e132-469e-bde1-7e13af0749a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1"
-    },
-    {
-      "id": "ae1245bd-aa68-4290-834b-b251d848145c",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Spring 2027",
-      "posted": "2026-08-17",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"
-    },
-    {
-      "id": "6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c",
-      "company": "Pimco",
-      "title": "2027 Summer Intern - Product Strategy Analyst, US",
-      "category": "Product",
-      "location": "Newport Beach, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-17",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Pimco&job=6c2d0dd0-61e9-4280-b75f-0b2dc3740c4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626"
     },
     {
       "id": "2b0d0e43-0cfb-4d10-be2f-7e41092777f7",
@@ -1433,18 +1361,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Crowe&job=7621bbf5-2984-4dca-a610-756591a37cb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041"
-    },
-    {
-      "id": "064212f4-d4c4-4e5c-b65f-cccafcee53a2",
-      "company": "Generac",
-      "title": "Intern Firmware Engineering",
-      "category": "Software Engineering",
-      "location": "Reno, NV",
-      "season": "Not specified",
-      "posted": "2026-08-14",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Generac&job=064212f4-d4c4-4e5c-b65f-cccafcee53a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149"
     },
     {
       "id": "05f725cd-b87e-4df3-9672-405d153e8e83",
