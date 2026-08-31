@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:00:28.203Z",
+  "updatedAt": "2026-08-31T09:15:16.201Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -26,18 +26,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
     },
     {
-      "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
-      "company": "Analogdevices",
-      "title": "AI/ML Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Wilmington, MA",
-      "season": "Not specified",
-      "posted": "2026-08-28",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Analogdevices&job=29532d19-742a-465b-af6b-7ffb7df0556e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"
-    },
-    {
       "id": "1016893c-e282-4af8-ab3f-bd70bacd9dc6",
       "company": "Brunswick",
       "title": "Software Engineer Intern",
@@ -60,18 +48,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=3fcbebaf-2cc2-44fc-92b6-5ef366304fe8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc"
-    },
-    {
-      "id": "50c9d7f1-a860-49d6-92c0-77c3131d0535",
-      "company": "Philips",
-      "title": "Co-op – Software Test Automation Engineer – Orange, OH – January 2027",
-      "category": "Software Engineering",
-      "location": "Orange, OH",
-      "season": "2027",
-      "posted": "2026-08-28",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=50c9d7f1-a860-49d6-92c0-77c3131d0535&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888"
     },
     {
       "id": "a9bc0a70-a78b-46be-9d98-6370b9bb3cb4",
@@ -603,18 +579,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
       "applySupported": false
-    },
-    {
-      "id": "c9282e8c-48d2-49bc-8acf-d2866cf6cf8b",
-      "company": "Philips",
-      "title": "Co-op – Software System Engineering – Plymouth, MN – January 2027",
-      "category": "Software Engineering",
-      "location": "Plymouth, MN",
-      "season": "2027",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=c9282e8c-48d2-49bc-8acf-d2866cf6cf8b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
     },
     {
       "id": "3af4870a-9e10-48c6-a379-b7607edd916b",
@@ -1398,18 +1362,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
     },
     {
-      "id": "6281094f-21bf-4a91-b3f5-13c8b46a1e45",
-      "company": "Valeo",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Troy, MI",
-      "season": "Not specified",
-      "posted": "2026-08-14",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Valeo&job=6281094f-21bf-4a91-b3f5-13c8b46a1e45&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575"
-    },
-    {
       "id": "ff08f8ae-846d-4e0a-a956-915edc973ae4",
       "company": "Cynet Corp",
       "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
@@ -2104,42 +2056,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Persona+AI+Inc&job=7b94fd17-6dff-4d75-b8ac-10b89c6d6b22&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
-    },
-    {
-      "id": "9955155f-fd7c-4baa-8719-5eadf32a0f74",
-      "company": "Uline",
-      "title": "Business Intelligence Developer Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=9955155f-fd7c-4baa-8719-5eadf32a0f74&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685"
-    },
-    {
-      "id": "402c63c2-dd0b-4036-9bb6-99e14d6efe81",
-      "company": "Uline",
-      "title": "Software Development Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=402c63c2-dd0b-4036-9bb6-99e14d6efe81&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
-    },
-    {
-      "id": "253760e8-77e9-4a68-876c-1a07b1333f99",
-      "company": "Uline",
-      "title": "Product Management Internship - Summer 2027",
-      "category": "Product",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=253760e8-77e9-4a68-876c-1a07b1333f99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939"
     }
   ]
 }
