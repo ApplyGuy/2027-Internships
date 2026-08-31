@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T00:45:32.738Z",
+  "updatedAt": "2026-08-31T01:00:48.152Z",
   "jobs": [
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -472,19 +472,6 @@
       "listingUrl": "https://jobs.workable.com/view/9hqy76156bgVivgKzc9tMG/internship%3A-junior-developer---ai-operations-in-boulder-at-mesa-quantum-systems"
     },
     {
-      "id": "custom:microsoft:8c80b3c58339f2aef50f",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
-      "applySupported": false
-    },
-    {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
       "title": "Intern-Software Engineer Fall 2026",
@@ -591,18 +578,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0c6f296f-72eb-4d19-9373-e8351e808beb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518"
-    },
-    {
-      "id": "cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17",
-      "company": "Volaris Group",
-      "title": "Intern - Software Development",
-      "category": "Software Engineering",
-      "location": "Tuscaloosa, AL",
-      "season": "Not specified",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/insuresoft/job/United-States---Tuscaloosa-AL/Intern---Software-Development_R70565"
     },
     {
       "id": "b67e3c2f-94c0-4bdb-85c9-b38c0fa3bf5c",
