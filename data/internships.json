@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T00:15:44.420Z",
+  "updatedAt": "2026-09-01T00:30:16.690Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -174,18 +174,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
     },
     {
-      "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
-      "company": "Zipline",
-      "title": "Embedded Software Engineer Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-26",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003"
-    },
-    {
       "id": "3cbb5213-f855-40eb-b326-cde8672cf246",
       "company": "Mesa Quantum Systems",
       "title": "Internship: Junior Developer - AI Operations",
@@ -281,18 +269,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Ambrook&job=9457e019-15d4-4f46-8e35-7e63eaa37096&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456"
-    },
-    {
-      "id": "2eb3f992-0013-439a-86d9-316e292a1264",
-      "company": "Zipline",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-21",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003"
     },
     {
       "id": "custom:amazon:960a595f92abc9eb5521",
@@ -392,42 +368,6 @@
       "listingUrl": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
     },
     {
-      "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
-      "company": "Zipline",
-      "title": "Software Engineer Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-20",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003"
-    },
-    {
-      "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
-      "company": "Zipline",
-      "title": "Software Systems Validation Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-20",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893955003"
-    },
-    {
-      "id": "442133eb-2198-429b-b807-a75804e9c224",
-      "company": "Zipline",
-      "title": "Software Systems Validation Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-20",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7894335003"
-    },
-    {
       "id": "7d0cde15-28b9-4146-a3a3-bc6085f30be6",
       "company": "Clarity Partners LLC",
       "title": "Software Development Internship",
@@ -522,42 +462,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=af69997f-40ab-4aa4-a116-0912d4074299&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433055"
-    },
-    {
-      "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
-      "company": "Zipline",
-      "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-18",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003"
-    },
-    {
-      "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
-      "company": "Zipline",
-      "title": "Enterprise Systems Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7886501003"
-    },
-    {
-      "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
-      "company": "Zipline",
-      "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7891459003"
     },
     {
       "id": "cf200b35-953a-4c9e-afd8-b82e74491d5d",
@@ -786,18 +690,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Trucker+Path%2C+Inc&job=285c4cf6-0aaa-4625-96ae-04d555052566&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116481"
-    },
-    {
-      "id": "8d32474f-24a1-4933-af46-3e3a1daecef8",
-      "company": "Maverick Software Consulting",
-      "title": "Minnesota State University-Mankato -- Software Engineer Intern 2026",
-      "category": "Software Engineering",
-      "location": "Mankato, MN",
-      "season": "2026",
-      "posted": "2026-08-12",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Maverick+Software+Consulting&job=8d32474f-24a1-4933-af46-3e3a1daecef8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://mavericksoftware.bamboohr.com/careers/46"
     },
     {
       "id": "17f2310a-4b24-4d38-85ba-72a936489c54",
