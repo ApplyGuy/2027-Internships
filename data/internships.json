@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T06:15:15.112Z",
+  "updatedAt": "2026-09-01T06:30:32.875Z",
   "jobs": [
     {
       "id": "custom:google:100648618540573382",
@@ -26,6 +26,18 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
       "applySupported": false
+    },
+    {
+      "id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
+      "company": "Whatnot",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd"
     },
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
