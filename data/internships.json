@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-01T18:30:15.033Z",
+  "updatedAt": "2026-09-01T18:45:23.044Z",
   "jobs": [
-    {
-      "id": "custom:microsoft:745260beb2bb6c075545",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "applySupported": false
-    },
     {
       "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
       "company": "Microsoft",
@@ -67,19 +54,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
@@ -93,6 +67,19 @@
       "applySupported": false
     },
     {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
       "id": "custom:microsoft:ea654c32fd8e52631b57",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
@@ -103,6 +90,19 @@
       "age": "Today",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "applySupported": false
     },
     {
@@ -264,18 +264,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=TELUS+Digital&job=e51af54c-5c4d-4741-a309-29ce50de3eb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7"
-    },
-    {
-      "id": "665c9f94-3e85-4ef4-ab0f-548251fea3a0",
-      "company": "Jj",
-      "title": "Software Engineering Co-Op, Spring 2027",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "Spring 2027",
-      "posted": "2026-08-26",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Jj&job=665c9f94-3e85-4ef4-ab0f-548251fea3a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
     },
     {
       "id": "941d7482-e7ef-4dd8-987f-42c8668e9809",
@@ -818,18 +806,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"
-    },
-    {
-      "id": "ff169e00-dd1f-486d-8a0a-f47305aa983d",
-      "company": "Jj",
-      "title": "Software Engineer Coop",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "Co-op",
-      "posted": "2026-08-07",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Jj&job=ff169e00-dd1f-486d-8a0a-f47305aa983d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
     },
     {
       "id": "242e69c8-c839-41f4-abfb-0b0a6efc7d92",
