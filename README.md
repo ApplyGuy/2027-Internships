@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-79-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-76-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **79** active U.S. internships posted within the last **30 days**
+- **76** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Aug 31, 2026, 5:30 PM PDT**
+- Last refresh: **Aug 31, 2026, 5:45 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**72 open roles**
+**69 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -68,7 +68,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Replit | Software Engineering Intern (Summer 2027) | Foster City, CA | Summer 2027 | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Replit&job=aadc664f-cc11-4833-9b53-f7c3b6955fd9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
 | Abridge | Software Engineer, Intern | San Francisco, CA | — | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abridge&job=ad965373-d194-48c4-a036-2e26057fa69b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) |
 | Composio | Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027) | San Francisco, CA | Fall 2026 | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Composio&job=60cc6faa-e401-44bd-aa62-95710dd7c877&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d) |
-| Crowe | Data Analytics Developer Intern | Chicago IL USA | — | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Crowe&job=7621bbf5-2984-4dca-a610-756591a37cb5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
 | Hypercubic | Software Engineering Internship | San Francisco, CA | — | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hypercubic&job=05f725cd-b87e-4df3-9672-405d153e8e83&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490) |
 | Notion | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Notion&job=f2d5df56-1afd-46d2-b724-d2b52b8c696f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
 | Notion | Software Engineer Intern (Winter 2027) | San Francisco, CA | Winter 2027 | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Notion&job=8ab485f6-bc49-4f7a-8b1d-8d81bf69d6cb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) |
@@ -85,8 +84,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Analytic Partners | Software Engineer Co-Op \| McGill University | Miami, FL | Co-op | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=451d00c8-15a6-408d-8b53-928f151fc9af&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54) |
 | Analytic Partners | Software Engineer Co-Op \| University of Toronto | Miami, FL | Co-op | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=b1207ca1-e79a-4b6e-a98e-54394d33301c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9) |
 | Analytic Partners | Software Engineer Co-Op \| University of Waterloo | Miami, FL | Co-op | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b) |
-| PathAI | Software Engineering Co-op: September - December 2026 | Boston, MA | 2026 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PathAI&job=5be2c855-d823-4c04-89bb-f872eda58b18&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.pathai.com/careers/8623056002?gh_jid=8623056002) |
-| Flir | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | Summer 2027 | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Flir&job=a1932da2-232e-4400-86af-2067b5c56981&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://flir.wd1.myworkdayjobs.com/flirconfidential/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194) |
 | Jj | Software Engineer Coop | Cincinnati, OH | Co-op | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jj&job=ff169e00-dd1f-486d-8a0a-f47305aa983d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820) |
 | Kastle | Software Engineer - Intern | San Francisco, CA | — | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kastle&job=242e69c8-c839-41f4-abfb-0b0a6efc7d92&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee) |
 | Terranova | Software Engineering Intern | Berkeley, CA | — | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Terranova&job=0bb930cf-2ec4-4506-8d04-935da0f34250&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
