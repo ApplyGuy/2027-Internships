@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:45:23.044Z",
+  "updatedAt": "2026-09-01T19:00:18.901Z",
   "jobs": [
     {
       "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
@@ -854,18 +854,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Centerfield&job=693a6f3e-5c0c-4aa1-909f-e98172e426b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"
-    },
-    {
-      "id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Fall 2026",
-      "posted": "2026-08-06",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
     {
       "id": "3f8d511d-1e9b-44e6-93c1-4ce36d385b38",
