@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-01T10:45:51.385Z",
+  "updatedAt": "2026-09-01T11:00:20.469Z",
   "jobs": [
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
     {
       "id": "custom:microsoft:745260beb2bb6c075545",
       "company": "Microsoft",
@@ -12,6 +25,19 @@
       "age": "Today",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
       "applySupported": false
     },
     {
@@ -28,19 +54,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:1a75bbf16ed228cda7e2",
       "company": "Microsoft",
       "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
@@ -54,16 +67,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
@@ -90,19 +103,6 @@
       "age": "Today",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
