@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-84-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-74-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **84** active U.S. internships posted within the last **30 days**
+- **74** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 1, 2026, 2:15 AM PDT**
+- Last refresh: **Sep 1, 2026, 2:30 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,18 +22,10 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**78 open roles**
+**68 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
-| Microsoft | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
-| Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
-| Microsoft | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
-| Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
-| Microsoft | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | United States, California, Mountain View | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | United States, Massachusetts, Boston | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
 | Google | Software Engineering Intern, BS, Summer 2027 | Multiple U.S. locations | Summer 2027 | 1d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | Google | Software Engineering Intern, MS, Summer 2027 | Multiple U.S. locations | Summer 2027 | 1d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) |
 | Whatnot | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd) |
@@ -101,8 +93,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, IL | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Belvedere+Trading&job=3f8d511d-1e9b-44e6-93c1-4ce36d385b38&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
 | Clarity Partners LLC | Salesforce Developer Internship | Chicago, IL | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=1e145d9e-9d8f-4617-aea2-3f70ac31c567&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4390893) |
 | Diversified Automation | Software Engineering Co-op | Louisville, KY | Co-op | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) |
-| Ntst | Software Engineer Intern (Summer 2027 Internship) | Overland Park, KS | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ntst&job=d5226255-62fb-450b-981c-dc56e065d2fb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
-| Ntst | Cloud Engineer Future  (Summer 2027 Internship) | Overland Park, KS | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ntst&job=b1568b63-dae5-4b2b-a034-a4a794b067e2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | Persona AI Inc | Autonomy Software Engineering Internship, World Modeling | Houston, TX | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Persona+AI+Inc&job=7b94fd17-6dff-4d75-b8ac-10b89c6d6b22&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) |
 
 ## Product Management Internships
