@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T10:00:15.543Z",
+  "updatedAt": "2026-09-02T10:15:30.391Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -492,6 +492,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+    },
+    {
+      "id": "be719cd4-d06b-4288-99b4-17e41f37b65f",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Honolulu, HI",
+      "category": "Software Engineering",
+      "location": "Honolulu, HI",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=be719cd4-d06b-4288-99b4-17e41f37b65f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
+    },
+    {
+      "id": "8bcc987c-d20c-4bc1-a8b1-e2c85e819da8",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Huntsville, AL",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=8bcc987c-d20c-4bc1-a8b1-e2c85e819da8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
+    },
+    {
+      "id": "55942c07-19c0-4a01-bbc4-6f2573dbed40",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL",
+      "category": "Software Engineering",
+      "location": "Fort Walton Beach, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=55942c07-19c0-4a01-bbc4-6f2573dbed40&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
+    },
+    {
+      "id": "18fcf319-c0b5-4190-82ca-d8533b0ad450",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=18fcf319-c0b5-4190-82ca-d8533b0ad450&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
     },
     {
       "id": "d543b3ce-0d5b-4a94-9bbc-eb71d3b528e3",
@@ -1174,6 +1222,66 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Analogdevices&job=29532d19-742a-465b-af6b-7ffb7df0556e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"
+    },
+    {
+      "id": "fbcca401-c33c-489e-8a8a-754bf9a78241",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=fbcca401-c33c-489e-8a8a-754bf9a78241&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
+    },
+    {
+      "id": "d888493f-b4b5-48bd-98fb-fe58e2e3b767",
+      "company": "Bah",
+      "title": "University, 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Rome, NY",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=d888493f-b4b5-48bd-98fb-fe58e2e3b767&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
+    },
+    {
+      "id": "a518e342-4f2d-4c63-a74c-3a2809426ad8",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Charleston, SC",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=a518e342-4f2d-4c63-a74c-3a2809426ad8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
+    },
+    {
+      "id": "75badd5a-bb2a-4f34-9c11-51f0fbbfc5a2",
+      "company": "Bah",
+      "title": "University, 2027 Summer Games Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Colorado Springs, CO",
+      "season": "Summer 2027",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=75badd5a-bb2a-4f34-9c11-51f0fbbfc5a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
+    },
+    {
+      "id": "6c6c063d-a395-483f-841a-c015aa2bfa10",
+      "company": "Bah",
+      "title": "AI Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Not specified",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=6c6c063d-a395-483f-841a-c015aa2bfa10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"
     },
     {
       "id": "5eca5450-c44c-4e89-9f74-1af5bc1059b5",
