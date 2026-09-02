@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:30:44.472Z",
+  "updatedAt": "2026-09-02T18:45:14.992Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aoins&job=153e402a-305c-444d-8c72-af12a6ad568a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417"
+    },
+    {
+      "id": "1bc5b0e0-c7d0-4300-a6f5-c06a18acd7bc",
+      "company": "Apex Technology, Inc.",
+      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=1bc5b0e0-c7d0-4300-a6f5-c06a18acd7bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda"
     },
     {
       "id": "f5072396-cb11-45dd-bae5-49f57f21e117",
@@ -338,6 +350,78 @@
       "listingUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
     },
     {
+      "id": "08d8df05-0715-41b5-a203-1e4149170758",
+      "company": "NISC",
+      "title": "Intern - Software Development",
+      "category": "Software Engineering",
+      "location": "Mandan, ND",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=08d8df05-0715-41b5-a203-1e4149170758&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8174096"
+    },
+    {
+      "id": "fc7d7698-c0d5-4957-871f-d6a62f052db6",
+      "company": "NISC",
+      "title": "Intern - Software Development",
+      "category": "Software Engineering",
+      "location": "Lake Saint Louis, MO",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=fc7d7698-c0d5-4957-871f-d6a62f052db6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8174090"
+    },
+    {
+      "id": "71e624fd-dc9b-419a-9e47-e285c3a0d527",
+      "company": "NISC",
+      "title": "Intern - Software Development",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=71e624fd-dc9b-419a-9e47-e285c3a0d527&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8174088"
+    },
+    {
+      "id": "4c3c6f88-f391-4891-8615-20e3d2502295",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "category": "Software Engineering",
+      "location": "Mandan, ND",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=4c3c6f88-f391-4891-8615-20e3d2502295&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8167886"
+    },
+    {
+      "id": "f26f995a-f31b-4599-b79b-ae3c1c7a32a6",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "category": "Software Engineering",
+      "location": "Lake Saint Louis, MO",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=f26f995a-f31b-4599-b79b-ae3c1c7a32a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8167884"
+    },
+    {
+      "id": "f5dd650b-63d5-4c47-99c5-70c836bb452a",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NISC&job=f5dd650b-63d5-4c47-99c5-70c836bb452a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8167883"
+    },
+    {
       "id": "10ca4da9-3410-44f1-bf63-55f3b25dd285",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineer Intern - Linthicum Maryland",
@@ -420,6 +504,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Plexus&job=847a0de5-5570-42fc-ad41-cd233f3af88d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2027-_R040443"
+    },
+    {
+      "id": "9c834517-36c5-4334-a26c-5a1fceee078e",
+      "company": "Roblox",
+      "title": "[Summer 2027] Product Management Intern",
+      "category": "Product",
+      "location": "San Mateo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Roblox&job=9c834517-36c5-4334-a26c-5a1fceee078e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981"
     },
     {
       "id": "f2850427-45ac-47f4-9605-1af676f37b25",
@@ -516,6 +612,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=bfc71ac8-56c3-4fc3-8ac8-ff881eb9c13e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-steeldynamics.icims.com/jobs/7994/software-development-internship/job"
+    },
+    {
+      "id": "f70c0dd2-a0f6-4d7b-9c45-5f87e429ddc7",
+      "company": "Stryker",
+      "title": "Commercial Operations Software Engineering Intern - Flower Mound, TX",
+      "category": "Software Engineering",
+      "location": "Flower Mound, TX",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Stryker&job=f70c0dd2-a0f6-4d7b-9c45-5f87e429ddc7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"
     },
     {
       "id": "1f2199ff-99bd-41c6-b4a6-04ae543bd3c4",
@@ -864,6 +972,110 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
     },
     {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
@@ -4302,30 +4514,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tnuck&job=ad69fe51-4adf-4511-8a90-e0dd4adf4f6a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tnuck.bamboohr.com/careers/273"
-    },
-    {
-      "id": "6fce1d21-819b-4531-ba7a-bc737e69c6e0",
-      "company": "Microchip",
-      "title": "Intern-Engineering (Software Development)",
-      "category": "Software Engineering",
-      "location": "Houston - Compaq Center Dr, TX",
-      "season": "Not specified",
-      "posted": "2026-08-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=6fce1d21-819b-4531-ba7a-bc737e69c6e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
-    },
-    {
-      "id": "5c671c52-2958-41fb-ad64-c84ceceaa87c",
-      "company": "Microchip",
-      "title": "Intern-Engineering (Firmware Development)",
-      "category": "Software Engineering",
-      "location": "Houston - Compaq Center Dr, TX",
-      "season": "Not specified",
-      "posted": "2026-08-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=5c671c52-2958-41fb-ad64-c84ceceaa87c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"
     },
     {
       "id": "d5226255-62fb-450b-981c-dc56e065d2fb",
