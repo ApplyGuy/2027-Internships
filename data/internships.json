@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:30:28.326Z",
+  "updatedAt": "2026-09-02T23:45:13.813Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -228,6 +228,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Flir&job=536838a1-182e-43b2-83c6-993d9ab2a5c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
+    },
+    {
+      "id": "9bbebf62-2dbd-48f0-ac95-ed3b70d5e78e",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Embedded Software Engineering",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=General+Matter&job=9bbebf62-2dbd-48f0-ac95-ed3b70d5e78e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"
     },
     {
       "id": "a9af5655-ff75-4a22-b1a0-a69df7a95397",
@@ -1082,19 +1094,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
-      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:422cce84ab8a91a0d7ce",
       "company": "Microsoft",
       "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
@@ -1105,6 +1104,19 @@
       "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "applySupported": false
     },
     {
@@ -1134,6 +1146,32 @@
       "applySupported": false
     },
     {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
       "id": "custom:microsoft:745260beb2bb6c075545",
       "company": "Microsoft",
       "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
@@ -1157,19 +1195,6 @@
       "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
       "applySupported": false
     },
     {
