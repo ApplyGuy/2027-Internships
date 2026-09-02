@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:00:28.639Z",
+  "updatedAt": "2026-09-02T00:15:21.443Z",
   "jobs": [
     {
       "id": "c9f13603-71d5-44d1-89d5-146119b58e0b",
@@ -88,6 +88,19 @@
       "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "applySupported": false
     },
     {
