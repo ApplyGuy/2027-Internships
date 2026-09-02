@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:00:30.463Z",
+  "updatedAt": "2026-09-02T06:15:43.304Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -180,6 +180,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lilly&job=494103fc-8b25-4248-9ca9-b75f526cec37&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/Technology-Data-Engineer---Intern-to-FTE_R-110837"
+    },
+    {
+      "id": "28ffc9fa-5b66-4bca-b60d-1402b0d3e231",
+      "company": "Newrez",
+      "title": "2027 Summer Internship - Software Developer",
+      "category": "Software Engineering",
+      "location": "Coppell, TX",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Newrez&job=28ffc9fa-5b66-4bca-b60d-1402b0d3e231&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://newrez.wd1.myworkdayjobs.com/nrz/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
+    },
+    {
+      "id": "feb266ae-7f1a-4a62-a9ca-b3f343e74368",
+      "company": "Nike",
+      "title": "NIKE, Inc. Software Engineering Undergraduate Internship",
+      "category": "Software Engineering",
+      "location": "Beaverton, OR",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nike&job=feb266ae-7f1a-4a62-a9ca-b3f343e74368&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
+    },
+    {
+      "id": "0b7908dc-a9c1-4567-9c2c-b15e118e6c92",
+      "company": "Ntrs",
+      "title": "Technology Intern – Software Engineering",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ntrs&job=0b7908dc-a9c1-4567-9c2c-b15e118e6c92&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"
     },
     {
       "id": "f59c57a2-8ce5-4166-b072-f176b165499e",
@@ -398,6 +434,110 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
       "company": "OnLogic",
       "title": "Firmware Engineering Co-op",
@@ -420,6 +560,42 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=OnLogic&job=e15bdcf1-8186-46ee-9aea-11a061f0d421&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.workable.com/view/2fhyRqKxaGEKxhXTfamGgb/firmware-engineering-co-op-in-cary-at-onlogic"
+    },
+    {
+      "id": "e84fcdb9-0c91-4c38-bce2-2b7452184d80",
+      "company": "Oshkoshcorporation",
+      "title": "Product Management Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Dodge Center, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=e84fcdb9-0c91-4c38-bce2-2b7452184d80&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796"
+    },
+    {
+      "id": "1589ba65-22f9-45ba-aa89-108625d77615",
+      "company": "Oshkoshcorporation",
+      "title": "Engineer Intern - Software (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Dodge Center, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=1589ba65-22f9-45ba-aa89-108625d77615&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"
+    },
+    {
+      "id": "05195d21-dd3b-4151-acc7-d42da943bd18",
+      "company": "Oshkoshcorporation",
+      "title": "Product Management Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Appleton, WI",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=05195d21-dd3b-4151-acc7-d42da943bd18&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746"
     },
     {
       "id": "2ebd84fb-f8aa-4772-9696-40cc41fbcde0",
