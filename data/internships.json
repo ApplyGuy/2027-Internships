@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T17:15:25.565Z",
+  "updatedAt": "2026-09-02T17:30:26.310Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -348,6 +348,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=fdba95ce-6e2d-443e-8cbb-56dbcf18f9f4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
+    },
+    {
+      "id": "bfc71ac8-56c3-4fc3-8ac8-ff881eb9c13e",
+      "company": "Steel Dynamics, Inc.",
+      "title": "Software Development Internship",
+      "category": "Software Engineering",
+      "location": "Fort Wayne, IN",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=bfc71ac8-56c3-4fc3-8ac8-ff881eb9c13e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-steeldynamics.icims.com/jobs/7994/software-development-internship/job"
     },
     {
       "id": "1f2199ff-99bd-41c6-b4a6-04ae543bd3c4",
