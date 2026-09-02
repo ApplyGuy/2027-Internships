@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:30:33.363Z",
+  "updatedAt": "2026-09-02T06:45:33.328Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -326,6 +326,30 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
     },
     {
+      "id": "1f2199ff-99bd-41c6-b4a6-04ae543bd3c4",
+      "company": "Tencent",
+      "title": "Tencent Cloud CPaaS Product Management Intern",
+      "category": "Product",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tencent&job=1f2199ff-99bd-41c6-b4a6-04ae543bd3c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
+    },
+    {
+      "id": "09ae5cfb-bb32-4eab-b55c-6882bed27104",
+      "company": "Tencent",
+      "title": "Tencent Cloud CPaaS Product Management Intern",
+      "category": "Product",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tencent&job=09ae5cfb-bb32-4eab-b55c-6882bed27104&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020"
+    },
+    {
       "id": "e88b13f3-12bf-4f94-979f-4874d711c360",
       "company": "Touchstone Investments",
       "title": "Artificial Intelligence Developer Intern (Full Year 2027)",
@@ -372,6 +396,90 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=3b69b5e5-2889-4e9f-899c-af7ecf06cd98&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25006/software-automation-testing-intern-%28full-year-2027%29/job"
+    },
+    {
+      "id": "ccfd1429-9ce3-4516-b86c-786aeb4a72d4",
+      "company": "Travelers",
+      "title": "Product Management Development Program (PMDP) Intern",
+      "category": "Product",
+      "location": "Hartford, CT",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Travelers&job=ccfd1429-9ce3-4516-b86c-786aeb4a72d4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317"
+    },
+    {
+      "id": "f3926e9e-5166-4738-9f7e-0b39e3fea509",
+      "company": "Usfoods",
+      "title": "Intern – Data Engineer (Hybrid: Onsite & Remote)",
+      "category": "Software Engineering",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Usfoods&job=f3926e9e-5166-4738-9f7e-0b39e3fea509&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R282116"
+    },
+    {
+      "id": "b7541eb7-2cd9-45b1-93bf-b57f88a59705",
+      "company": "Usfoods",
+      "title": "Intern – Product Analyst, Supply Chain Technology (Hybrid: Onsite & Remote)",
+      "category": "Product",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Usfoods&job=b7541eb7-2cd9-45b1-93bf-b57f88a59705&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Product-Analyst--Supply-Chain-Technology--Hybrid--Onsite---Remote-_R282104"
+    },
+    {
+      "id": "a446ddcf-b4c7-425c-bc73-08187671c012",
+      "company": "Usfoods",
+      "title": "Intern – Software Engineer, Legacy Systems (Hybrid: Onsite & Remote)",
+      "category": "Software Engineering",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Usfoods&job=a446ddcf-b4c7-425c-bc73-08187671c012&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106"
+    },
+    {
+      "id": "42b38e52-a411-419b-8828-b395cbdefdb1",
+      "company": "Usfoods",
+      "title": "Intern – Software Engineer, Digital Commerce (Hybrid: Onsite & Remote)",
+      "category": "Software Engineering",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Usfoods&job=42b38e52-a411-419b-8828-b395cbdefdb1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111"
+    },
+    {
+      "id": "227857d5-9eba-4786-abb1-aec803861f35",
+      "company": "Usfoods",
+      "title": "Intern – Product Analyst, Digital Commerce (Hybrid: Onsite & Remote)",
+      "category": "Product",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Usfoods&job=227857d5-9eba-4786-abb1-aec803861f35&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Product-Analyst--Digital-Commerce--Hybrid--Onsite---Remote-_R282105"
+    },
+    {
+      "id": "12569b05-b444-4a0a-97b0-5248b8d99e8d",
+      "company": "Vanguard",
+      "title": "College to Corporate IT Internship - Technical Product Manager",
+      "category": "Product",
+      "location": "Malvern, PA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Vanguard&job=12569b05-b444-4a0a-97b0-5248b8d99e8d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969"
     },
     {
       "id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
@@ -492,6 +600,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
+    },
+    {
+      "id": "48446eeb-91ed-4f2e-a79e-7fe67a95fca4",
+      "company": "IEX Group",
+      "title": "Software Development Engineer in Test Intern",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=IEX+Group&job=48446eeb-91ed-4f2e-a79e-7fe67a95fca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://iex.io/careers/apply?gh_jid=8172248"
     },
     {
       "id": "1de7368c-aea6-461e-a9ae-2ddd78a9da1b",
@@ -718,6 +838,54 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410"
     },
     {
+      "id": "64ad1cfa-7f17-4b04-a89c-d22af413ee42",
+      "company": "Stoke Space",
+      "title": "Summer 2027 Internship - Software",
+      "category": "Software Engineering",
+      "location": "Kent, WA",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stoke+Space&job=64ad1cfa-7f17-4b04-a89c-d22af413ee42&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
+    },
+    {
+      "id": "c465f59a-28cb-452e-9800-1649de9151c2",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Software Engineering - Florida",
+      "category": "Software Engineering",
+      "location": "Fort Lauderdale, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stryker&job=c465f59a-28cb-452e-9800-1649de9151c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
+    },
+    {
+      "id": "05e7e982-6622-46d4-b407-83a8dc955505",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Software Engineering - Indiana",
+      "category": "Software Engineering",
+      "location": "Fort Wayne, IN",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stryker&job=05e7e982-6622-46d4-b407-83a8dc955505&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
+    },
+    {
+      "id": "05031a11-4236-4d10-9ceb-5000f66ea4a7",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Software Engineering - Michigan",
+      "category": "Software Engineering",
+      "location": "Portage, MI",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stryker&job=05031a11-4236-4d10-9ceb-5000f66ea4a7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
+    },
+    {
       "id": "5815377a-6664-4c04-b1f3-58ea9fe632ed",
       "company": "Valon Tech",
       "title": "Software Engineer Intern",
@@ -910,6 +1078,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009"
+    },
+    {
+      "id": "4cbb4f91-e14f-4776-b6ac-80eb14e2c669",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128745"
     },
     {
       "id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
