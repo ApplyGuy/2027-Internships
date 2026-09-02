@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T19:00:14.258Z",
+  "updatedAt": "2026-09-02T19:15:24.007Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -4458,42 +4458,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=SRI+International&job=97b6f8ea-1962-4cc2-aebf-b42741670127&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-sri.icims.com/jobs/6431/drexel-university-co-op%3a-embedded-software-engineering/job"
-    },
-    {
-      "id": "9955155f-fd7c-4baa-8719-5eadf32a0f74",
-      "company": "Uline",
-      "title": "Business Intelligence Developer Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=9955155f-fd7c-4baa-8719-5eadf32a0f74&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685"
-    },
-    {
-      "id": "402c63c2-dd0b-4036-9bb6-99e14d6efe81",
-      "company": "Uline",
-      "title": "Software Development Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=402c63c2-dd0b-4036-9bb6-99e14d6efe81&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
-    },
-    {
-      "id": "253760e8-77e9-4a68-876c-1a07b1333f99",
-      "company": "Uline",
-      "title": "Product Management Internship - Summer 2027",
-      "category": "Product",
-      "location": "Pleasant Prairie, WI",
-      "season": "Summer 2027",
-      "posted": "2026-08-03",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Uline&job=253760e8-77e9-4a68-876c-1a07b1333f99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uline.wd1.myworkdayjobs.com/uline_careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939"
     }
   ]
 }
