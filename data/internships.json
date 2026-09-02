@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:00:12.300Z",
+  "updatedAt": "2026-09-02T05:15:31.869Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -182,6 +182,110 @@
       "listingUrl": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b"
     },
     {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
       "company": "OnLogic",
       "title": "Firmware Engineering Co-op",
@@ -290,6 +394,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=35710f46-62c4-433b-8b38-04d66632f39e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
+    },
+    {
+      "id": "b183ce61-8314-4b2d-830b-3b799853af3a",
+      "company": "Disney",
+      "title": "Software Engineering Intern, Spring 2027",
+      "category": "Software Engineering",
+      "location": "Orlando, FL",
+      "season": "Spring 2027",
+      "posted": "2026-08-29",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Disney&job=b183ce61-8314-4b2d-830b-3b799853af3a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599"
     },
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -1494,6 +1610,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Databricks&job=592ecf39-0d39-402b-be13-e5bfd97ed4e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+    },
+    {
+      "id": "7ecf5a35-1a88-4792-8f08-ac55c69a97c4",
+      "company": "Dev Technology",
+      "title": "React/Node Developer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Summer 2027",
+      "posted": "2026-08-20",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Dev+Technology&job=7ecf5a35-1a88-4792-8f08-ac55c69a97c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002"
     },
     {
       "id": "c7c72578-c9f1-461f-9487-1c8a6f77283f",
