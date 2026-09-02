@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T17:30:26.310Z",
+  "updatedAt": "2026-09-02T17:45:17.503Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -132,6 +132,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Flir&job=536838a1-182e-43b2-83c6-993d9ab2a5c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
+    },
+    {
+      "id": "a9af5655-ff75-4a22-b1a0-a69df7a95397",
+      "company": "Genpt",
+      "title": "Software Engineer - QA Analyst Intern",
+      "category": "Software Engineering",
+      "location": "Birmingham, AL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Genpt&job=a9af5655-ff75-4a22-b1a0-a69df7a95397&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236"
+    },
+    {
+      "id": "8eb7e2d6-92c1-4ee8-b4ed-239477dd4adf",
+      "company": "Genpt",
+      "title": "Web Developer Intern",
+      "category": "Software Engineering",
+      "location": "Birmingham, AL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Genpt&job=8eb7e2d6-92c1-4ee8-b4ed-239477dd4adf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238"
     },
     {
       "id": "f0463e62-aa3a-4315-b9e1-bbc35c4e69e4",
@@ -412,14 +436,14 @@
     {
       "id": "b5bbbb02-ef22-4845-bac2-c415e6e8b974",
       "company": "Touchstone Investments",
-      "title": "Software Development Intern (Full Year 2027)",
+      "title": "Software Developer Intern (Enterprise Process Management Team) (Full Year 2027)",
       "category": "Software Engineering",
       "location": "Cincinnati, OH",
       "season": "2027",
       "posted": "2026-09-02",
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=b5bbbb02-ef22-4845-bac2-c415e6e8b974&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25245/software-development-intern-%28full-year-2027%29/job"
+      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25245/software-developer-intern-%28enterprise-process-management-team%29-%28full-year-2027%29/job"
     },
     {
       "id": "3b69b5e5-2889-4e9f-899c-af7ecf06cd98",
@@ -708,6 +732,110 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
     },
     {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
