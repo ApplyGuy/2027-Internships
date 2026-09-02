@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:00:13.375Z",
+  "updatedAt": "2026-09-02T18:15:10.627Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -252,6 +252,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lilly&job=494103fc-8b25-4248-9ca9-b75f526cec37&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/Technology-Data-Engineer---Intern-to-FTE_R-110837"
+    },
+    {
+      "id": "a22b33ef-ce3d-4339-8b2d-4d70c5c83d3b",
+      "company": "Magna",
+      "title": "Intern - Engineering Software",
+      "category": "Software Engineering",
+      "location": "Southfield, MI",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Magna&job=a22b33ef-ce3d-4339-8b2d-4d70c5c83d3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://magna.wd3.myworkdayjobs.com/magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617"
+    },
+    {
+      "id": "d5365167-d020-4019-8031-8033b38e1475",
+      "company": "Mastercard",
+      "title": "Product Management – Technical Intern, Summer 2027 – St. Louis, MO, US",
+      "category": "Product",
+      "location": "O'Fallon, MO",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mastercard&job=d5365167-d020-4019-8031-8033b38e1475&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711"
+    },
+    {
+      "id": "c61c3538-5962-43a8-95e9-b72125c0bab4",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Intern - Software Development",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=c61c3538-5962-43a8-95e9-b72125c0bab4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nisc/jobs/8092699"
+    },
+    {
+      "id": "fe7a2063-0aa4-4d85-b777-41f23bfd2d8f",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Intern - Data Engineer",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=fe7a2063-0aa4-4d85-b777-41f23bfd2d8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nisc/jobs/8167858"
     },
     {
       "id": "28ffc9fa-5b66-4bca-b60d-1402b0d3e231",
@@ -792,6 +840,110 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
     },
     {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
