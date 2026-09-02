@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:45:08.246Z",
+  "updatedAt": "2026-09-02T06:00:30.463Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -144,6 +144,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Genpt&job=0f067e4a-fb2e-43da-a2e8-9336ff7f16b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140"
+    },
+    {
+      "id": "0c25aa29-0978-4387-bc12-9fa43ca3baf9",
+      "company": "Jj",
+      "title": "Software Engineering Co-Op. Summer 2027",
+      "category": "Software Engineering",
+      "location": "Cincinnati, OH",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=0c25aa29-0978-4387-bc12-9fa43ca3baf9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743"
+    },
+    {
+      "id": "98c9ff84-a94d-470a-88e3-ed593697590d",
+      "company": "Lilly",
+      "title": "Technology Software Engineer - Intern to FTE",
+      "category": "Software Engineering",
+      "location": "Indianapolis IN",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lilly&job=98c9ff84-a94d-470a-88e3-ed593697590d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/Technology-Software-Engineer---Intern-to-FTE_R-110839"
+    },
+    {
+      "id": "494103fc-8b25-4248-9ca9-b75f526cec37",
+      "company": "Lilly",
+      "title": "Technology Data Engineer - Intern to FTE",
+      "category": "Software Engineering",
+      "location": "Indianapolis IN",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lilly&job=494103fc-8b25-4248-9ca9-b75f526cec37&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/Technology-Data-Engineer---Intern-to-FTE_R-110837"
     },
     {
       "id": "f59c57a2-8ce5-4166-b072-f176b165499e",
@@ -350,108 +386,16 @@
       "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
     },
     {
-      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "id": "1de7368c-aea6-461e-a9ae-2ddd78a9da1b",
+      "company": "K2 Space",
+      "title": "Software Engineering Intern – Summer 2027",
       "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
       "posted": "2026-09-01",
       "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
-      "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:745260beb2bb6c075545",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
+      "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
@@ -646,6 +590,30 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
+    },
+    {
+      "id": "0d64e527-26d6-479a-9af4-30e76e3eb225",
+      "company": "IXL Learning",
+      "title": "Software Engineer, Intern",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Not specified",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=0d64e527-26d6-479a-9af4-30e76e3eb225&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765770002"
+    },
+    {
+      "id": "c1f55913-b19b-4d6e-908f-86e905a6121a",
+      "company": "Katalyst Space Technologies",
+      "title": "Engineering Intern (Electrical / Mechanical / GNC / Software) ",
+      "category": "Software Engineering",
+      "location": "Broomfield, CO",
+      "season": "Not specified",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=c1f55913-b19b-4d6e-908f-86e905a6121a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176711004"
     },
     {
       "id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
@@ -916,10 +884,10 @@
     {
       "id": "11275e42-4bc3-4e09-b415-8faa69df882e",
       "company": "RJ Lee Group, Inc",
-      "title": "Internship - Artificial Intelligence - Software Modernization",
+      "title": "Fall 2026 Internship - Artificial Intelligence - Software Modernization",
       "category": "Software Engineering",
       "location": "Pittsburgh, PA",
-      "season": "Not specified",
+      "season": "Fall 2026",
       "posted": "2026-08-27",
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships",
