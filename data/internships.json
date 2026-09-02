@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:45:40.157Z",
+  "updatedAt": "2026-09-02T05:00:12.300Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -50,6 +50,42 @@
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611"
     },
     {
+      "id": "f5072396-cb11-45dd-bae5-49f57f21e117",
+      "company": "Berkshiregrey",
+      "title": "Spring 2027 Software Co-op",
+      "category": "Software Engineering",
+      "location": "Bedford, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=f5072396-cb11-45dd-bae5-49f57f21e117&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://berkshiregrey.bamboohr.com/careers/763"
+    },
+    {
+      "id": "cf4b1e97-cb11-4235-806f-fd35f1aca961",
+      "company": "CACI",
+      "title": "Embedded Software Engineering Co-op - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Danbury, CT",
+      "season": "Spring 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=cf4b1e97-cb11-4235-806f-fd35f1aca961&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368"
+    },
+    {
+      "id": "782a80d3-d83a-4eef-9b79-3379bf80b296",
+      "company": "CACI",
+      "title": "Embedded Software Engineering Co-Op - Fall 2027",
+      "category": "Software Engineering",
+      "location": "Danbury, CT",
+      "season": "Fall 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=782a80d3-d83a-4eef-9b79-3379bf80b296&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-Op---Fall-2027_331393"
+    },
+    {
       "id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
       "company": "Adobe",
       "title": "2027 Intern - Machine Learning Engineer",
@@ -60,6 +96,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+    },
+    {
+      "id": "d543b3ce-0d5b-4a94-9bbc-eb71d3b528e3",
+      "company": "Brunswick",
+      "title": "Mercury Marine: Software Controls Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Fond du Lac, WI",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=d543b3ce-0d5b-4a94-9bbc-eb71d3b528e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436"
+    },
+    {
+      "id": "b24caa45-0ec7-4f91-b62d-2f15a47e8bc6",
+      "company": "CACI",
+      "title": "Software Engineering Co-op - Summer & Fall 2027",
+      "category": "Software Engineering",
+      "location": "Danbury, CT",
+      "season": "Fall 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b24caa45-0ec7-4f91-b62d-2f15a47e8bc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
+    },
+    {
+      "id": "86ac2691-4c64-4b5c-944b-dc02c8e19e4e",
+      "company": "CACI",
+      "title": "Software Engineering Intern – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Sarasota, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=86ac2691-4c64-4b5c-944b-dc02c8e19e4e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359"
+    },
+    {
+      "id": "127e14f9-4e91-4973-8576-0c8ef27bbd52",
+      "company": "CACI",
+      "title": "Software Engineering Co-op - Spring & Summer 2027",
+      "category": "Software Engineering",
+      "location": "Danbury, CT",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=127e14f9-4e91-4973-8576-0c8ef27bbd52&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1"
+    },
+    {
+      "id": "11356aab-28b1-4bbc-acf0-85ceecceba38",
+      "company": "CIBC",
+      "title": "2027 Spring Term Software Engineer Co-op - Chicago (Northeastern University)",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Spring 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CIBC&job=11356aab-28b1-4bbc-acf0-85ceecceba38&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1"
     },
     {
       "id": "c9f13603-71d5-44d1-89d5-146119b58e0b",
@@ -84,110 +180,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Hermeus&job=bc954145-3359-4233-8870-ca41afae130f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b"
-    },
-    {
-      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
-      "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:745260beb2bb6c075545",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
     },
     {
       "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
@@ -226,6 +218,30 @@
       "listingUrl": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64"
     },
     {
+      "id": "b9db3390-dbd1-4c8b-b5d2-5a60e1273612",
+      "company": "C 3 Ascend",
+      "title": "Software Engineer - Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Redwood City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
+    },
+    {
+      "id": "688de8d6-cb68-427f-a18b-17e590d9e7b9",
+      "company": "C3 AI",
+      "title": "Software Engineer - Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Redwood City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
+    },
+    {
       "id": "custom:google:100648618540573382",
       "company": "Google",
       "title": "Software Engineering Intern, BS, Summer 2027",
@@ -262,6 +278,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd"
+    },
+    {
+      "id": "35710f46-62c4-433b-8b38-04d66632f39e",
+      "company": "Brunswick",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Champaign, IL",
+      "season": "Not specified",
+      "posted": "2026-08-29",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Brunswick&job=35710f46-62c4-433b-8b38-04d66632f39e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
     },
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -1116,18 +1144,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Audax+Group&job=8df659df-87d2-484c-b4a8-eb5b48ee3687&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005"
-    },
-    {
-      "id": "92ce2ea6-3d20-4f43-b815-9401479e0e03",
-      "company": "Brunswick",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Champaign, IL",
-      "season": "Not specified",
-      "posted": "2026-08-24",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Brunswick&job=92ce2ea6-3d20-4f43-b815-9401479e0e03&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"
     },
     {
       "id": "6537ed5f-9def-4e65-9445-e87cb8a6682a",
