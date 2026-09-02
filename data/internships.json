@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:30:16.740Z",
+  "updatedAt": "2026-09-02T05:45:08.246Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -108,6 +108,78 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Flir&job=536838a1-182e-43b2-83c6-993d9ab2a5c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
+    },
+    {
+      "id": "f0463e62-aa3a-4315-b9e1-bbc35c4e69e4",
+      "company": "Genpt",
+      "title": "Customer Software Development Intern",
+      "category": "Software Engineering",
+      "location": "Birmingham, AL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Genpt&job=f0463e62-aa3a-4315-b9e1-bbc35c4e69e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135"
+    },
+    {
+      "id": "634fd1ff-0b90-40bc-9d9d-325b794bc21a",
+      "company": "Genpt",
+      "title": "Cloud Developer Intern",
+      "category": "Software Engineering",
+      "location": "Birmingham, AL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Genpt&job=634fd1ff-0b90-40bc-9d9d-325b794bc21a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"
+    },
+    {
+      "id": "0f067e4a-fb2e-43da-a2e8-9336ff7f16b8",
+      "company": "Genpt",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Birmingham, AL",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Genpt&job=0f067e4a-fb2e-43da-a2e8-9336ff7f16b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140"
+    },
+    {
+      "id": "f59c57a2-8ce5-4166-b072-f176b165499e",
+      "company": "RTX",
+      "title": "Software  Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f59c57a2-8ce5-4166-b072-f176b165499e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432"
+    },
+    {
+      "id": "56674523-a359-4f83-b1d8-d166b41b6841",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Melbourne, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=56674523-a359-4f83-b1d8-d166b41b6841&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423"
+    },
+    {
+      "id": "fdba95ce-6e2d-443e-8cbb-56dbcf18f9f4",
+      "company": "RTX",
+      "title": "Technical Publications– Artificial Intelligence/Machine Learning (AI/ML) Technical Developer Intern (Summer 2027) (Onsite)",
+      "category": "Software Engineering",
+      "location": "East Hartford, CT",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fdba95ce-6e2d-443e-8cbb-56dbcf18f9f4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027"
     },
     {
       "id": "e88b13f3-12bf-4f94-979f-4874d711c360",
@@ -266,6 +338,18 @@
       "listingUrl": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b"
     },
     {
+      "id": "8ca4c109-75ea-4aff-aae0-229e8870636b",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
+    },
+    {
       "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
       "company": "Microsoft",
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
@@ -394,6 +478,18 @@
       "listingUrl": "https://jobs.workable.com/view/2fhyRqKxaGEKxhXTfamGgb/firmware-engineering-co-op-in-cary-at-onlogic"
     },
     {
+      "id": "2ebd84fb-f8aa-4772-9696-40cc41fbcde0",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Aurora, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2ebd84fb-f8aa-4772-9696-40cc41fbcde0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410"
+    },
+    {
       "id": "5815377a-6664-4c04-b1f3-58ea9fe632ed",
       "company": "Valon Tech",
       "title": "Software Engineer Intern",
@@ -442,6 +538,18 @@
       "listingUrl": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
     },
     {
+      "id": "fe201597-e240-426c-92e6-77562192f74e",
+      "company": "Gevernova",
+      "title": "GE Vernova Product Management Intern – Controls Lifecare Services - Summer 2027",
+      "category": "Product",
+      "location": "Longmont, CO",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=fe201597-e240-426c-92e6-77562192f74e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2"
+    },
+    {
       "id": "custom:google:100648618540573382",
       "company": "Google",
       "title": "Software Engineering Intern, BS, Summer 2027",
@@ -466,6 +574,78 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
       "applySupported": false
+    },
+    {
+      "id": "7aae1c4e-a7b4-493c-8841-d1e649a957fa",
+      "company": "HP IQ",
+      "title": "Software Engineer Intern, Cloud Services (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
+    },
+    {
+      "id": "3757b397-ae21-451a-8844-bb4757b9dc5a",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Product & Developer Productivity  (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
+    },
+    {
+      "id": "e888dbf6-4dbe-4337-a621-99de0957ff1f",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Software Systems (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004"
+    },
+    {
+      "id": "3221f8e4-9d37-4e82-8c31-d13f4d664c0b",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Product Security (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=3221f8e4-9d37-4e82-8c31-d13f4d664c0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004"
+    },
+    {
+      "id": "d0f1d597-2305-4988-b6e1-26880a1154ca",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Device Experiences (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
+    },
+    {
+      "id": "0717d0a1-e2d3-4f63-adb9-edf6e8391846",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, AML Platform (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
     },
     {
       "id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
@@ -502,6 +682,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Disney&job=b183ce61-8314-4b2d-830b-3b799853af3a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599"
+    },
+    {
+      "id": "584da10c-963a-4211-821b-e0b80cf673e8",
+      "company": "HP",
+      "title": "Software and Engineering Intern Roles - Imaging and Print",
+      "category": "Software Engineering",
+      "location": "Corvallis, OR",
+      "season": "Not specified",
+      "posted": "2026-08-29",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=584da10c-963a-4211-821b-e0b80cf673e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142"
     },
     {
       "id": "6bb9de71-5efa-43e6-b1b8-c0596bd05987",
@@ -732,18 +924,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg"
-    },
-    {
-      "id": "02a5bf79-5a49-4632-9f3c-9d6239bba68b",
-      "company": "RTX",
-      "title": "Software Engineering Intern(Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=02a5bf79-5a49-4632-9f3c-9d6239bba68b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1"
     },
     {
       "id": "f745df63-b60e-453c-b548-c84f7d46b9bd",
@@ -2090,18 +2270,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=NLign+Analytics%2C+INC&job=af69997f-40ab-4aa4-a116-0912d4074299&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433055"
-    },
-    {
-      "id": "4b738171-db0f-4c48-b23b-bf9af886547d",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-08-19",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4b738171-db0f-4c48-b23b-bf9af886547d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892"
     },
     {
       "id": "f647531b-2e87-4095-8996-4ea295b7be5b",
