@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:00:39.662Z",
+  "updatedAt": "2026-09-02T22:15:46.196Z",
   "jobs": [
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -228,6 +228,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Harman&job=5fe9960a-9a0e-414a-93d2-fe87e54a5a6b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://harman.wd3.myworkdayjobs.com/harman/job/US-Home-Office-New-York/Intern---Product-Strategy_R-55477-2026"
+    },
+    {
+      "id": "1de9ec1a-49fc-4e93-858a-77d1ed251d59",
+      "company": "Intel",
+      "title": "Software Engineering - Intern, Graduate",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=1de9ec1a-49fc-4e93-858a-77d1ed251d59&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
+    {
+      "id": "1c533354-bbd4-4f8e-9016-4a398935b9e2",
+      "company": "Intel",
+      "title": "Software Engineering - Intern, Bachelor’s",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=1c533354-bbd4-4f8e-9016-4a398935b9e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
     },
     {
       "id": "6e28a276-7e9a-4cba-b320-791f08c1aa35",
