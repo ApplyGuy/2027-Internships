@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:45:44.190Z",
+  "updatedAt": "2026-09-03T11:00:35.503Z",
   "jobs": [
     {
       "id": "068fe53d-b746-46e3-ae84-b1b05d99fcfb",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=068fe53d-b746-46e3-ae84-b1b05d99fcfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683"
+    },
+    {
+      "id": "2e240497-fea3-467a-b00f-5660ab9f5b5b",
+      "company": "Hermeus",
+      "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hermeus&job=2e240497-fea3-467a-b00f-5660ab9f5b5b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"
     },
     {
       "id": "111113f9-1e35-419e-89fb-5cd4d07148cd",
