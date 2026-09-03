@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:45:18.091Z",
+  "updatedAt": "2026-09-03T19:00:17.504Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -156,6 +156,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Philips&job=78cac84d-6407-4be1-b99f-f3a76e79dc8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"
+    },
+    {
+      "id": "d0a13095-ee87-45c4-ae69-00f4ad4a20d7",
+      "company": "Saabusa",
+      "title": "Software Engineering Co-Op (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "East Syracuse, NY (Collamer)",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Saabusa&job=d0a13095-ee87-45c4-ae69-00f4ad4a20d7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
+    },
+    {
+      "id": "96c61188-98e0-4e68-a255-8622bf2c40df",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineering Intern - Power Systems",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=96c61188-98e0-4e68-a255-8622bf2c40df&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933"
+    },
+    {
+      "id": "13e83fef-27fe-4678-a5a7-6e1809eae5ad",
+      "company": "Skillz Inc",
+      "title": "Co-op, Software Engineer",
+      "category": "Software Engineering",
+      "location": "Las Vegas, NV",
+      "season": "Co-op",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Skillz+Inc&job=13e83fef-27fe-4678-a5a7-6e1809eae5ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/skillzinc/jobs/8168006"
     },
     {
       "id": "e3580001-412a-4e8b-9eed-a389831ee06a",
@@ -1470,32 +1506,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
@@ -1519,6 +1529,32 @@
       "age": "2d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
@@ -4754,18 +4790,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=bc091d03-d95a-4954-b269-1ca82145d575&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
-    },
-    {
-      "id": "1e145d9e-9d8f-4617-aea2-3f70ac31c567",
-      "company": "Clarity Partners LLC",
-      "title": "Salesforce Developer Internship",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-08-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=1e145d9e-9d8f-4617-aea2-3f70ac31c567&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4390893"
     },
     {
       "id": "ad69fe51-4adf-4511-8a90-e0dd4adf4f6a",
