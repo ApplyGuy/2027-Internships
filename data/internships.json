@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:45:32.747Z",
+  "updatedAt": "2026-09-03T02:00:31.384Z",
   "jobs": [
     {
       "id": "d93ca415-850b-406e-97d6-61e7b0f61637",
@@ -1263,6 +1263,19 @@
       "applySupported": false
     },
     {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
       "id": "custom:microsoft:108fa5e1c7f83fb391bf",
       "company": "Microsoft",
       "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
@@ -1312,19 +1325,6 @@
       "age": "2d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
