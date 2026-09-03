@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:45:42.471Z",
+  "updatedAt": "2026-09-03T23:00:19.099Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -204,6 +204,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Skillz+Inc&job=13e83fef-27fe-4678-a5a7-6e1809eae5ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/skillzinc/jobs/8168006"
+    },
+    {
+      "id": "f26e53d1-b356-4311-a185-48b1a0a5ee36",
+      "company": "The Exploration Company",
+      "title": "Summer 2027 Internship (Software)",
+      "category": "Software Engineering",
+      "location": "California",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Exploration+Company&job=f26e53d1-b356-4311-a185-48b1a0a5ee36&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac"
+    },
+    {
+      "id": "350e7a83-08d1-4347-aaf8-dfd581d99953",
+      "company": "The Exploration Company",
+      "title": "Spring 2027 Internship (Software)",
+      "category": "Software Engineering",
+      "location": "California",
+      "season": "Spring 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Exploration+Company&job=350e7a83-08d1-4347-aaf8-dfd581d99953&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe"
     },
     {
       "id": "e3580001-412a-4e8b-9eed-a389831ee06a",
@@ -1543,19 +1567,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
@@ -1579,6 +1590,19 @@
       "age": "2d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "applySupported": false
     },
     {
