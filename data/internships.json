@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:00:45.254Z",
+  "updatedAt": "2026-09-03T04:15:27.892Z",
   "jobs": [
     {
       "id": "d93ca415-850b-406e-97d6-61e7b0f61637",
@@ -60,6 +60,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Sedarotech&job=9a0da63e-b3ec-43db-a626-6ccdb9bfff56&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sedarotech.bamboohr.com/careers/96"
+    },
+    {
+      "id": "f4937af3-d101-499f-bd2b-c061482acc21",
+      "company": "Walmart",
+      "title": "2026 Intern Conversion: 2027 FT Software Engineer II, Information Security",
+      "category": "Software Engineering",
+      "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office",
+      "season": "2026",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Walmart&job=f4937af3-d101-499f-bd2b-c061482acc21&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II--Information-Security_R-2630112"
+    },
+    {
+      "id": "804c7c92-f1b0-40c0-b0e4-b34dc709c532",
+      "company": "Walmart",
+      "title": "2026 Intern Conversion: 2027 FT Systems and Infrastructure Engineer II, Information Security",
+      "category": "Software Engineering",
+      "location": "(USA) ISD Office",
+      "season": "2026",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Walmart&job=804c7c92-f1b0-40c0-b0e4-b34dc709c532&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Systems-and-Infrastructure-Engineer-II--Information-Security_R-2630114"
+    },
+    {
+      "id": "7da76029-cb04-4504-9526-4647d1d367da",
+      "company": "Walmart",
+      "title": "2026 Intern Conversion: 2027 FT Software Engineer II, Information Security",
+      "category": "Software Engineering",
+      "location": "(USA) ISD Office",
+      "season": "2026",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Walmart&job=7da76029-cb04-4504-9526-4647d1d367da&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II--Information-Security_R-2630113"
     },
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -1250,28 +1286,108 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
-      "id": "385e9e3b-bd17-4aa5-b643-fda63852105e",
-      "company": "OnLogic",
-      "title": "Firmware Engineering Co-op",
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
-      "location": "South Burlington, VT",
-      "season": "Co-op",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
       "posted": "2026-09-01",
       "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=OnLogic&job=385e9e3b-bd17-4aa5-b643-fda63852105e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/f9fDCLnyxaY9YqojVJA9JP/firmware-engineering-co-op-in-south-burlington-at-onlogic"
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
     },
     {
-      "id": "e15bdcf1-8186-46ee-9aea-11a061f0d421",
-      "company": "OnLogic",
-      "title": "Firmware Engineering Co-op",
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
-      "location": "Cary, NC",
-      "season": "Co-op",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
       "posted": "2026-09-01",
       "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=OnLogic&job=e15bdcf1-8186-46ee-9aea-11a061f0d421&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/2fhyRqKxaGEKxhXTfamGgb/firmware-engineering-co-op-in-cary-at-onlogic"
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "applySupported": false
     },
     {
       "id": "e84fcdb9-0c91-4c38-bce2-2b7452184d80",
@@ -3080,18 +3196,6 @@
       "listingUrl": "https://jobs.workable.com/view/nQKsFUMzVNqymz4pk2ogxM/software-engineer-internship-in-lansing-at-waggoner-financial"
     },
     {
-      "id": "03ead34e-2086-4dd5-97e6-2e1c14f2896f",
-      "company": "Western Magnetics",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-08-20",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
-    },
-    {
       "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
       "company": "Zipline",
       "title": "Software Engineer Intern (Spring 2027)",
@@ -3186,18 +3290,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Fooji&job=8a9c8b90-d58d-4491-822a-ec605766dff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apply.workable.com/fooji/j/6563DA99B5/"
-    },
-    {
-      "id": "f8844f2b-1938-4f77-be67-8dacd7421e44",
-      "company": "Fooji, Inc.",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Lexington, KY",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Fooji%2C+Inc.&job=f8844f2b-1938-4f77-be67-8dacd7421e44&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/5t4BXpB8bzLqxqAkmjwD6G/software-engineering-intern-in-lexington-at-fooji%2C-inc."
     },
     {
       "id": "78ff7ec5-36c5-405a-9708-dbc145211fed",
@@ -3858,78 +3950,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Valeo&job=6281094f-21bf-4a91-b3f5-13c8b46a1e45&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575"
-    },
-    {
-      "id": "ff08f8ae-846d-4e0a-a956-915edc973ae4",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Herndon, VA",
-      "season": "Spring 2027",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=ff08f8ae-846d-4e0a-a956-915edc973ae4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/sPUQYcZd7YrUmJ7iigSZax/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-herndon-at-cynet-corp"
-    },
-    {
-      "id": "e9cca0a5-ab42-4618-9372-9d2b079fa49a",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Leesburg, VA",
-      "season": "Spring 2027",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=e9cca0a5-ab42-4618-9372-9d2b079fa49a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/q4SJsdcnyaMXi4cBiM7GLE/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-leesburg-at-cynet-corp"
-    },
-    {
-      "id": "24c3aa49-958e-43b3-bb35-ac84644992b1",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Spring 2027",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=24c3aa49-958e-43b3-bb35-ac84644992b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/j6afuGpvTpP1etNx9MLMrB/hybrid-software-engineering-intern---artificial-intelligence-(spring-2027)-in-sterling-at-cynet-corp"
-    },
-    {
-      "id": "04d5624d-60b8-46b4-b774-7197c1a61dba",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Herndon, VA",
-      "season": "Fall 2026",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=04d5624d-60b8-46b4-b774-7197c1a61dba&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/ojjAeatXrSRYrrJELfxy3o/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-herndon-at-cynet-corp"
-    },
-    {
-      "id": "a1c6aeac-ae49-4a2b-8c2b-2bf5ffd19ef1",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Leesburg, VA",
-      "season": "Fall 2026",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=a1c6aeac-ae49-4a2b-8c2b-2bf5ffd19ef1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/jhH6GsA15TcuBGDWzbvHvN/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-leesburg-at-cynet-corp"
-    },
-    {
-      "id": "64530570-fd97-4f6e-9c4a-741c0fb002c4",
-      "company": "Cynet Corp",
-      "title": "Software Engineering Intern - Artificial Intelligence (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Fall 2026",
-      "posted": "2026-08-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Cynet+Corp&job=64530570-fd97-4f6e-9c4a-741c0fb002c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/479z3gNM4Bm35t6agCh8zV/hybrid-software-engineering-intern---artificial-intelligence-(fall-2026)-in-sterling-at-cynet-corp"
     },
     {
       "id": "2f6fe88b-7bc3-4100-974b-778e50fc38cf",
