@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:00:39.906Z",
+  "updatedAt": "2026-09-03T17:15:42.896Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hermeus&job=2e240497-fea3-467a-b00f-5660ab9f5b5b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"
+    },
+    {
+      "id": "c3b24980-675d-4c74-a4b7-9d95e7eaf6c7",
+      "company": "Kinaxis Inc.",
+      "title": "Co-op/ Intern Site Reliability Engineer",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Co-op",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kinaxis+Inc.&job=c3b24980-675d-4c74-a4b7-9d95e7eaf6c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-kinaxis.icims.com/jobs/35319/co-op--intern-site-reliability-engineer/job"
+    },
+    {
+      "id": "0bfee528-c670-406f-96f7-f791b883ffda",
+      "company": "Kinaxis Inc.",
+      "title": "Co-op/Intern Developer, Machine Learning",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Co-op",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kinaxis+Inc.&job=0bfee528-c670-406f-96f7-f791b883ffda&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-kinaxis.icims.com/jobs/35297/co-op-intern-developer%2c-machine-learning/job"
     },
     {
       "id": "111113f9-1e35-419e-89fb-5cd4d07148cd",
@@ -4706,18 +4730,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=bc091d03-d95a-4954-b269-1ca82145d575&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
-    },
-    {
-      "id": "3f8d511d-1e9b-44e6-93c1-4ce36d385b38",
-      "company": "Belvedere Trading",
-      "title": "Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-08-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=3f8d511d-1e9b-44e6-93c1-4ce36d385b38&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"
     },
     {
       "id": "1e145d9e-9d8f-4617-aea2-3f70ac31c567",
