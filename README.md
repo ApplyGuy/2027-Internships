@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-400-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-402-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **400** active U.S. internships posted within the last **30 days**
+- **402** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 3, 2026, 3:45 PM PDT**
+- Last refresh: **Sep 3, 2026, 4:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**371 open roles**
+**373 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -43,6 +43,8 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Schweitzer Engineering Laboratories | Software Engineering Intern - Power Systems | Boise, ID | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=96c61188-98e0-4e68-a255-8622bf2c40df&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933) |
 | Sedarotech | Software Engineer Intern | Arlington, VA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sedarotech&job=0126f40e-f920-4fd5-aeca-45cc39426367&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sedarotech.bamboohr.com/careers/97) |
 | Skillz Inc | Co-op, Software Engineer | Las Vegas, NV | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Skillz+Inc&job=13e83fef-27fe-4678-a5a7-6e1809eae5ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/skillzinc/jobs/8168006) |
+| The Exploration Company | Summer 2027 Internship (Software) | California | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Exploration+Company&job=f26e53d1-b356-4311-a185-48b1a0a5ee36&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac) |
+| The Exploration Company | Spring 2027 Internship (Software) | California | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Exploration+Company&job=350e7a83-08d1-4347-aaf8-dfd581d99953&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe) |
 | Transcard Payments LLC | 2027 - Software Engineer Intern | Chattanooga, TN | 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Transcard+Payments+LLC&job=e3580001-412a-4e8b-9eed-a389831ee06a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288) |
 | Transcard Payments LLC | 2027 - Software Implementation Intern | Chattanooga, TN | 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Transcard+Payments+LLC&job=eab5ba57-1c0f-4700-9b6c-cd6c3358db58&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4475691) |
 | Walmart | 2026 Intern Conversion: 2027 FT Software Engineer II, Information Security | (USA) Crossman Respect Building CA SUNNYVALE Home Office | 2026 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Walmart&job=f4937af3-d101-499f-bd2b-c061482acc21&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II--Information-Security_R-2630112) |
@@ -143,9 +145,9 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
 | Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
 | Microsoft | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | United States, California, Mountain View | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | United States, Washington, Redmond | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | United States, Massachusetts, Boston | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | United States, California, Mountain View | — | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
 | Oshkoshcorporation | Engineer Intern - Software (Summer 2027) | Dodge Center, MN | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oshkoshcorporation&job=1589ba65-22f9-45ba-aa89-108625d77615&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786) |
 | Pae | Software Engineering Intern | Cocoa Beach, FL | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pae&job=41bc637d-5220-490b-a435-aef1616ec0ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Phillipsedison | Information Technology Intern - Software Development (Spring 2027) | Cincinnati, OH | Spring 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Phillipsedison&job=65a0cec5-5536-48aa-82c2-9639bd120fbb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://phillipsedison.wd503.myworkdayjobs.com/peco/job/Cincinnati/Information-Technology-Intern---Software-Development--Spring-2027-_JR100081) |
