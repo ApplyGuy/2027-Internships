@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-03T00:00:29.891Z",
+  "updatedAt": "2026-09-03T00:15:31.317Z",
   "jobs": [
+    {
+      "id": "d93ca415-850b-406e-97d6-61e7b0f61637",
+      "company": "Mckesson",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mckesson&job=d93ca415-850b-406e-97d6-61e7b0f61637&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235"
+    },
+    {
+      "id": "c3c5b1b0-9a18-4a76-a190-31057f03d3c8",
+      "company": "Mckesson",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Longmont, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mckesson&job=c3c5b1b0-9a18-4a76-a190-31057f03d3c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469"
+    },
+    {
+      "id": "0c1064a1-0129-460f-a4d5-ff81b8c70348",
+      "company": "Mckesson",
+      "title": "Software Development Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Irving, TX",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mckesson&job=0c1064a1-0129-460f-a4d5-ff81b8c70348&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+    },
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
       "company": "Aerotech, Inc.",
@@ -636,6 +672,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Plexus&job=847a0de5-5570-42fc-ad41-cd233f3af88d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2027-_R040443"
+    },
+    {
+      "id": "e7363174-63e3-4114-83fa-5eade593b229",
+      "company": "Reflect Orbital",
+      "title": "Embedded Firmware Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Hawthorne, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Reflect+Orbital&job=e7363174-63e3-4114-83fa-5eade593b229&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"
+    },
+    {
+      "id": "0d547fbb-5ee8-4206-91d9-28ad2d4e15a2",
+      "company": "Reflect Orbital",
+      "title": "Flight Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Hawthorne, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Reflect+Orbital&job=0d547fbb-5ee8-4206-91d9-28ad2d4e15a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"
     },
     {
       "id": "9c834517-36c5-4334-a26c-5a1fceee078e",
