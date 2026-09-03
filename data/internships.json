@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:15:27.894Z",
+  "updatedAt": "2026-09-03T12:30:29.353Z",
   "jobs": [
     {
       "id": "068fe53d-b746-46e3-ae84-b1b05d99fcfb",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mckesson&job=0c1064a1-0129-460f-a4d5-ff81b8c70348&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+    },
+    {
+      "id": "784ee5a2-b11e-4396-a7a8-85792903748f",
+      "company": "Momentive",
+      "title": "Summer 2027 Intern - Software Development",
+      "category": "Software Engineering",
+      "location": "Niskayuna, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Momentive&job=784ee5a2-b11e-4396-a7a8-85792903748f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
     },
     {
       "id": "78cac84d-6407-4be1-b99f-f3a76e79dc8f",
