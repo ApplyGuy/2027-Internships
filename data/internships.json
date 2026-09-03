@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:15:31.317Z",
+  "updatedAt": "2026-09-03T00:30:43.916Z",
   "jobs": [
     {
       "id": "d93ca415-850b-406e-97d6-61e7b0f61637",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mckesson&job=0c1064a1-0129-460f-a4d5-ff81b8c70348&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+    },
+    {
+      "id": "78cac84d-6407-4be1-b99f-f3a76e79dc8f",
+      "company": "Philips",
+      "title": "Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Fall 2026",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=78cac84d-6407-4be1-b99f-f3a76e79dc8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"
     },
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
@@ -230,6 +242,18 @@
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173"
     },
     {
+      "id": "675ba96b-2a82-408f-8966-8032cd0b2c61",
+      "company": "Dynamic Catholic",
+      "title": "Internship - Software Developer - Commerce Cloud",
+      "category": "Software Engineering",
+      "location": "Erlanger, KY",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Dynamic+Catholic&job=675ba96b-2a82-408f-8966-8032cd0b2c61&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57"
+    },
+    {
       "id": "fdd81812-9188-45c0-8ef2-fc27ec071995",
       "company": "Dynamic Catholic",
       "title": "Internship - Front-End UX Intern",
@@ -336,6 +360,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Genpt&job=0f067e4a-fb2e-43da-a2e8-9336ff7f16b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140"
+    },
+    {
+      "id": "6ae535c2-c29d-4c86-9dfc-8f9666458dd3",
+      "company": "Hadrian Automation",
+      "title": "Data Science/ Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Hadrian+Automation&job=6ae535c2-c29d-4c86-9dfc-8f9666458dd3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813"
+    },
+    {
+      "id": "16d17dd2-8814-4b4d-96b9-ec483627d8cf",
+      "company": "Hadrian Automation",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Hadrian+Automation&job=16d17dd2-8814-4b4d-96b9-ec483627d8cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e"
     },
     {
       "id": "5fe9960a-9a0e-414a-93d2-fe87e54a5a6b",
@@ -588,6 +636,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=NISC&job=f5dd650b-63d5-4c47-99c5-70c836bb452a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8167883"
+    },
+    {
+      "id": "9f3c4927-2519-4b7b-9f5b-f9be53f91367",
+      "company": "Northmarq",
+      "title": "Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Minneapolis, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northmarq&job=9f3c4927-2519-4b7b-9f5b-f9be53f91367&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008"
     },
     {
       "id": "10ca4da9-3410-44f1-bf63-55f3b25dd285",
