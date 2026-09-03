@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T14:15:16.148Z",
+  "updatedAt": "2026-09-03T14:30:18.357Z",
   "jobs": [
     {
       "id": "068fe53d-b746-46e3-ae84-b1b05d99fcfb",
@@ -4694,18 +4694,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=1e145d9e-9d8f-4617-aea2-3f70ac31c567&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4390893"
-    },
-    {
-      "id": "fc69bd49-9ace-472d-a3d3-62170fe46500",
-      "company": "Diversified Automation",
-      "title": "Software Engineering Co-op",
-      "category": "Software Engineering",
-      "location": "Louisville, KY",
-      "season": "Co-op",
-      "posted": "2026-08-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Diversified+Automation&job=fc69bd49-9ace-472d-a3d3-62170fe46500&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
     },
     {
       "id": "ad69fe51-4adf-4511-8a90-e0dd4adf4f6a",
