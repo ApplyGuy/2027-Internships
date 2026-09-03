@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:30:38.542Z",
+  "updatedAt": "2026-09-03T23:45:42.418Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -60,6 +60,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hermeus&job=2e240497-fea3-467a-b00f-5660ab9f5b5b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"
+    },
+    {
+      "id": "dd1a8c43-a8df-4b6c-b843-4b40d9436b18",
+      "company": "Innovative Systems",
+      "title": "Intern/Co-op- Summer 2027 - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Pittsburgh, PA",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Innovative+Systems&job=dd1a8c43-a8df-4b6c-b843-4b40d9436b18&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://innovativesystems.applytojob.com/apply/nPMqeNSQOo"
+    },
+    {
+      "id": "592084c8-c8d8-4a57-b90c-e6d7848c917d",
+      "company": "Innovative Systems",
+      "title": "Intern/Co-op-Spring 2027 - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Pittsburgh, PA",
+      "season": "Spring 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Innovative+Systems&job=592084c8-c8d8-4a57-b90c-e6d7848c917d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://innovativesystems.applytojob.com/apply/wJuSCjOOqx"
     },
     {
       "id": "c3b24980-675d-4c74-a4b7-9d95e7eaf6c7",
