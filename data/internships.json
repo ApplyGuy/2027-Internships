@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:00:17.504Z",
+  "updatedAt": "2026-09-03T19:15:18.979Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -182,6 +182,18 @@
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933"
     },
     {
+      "id": "0126f40e-f920-4fd5-aeca-45cc39426367",
+      "company": "Sedarotech",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Arlington, VA",
+      "season": "Not specified",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sedarotech&job=0126f40e-f920-4fd5-aeca-45cc39426367&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sedarotech.bamboohr.com/careers/97"
+    },
+    {
       "id": "13e83fef-27fe-4678-a5a7-6e1809eae5ad",
       "company": "Skillz Inc",
       "title": "Co-op, Software Engineer",
@@ -252,6 +264,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Walmart&job=7da76029-cb04-4504-9526-4647d1d367da&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II--Information-Security_R-2630113"
+    },
+    {
+      "id": "b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
     },
     {
       "id": "8c132b6e-7293-4a1c-a474-e1d55f2a329a",
