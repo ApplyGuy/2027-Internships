@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:00:15.704Z",
+  "updatedAt": "2026-09-04T19:15:13.570Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -123,6 +123,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
     },
     {
+      "id": "bec118ee-81f7-4227-a5ed-f0030e6645d8",
+      "company": "Simon",
+      "title": "Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Simon&job=bec118ee-81f7-4227-a5ed-f0030e6645d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"
+    },
+    {
       "id": "98ce32ac-b86f-4f05-b94f-fbf7af72a42b",
       "company": "Snc",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -221,7 +233,7 @@
     {
       "id": "469552b9-c09c-4860-94b4-676cf29d165b",
       "company": "Apex Technology, Inc.",
-      "title": "Software Engineering Internship - Test & Automation (Spring or Summer 2027)",
+      "title": "Software Engineering Internship, Test & Automation (Spring or Summer 2027)",
       "category": "Software Engineering",
       "location": "Los Angeles, CA",
       "season": "Summer 2027",
