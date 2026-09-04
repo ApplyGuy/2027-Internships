@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:00:48.046Z",
+  "updatedAt": "2026-09-04T00:15:36.990Z",
   "jobs": [
     {
       "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
@@ -4782,18 +4782,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5d697427-9a27-4906-97fb-81be99147f49&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471"
-    },
-    {
-      "id": "bc091d03-d95a-4954-b269-1ca82145d575",
-      "company": "RTX",
-      "title": "Cyber/EW Research Developer, Intern (Onsite)",
-      "category": "Software Engineering",
-      "location": "Columbia, MD",
-      "season": "Not specified",
-      "posted": "2026-08-05",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=bc091d03-d95a-4954-b269-1ca82145d575&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyber-EW-Research-Developer--Intern--Onsite-_01863674"
     }
   ]
 }
