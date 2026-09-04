@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:16:09.232Z",
+  "updatedAt": "2026-09-04T23:30:41.909Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Barclays&job=0b7eb8ec-617f-451b-ad92-f92b612a4195&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
+    },
+    {
+      "id": "3c61c44d-b0ae-42e4-85b1-9c3e77bc5d4d",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Ypsilanti, MI",
+      "season": "Summer 2027",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=3c61c44d-b0ae-42e4-85b1-9c3e77bc5d4d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
     },
     {
       "id": "74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8",
