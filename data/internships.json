@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:15:40.324Z",
+  "updatedAt": "2026-09-04T15:30:45.304Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -1844,19 +1844,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
@@ -1880,6 +1867,19 @@
       "age": "3d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
@@ -5067,18 +5067,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
-    },
-    {
-      "id": "020f5de0-997a-49f5-93b0-82c6330419d8",
-      "company": "Haier",
-      "title": "Software Engineering Co-op_Summer 2027",
-      "category": "Software Engineering",
-      "location": "Ky, Louisville",
-      "season": "2027",
-      "posted": "2026-08-05",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Haier&job=020f5de0-997a-49f5-93b0-82c6330419d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
     },
     {
       "id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
