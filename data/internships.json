@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:30:41.909Z",
+  "updatedAt": "2026-09-04T23:45:42.874Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -61,6 +61,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CIBC&job=fbca5e44-87dd-4d00-9ab1-b55c70963d26&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
+    },
+    {
+      "id": "94cd2ff5-aec7-4638-b83f-eb4043be5453",
+      "company": "Cna",
+      "title": "Technology Internship Program (Software Engineering)",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cna&job=94cd2ff5-aec7-4638-b83f-eb4043be5453&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"
+    },
+    {
+      "id": "00955569-c13d-406d-b8a6-f67a28151022",
+      "company": "Cox",
+      "title": "Software Engineering Intern - Summer 2027 (North Hills, NY)",
+      "category": "Software Engineering",
+      "location": "Long Island, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=00955569-c13d-406d-b8a6-f67a28151022&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
     },
     {
       "id": "283f1d96-d808-442d-ae2f-0db6e44ce26d",
@@ -134,6 +158,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
       "applySupported": false
+    },
+    {
+      "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
+      "company": "NASCO",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NASCO&job=7fa2dd40-c6e2-4b44-a03d-84f713573b2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-nasco.icims.com/jobs/4402/software-engineering-intern/job"
     },
     {
       "id": "974e3e43-c2eb-443e-a9f9-60f2c84f8afe",
@@ -1977,19 +2013,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
@@ -2013,6 +2036,19 @@
       "age": "3d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
