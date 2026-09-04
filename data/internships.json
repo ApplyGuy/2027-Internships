@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:45:16.588Z",
+  "updatedAt": "2026-09-04T19:00:15.704Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -97,6 +97,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Premierinc&job=974e3e43-c2eb-443e-a9f9-60f2c84f8afe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"
+    },
+    {
+      "id": "dca840bc-db2a-4d36-b3e7-9bf9da942ca5",
+      "company": "Scale AI",
+      "title": "Software Engineering Intern (Summer 2027) ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+    },
+    {
+      "id": "d36ff045-34a5-4aa7-890b-8181b14db652",
+      "company": "Schonfeld",
+      "title": "2027 Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "2027",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schonfeld&job=d36ff045-34a5-4aa7-890b-8181b14db652&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
     },
     {
       "id": "98ce32ac-b86f-4f05-b94f-fbf7af72a42b",
