@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:00:20.516Z",
+  "updatedAt": "2026-09-05T01:15:12.835Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -38,6 +38,18 @@
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
     },
     {
+      "id": "3ad3f24e-5c2c-4d26-abd9-85d79ea3f016",
+      "company": "Saabusa",
+      "title": "Software Engineering Co-Op (Spring - Summer 2027)",
+      "category": "Software Engineering",
+      "location": "East Syracuse, NY (Collamer)",
+      "season": "Summer 2027",
+      "posted": "2026-09-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Saabusa&job=3ad3f24e-5c2c-4d26-abd9-85d79ea3f016&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
+    },
+    {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
@@ -49,6 +61,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
       "applySupported": false
+    },
+    {
+      "id": "d1bd86f6-f56b-4266-96a6-d98e0f6124a9",
+      "company": "Apex Technology, Inc.",
+      "title": "Simulation Software Engineering Internship (Spring or Summer 2027) ",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=d1bd86f6-f56b-4266-96a6-d98e0f6124a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e"
     },
     {
       "id": "0b7eb8ec-617f-451b-ad92-f92b612a4195",
@@ -2112,7 +2136,7 @@
       "posted": "2026-09-01",
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Stoke+Space&job=64ad1cfa-7f17-4b04-a89c-d22af413ee42&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
+      "listingUrl": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"
     },
     {
       "id": "c465f59a-28cb-452e-9800-1649de9151c2",
