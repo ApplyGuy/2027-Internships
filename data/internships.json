@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:00:31.246Z",
+  "updatedAt": "2026-09-05T18:15:13.448Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -975,18 +975,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda"
     },
     {
-      "id": "f5072396-cb11-45dd-bae5-49f57f21e117",
-      "company": "Berkshiregrey",
-      "title": "Spring 2027 Software Co-op",
-      "category": "Software Engineering",
-      "location": "Bedford, MA",
-      "season": "Spring 2027",
-      "posted": "2026-09-02",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=f5072396-cb11-45dd-bae5-49f57f21e117&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://berkshiregrey.bamboohr.com/careers/763"
-    },
-    {
       "id": "5e352e0d-890a-41fb-8d0d-464ca6ec0e45",
       "company": "CACI",
       "title": "Software Engineering Co-op - Fall 2026",
@@ -1933,6 +1921,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Bah&job=18fcf319-c0b5-4190-82ca-d8533b0ad450&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
+    },
+    {
+      "id": "f5072396-cb11-45dd-bae5-49f57f21e117",
+      "company": "Berkshiregrey",
+      "title": "Spring 2027 Software Co-op",
+      "category": "Software Engineering",
+      "location": "Bedford, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-01",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Berkshiregrey&job=f5072396-cb11-45dd-bae5-49f57f21e117&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://berkshiregrey.bamboohr.com/careers/763"
     },
     {
       "id": "d543b3ce-0d5b-4a94-9bbc-eb71d3b528e3",
