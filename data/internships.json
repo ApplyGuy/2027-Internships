@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:00:48.818Z",
+  "updatedAt": "2026-09-05T00:15:19.050Z",
   "jobs": [
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -121,6 +121,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Fervo+Energy+Company&job=1fada5a3-295d-49c2-9729-19cc48e1ee16&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482043"
+    },
+    {
+      "id": "71673ee8-f305-4a7a-a747-c7eb51c65ec0",
+      "company": "Garner Health",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Garner+Health&job=71673ee8-f305-4a7a-a747-c7eb51c65ec0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"
     },
     {
       "id": "657f8ac0-4c78-49c5-a4b9-3c650947ba55",
@@ -425,7 +437,7 @@
     {
       "id": "b8fe2310-3a80-44f8-8322-43dfc09a0b1c",
       "company": "ID.me University Recruiting",
-      "title": "Summer Intern 2027 - Software Development Engineer ",
+      "title": "Summer Intern 2027 - Software Development Engineer Intern",
       "category": "Software Engineering",
       "location": "Mountain View, CA",
       "season": "Summer 2027",
