@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T03:45:14.359Z",
+  "updatedAt": "2026-09-05T04:00:17.207Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -266,6 +266,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Premierinc&job=974e3e43-c2eb-443e-a9f9-60f2c84f8afe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"
+    },
+    {
+      "id": "d60b5224-2ce3-4e43-bb76-bc98ad57dc2b",
+      "company": "rivian-vw-tech",
+      "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
+      "category": "Software Engineering",
+      "location": "Irvine, CA",
+      "season": "2027",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=d60b5224-2ce3-4e43-bb76-bc98ad57dc2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2"
+    },
+    {
+      "id": "221dc8df-d774-4dc0-8c4d-6bd89a4c503e",
+      "company": "rivian-vw-tech",
+      "title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+      "category": "Software Engineering",
+      "location": "Irvine, CA",
+      "season": "2027",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=221dc8df-d774-4dc0-8c4d-6bd89a4c503e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69"
     },
     {
       "id": "dca840bc-db2a-4d36-b3e7-9bf9da942ca5",
