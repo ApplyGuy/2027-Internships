@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:30:15.240Z",
+  "updatedAt": "2026-09-05T00:45:43.458Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=343deb92-2522-4016-b8fc-c6942db6d6c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
+    },
+    {
+      "id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, BS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461"
+    },
+    {
+      "id": "3a43fee0-a5ae-441a-a63b-4ad7751761d6",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
     },
     {
       "id": "custom:amazon:1b784500ac211cb2c1b0",
@@ -5260,18 +5284,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=a0f32404-ff6f-402e-baf7-1eb97601807e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863"
-    },
-    {
-      "id": "231c4a0a-5881-496f-8e5d-6b59643bf741",
-      "company": "Nosearch",
-      "title": "Associate IT Software Engineer Intern/ Co-op Conversion 2027",
-      "category": "Software Engineering",
-      "location": "Charlotte, NC",
-      "season": "2027",
-      "posted": "2026-08-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nosearch&job=231c4a0a-5881-496f-8e5d-6b59643bf741&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dukeenergy.wd1.myworkdayjobs.com/nosearch/job/Charlotte-NC/Associate-IT-Software-Engineer-Intern--Co-op-Conversion-2027_R40759"
     },
     {
       "id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
