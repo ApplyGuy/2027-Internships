@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-443-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-442-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **443** active U.S. internships posted within the last **30 days**
+- **442** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 5, 2026, 7:00 AM PDT**
+- Last refresh: **Sep 5, 2026, 7:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**413 open roles**
+**412 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -193,8 +193,8 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
 | Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | United States, Massachusetts, Boston | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | United States, California, Mountain View | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Oshkoshcorporation | Engineer Intern - Software (Summer 2027) | Dodge Center, MN | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oshkoshcorporation&job=1589ba65-22f9-45ba-aa89-108625d77615&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786) |
 | Pae | Software Engineering Intern | Cocoa Beach, FL | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pae&job=41bc637d-5220-490b-a435-aef1616ec0ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Phillipsedison | Information Technology Intern - Software Development (Spring 2027) | Cincinnati, OH | Spring 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Phillipsedison&job=65a0cec5-5536-48aa-82c2-9639bd120fbb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://phillipsedison.wd503.myworkdayjobs.com/peco/job/Cincinnati/Information-Technology-Intern---Software-Development--Spring-2027-_JR100081) |
@@ -437,7 +437,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Varda Space Industries | Site Reliability Internship - Spring 2027 | El Segundo, CA | Spring 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Varda+Space+Industries&job=f71eaf6d-143b-44c0-864d-4937a380baa5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
 | Varda Space Industries | Flight Software Internship - Spring 2027 | El Segundo, CA | Spring 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Varda+Space+Industries&job=d1f32d8c-9a19-41de-91ac-9f9c77062c99&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
 | Atoms | Software Engineer Intern - Summer 2027 | Los Angeles, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Atoms&job=24586f07-4d83-440a-ba74-73e7f8a07a5d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/atoms/jobs/8687896002) |
-| GDIT | Summer 2027 Software Developer Internship | Annapolis Junction, MD | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GDIT&job=c8faef88-0667-4ddd-982f-49dc23c74f11&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) |
 | Kbr | Software Intern | Houston, TX | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kbr&job=a0f32404-ff6f-402e-baf7-1eb97601807e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863) |
 
 ## Product Management Internships
