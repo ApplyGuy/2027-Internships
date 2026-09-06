@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:15:42.892Z",
+  "updatedAt": "2026-09-06T03:30:45.408Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -2080,6 +2080,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
       "id": "custom:microsoft:745260beb2bb6c075545",
       "company": "Microsoft",
       "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
@@ -2132,16 +2145,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
       "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
       "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
+      "location": "United States, Massachusetts, Boston",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
@@ -2168,19 +2181,6 @@
       "age": "5d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
@@ -5188,18 +5188,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Jj&job=ff169e00-dd1f-486d-8a0a-f47305aa983d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
-    },
-    {
-      "id": "74a77d6d-756f-4851-a034-d3dffca06ddd",
-      "company": "ODK Media",
-      "title": "QA & Usability Intern (Unpaid)",
-      "category": "Product",
-      "location": "Los Angeles, CA",
-      "season": "Not specified",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=ODK+Media&job=74a77d6d-756f-4851-a034-d3dffca06ddd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.workable.com/view/5yHeiUZT89NpvTojroqADW/hybrid-qa-%26-usability-intern-(unpaid)-in-los-angeles-at-odk-media"
     },
     {
       "id": "566d6ad0-b173-468c-863f-8e58bbd5c53b",
