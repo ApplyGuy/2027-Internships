@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:45:15.736Z",
+  "updatedAt": "2026-09-06T17:00:16.276Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -5224,42 +5224,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=The+Nuclear+Company&job=24f0f28b-a3d3-46cf-988c-b8e10d95ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
-    },
-    {
-      "id": "643d0554-d1cf-4118-b69e-950e9a9d4be6",
-      "company": "The Nuclear Company",
-      "title": "Fall 2026 AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Washington, DC",
-      "season": "Fall 2026",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=The+Nuclear+Company&job=643d0554-d1cf-4118-b69e-950e9a9d4be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
-    },
-    {
-      "id": "f71eaf6d-143b-44c0-864d-4937a380baa5",
-      "company": "Varda Space Industries",
-      "title": "Site Reliability Internship - Spring 2027",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=f71eaf6d-143b-44c0-864d-4937a380baa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003"
-    },
-    {
-      "id": "d1f32d8c-9a19-41de-91ac-9f9c77062c99",
-      "company": "Varda Space Industries",
-      "title": "Flight Software Internship - Spring 2027",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=d1f32d8c-9a19-41de-91ac-9f9c77062c99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003"
     }
   ]
 }
