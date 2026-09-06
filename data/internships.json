@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:15:37.132Z",
+  "updatedAt": "2026-09-06T09:30:17.162Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -2080,16 +2080,29 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
       "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
@@ -2145,16 +2158,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
       "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
+      "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
       "applySupported": false
     },
     {
@@ -2168,19 +2181,6 @@
       "age": "5d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
