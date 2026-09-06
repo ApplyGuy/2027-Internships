@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:30:17.325Z",
+  "updatedAt": "2026-09-06T14:45:10.150Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -2158,19 +2158,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
       "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
@@ -2181,6 +2168,19 @@
       "age": "5d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
