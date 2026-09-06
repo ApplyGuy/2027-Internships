@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T21:45:15.601Z",
+  "updatedAt": "2026-09-06T22:00:20.300Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -5152,42 +5152,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=891baf96-98e6-4785-85b9-e9217305a4d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1"
-    },
-    {
-      "id": "65ac9849-808d-4222-b0f1-b90194809103",
-      "company": "Axon",
-      "title": "2027 US Software Engineering Internship ",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "season": "2027",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=65ac9849-808d-4222-b0f1-b90194809103&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"
-    },
-    {
-      "id": "5f5d8ce6-b057-4ab0-b0e2-b84b0567fa01",
-      "company": "Axon",
-      "title": "2027 US Firmware Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "season": "2027",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=5f5d8ce6-b057-4ab0-b0e2-b84b0567fa01&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003"
-    },
-    {
-      "id": "566d6ad0-b173-468c-863f-8e58bbd5c53b",
-      "company": "Spe",
-      "title": "Intern, Insights, Strategy & Analytics, Product Management – Data Science – Fall 2026",
-      "category": "Product",
-      "location": "Culver City, CA",
-      "season": "Fall 2026",
-      "posted": "2026-08-07",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Spe&job=566d6ad0-b173-468c-863f-8e58bbd5c53b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spe.wd1.myworkdayjobs.com/sonypicturesentertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988"
     }
   ]
 }
