@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T07:45:18.712Z",
+  "updatedAt": "2026-09-06T08:00:19.335Z",
   "jobs": [
     {
       "id": "343deb92-2522-4016-b8fc-c6942db6d6c7",
@@ -2145,16 +2145,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
       "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
       "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
+      "location": "United States, California, Mountain View",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
       "applySupported": false
     },
     {
@@ -2171,16 +2171,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
       "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
       "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
+      "location": "United States, Massachusetts, Boston",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
