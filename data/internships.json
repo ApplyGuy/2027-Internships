@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:45:29.784Z",
+  "updatedAt": "2026-09-08T20:00:16.197Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -456,6 +456,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Syntiant&job=153982a0-e8c4-46ad-a5c2-0fe501536722&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apply.workable.com/syntiant/j/113F994B7B/"
+    },
+    {
+      "id": "e2117e98-4c92-4a55-b69c-1849a72e4ceb",
+      "company": "Syska Hennessy Group",
+      "title": "Software Developer (Innovation) Summer Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Syska+Hennessy+Group&job=e2117e98-4c92-4a55-b69c-1849a72e4ceb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/syskahennessy/jobs/8177938"
+    },
+    {
+      "id": "008531a0-8267-41eb-b5b3-45c6f066e0e7",
+      "company": "U.S. Bank",
+      "title": "2027 Product Management Summer Intern",
+      "category": "Product",
+      "location": "Minneapolis, MN",
+      "season": "Summer",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=008531a0-8267-41eb-b5b3-45c6f066e0e7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766"
+    },
+    {
+      "id": "a639cc44-6ef4-4627-96a7-7a6ad70e3639",
+      "company": "Vercel",
+      "title": "Software Engineering Intern - Winter '27",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Winter 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
+    },
+    {
+      "id": "9c27a885-adea-43f9-87ae-ae9d17d0865b",
+      "company": "Vercel",
+      "title": "Software Engineering Intern - Summer '27",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
     },
     {
       "id": "eba3cbc5-aacf-4c0d-b9ad-69ae7d041b29",
@@ -930,7 +978,7 @@
     {
       "id": "469552b9-c09c-4860-94b4-676cf29d165b",
       "company": "Apex Technology, Inc.",
-      "title": "Software Engineering Internship, Test & Automation (Spring or Summer 2027)",
+      "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
       "category": "Software Engineering",
       "location": "Los Angeles, CA",
       "season": "Summer 2027",
@@ -2166,10 +2214,10 @@
     {
       "id": "f70c0dd2-a0f6-4d7b-9c45-5f87e429ddc7",
       "company": "Stryker",
-      "title": "Commercial Operations Software Engineering Intern - Flower Mound, TX",
+      "title": "Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas",
       "category": "Software Engineering",
       "location": "Flower Mound, TX",
-      "season": "Not specified",
+      "season": "Summer 2027",
       "posted": "2026-09-02",
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Stryker&job=f70c0dd2-a0f6-4d7b-9c45-5f87e429ddc7&utm_source=github&utm_medium=listing&utm_campaign=internships",
