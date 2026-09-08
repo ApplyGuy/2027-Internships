@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-08T12:15:21.785Z",
+  "updatedAt": "2026-09-08T12:30:15.604Z",
   "jobs": [
+    {
+      "id": "61e0b01e-2c76-4cf7-ae3c-ec798d5acf9b",
+      "company": "Cox",
+      "title": "Software Engineering Intern - Summer 2027 (Irvine, CA)",
+      "category": "Software Engineering",
+      "location": "Irvine, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=61e0b01e-2c76-4cf7-ae3c-ec798d5acf9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"
+    },
     {
       "id": "f10a9ff5-ae49-4886-ba60-43f9258fee70",
       "company": "Cox",
