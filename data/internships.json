@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:15:18.541Z",
+  "updatedAt": "2026-09-08T18:30:11.550Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Builder+Trend&job=97ffb240-4973-4084-8eb8-a41f04ec32fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://buildertrend.wd108.myworkdayjobs.com/external_careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467"
+    },
+    {
+      "id": "b1938c60-9959-4993-9f32-61af9adf4fc8",
+      "company": "Chrobinson",
+      "title": "Software Engineering Internship 2027",
+      "category": "Software Engineering",
+      "location": "Eden Prairie, MN",
+      "season": "2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Chrobinson&job=b1938c60-9959-4993-9f32-61af9adf4fc8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
     },
     {
       "id": "a28b3298-19a8-43cc-8399-5fae20747092",
@@ -144,6 +156,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cox&job=32da9492-8479-424b-904f-aabfa8c36174&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185"
+    },
+    {
+      "id": "a0a547d5-6640-4bb3-b12a-058e730e7610",
+      "company": "Danaher",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Chaska, MN",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=a0a547d5-6640-4bb3-b12a-058e730e7610&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1316911"
+    },
+    {
+      "id": "e313f071-eddc-4d1f-a269-76de67262ef9",
+      "company": "Datadog",
+      "title": "Software Engineering Intern (Summer)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Datadog&job=e313f071-eddc-4d1f-a269-76de67262ef9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
+    },
+    {
+      "id": "0ae6e7ad-89f0-4b20-9c6f-2c6eae2cb914",
+      "company": "Dimensional",
+      "title": "Internship in Technology - Software Engineer",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dimensional&job=0ae6e7ad-89f0-4b20-9c6f-2c6eae2cb914&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022"
     },
     {
       "id": "60f89bd4-5ec6-4b0b-b2db-291154a564d1",
