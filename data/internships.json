@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:45:43.914Z",
+  "updatedAt": "2026-09-08T13:00:20.736Z",
   "jobs": [
     {
       "id": "61e0b01e-2c76-4cf7-ae3c-ec798d5acf9b",
@@ -132,6 +132,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fervo+Energy+Company&job=60f89bd4-5ec6-4b0b-b2db-291154a564d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482857"
+    },
+    {
+      "id": "fc47d248-31b9-4107-b412-5af47757d22d",
+      "company": "Gilead",
+      "title": "Intern - Commercial & Corporate Affairs - Commercial Product Strategy (HIV Prevention)",
+      "category": "Product",
+      "location": "Foster City, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gilead&job=fc47d248-31b9-4107-b412-5af47757d22d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Commercial---Corporate-Affairs---Commercial-Product-Strategy--HIV-Prevention-_R0054483"
+    },
+    {
+      "id": "4d9bee27-c555-419a-9d32-183ff64c0c9b",
+      "company": "Gilead",
+      "title": "Intern - Development - DevOps Business Strategy Leader",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
     },
     {
       "id": "8ccab027-fc10-4c12-ac32-455d30bacc75",
@@ -409,6 +433,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
