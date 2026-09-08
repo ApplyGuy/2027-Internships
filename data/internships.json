@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:30:11.550Z",
+  "updatedAt": "2026-09-08T18:45:11.272Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -206,6 +206,42 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482857"
     },
     {
+      "id": "5016db81-8c6c-4d53-bb2c-e3b9e68b8ba4",
+      "company": "Formlabs",
+      "title": "AI Software Intern (Winter/Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Somerville, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Formlabs&job=5016db81-8c6c-4d53-bb2c-e3b9e68b8ba4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874"
+    },
+    {
+      "id": "7dc336f6-c0f7-4977-895f-ba71ded9606e",
+      "company": "Gallup",
+      "title": "Software Engineer Intern — Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gallup&job=7dc336f6-c0f7-4977-895f-ba71ded9606e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009"
+    },
+    {
+      "id": "58c43930-317f-4951-a41e-d00712ba397b",
+      "company": "Gallup",
+      "title": "Site Reliability Engineer Intern — Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gallup&job=58c43930-317f-4951-a41e-d00712ba397b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393731009"
+    },
+    {
       "id": "fc47d248-31b9-4107-b412-5af47757d22d",
       "company": "Gilead",
       "title": "Intern - Commercial & Corporate Affairs - Commercial Product Strategy (HIV Prevention)",
@@ -254,7 +290,7 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
     },
     {
-      "id": "e70592ab-aeaa-48f1-905b-388ea1e8d3fd",
+      "id": "e6f5a2ca-62c4-42e3-82c9-ae6063224601",
       "company": "Steel Dynamics, Inc.",
       "title": "Software Development Internship",
       "category": "Software Engineering",
@@ -262,8 +298,8 @@
       "season": "Not specified",
       "posted": "2026-09-08",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=e70592ab-aeaa-48f1-905b-388ea1e8d3fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-aluminumdynamics.icims.com/jobs/8017/software-development-internship/job"
+      "url": "https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=e6f5a2ca-62c4-42e3-82c9-ae6063224601&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job"
     },
     {
       "id": "eba3cbc5-aacf-4c0d-b9ad-69ae7d041b29",
