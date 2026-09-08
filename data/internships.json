@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:15:31.991Z",
+  "updatedAt": "2026-09-08T11:30:33.510Z",
   "jobs": [
     {
       "id": "f10a9ff5-ae49-4886-ba60-43f9258fee70",
@@ -110,6 +110,18 @@
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185"
     },
     {
+      "id": "60f89bd4-5ec6-4b0b-b2db-291154a564d1",
+      "company": "Fervo Energy Company",
+      "title": "Software Engineering Internship (IT)",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fervo+Energy+Company&job=60f89bd4-5ec6-4b0b-b2db-291154a564d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482857"
+    },
+    {
       "id": "8ccab027-fc10-4c12-ac32-455d30bacc75",
       "company": "HP",
       "title": "Software Product Security Engineer Intern",
@@ -120,6 +132,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HP&job=8ccab027-fc10-4c12-ac32-455d30bacc75&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"
+    },
+    {
+      "id": "7adc6915-74e6-4243-902b-a54ef2da5929",
+      "company": "Micron",
+      "title": "Intern - Software Engineer",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=7adc6915-74e6-4243-902b-a54ef2da5929&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
     },
     {
       "id": "eba3cbc5-aacf-4c0d-b9ad-69ae7d041b29",
@@ -373,19 +397,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
