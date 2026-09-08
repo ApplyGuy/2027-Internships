@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:15:32.579Z",
+  "updatedAt": "2026-09-08T22:30:09.643Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -468,6 +468,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Syska+Hennessy+Group&job=e2117e98-4c92-4a55-b69c-1849a72e4ceb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/syskahennessy/jobs/8177938"
+    },
+    {
+      "id": "e30e44f8-bb96-42be-849b-5b3a85e0ca3a",
+      "company": "Talos",
+      "title": "Software Engineer Intern, Dealer",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Talos&job=e30e44f8-bb96-42be-849b-5b3a85e0ca3a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977"
+    },
+    {
+      "id": "06cdf1a5-948d-40c4-871d-7233afc10d11",
+      "company": "Talos",
+      "title": "Software Engineer Intern, RFQ",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Talos&job=06cdf1a5-948d-40c4-871d-7233afc10d11&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285"
     },
     {
       "id": "008531a0-8267-41eb-b5b3-45c6f066e0e7",
