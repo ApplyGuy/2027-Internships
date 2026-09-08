@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T03:00:12.628Z",
+  "updatedAt": "2026-09-08T03:15:43.298Z",
   "jobs": [
     {
       "id": "8ccab027-fc10-4c12-ac32-455d30bacc75",
@@ -2104,16 +2104,42 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
       "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Boston",
+      "season": "Not specified",
+      "posted": "2026-09-01",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
       "applySupported": false
     },
     {
@@ -2169,42 +2195,16 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:ea654c32fd8e52631b57",
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
       "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Boston",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
       "category": "Software Engineering",
       "location": "United States, Washington, Redmond",
       "season": "Not specified",
       "posted": "2026-09-01",
       "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:ecbdefd932fe9cc73d4a",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-01",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
       "applySupported": false
     },
     {
