@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:45:11.272Z",
+  "updatedAt": "2026-09-08T19:00:34.152Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -240,6 +240,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gallup&job=58c43930-317f-4951-a41e-d00712ba397b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393731009"
+    },
+    {
+      "id": "169dfc7b-3728-4c2e-afc6-0c61334e9a75",
+      "company": "Gevernova",
+      "title": "GE Vernova Gas Power Controls Product Management Intern - Summer 2027",
+      "category": "Product",
+      "location": "Longmont, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=169dfc7b-3728-4c2e-afc6-0c61334e9a75&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Controls-Product-Management-Intern---Summer-2027_R5050339-2"
     },
     {
       "id": "fc47d248-31b9-4107-b412-5af47757d22d",
