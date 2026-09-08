@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:00:34.152Z",
+  "updatedAt": "2026-09-08T19:15:18.827Z",
   "jobs": [
     {
       "id": "97ffb240-4973-4084-8eb8-a41f04ec32fe",
@@ -290,6 +290,42 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"
     },
     {
+      "id": "48fc22cf-4486-4300-bde6-a043137b4f0e",
+      "company": "LineVision, Inc.",
+      "title": "Full Stack Software Engineering Co-op (Applications) (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=48fc22cf-4486-4300-bde6-a043137b4f0e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482882"
+    },
+    {
+      "id": "ba6a0982-5d1f-4160-9a93-400c91eb0c7a",
+      "company": "LineVision, Inc.",
+      "title": "Software Test Engineering Co-op (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=ba6a0982-5d1f-4160-9a93-400c91eb0c7a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482751"
+    },
+    {
+      "id": "b493903f-140d-4b1c-ac08-0f77e5f69596",
+      "company": "LineVision, Inc.",
+      "title": "Full Stack Software Engineer (Onboarding Systems) Co-op (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=b493903f-140d-4b1c-ac08-0f77e5f69596&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482621"
+    },
+    {
       "id": "7adc6915-74e6-4243-902b-a54ef2da5929",
       "company": "Micron",
       "title": "Intern - Software Engineer",
@@ -300,6 +336,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Micron&job=7adc6915-74e6-4243-902b-a54ef2da5929&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
+    },
+    {
+      "id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
+      "company": "Semgrep",
+      "title": "Software Engineer Intern, Cloud Platform",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
     },
     {
       "id": "e6f5a2ca-62c4-42e3-82c9-ae6063224601",
