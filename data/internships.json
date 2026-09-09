@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:00:35.268Z",
+  "updatedAt": "2026-09-09T07:15:30.105Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
+    },
+    {
+      "id": "da5ce096-2626-42a0-9bd8-0e7a4cf3be99",
+      "company": "K2 Space",
+      "title": "Simulation Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=K2+Space&job=da5ce096-2626-42a0-9bd8-0e7a4cf3be99&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
     },
     {
       "id": "981a2fdf-1905-46ce-9991-3bf09d6c410d",
