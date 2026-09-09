@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T18:00:34.504Z",
+  "updatedAt": "2026-09-09T18:15:42.236Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aoins&job=88ad1302-16ab-4a82-be68-5701c36e9079&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471"
+    },
+    {
+      "id": "d0594b21-39e4-431c-b017-d85280d0f530",
+      "company": "Asuresoftware",
+      "title": "Intern - Software Engineering ",
+      "category": "Software Engineering",
+      "location": "Addison, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Asuresoftware&job=d0594b21-39e4-431c-b017-d85280d0f530&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asuresoftware.bamboohr.com/careers/1095"
     },
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
@@ -1261,6 +1273,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
