@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:45:33.048Z",
+  "updatedAt": "2026-09-09T07:00:35.268Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -60,6 +60,78 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
+    },
+    {
+      "id": "981a2fdf-1905-46ce-9991-3bf09d6c410d",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer/Fall 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Fall 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=981a2fdf-1905-46ce-9991-3bf09d6c410d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"
+    },
+    {
+      "id": "8269dcb7-a1c3-473a-b5ad-7888df71fc76",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Richardson, TX",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8269dcb7-a1c3-473a-b5ad-7888df71fc76&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100"
+    },
+    {
+      "id": "7d0d32f3-07b8-4c98-b044-c55231cc3c50",
+      "company": "RTX",
+      "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Fall 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7d0d32f3-07b8-4c98-b044-c55231cc3c50&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
+    },
+    {
+      "id": "59c8630f-d544-4a8e-9f65-7ec3a47f18d2",
+      "company": "RTX",
+      "title": "Electrical Firmware (Winter/Spring Co-op)(Onsite)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Winter",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=59c8630f-d544-4a8e-9f65-7ec3a47f18d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872"
+    },
+    {
+      "id": "4b2eb21b-a18b-458c-a5c5-fdbc15c81eba",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Fall/Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Spring 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4b2eb21b-a18b-458c-a5c5-fdbc15c81eba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
+    },
+    {
+      "id": "0a9463f7-3151-4539-9196-0cce8ee61b0d",
+      "company": "RTX",
+      "title": "Software Engineer Intern ( Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=0a9463f7-3151-4539-9196-0cce8ee61b0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
     },
     {
       "id": "e5a75e47-8125-477a-a8db-d53789d2cfb8",
@@ -3666,18 +3738,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2174b225-642d-432a-9bc6-954283071da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
-    },
-    {
-      "id": "850a2e78-c608-47d6-9056-72b278ef2d9b",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Richardson, TX",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=850a2e78-c608-47d6-9056-72b278ef2d9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869"
     },
     {
       "id": "e541a297-0812-42a5-b30e-35206be1e5ee",
