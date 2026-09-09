@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:45:20.572Z",
+  "updatedAt": "2026-09-09T21:00:17.986Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -1322,16 +1322,16 @@
       "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
     },
     {
-      "id": "custom:amazon:1b784500ac211cb2c1b0",
+      "id": "custom:amazon:20014bfc432bf131917b",
       "company": "Amazon",
-      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
       "category": "Software Engineering",
       "location": "US, MA, North Reading",
       "season": "2027",
       "posted": "2026-09-04",
       "age": "5d",
-      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
       "applySupported": false
     },
     {
@@ -1501,6 +1501,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -6211,18 +6224,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DV+Trading&job=9b945b34-e6c5-4126-9f85-393cb9651385&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
-    },
-    {
-      "id": "44d6c8fa-9da2-454e-9a9d-5a227459cacb",
-      "company": "Rlicorp",
-      "title": "Product Management Intern- Honolulu, HI",
-      "category": "Product",
-      "location": "Honolulu, HI",
-      "season": "Not specified",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"
     }
   ]
 }
