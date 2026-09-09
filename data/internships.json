@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:00:32.137Z",
+  "updatedAt": "2026-09-09T02:15:30.051Z",
   "jobs": [
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
@@ -830,6 +830,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
     },
     {
+      "id": "a16267b1-4f9b-4f4b-90f2-e6238b0c1bae",
+      "company": "Viam",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Viam&job=a16267b1-4f9b-4f4b-90f2-e6238b0c1bae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004"
+    },
+    {
       "id": "eba3cbc5-aacf-4c0d-b9ad-69ae7d041b29",
       "company": "Atlas",
       "title": "Trainee Product Manager – Unpaid Position",
@@ -1081,6 +1093,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
