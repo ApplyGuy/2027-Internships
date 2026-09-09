@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:15:30.105Z",
+  "updatedAt": "2026-09-09T07:30:12.585Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -5972,18 +5972,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f3db7fbd-ef14-449d-b240-6716d5cee8f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764"
-    },
-    {
-      "id": "891baf96-98e6-4785-85b9-e9217305a4d5",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=891baf96-98e6-4785-85b9-e9217305a4d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1"
     }
   ]
 }
