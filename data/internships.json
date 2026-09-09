@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:30:10.653Z",
+  "updatedAt": "2026-09-09T01:45:16.535Z",
   "jobs": [
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
@@ -612,6 +612,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Redhat&job=11431150-4f68-4b4d-ac53-f94c29665ff6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060"
+    },
+    {
+      "id": "0434d9fe-49dd-4ee8-9ecc-e863f17d8736",
+      "company": "RF-SMART",
+      "title": "Software Support Engineer Internship (NetSuite) - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Highlands Ranch, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RF-SMART&job=0434d9fe-49dd-4ee8-9ecc-e863f17d8736&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
     },
     {
       "id": "f958f8be-e3b4-41e9-bbd3-db64d2891cda",
