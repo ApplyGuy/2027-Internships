@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:45:16.535Z",
+  "updatedAt": "2026-09-09T02:00:32.137Z",
   "jobs": [
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
@@ -48,6 +48,90 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
+    },
+    {
+      "id": "e5a75e47-8125-477a-a8db-d53789d2cfb8",
+      "company": "Swbc",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "San Antonio, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Swbc&job=e5a75e47-8125-477a-a8db-d53789d2cfb8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2"
+    },
+    {
+      "id": "191ced2f-a5bb-4cff-b489-7886293fcda4",
+      "company": "Swbc",
+      "title": "DevOps Intern",
+      "category": "Software Engineering",
+      "location": "San Antonio, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Swbc&job=191ced2f-a5bb-4cff-b489-7886293fcda4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/DevOps-Intern_R0015484-2"
+    },
+    {
+      "id": "c4ef9c4a-5c69-401e-b001-71c9494cd739",
+      "company": "Swivel",
+      "title": "DevOps Intern",
+      "category": "Software Engineering",
+      "location": "San Antonio, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Swivel&job=c4ef9c4a-5c69-401e-b001-71c9494cd739&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://swbc.wd1.myworkdayjobs.com/swivel/job/San-Antonio-TX/DevOps-Intern_R0015484"
+    },
+    {
+      "id": "60912cf4-5c6b-4ebd-abf1-26ec33a69ec6",
+      "company": "Swivel",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "San Antonio, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Swivel&job=60912cf4-5c6b-4ebd-abf1-26ec33a69ec6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://swbc.wd1.myworkdayjobs.com/swivel/job/San-Antonio-TX/Software-Engineering-Intern_R0015482"
+    },
+    {
+      "id": "7da4010f-7168-452d-9af3-a02d31250762",
+      "company": "Trimble",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Westminster, CO",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=7da4010f-7168-452d-9af3-a02d31250762&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+    },
+    {
+      "id": "710f7d98-d8a4-4175-96a4-f43c602aebcc",
+      "company": "Trimble",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Westminster, CO",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=710f7d98-d8a4-4175-96a4-f43c602aebcc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1"
+    },
+    {
+      "id": "58480e1d-50a8-487c-abe6-908ee514c750",
+      "company": "Trimble",
+      "title": "Hardware/Software Testing Intern",
+      "category": "Software Engineering",
+      "location": "Westminster, CO",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=58480e1d-50a8-487c-abe6-908ee514c750&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
     },
     {
       "id": "ff46b655-e51d-4ad5-8999-68215d873f3b",
@@ -997,19 +1081,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
