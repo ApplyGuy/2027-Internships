@@ -13,7 +13,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **518** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 9, 2026, 1:45 PM PDT**
+- Last refresh: **Sep 9, 2026, 2:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**473 open roles**
+**474 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -119,7 +119,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Marvell | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) |
 | Marvell | Firmware Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) |
 | Saabusa | Software Engineering Co-Op (Spring - Summer 2027) | East Syracuse, NY (Collamer) | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Saabusa&job=3ad3f24e-5c2c-4d26-abd9-85d79ea3f016&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1) |
-| Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | US, MA, North Reading | 2027 | 5d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| Amazon | Software Development Engineer Intern/Co-Op, ROBOTICS -  2027 | US, MA, North Reading | 2027 | 5d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
 | Apex Technology, Inc. | Simulation Software Engineering Internship (Spring or Summer 2027) | Los Angeles, CA | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=d1bd86f6-f56b-4266-96a6-d98e0f6124a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e) |
 | Barclays | 2027 Technology Developer Summer Internship Program Wilmington | Wilmington, 125 South West Street | Summer | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Barclays&job=0b7eb8ec-617f-451b-ad92-f92b612a4195&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236) |
 | CACI | Software Engineer Intern - Summer 2027 | Ypsilanti, MI | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CACI&job=3c61c44d-b0ae-42e4-85b1-9c3e77bc5d4d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648) |
@@ -134,6 +134,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Juicebox | Software Engineer Intern | San Francisco, CA | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Juicebox&job=c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a) |
 | Lilly | AI Machine Learning Engineer Intern (BS) | Indianapolis | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lilly&job=657f8ac0-4c78-49c5-a4b9-3c650947ba55&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lilly.wd115.myworkdayjobs.com/CMP/job/US-Indianapolis-IN/AI-Machine-Learning-Engineer-Intern--BS-_R-110846) |
 | Mastercard | Site Reliability Engineering Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, MO | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654) |
+| Microsoft | Firmware Engineering INTERN | United States, Washington, Redmond · United States, California, Santa Clara | — | 5d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556981972) |
 | NASCO | Software Engineering Intern | Remote, U.S. | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NASCO&job=7fa2dd40-c6e2-4b44-a03d-84f713573b2c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-nasco.icims.com/jobs/4402/software-engineering-intern/job) |
 | Premierinc | Software Engineer Intern | Charlotte, NC | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Premierinc&job=974e3e43-c2eb-443e-a9f9-60f2c84f8afe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) |
 | rivian-vw-tech | Software Engineering Intern - Connected Systems (January - August 2027) | Irvine, CA | 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=rivian-vw-tech&job=d60b5224-2ce3-4e43-bb76-bc98ad57dc2b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2) |
@@ -502,7 +503,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**45 open roles**
+**44 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -550,7 +551,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Trucker Path, Inc | AI-Native Product Management Intern (Marketplace & Growth) | Phoenix, AZ | — | 27d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Trucker+Path%2C+Inc&job=285c4cf6-0aaa-4625-96ae-04d555052566&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116481) |
 | OpusClip | AI Product Management Intern | Mountain View, CA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=OpusClip&job=73a61ac8-21e2-460f-af95-db37ab6d6c8c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea) |
 | Chamberlain | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
-| Rlicorp | Product Management Intern- Honolulu, HI | Honolulu, HI | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646) |
 
 ## Contributing
 
