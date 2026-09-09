@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-09T05:30:18.473Z",
+  "updatedAt": "2026-09-09T05:45:26.429Z",
   "jobs": [
+    {
+      "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
+      "company": "Amat",
+      "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
+    },
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
       "company": "Cboe",
