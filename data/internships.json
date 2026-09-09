@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:00:17.585Z",
+  "updatedAt": "2026-09-09T23:15:22.600Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -6200,18 +6200,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=703b03d4-d810-4ecb-a7d8-a15b2865e6b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474"
-    },
-    {
-      "id": "2282a182-c603-48fa-9fb4-c62d4d8282ff",
-      "company": "Chamberlain",
-      "title": "Intern, Community Product Management (Summer 2027)",
-      "category": "Product",
-      "location": "Oak Brook, IL",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Chamberlain&job=2282a182-c603-48fa-9fb4-c62d4d8282ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
     }
   ]
 }
