@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:00:26.925Z",
+  "updatedAt": "2026-09-09T20:15:38.446Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -386,19 +386,7 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
     },
     {
-      "id": "e62184c7-c8da-4e1f-b500-6bcd39b92bd8",
-      "company": "Spgi",
-      "title": "Software Engineer - Summer Intern 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Spgi&job=e62184c7-c8da-4e1f-b500-6bcd39b92bd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2"
-    },
-    {
-      "id": "5d340e91-b837-4898-b6ed-190e7d350158",
+      "id": "c15ca0d0-40ea-4525-afcb-efdc04824388",
       "company": "Spgi",
       "title": "Machine Learning Engineer - Summer Intern 2027",
       "category": "Software Engineering",
@@ -406,8 +394,20 @@
       "season": "Summer 2027",
       "posted": "2026-09-09",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Spgi&job=5d340e91-b837-4898-b6ed-190e7d350158&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1"
+      "url": "https://applyguy.ai/jobs?company=Spgi&job=c15ca0d0-40ea-4525-afcb-efdc04824388&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714"
+    },
+    {
+      "id": "98e06a8b-557a-4335-a1fe-b343bb2b7722",
+      "company": "Spgi",
+      "title": "Software Engineer - Summer Intern 2027",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Spgi&job=98e06a8b-557a-4335-a1fe-b343bb2b7722&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
     },
     {
       "id": "e5a75e47-8125-477a-a8db-d53789d2cfb8",
@@ -456,6 +456,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Swivel&job=60912cf4-5c6b-4ebd-abf1-26ec33a69ec6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://swbc.wd1.myworkdayjobs.com/swivel/job/San-Antonio-TX/Software-Engineering-Intern_R0015482"
+    },
+    {
+      "id": "dd100551-df41-4c4c-bdf5-e356672083d9",
+      "company": "Tel",
+      "title": "Software Engineer, AI Research Summer 2027 Intern",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
     },
     {
       "id": "7da4010f-7168-452d-9af3-a02d31250762",
@@ -1465,6 +1477,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
