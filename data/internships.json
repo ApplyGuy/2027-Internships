@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:30:17.731Z",
+  "updatedAt": "2026-09-09T23:45:29.391Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -276,6 +276,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Myhrhome&job=b9196797-2e80-4674-b5a5-d85f07fd5e5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://myhrhome.wd1.myworkdayjobs.com/onemaincareers/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
+    },
+    {
+      "id": "43da7e10-ff2d-4d79-82e7-88e5e2d99549",
+      "company": "NinjaHoldings",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NinjaHoldings&job=43da7e10-ff2d-4d79-82e7-88e5e2d99549&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"
+    },
+    {
+      "id": "a20621de-698b-4f85-b3fb-4312449e8d89",
+      "company": "NinjaHoldings",
+      "title": "Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NinjaHoldings&job=a20621de-698b-4f85-b3fb-4312449e8d89&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"
     },
     {
       "id": "107be9f8-9b79-4cc0-820a-29e98922b870",
