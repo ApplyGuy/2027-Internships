@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:00:43.833Z",
+  "updatedAt": "2026-09-09T13:15:33.769Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
+    },
+    {
+      "id": "f1fd772b-6519-4ad8-adfb-af3586625cc5",
+      "company": "Gevernova",
+      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=f1fd772b-6519-4ad8-adfb-af3586625cc5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1"
     },
     {
       "id": "da5ce096-2626-42a0-9bd8-0e7a4cf3be99",
@@ -4566,18 +4578,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=cb502748-87df-4183-87d3-cbbd92777eb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
-    },
-    {
-      "id": "78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13",
-      "company": "Gevernova",
-      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-08-21",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=78cbc083-6ed9-4bf6-b0b8-15e8abd6bd13&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1"
     },
     {
       "id": "f0494edc-603a-4c19-8eb4-95e2f759811f",
