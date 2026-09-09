@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:15:12.318Z",
+  "updatedAt": "2026-09-09T00:30:27.787Z",
   "jobs": [
     {
       "id": "d3855ef2-7bcb-471d-8fd5-555453c366e5",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=21731624-bbfb-4561-8604-ebd7707cd024&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    },
+    {
+      "id": "349c9cea-c481-42e6-b728-437a2a4a9ce4",
+      "company": "Deluxe",
+      "title": "Software Engineer - Intern",
+      "category": "Software Engineering",
+      "location": "Minneapolis, MN",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
     },
     {
       "id": "ff46b655-e51d-4ad5-8999-68215d873f3b",
@@ -144,6 +156,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Chrobinson&job=b1938c60-9959-4993-9f32-61af9adf4fc8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
+    },
+    {
+      "id": "dbea86f9-0a33-4d03-b268-1a6c08482b95",
+      "company": "Coinbase",
+      "title": "Machine Learning Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Coinbase&job=dbea86f9-0a33-4d03-b268-1a6c08482b95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
+    },
+    {
+      "id": "c273ae40-7934-4d7f-86fb-6c02a82b4553",
+      "company": "Coinbase",
+      "title": "Product Manager (HR Technology) Intern",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Coinbase&job=c273ae40-7934-4d7f-86fb-6c02a82b4553&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504"
+    },
+    {
+      "id": "9782afb3-4c13-4e56-b5a2-a29f68a84f44",
+      "company": "Coinbase",
+      "title": "Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
+    },
+    {
+      "id": "ef99636b-0f9a-495e-a018-22181e2c33a9",
+      "company": "Coinbase",
+      "title": "Associate Product Manager Intern",
+      "category": "Product",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Coinbase&job=ef99636b-0f9a-495e-a018-22181e2c33a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322"
+    },
+    {
+      "id": "e0a46c26-fe12-4486-90c6-deb214635609",
+      "company": "Coinbase",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
     },
     {
       "id": "a28b3298-19a8-43cc-8399-5fae20747092",
