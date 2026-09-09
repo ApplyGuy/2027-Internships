@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:45:19.601Z",
+  "updatedAt": "2026-09-09T20:00:26.925Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -278,6 +278,42 @@
       "listingUrl": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE"
     },
     {
+      "id": "115695d3-51ee-4467-8c33-e39b042109a1",
+      "company": "Onehealthineers",
+      "title": "Software Engineering Co-op - Hoffman Estates, IL",
+      "category": "Software Engineering",
+      "location": "Hoffman Estates, IL",
+      "season": "Co-op",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Onehealthineers&job=115695d3-51ee-4467-8c33-e39b042109a1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://onehealthineers.wd3.myworkdayjobs.com/shsjb/job/HES/Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649"
+    },
+    {
+      "id": "44642df9-37f4-4a08-9b3c-d8c7138dfd9b",
+      "company": "Pae",
+      "title": "Software Programmer Intern",
+      "category": "Software Engineering",
+      "location": "Tullahoma, TN",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=44642df9-37f4-4a08-9b3c-d8c7138dfd9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775"
+    },
+    {
+      "id": "30a542b2-e7c5-436f-83f2-f459e8b41d6a",
+      "company": "Pae",
+      "title": "Software Programmer Intern",
+      "category": "Software Engineering",
+      "location": "Detroit, MI",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=30a542b2-e7c5-436f-83f2-f459e8b41d6a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773"
+    },
+    {
       "id": "981a2fdf-1905-46ce-9991-3bf09d6c410d",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer/Fall 2027)",
@@ -348,6 +384,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0a9463f7-3151-4539-9196-0cce8ee61b0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
+    },
+    {
+      "id": "e62184c7-c8da-4e1f-b500-6bcd39b92bd8",
+      "company": "Spgi",
+      "title": "Software Engineer - Summer Intern 2027",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Spgi&job=e62184c7-c8da-4e1f-b500-6bcd39b92bd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2"
+    },
+    {
+      "id": "5d340e91-b837-4898-b6ed-190e7d350158",
+      "company": "Spgi",
+      "title": "Machine Learning Engineer - Summer Intern 2027",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Spgi&job=5d340e91-b837-4898-b6ed-190e7d350158&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1"
     },
     {
       "id": "e5a75e47-8125-477a-a8db-d53789d2cfb8",
@@ -1405,19 +1465,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
