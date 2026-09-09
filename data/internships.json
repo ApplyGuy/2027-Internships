@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:30:27.599Z",
+  "updatedAt": "2026-09-09T19:45:19.601Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -252,6 +252,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Moog&job=e8ab954d-28a5-4885-857c-4a6561e1312b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+    },
+    {
+      "id": "b9196797-2e80-4674-b5a5-d85f07fd5e5f",
+      "company": "Myhrhome",
+      "title": "Software Developer Intern – Document Shared Services (Part-Time)",
+      "category": "Software Engineering",
+      "location": "Evansville, IN",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Myhrhome&job=b9196797-2e80-4674-b5a5-d85f07fd5e5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://myhrhome.wd1.myworkdayjobs.com/onemaincareers/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
     },
     {
       "id": "107be9f8-9b79-4cc0-820a-29e98922b870",
