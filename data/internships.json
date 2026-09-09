@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:15:38.446Z",
+  "updatedAt": "2026-09-09T20:30:10.562Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=21731624-bbfb-4561-8604-ebd7707cd024&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    },
+    {
+      "id": "5ed05bf3-ef2f-4399-8621-1d4d2560b713",
+      "company": "Crest Industries",
+      "title": "Developer Intern",
+      "category": "Software Engineering",
+      "location": "Pineville, LA",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crest+Industries&job=5ed05bf3-ef2f-4399-8621-1d4d2560b713&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd"
     },
     {
       "id": "349c9cea-c481-42e6-b728-437a2a4a9ce4",
@@ -516,6 +528,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ttmtech&job=2bb068c2-eddb-40d4-b469-41d55f0c8ca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R17948"
+    },
+    {
+      "id": "a32fe4e8-9e29-4c0c-8ffe-0730fa2f16ad",
+      "company": "Xcelenergy",
+      "title": "Residential Energy Product Strategy Intern- CO",
+      "category": "Product",
+      "location": "Denver, CO",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Xcelenergy&job=a32fe4e8-9e29-4c0c-8ffe-0730fa2f16ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1"
     },
     {
       "id": "ff46b655-e51d-4ad5-8999-68215d873f3b",
@@ -1477,19 +1501,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
