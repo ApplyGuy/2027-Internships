@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:00:32.762Z",
+  "updatedAt": "2026-09-09T19:15:28.157Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -158,6 +158,42 @@
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1"
     },
     {
+      "id": "256eb850-e412-4393-9ab1-9b5bc5c2efe5",
+      "company": "Hmhw",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hmhw&job=256eb850-e412-4393-9ab1-9b5bc5c2efe5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"
+    },
+    {
+      "id": "ba5f648e-9fc8-4f8b-b110-ada43f81dd4d",
+      "company": "Hypertherm",
+      "title": "Summer Intern - Software Engineering",
+      "category": "Software Engineering",
+      "location": "West Lebanon, NH",
+      "season": "Summer",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hypertherm&job=ba5f648e-9fc8-4f8b-b110-ada43f81dd4d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005"
+    },
+    {
+      "id": "39178058-cfdf-4412-96ef-99e366665cbe",
+      "company": "Hypertherm",
+      "title": "Software Engineering - CAM - Spring/Summer Internship or Co-Op",
+      "category": "Software Engineering",
+      "location": "Lockport, NY",
+      "season": "Spring",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hypertherm&job=39178058-cfdf-4412-96ef-99e366665cbe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Lockport-NY/Software-Engineering---CAM---Spring-Summer-Internship-or-Co-Op_R4038"
+    },
+    {
       "id": "b70e38e0-ca58-4dbc-b132-5ae6d2d4d103",
       "company": "Intel",
       "title": "Software Research Engineering - (PhD Intern)",
@@ -182,6 +218,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
     },
     {
+      "id": "bbf5c50f-0cef-4a3e-bb8d-9a5a6eb44e9d",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=bbf5c50f-0cef-4a3e-bb8d-9a5a6eb44e9d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713"
+    },
+    {
       "id": "e8ab954d-28a5-4885-857c-4a6561e1312b",
       "company": "Moog",
       "title": "Intern, Software Engineering",
@@ -192,6 +240,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Moog&job=e8ab954d-28a5-4885-857c-4a6561e1312b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+    },
+    {
+      "id": "107be9f8-9b79-4cc0-820a-29e98922b870",
+      "company": "Nova-Tech Engineering",
+      "title": "Software Development Co-Op - Located Onsite in Willmar, MN",
+      "category": "Software Engineering",
+      "location": "Willmar, MN",
+      "season": "Co-op",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nova-Tech+Engineering&job=107be9f8-9b79-4cc0-820a-29e98922b870&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE"
     },
     {
       "id": "981a2fdf-1905-46ce-9991-3bf09d6c410d",
@@ -1321,6 +1381,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -6033,18 +6106,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
     },
     {
-      "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
-    },
-    {
       "id": "44d6c8fa-9da2-454e-9a9d-5a227459cacb",
       "company": "Rlicorp",
       "title": "Product Management Intern- Honolulu, HI",
@@ -6055,18 +6116,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Rlicorp&job=44d6c8fa-9da2-454e-9a9d-5a227459cacb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"
-    },
-    {
-      "id": "f3db7fbd-ef14-449d-b240-6716d5cee8f5",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Woburn, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f3db7fbd-ef14-449d-b240-6716d5cee8f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764"
     }
   ]
 }
