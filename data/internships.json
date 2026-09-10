@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:30:28.526Z",
+  "updatedAt": "2026-09-10T01:45:36.099Z",
   "jobs": [
     {
       "id": "6b1bf918-377b-485e-b1a0-1d3a2df2fec4",
@@ -516,6 +516,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Onehealthineers&job=115695d3-51ee-4467-8c33-e39b042109a1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://onehealthineers.wd3.myworkdayjobs.com/shsjb/job/HES/Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649"
+    },
+    {
+      "id": "e265cb53-9183-49c1-a8bd-6eeddb804eeb",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 Internship- Software Engineering ",
+      "category": "Software Engineering",
+      "location": "San Leandro, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=e265cb53-9183-49c1-a8bd-6eeddb804eeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
     },
     {
       "id": "44642df9-37f4-4a08-9b3c-d8c7138dfd9b",
@@ -3616,6 +3628,18 @@
       "listingUrl": "https://phillipsedison.wd503.myworkdayjobs.com/peco/job/Cincinnati/Information-Technology-Intern---Software-Development--Summer-2027-_JR100062"
     },
     {
+      "id": "a691c05c-6601-4381-968f-b61807df963d",
+      "company": "Sierra",
+      "title": "Software Engineer Intern, Agent (Winter 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Winter 2027",
+      "posted": "2026-09-01",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Sierra&job=a691c05c-6601-4381-968f-b61807df963d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4"
+    },
+    {
       "id": "64ad1cfa-7f17-4b04-a89c-d22af413ee42",
       "company": "Stoke Space",
       "title": "Summer 2027 Internship - Software",
@@ -3844,6 +3868,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=c1f55913-b19b-4d6e-908f-86e905a6121a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176711004"
+    },
+    {
+      "id": "30dbd36c-4903-4b17-a838-6b8a10240cf9",
+      "company": "Sierra",
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-08-31",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Sierra&job=30dbd36c-4903-4b17-a838-6b8a10240cf9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
     },
     {
       "id": "285da5bf-6aff-4268-87c6-237bc6be5b16",
@@ -6332,18 +6368,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Kimley+Horn&job=aa8c84b3-3941-4160-959c-c87d2b2399e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-kimley-horn.icims.com/jobs/25761/software-developer-intern/job"
-    },
-    {
-      "id": "846103b3-92af-4785-a848-0137154bd765",
-      "company": "Kpm",
-      "title": "Embedded Software Engineer — Internship",
-      "category": "Software Engineering",
-      "location": "Westborough, MA",
-      "season": "Not specified",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Kpm&job=846103b3-92af-4785-a848-0137154bd765&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kpm.bamboohr.com/careers/123"
     },
     {
       "id": "5be2c855-d823-4c04-89bb-f872eda58b18",
