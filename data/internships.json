@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:45:44.803Z",
+  "updatedAt": "2026-09-10T01:00:26.431Z",
   "jobs": [
     {
       "id": "6b1bf918-377b-485e-b1a0-1d3a2df2fec4",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cigna&job=6b1bf918-377b-485e-b1a0-1d3a2df2fec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527"
+    },
+    {
+      "id": "f8ab8bfa-8e7a-41d7-b895-9c4faa756f6e",
+      "company": "Epic Games",
+      "title": "Backend Services Programmer Intern",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Not specified",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Epic+Games&job=f8ab8bfa-8e7a-41d7-b895-9c4faa756f6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
     },
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -204,6 +216,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Donaldson&job=33f18d48-73de-4918-a963-6569191a4367&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://donaldson.wd115.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-27835-1"
+    },
+    {
+      "id": "ce78daaf-5b18-43d0-9a48-89f0afad7b72",
+      "company": "DV Trading",
+      "title": "DevOps Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=ce78daaf-5b18-43d0-9a48-89f0afad7b72&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
     },
     {
       "id": "a08f2e71-4959-4ee4-8991-aca467867c13",
@@ -1633,19 +1657,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
