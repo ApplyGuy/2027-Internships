@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:45:27.959Z",
+  "updatedAt": "2026-09-10T18:00:30.172Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -6356,18 +6356,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Spaceworksgo&job=7ca23dfb-7781-4c2b-83f4-5a15acbac9bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://spaceworksgo.bamboohr.com/careers/158"
-    },
-    {
-      "id": "5be2c855-d823-4c04-89bb-f872eda58b18",
-      "company": "PathAI",
-      "title": "Software Engineering Co-op: September - December 2026",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "2026",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=PathAI&job=5be2c855-d823-4c04-89bb-f872eda58b18&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
     }
   ]
 }
