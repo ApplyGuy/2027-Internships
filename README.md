@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-533-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-532-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **533** active U.S. internships posted within the last **30 days**
+- **532** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 10, 2026, 8:30 AM PDT**
+- Last refresh: **Sep 10, 2026, 8:45 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**490 open roles**
+**489 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -513,7 +513,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Security Risk Advisors | DevOps Engineering Generalist Co-op | Rochester, NY | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Security+Risk+Advisors&job=2e864732-90ce-4e73-a6f5-65ee2cc1f454&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/) |
 | Spaceworksgo | Aerospace Software Sales Intern - Spring 2027 | Atlanta, GA | Spring 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Spaceworksgo&job=7ca23dfb-7781-4c2b-83f4-5a15acbac9bc&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://spaceworksgo.bamboohr.com/careers/158) |
 | Analytic Partners | Software Engineer Co-Op \| Georgia Tech | Miami, FL | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=17f2310a-4b24-4d38-85ba-72a936489c54&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650) |
-| Analytic Partners | Software Engineer Co-Op \| Northeastern University | Miami, FL | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Analytic+Partners&job=cf330bf6-987d-4bea-b9f4-e45f6c4e967a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688) |
 | Foxconn Industrial Internet | Software Engineering Intern | Houston, TX | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://foxconnggroup.applytojob.com/apply/xf0soVofyI) |
 | PathAI | Software Engineering Co-op: September - December 2026 | Boston, MA | 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PathAI&job=5be2c855-d823-4c04-89bb-f872eda58b18&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.pathai.com/careers/8623056002?gh_jid=8623056002) |
 
