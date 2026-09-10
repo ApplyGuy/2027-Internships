@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:00:55.741Z",
+  "updatedAt": "2026-09-10T20:15:24.360Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Magna&job=90372fbc-e14a-422d-b30a-03e8bd72174d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://magna.wd3.myworkdayjobs.com/magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232"
+    },
+    {
+      "id": "a81b4f22-c150-4ac0-8e2a-f19361b8bea5",
+      "company": "Northrop Grumman",
+      "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
+      "category": "Software Engineering",
+      "location": "Cincinnati, OH",
+      "season": "Spring 2027",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a81b4f22-c150-4ac0-8e2a-f19361b8bea5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
     },
     {
       "id": "d76ec6c8-9b73-41e5-90da-4cce255f2c8e",
