@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T10:00:12.327Z",
+  "updatedAt": "2026-09-10T10:15:14.826Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -1813,19 +1813,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -6416,18 +6403,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Foxconn+Industrial+Internet&job=773c9706-9df3-4e82-94a8-caa605c522b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://foxconnggroup.applytojob.com/apply/xf0soVofyI"
-    },
-    {
-      "id": "aa8c84b3-3941-4160-959c-c87d2b2399e8",
-      "company": "Kimley Horn",
-      "title": "Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "Cary, NC",
-      "season": "Not specified",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Kimley+Horn&job=aa8c84b3-3941-4160-959c-c87d2b2399e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-kimley-horn.icims.com/jobs/25761/software-developer-intern/job"
     },
     {
       "id": "5be2c855-d823-4c04-89bb-f872eda58b18",
