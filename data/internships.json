@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T10:45:24.420Z",
+  "updatedAt": "2026-09-10T11:00:12.433Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -1428,6 +1428,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RF-SMART&job=f958f8be-e3b4-41e9-bbd3-db64d2891cda&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5409030008"
+    },
+    {
+      "id": "3b3087b6-4478-4f29-9025-627e623c6016",
+      "company": "rivian-vw-tech",
+      "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+      "category": "Software Engineering",
+      "location": "Irvine, CA",
+      "season": "2027",
+      "posted": "2026-09-08",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=3b3087b6-4478-4f29-9025-627e623c6016&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f"
     },
     {
       "id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
