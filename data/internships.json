@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:15:32.094Z",
+  "updatedAt": "2026-09-10T15:30:53.868Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -6380,42 +6380,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=cf330bf6-987d-4bea-b9f4-e45f6c4e967a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688"
-    },
-    {
-      "id": "451d00c8-15a6-408d-8b53-928f151fc9af",
-      "company": "Analytic Partners",
-      "title": "Software Engineer Co-Op | McGill University",
-      "category": "Software Engineering",
-      "location": "Miami, FL",
-      "season": "Co-op",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=451d00c8-15a6-408d-8b53-928f151fc9af&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54"
-    },
-    {
-      "id": "b1207ca1-e79a-4b6e-a98e-54394d33301c",
-      "company": "Analytic Partners",
-      "title": "Software Engineer Co-Op | University of Toronto",
-      "category": "Software Engineering",
-      "location": "Miami, FL",
-      "season": "Co-op",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=b1207ca1-e79a-4b6e-a98e-54394d33301c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9"
-    },
-    {
-      "id": "fc9bff1b-2f7b-493e-ac1f-d01aa9038aab",
-      "company": "Analytic Partners",
-      "title": "Software Engineer Co-Op | University of Waterloo",
-      "category": "Software Engineering",
-      "location": "Miami, FL",
-      "season": "Co-op",
-      "posted": "2026-08-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Analytic+Partners&job=fc9bff1b-2f7b-493e-ac1f-d01aa9038aab&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b"
     },
     {
       "id": "773c9706-9df3-4e82-94a8-caa605c522b5",
