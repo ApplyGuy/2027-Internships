@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T04:45:15.617Z",
+  "updatedAt": "2026-09-10T05:00:14.169Z",
   "jobs": [
     {
       "id": "6b1bf918-377b-485e-b1a0-1d3a2df2fec4",
@@ -1406,6 +1406,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
     },
     {
+      "id": "cae5849e-f73d-48d2-99f0-3d8ef5effc46",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-08",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=cae5849e-f73d-48d2-99f0-3d8ef5effc46&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"
+    },
+    {
       "id": "e6f5a2ca-62c4-42e3-82c9-ae6063224601",
       "company": "Steel Dynamics, Inc.",
       "title": "Software Development Internship",
@@ -1765,19 +1777,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
