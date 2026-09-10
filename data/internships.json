@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T23:00:34.304Z",
+  "updatedAt": "2026-09-10T23:15:32.103Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allegion&job=6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1"
+    },
+    {
+      "id": "b4433835-8fb5-4de9-a0ab-c174dc518aca",
+      "company": "Bedrock Robotics Inc",
+      "title": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "2027",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=b4433835-8fb5-4de9-a0ab-c174dc518aca&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"
+    },
+    {
+      "id": "05cdae09-9d1c-40ea-aaad-842eb90d1200",
+      "company": "Bedrock Robotics Inc",
+      "title": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "2027",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=05cdae09-9d1c-40ea-aaad-842eb90d1200&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"
     },
     {
       "id": "1bd6ccd1-f52f-4bf1-abd8-5f9e9b55bbb8",
@@ -1933,6 +1957,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
