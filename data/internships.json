@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:00:25.026Z",
+  "updatedAt": "2026-09-10T00:15:42.568Z",
   "jobs": [
     {
       "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
@@ -122,18 +122,6 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
     },
     {
-      "id": "527befe5-a29d-4287-9c12-6622a8a5a73b",
-      "company": "Collier Aerospace",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Newport News, VA",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Collier+Aerospace&job=527befe5-a29d-4287-9c12-6622a8a5a73b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
-    },
-    {
       "id": "4dec00e0-e35a-4f79-8619-3d420472d63f",
       "company": "Collier Aerospace",
       "title": "Software Engineering Intern - Web Applications (Summer 2027)",
@@ -144,6 +132,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Collier+Aerospace&job=4dec00e0-e35a-4f79-8619-3d420472d63f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
+    },
+    {
+      "id": "527befe5-a29d-4287-9c12-6622a8a5a73b",
+      "company": "Collier Aerospace",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Newport News, VA",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Collier+Aerospace&job=527befe5-a29d-4287-9c12-6622a8a5a73b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
     },
     {
       "id": "5ed05bf3-ef2f-4399-8621-1d4d2560b713",
@@ -492,6 +492,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0a9463f7-3151-4539-9196-0cce8ee61b0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
+    },
+    {
+      "id": "3f16df88-809b-45e5-81eb-1b8ea6a08f82",
+      "company": "Saronic Technologies",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Saronic+Technologies&job=3f16df88-809b-45e5-81eb-1b8ea6a08f82&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2"
     },
     {
       "id": "c15ca0d0-40ea-4525-afcb-efdc04824388",
@@ -1597,6 +1609,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
