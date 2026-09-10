@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:30:35.736Z",
+  "updatedAt": "2026-09-10T00:45:44.803Z",
   "jobs": [
     {
       "id": "6b1bf918-377b-485e-b1a0-1d3a2df2fec4",
@@ -180,6 +180,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Deluxe&job=349c9cea-c481-42e6-b728-437a2a4a9ce4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"
+    },
+    {
+      "id": "d1eb1147-93e4-4282-bc1d-e6a50a82ac8f",
+      "company": "Domino Data Lab",
+      "title": "Software Engineer, Intern - Campus Recruiting 2027",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Domino+Data+Lab&job=d1eb1147-93e4-4282-bc1d-e6a50a82ac8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
     },
     {
       "id": "33f18d48-73de-4918-a963-6569191a4367",
@@ -1621,6 +1633,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
