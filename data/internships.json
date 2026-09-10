@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:00:12.768Z",
+  "updatedAt": "2026-09-10T07:15:42.368Z",
   "jobs": [
     {
       "id": "6e9e6ccb-a140-4b4d-9b84-4e4f464cdb46",
@@ -588,6 +588,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=54365cfe-856d-4d76-a4e8-c576fac6cca8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
+    },
+    {
+      "id": "08703a48-9b69-42c5-af2a-4d5232f5de04",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Summer 2027",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=08703a48-9b69-42c5-af2a-4d5232f5de04&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655"
     },
     {
       "id": "981a2fdf-1905-46ce-9991-3bf09d6c410d",
@@ -4338,18 +4350,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=29158fb6-cada-4526-9da2-7bcd5d57a5cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1"
-    },
-    {
-      "id": "2174b225-642d-432a-9bc6-954283071da6",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2174b225-642d-432a-9bc6-954283071da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
     },
     {
       "id": "e541a297-0812-42a5-b30e-35206be1e5ee",
