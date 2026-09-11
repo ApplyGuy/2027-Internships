@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:30:50.552Z",
+  "updatedAt": "2026-09-11T19:45:50.186Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -144,19 +144,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "ef778961-856d-4183-b143-2d6b5fa1c5bd",
@@ -457,6 +444,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Greatamerica&job=3da20bdd-0f83-4606-a6b9-85414159c690&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
+    },
+    {
+      "id": "d9842c39-43c2-4f36-a9a8-9675a8c1ad95",
+      "company": "Hudl",
+      "title": "Software Quality Assurance Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Lincoln, NE",
+      "season": "Not specified",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hudl/jobs/8155102"
     },
     {
       "id": "b5cf83bd-2e8a-438a-8402-93af27860a02",
@@ -2354,19 +2353,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -6705,18 +6691,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Trucker+Path%2C+Inc&job=285c4cf6-0aaa-4625-96ae-04d555052566&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116481"
-    },
-    {
-      "id": "102dbf05-fa6b-41b3-bc88-befae3883d8c",
-      "company": "RTX",
-      "title": "Summer 2027  Software Intern_OnSite",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-08-12",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=102dbf05-fa6b-41b3-bc88-befae3883d8c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160"
     }
   ]
 }
