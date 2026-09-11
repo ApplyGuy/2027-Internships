@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:45:50.186Z",
+  "updatedAt": "2026-09-11T20:00:53.796Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -324,6 +324,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Walmart&job=7ab19210-6f5a-4ca2-bb03-bb0300ff877a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
+    },
+    {
+      "id": "7d58d191-da8f-421e-879d-9e3deeaa4bde",
+      "company": "Xcimer Energy",
+      "title": "Summer 2027 Internship - Computational and Software Engineering",
+      "category": "Software Engineering",
+      "location": "Denver, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Xcimer+Energy&job=7d58d191-da8f-421e-879d-9e3deeaa4bde&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"
     },
     {
       "id": "a0e04609-c1f4-4950-b375-6c2407ea0c88",
