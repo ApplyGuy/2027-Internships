@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:00:21.059Z",
+  "updatedAt": "2026-09-11T02:15:23.974Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -362,6 +362,18 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"
     },
     {
+      "id": "e9dbb848-9fe4-426e-beb4-0e25ba7e4551",
+      "company": "RF-SMART",
+      "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
+      "category": "Software Engineering",
+      "location": "Jacksonville, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RF-SMART&job=e9dbb848-9fe4-426e-beb4-0e25ba7e4551&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
+    },
+    {
       "id": "a3b0247c-06cd-4c81-a200-a9b1d906e4b2",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -396,6 +408,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2bd6db53-f501-417c-9fbb-0d70ca806e68&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
+    },
+    {
+      "id": "5399b7f2-bb74-4e2c-ae83-4cc4b138a30d",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=5399b7f2-bb74-4e2c-ae83-4cc4b138a30d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009"
     },
     {
       "id": "d1e44f6b-dfab-4cb3-938d-20e148c7ced2",
