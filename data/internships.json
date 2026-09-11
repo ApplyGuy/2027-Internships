@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:00:32.319Z",
+  "updatedAt": "2026-09-11T19:15:24.924Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -60,6 +60,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bracco&job=8717f73c-d46e-4a2a-a064-700985abf0b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"
+    },
+    {
+      "id": "99273c9e-8d30-43a1-b123-9782fd8e236d",
+      "company": "Digikey",
+      "title": "Product Management & Supplier Development Intern",
+      "category": "Product",
+      "location": "Thief River Falls, MN",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Digikey&job=99273c9e-8d30-43a1-b123-9782fd8e236d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829"
+    },
+    {
+      "id": "5ec90e86-822a-4550-8c16-9d73c6ffd129",
+      "company": "Directsupply",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Milwaukee, WI",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Directsupply&job=5ec90e86-822a-4550-8c16-9d73c6ffd129&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
+    },
+    {
+      "id": "d8c6d591-8e40-4b86-8ca3-9695de1eb0ed",
+      "company": "DV Trading",
+      "title": "Software Developer Intern - Summer 2027 (DV Equities)",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Summer 2027",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=d8c6d591-8e40-4b86-8ca3-9695de1eb0ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"
     },
     {
       "id": "aa21b633-4f03-47de-97d2-1cef0756d8a1",
