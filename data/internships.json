@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:00:53.796Z",
+  "updatedAt": "2026-09-11T20:15:19.923Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -146,6 +146,57 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
+      "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
+      "company": "Momentive",
+      "title": "Summer 2027 Product Management Intern",
+      "category": "Product",
+      "location": "Friendly, WV",
+      "season": "Summer 2027",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Momentive&job=7c9be29a-277e-4c74-8343-9bb64869bdee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816"
+    },
+    {
       "id": "ef778961-856d-4183-b143-2d6b5fa1c5bd",
       "company": "Munich Airport NJ LLC",
       "title": "FM Software and Data Analyst Internship",
@@ -156,6 +207,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Munich+Airport+NJ+LLC&job=ef778961-856d-4183-b143-2d6b5fa1c5bd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3"
+    },
+    {
+      "id": "2559ae2a-c898-48c3-87ba-ed959c642d70",
+      "company": "Oshkoshcorporation",
+      "title": "Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Oshkosh, WI",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=2559ae2a-c898-48c3-87ba-ed959c642d70&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868"
     },
     {
       "id": "3dc9a44b-3648-4365-afe0-1e833397692d",
@@ -2365,6 +2428,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
