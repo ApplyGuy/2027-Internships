@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:15:42.692Z",
+  "updatedAt": "2026-09-11T15:30:39.602Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -6656,18 +6656,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Assured+Guaranty&job=0eecf979-3406-4a4c-aef4-5f327ffb8d07&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"
-    },
-    {
-      "id": "dc5a807c-81ad-46aa-af9d-09482de98721",
-      "company": "Northrop Grumman",
-      "title": "2027 Intern Software Engineer",
-      "category": "Software Engineering",
-      "location": "Melbourne, FL",
-      "season": "2027",
-      "posted": "2026-08-12",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dc5a807c-81ad-46aa-af9d-09482de98721&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
     },
     {
       "id": "102dbf05-fa6b-41b3-bc88-befae3883d8c",
