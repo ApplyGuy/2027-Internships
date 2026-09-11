@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T06:30:24.037Z",
+  "updatedAt": "2026-09-11T06:45:32.069Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=05ac5633-2e5c-446c-92ca-f424beb06ff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Software-Engineering-Intern_8613"
+    },
+    {
+      "id": "09285607-5029-4593-9621-037e6c4bb7ee",
+      "company": "Bracco",
+      "title": "Software Engineering Intern/ Co-op (R&D Sustaining)",
+      "category": "Software Engineering",
+      "location": "Minnesota, 55344, Eden Prairie",
+      "season": "Co-op",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bracco&job=09285607-5029-4593-9621-037e6c4bb7ee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"
     },
     {
       "id": "8717f73c-d46e-4a2a-a064-700985abf0b4",
@@ -2209,6 +2221,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
