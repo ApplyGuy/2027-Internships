@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:00:24.053Z",
+  "updatedAt": "2026-09-11T05:15:24.158Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -192,6 +192,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ttc&job=f4e3c348-5179-4d54-8fc6-15f889d9017e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"
+    },
+    {
+      "id": "7ab19210-6f5a-4ca2-bb03-bb0300ff877a",
+      "company": "Walmart",
+      "title": "Summer 2027 Intern:: Software Engineer II",
+      "category": "Software Engineering",
+      "location": "(USA) ISD Office",
+      "season": "Summer 2027",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Walmart&job=7ab19210-6f5a-4ca2-bb03-bb0300ff877a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
     },
     {
       "id": "a0e04609-c1f4-4950-b375-6c2407ea0c88",
