@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:30:31.273Z",
+  "updatedAt": "2026-09-11T22:45:20.992Z",
   "jobs": [
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=DV+Trading&job=d8c6d591-8e40-4b86-8ca3-9695de1eb0ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"
+    },
+    {
+      "id": "7eb2d58a-7e7c-4996-9be5-b7d735dcb436",
+      "company": "Ibotta",
+      "title": "Software Engineer Intern ",
+      "category": "Software Engineering",
+      "location": "Denver, CO",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ibotta&job=7eb2d58a-7e7c-4996-9be5-b7d735dcb436&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269"
     },
     {
       "id": "aa21b633-4f03-47de-97d2-1cef0756d8a1",
