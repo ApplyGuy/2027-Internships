@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-12T00:15:33.763Z",
+  "updatedAt": "2026-09-12T00:30:33.046Z",
   "jobs": [
     {
-      "id": "bb247a8d-00ed-44aa-afcd-0de838e8b00e",
+      "id": "16c17170-33cc-499b-ad43-fabebf737597",
       "company": "Allegion",
       "title": "Summer Intern - Marketing, Global Software Solutions (GSS)",
       "category": "Software Engineering",
@@ -10,8 +10,8 @@
       "season": "Summer",
       "posted": "2026-09-12",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Allegion&job=bb247a8d-00ed-44aa-afcd-0de838e8b00e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Carmel-IN/Summer-Intern---Marketing--Global-Software-Solutions--GSS-_JR37435-1"
+      "url": "https://applyguy.ai/jobs?company=Allegion&job=16c17170-33cc-499b-ad43-fabebf737597&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Marketing--Global-Software-Solutions--GSS-_JR37435-2"
     },
     {
       "id": "ecabbd3f-f8f5-47ca-848c-17f029b100cf",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amgen&job=311e9d59-af93-4660-b8ae-127f9ab1ce44&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708"
+    },
+    {
+      "id": "d67e323b-8cad-4ac5-8200-a6356e80330d",
+      "company": "Baincapital",
+      "title": "Applications Developer Co-op",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-09-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Baincapital&job=d67e323b-8cad-4ac5-8200-a6356e80330d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://baincapital.wd1.myworkdayjobs.com/external_private/job/Boston/Applications-Developer-Co-op_REQ_108376"
     },
     {
       "id": "5815a76d-d0c0-4db5-8cef-c8c4a7348493",
