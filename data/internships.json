@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:15:36.582Z",
+  "updatedAt": "2026-09-14T20:30:25.339Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cyvl&job=0a0314aa-2189-4916-bfb2-4fbcdf32a708&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328"
+    },
+    {
+      "id": "d6dfe262-f8cc-487b-b078-a560e7c4dbab",
+      "company": "Don't Panic Labs",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Lincoln, NE",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Don%27t+Panic+Labs&job=d6dfe262-f8cc-487b-b078-a560e7c4dbab&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dontpaniclabs.bamboohr.com/careers/36"
+    },
+    {
+      "id": "875746d9-bee4-4987-8a17-42bcdbf71d3a",
+      "company": "Drakeandassociates",
+      "title": "Software Engineering & AI Intern",
+      "category": "Software Engineering",
+      "location": "Waukesha, WI",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Drakeandassociates&job=875746d9-bee4-4987-8a17-42bcdbf71d3a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://drakeandassociates.bamboohr.com/careers/88"
     },
     {
       "id": "09b4f46a-1bb5-4566-b2db-b6d75c1ea540",
@@ -588,45 +612,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -2896,19 +2881,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
