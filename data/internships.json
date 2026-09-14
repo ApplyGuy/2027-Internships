@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:00:42.647Z",
+  "updatedAt": "2026-09-14T20:15:36.582Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
+    },
+    {
+      "id": "40f3e43c-a2b6-40ed-9709-05f5aac6614f",
+      "company": "Gnw",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Raleigh, NC",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gnw&job=40f3e43c-a2b6-40ed-9709-05f5aac6614f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gnw.wd1.myworkdayjobs.com/gnw/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1"
     },
     {
       "id": "734cc788-503d-4511-9963-64d742cde77e",
