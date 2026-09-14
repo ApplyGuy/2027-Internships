@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:45:22.677Z",
+  "updatedAt": "2026-09-14T22:00:28.068Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=49df6dcb-ef09-4a0b-bf1c-262810c1c3cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
+    },
+    {
+      "id": "0771851d-4479-45a6-ac6c-0707ceb09aeb",
+      "company": "CUBRC INC",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Buffalo, NY",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CUBRC+INC&job=0771851d-4479-45a6-ac6c-0707ceb09aeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/456762"
     },
     {
       "id": "0a0314aa-2189-4916-bfb2-4fbcdf32a708",
