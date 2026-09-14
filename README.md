@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-559-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-557-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **559** active U.S. internships posted within the last **30 days**
+- **557** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 14, 2026, 6:15 AM PDT**
+- Last refresh: **Sep 14, 2026, 6:30 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**513 open roles**
+**511 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -377,7 +377,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | C 3 Ascend | Software Engineer - Intern (Summer 2027) | Redwood City, CA | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
 | C3 AI | Software Engineer - Intern (Summer 2027) | Redwood City, CA | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://c3.ai/job-description/8739037002?gh_jid=8739037002) |
 | Epic Games | Frontend Programmer Intern | Cary, NC | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Epic+Games&job=57d806cd-b7f7-4515-a4cb-7016b40b133f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) |
-| Google | Software Engineering Intern, BS, Summer 2027 | Multiple U.S. locations | Summer 2027 | 14d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027) |
 | HP IQ | Software Engineer Intern, Cloud Services (Summer 2027) | San Francisco, CA | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) |
 | HP IQ | Software Engineering Intern, Product & Developer Productivity  (Summer 2027) | San Francisco, CA | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6114890004) |
 | HP IQ | Software Engineering Intern, Software Systems (Summer 2027) | San Francisco, CA | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) |
@@ -464,7 +463,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Freddiemac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Freddiemac&job=af216a3e-4da9-4089-921d-b4be7ebd36c1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | Freddiemac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Freddiemac&job=b6884cfe-880f-4e14-8a03-c6e2e93c0025&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Gevernova | GE Vernova GridOS  Software Test Engineer - Intern - Summer 2027 | Atlanta, GA | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gevernova&job=ec351986-25e5-4607-b18c-9cfb3c8f417e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-GridOS--Software-Test-Engineer---Intern---Summer-2027_R5049907-1) |
-| Google | Software Engineering Intern, PhD, Summer 2027 | Multiple U.S. locations | Summer 2027 | 21d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027) |
 | Philips | Co-op – Software System Engineering – Plymouth, MN – January 2027 | Plymouth, MN | 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=c9282e8c-48d2-49bc-8acf-d2866cf6cf8b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406) |
 | RTX | Software Engineering Intern | Annapolis Junction, MD | — | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3af4870a-9e10-48c6-a379-b7607edd916b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058) |
 | Sage | Software Engineering Intern (Edge) – Summer 2027 | New York City, NY | Summer 2027 | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sage&job=8740ff58-c42f-4ed0-a1da-1c6af8bddd87&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/sage49/jobs/6131191004) |
