@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:00:20.409Z",
+  "updatedAt": "2026-09-14T21:15:25.022Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -108,6 +108,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/mill/jobs/4733709005"
+    },
+    {
+      "id": "1fb18931-18f9-4b24-bf5e-618beb2fc8bb",
+      "company": "North Atlantic Industries, Inc",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Bohemia, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=1fb18931-18f9-4b24-bf5e-618beb2fc8bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273"
+    },
+    {
+      "id": "fe4e7fc7-f9af-486b-b2fe-c9d63fda3508",
+      "company": "North Atlantic Industries, Inc",
+      "title": "Intern - Full Stack Software Engineer (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Bohemia, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=fe4e7fc7-f9af-486b-b2fe-c9d63fda3508&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
     },
     {
       "id": "87a9dce1-ea25-4d62-ba9e-239076c1e954",
@@ -278,6 +302,18 @@
       "listingUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
     },
     {
+      "id": "78c19447-9360-490d-8dd6-7a356f9d28f7",
+      "company": "Ttmtech",
+      "title": "Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Farmingdale, NY",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=78c19447-9360-490d-8dd6-7a356f9d28f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R18005"
+    },
+    {
       "id": "c1f507f9-7701-45c4-a723-82f4d44688c1",
       "company": "Viavisolutions",
       "title": "Software Engineering Co-Op",
@@ -288,6 +324,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=c1f507f9-7701-45c4-a723-82f4d44688c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
+    },
+    {
+      "id": "c951f16b-2e23-4b4c-8d4c-b0e3579063af",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
     },
     {
       "id": "6843ef1a-1b69-48a5-a424-ea18fcc90fac",
@@ -312,6 +360,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Wf&job=36e293c2-56d6-4040-a6ec-cccb462f05e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285"
+    },
+    {
+      "id": "26a2f8a6-65ce-4681-9c75-907c77d04310",
+      "company": "Workshop",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Omaha, NE",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Workshop&job=26a2f8a6-65ce-4681-9c75-907c77d04310&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     },
     {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
@@ -1971,18 +2031,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Trimble&job=58480e1d-50a8-487c-abe6-908ee514c750&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
-    },
-    {
-      "id": "2bb068c2-eddb-40d4-b469-41d55f0c8ca4",
-      "company": "Ttmtech",
-      "title": "Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Farmingdale, NY",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=2bb068c2-eddb-40d4-b469-41d55f0c8ca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R17948"
     },
     {
       "id": "6b6faaf1-b9c0-4fdd-83ae-bc89999d55c0",
