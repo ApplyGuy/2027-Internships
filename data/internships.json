@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-14T18:15:35.498Z",
+  "updatedAt": "2026-09-14T18:30:52.381Z",
   "jobs": [
+    {
+      "id": "734cc788-503d-4511-9963-64d742cde77e",
+      "company": "Micron",
+      "title": "Intern - IT Software Engineer",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=734cc788-503d-4511-9963-64d742cde77e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582"
+    },
     {
       "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
       "company": "Oshkoshcorporation",
