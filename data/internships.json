@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T13:30:53.715Z",
+  "updatedAt": "2026-09-14T13:45:36.205Z",
   "jobs": [
     {
       "id": "5ed0f203-c027-4b1f-862c-b28af324d954",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Td&job=056b6952-3c28-4911-8c1f-471c97a6df75&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
+    },
+    {
+      "id": "e551f4d6-20b1-4d56-ac65-774b6af0a928",
+      "company": "Tive Inc",
+      "title": "Software Engineer Co-op ",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tive+Inc&job=e551f4d6-20b1-4d56-ac65-774b6af0a928&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
     },
     {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
