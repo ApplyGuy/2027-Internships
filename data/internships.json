@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:00:23.738Z",
+  "updatedAt": "2026-09-14T18:15:35.498Z",
   "jobs": [
     {
       "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
@@ -132,6 +132,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=c1f507f9-7701-45c4-a723-82f4d44688c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
+    },
+    {
+      "id": "6843ef1a-1b69-48a5-a424-ea18fcc90fac",
+      "company": "Wf",
+      "title": "2027 Technology Summer Internship – Early Careers (Software Engineering - California)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wf&job=6843ef1a-1b69-48a5-a424-ea18fcc90fac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294"
+    },
+    {
+      "id": "36e293c2-56d6-4040-a6ec-cccb462f05e2",
+      "company": "Wf",
+      "title": "2027 Technology Summer Internship – Early Careers (Software Engineering)",
+      "category": "Software Engineering",
+      "location": "Charlotte, NC",
+      "season": "Summer",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wf&job=36e293c2-56d6-4040-a6ec-cccb462f05e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285"
     },
     {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
