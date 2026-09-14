@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:15:25.022Z",
+  "updatedAt": "2026-09-14T21:30:21.574Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -338,6 +338,78 @@
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
     },
     {
+      "id": "f0cece6c-db8b-41b4-8234-ae7e6ccdf054",
+      "company": "Wexinc",
+      "title": "Fullstack Software Engineer Intern (Undergraduate)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=f0cece6c-db8b-41b4-8234-ae7e6ccdf054&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
+    },
+    {
+      "id": "d19e525b-ba70-40c1-b2ce-78d8b46ead6c",
+      "company": "Wexinc",
+      "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=d19e525b-ba70-40c1-b2ce-78d8b46ead6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+    },
+    {
+      "id": "bdeaace7-bc29-4597-bade-66c92d165e8b",
+      "company": "Wexinc",
+      "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=bdeaace7-bc29-4597-bade-66c92d165e8b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
+    },
+    {
+      "id": "737efb4b-0e29-44ce-82f7-7713e6e2648e",
+      "company": "Wexinc",
+      "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=737efb4b-0e29-44ce-82f7-7713e6e2648e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
+    },
+    {
+      "id": "540611ee-40e3-4ce0-85df-edd6b72beb63",
+      "company": "Wexinc",
+      "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=540611ee-40e3-4ce0-85df-edd6b72beb63&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"
+    },
+    {
+      "id": "2b196727-1030-4226-b6c8-72ed17fcba6c",
+      "company": "Wexinc",
+      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=2b196727-1030-4226-b6c8-72ed17fcba6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"
+    },
+    {
       "id": "6843ef1a-1b69-48a5-a424-ea18fcc90fac",
       "company": "Wf",
       "title": "2027 Technology Summer Internship – Early Careers (Software Engineering - California)",
@@ -372,6 +444,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Workshop&job=26a2f8a6-65ce-4681-9c75-907c77d04310&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
+    },
+    {
+      "id": "d6cb8c15-b8d3-4577-8615-88b41e74b70b",
+      "company": "Xcelenergy",
+      "title": "Residential Energy Product Strategy Intern - MN, WI",
+      "category": "Product",
+      "location": "Minnesota",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Xcelenergy&job=d6cb8c15-b8d3-4577-8615-88b41e74b70b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1"
+    },
+    {
+      "id": "c6998f32-0dc2-4a7a-a805-5b89f6b33d10",
+      "company": "Xcelenergy",
+      "title": "Residential Energy Product Strategy Intern - MN",
+      "category": "Product",
+      "location": "Minneapolis, MN",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Xcelenergy&job=c6998f32-0dc2-4a7a-a805-5b89f6b33d10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811"
     },
     {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
@@ -720,45 +816,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -3016,19 +3073,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
