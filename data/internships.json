@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-14T13:45:36.205Z",
+  "updatedAt": "2026-09-14T14:00:40.152Z",
   "jobs": [
+    {
+      "id": "cb91a1a5-eeec-4b48-9226-13dbb60820f8",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=cb91a1a5-eeec-4b48-9226-13dbb60820f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145"
+    },
     {
       "id": "5ed0f203-c027-4b1f-862c-b28af324d954",
       "company": "Td",
@@ -6692,18 +6704,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f985b482-45fa-4000-b9ed-df14f24d40ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
-    },
-    {
-      "id": "30325d61-a66f-47d0-b75e-991cb843d868",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Indianapolis, IN",
-      "season": "Summer 2027",
-      "posted": "2026-08-17",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=30325d61-a66f-47d0-b75e-991cb843d868&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067"
     }
   ]
 }
