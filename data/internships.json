@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:00:22.519Z",
+  "updatedAt": "2026-09-14T15:15:20.540Z",
   "jobs": [
     {
       "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Tive+Inc&job=e551f4d6-20b1-4d56-ac65-774b6af0a928&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
+    },
+    {
+      "id": "c1f507f9-7701-45c4-a723-82f4d44688c1",
+      "company": "Viavisolutions",
+      "title": "Software Engineering Co-Op",
+      "category": "Software Engineering",
+      "location": "Germantown, MD",
+      "season": "Co-op",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=c1f507f9-7701-45c4-a723-82f4d44688c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
     },
     {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
@@ -5519,7 +5531,7 @@
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
       "company": "North Atlantic Industries, Inc",
-      "title": "Intern-Software Engineer Fall 2026",
+      "title": "Intern - Software Engineer (Fall 2026)",
       "category": "Software Engineering",
       "location": "Bohemia, NY",
       "season": "Fall 2026",
@@ -5531,7 +5543,7 @@
     {
       "id": "47bff3ce-09e8-4556-af76-66f15662a4b4",
       "company": "North Atlantic Industries, Inc",
-      "title": "Intern-Full Stack Software Engineer Fall 2026",
+      "title": "Intern - Full Stack Software Engineer (Fall 2026)",
       "category": "Software Engineering",
       "location": "Bohemia, NY",
       "season": "Fall 2026",
