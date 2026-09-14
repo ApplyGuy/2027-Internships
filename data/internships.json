@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:45:22.712Z",
+  "updatedAt": "2026-09-14T20:00:42.647Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -12,6 +12,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=49df6dcb-ef09-4a0b-bf1c-262810c1c3cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
+    },
+    {
+      "id": "0a0314aa-2189-4916-bfb2-4fbcdf32a708",
+      "company": "Cyvl",
+      "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cyvl&job=0a0314aa-2189-4916-bfb2-4fbcdf32a708&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328"
+    },
+    {
+      "id": "09b4f46a-1bb5-4566-b2db-b6d75c1ea540",
+      "company": "EquipmentShare",
+      "title": "Intern: Software Engineer",
+      "category": "Software Engineering",
+      "location": "Columbia, MO (Headquarters)",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=EquipmentShare&job=09b4f46a-1bb5-4566-b2db-b6d75c1ea540&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
+    },
+    {
+      "id": "5080166c-ad53-420f-9087-e25c01116612",
+      "company": "Figma",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
     },
     {
       "id": "734cc788-503d-4511-9963-64d742cde77e",
