@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:45:28.883Z",
+  "updatedAt": "2026-09-14T15:00:22.519Z",
   "jobs": [
     {
       "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
@@ -12,6 +12,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=b698bcf0-44b6-489d-b4f5-a5298e3d6934&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321"
+    },
+    {
+      "id": "f0b89899-e06e-4621-853b-7e5d8bcb47fd",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Robinhood&job=f0b89899-e06e-4621-853b-7e5d8bcb47fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
+    },
+    {
+      "id": "0f3997a0-18a9-4636-908f-13fe9c3cede6",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, Android (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Robinhood&job=0f3997a0-18a9-4636-908f-13fe9c3cede6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
+    },
+    {
+      "id": "da3731d7-8329-4919-85a6-46f3cc161efe",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, Web (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Robinhood&job=da3731d7-8329-4919-85a6-46f3cc161efe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
+    },
+    {
+      "id": "a2d7c7be-b788-441e-99f5-02ed3477387d",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, Backend (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Robinhood&job=a2d7c7be-b788-441e-99f5-02ed3477387d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225"
     },
     {
       "id": "cb91a1a5-eeec-4b48-9226-13dbb60820f8",
