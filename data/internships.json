@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:00:35.063Z",
+  "updatedAt": "2026-09-15T19:15:33.342Z",
   "jobs": [
     {
       "id": "d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Analogdevices&job=d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132"
+    },
+    {
+      "id": "969f055a-abee-44a0-a1de-7f709c37ff25",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Software Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Quincy, MA",
+      "season": "Winter 2027",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=969f055a-abee-44a0-a1de-7f709c37ff25&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007"
     },
     {
       "id": "b4072a88-ff35-47b1-a394-f00894aaa553",
