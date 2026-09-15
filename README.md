@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-600-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-599-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **600** active U.S. internships posted within the last **30 days**
+- **599** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 14, 2026, 7:15 PM PDT**
+- Last refresh: **Sep 14, 2026, 7:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**548 open roles**
+**547 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -238,7 +238,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Redhat | Software Engineer Co-op | Raleigh, NC | Co-op | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Redhat&job=891dcbde-9498-4bef-bfb5-dafde744b2c7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039) |
 | RF-SMART | Software Support Engineer Internship (NetSuite) - Summer 2027 | Highlands Ranch, CO | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RF-SMART&job=0434d9fe-49dd-4ee8-9ecc-e863f17d8736&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) |
 | rivian-vw-tech | Software Engineering Intern - Vehicle Controls (January - August 2027) | Irvine, CA | 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=rivian-vw-tech&job=3b3087b6-4478-4f29-9025-627e623c6016&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f) |
-| Semgrep | Software Engineer Intern, Cloud Platform | San Francisco, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
+| Semgrep | Software Engineer Intern | San Francisco, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
 | Shield AI | Summer 2027 - Software Engineer Intern | San Diego, CA | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield+AI&job=cae5849e-f73d-48d2-99f0-3d8ef5effc46&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Steel Dynamics, Inc. | Software Development Internship | Columbus, MS | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=e6f5a2ca-62c4-42e3-82c9-ae6063224601&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job) |
 | Syntiant | Machine Learning Intern - KWS/AED | Redwood City, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Syntiant&job=153982a0-e8c4-46ad-a5c2-0fe501536722&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://apply.workable.com/syntiant/j/113F994B7B/) |
@@ -451,7 +451,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | US, MA, Westboro | Fall | 19d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
 | Aoins | Software Developer Internship - Summer 2027 | Lansing, MI | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Aoins&job=cb50a707-e3d2-4c10-a3fc-66fdb0dba0b7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
 | Jbssolutions | Software Development Specialist - Payload Activity Requirement Coordinator (PARC) Productivity Enhancement Tool (PET) (JR082726T-15) — Internship | Huntsville, AL | — | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jbssolutions&job=7d41e9df-95d6-416e-a143-ed3d1bb1f348&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jbssolutions.bamboohr.com/careers/156) |
-| RJ Lee Group, Inc | Fall 2026 Internship - Artificial Intelligence - Software Modernization | Pittsburgh, PA | Fall 2026 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RJ+Lee+Group%2C+Inc&job=11275e42-4bc3-4e09-b415-8faa69df882e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg) |
 | RTX | Software Platform Intern (Summer 2027) | Aurora, CO | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=a93ecdda-650f-49ab-97b7-47a776ea01a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01870216) |
 | RTX | Software Engineer Intern (Summer 2027) | Woburn, MA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=29158fb6-cada-4526-9da2-7bcd5d57a5cd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1) |
 | TELUS Digital | Software Engineering Intern (US) - Summer 2027 | Charlottesville, VA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=TELUS+Digital&job=e541a297-0812-42a5-b30e-35206be1e5ee&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11) |
