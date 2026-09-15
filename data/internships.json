@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-15T18:45:35.430Z",
+  "updatedAt": "2026-09-15T19:00:35.063Z",
   "jobs": [
+    {
+      "id": "d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6",
+      "company": "Analogdevices",
+      "title": "Embedded Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Wilmington, MA",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Analogdevices&job=d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132"
+    },
+    {
+      "id": "b4072a88-ff35-47b1-a394-f00894aaa553",
+      "company": "apexanalytix",
+      "title": "Automation Developer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Greensboro, NC",
+      "season": "Summer 2027",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b4072a88-ff35-47b1-a394-f00894aaa553&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+    },
     {
       "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
       "company": "Cai",
