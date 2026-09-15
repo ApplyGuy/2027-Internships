@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:31:01.709Z",
+  "updatedAt": "2026-09-15T14:46:02.862Z",
   "jobs": [
     {
       "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510"
+    },
+    {
+      "id": "38305909-375f-4457-9eae-ab8b4ae2b13c",
+      "company": "Co-Ops at New York ISO",
+      "title": "Co-Op - IT - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Rensselaer, NY",
+      "season": "Co-op",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Co-Ops+at+New+York+ISO&job=38305909-375f-4457-9eae-ab8b4ae2b13c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007"
     },
     {
       "id": "ce2b6ad0-6ac4-4abd-b9c7-2287abf29f87",
