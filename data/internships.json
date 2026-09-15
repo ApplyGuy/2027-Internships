@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:30:24.424Z",
+  "updatedAt": "2026-09-15T00:45:23.703Z",
   "jobs": [
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -266,6 +266,30 @@
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
     {
+      "id": "681deca7-8551-4eed-ab6d-f6a122932dd2",
+      "company": "Stirista LLC",
+      "title": "Software Engineering/PMO Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=681deca7-8551-4eed-ab6d-f6a122932dd2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4502409"
+    },
+    {
+      "id": "6b65a23b-e709-4201-a1d4-c37001b20ea2",
+      "company": "Stirista LLC",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=6b65a23b-e709-4201-a1d4-c37001b20ea2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4503589"
+    },
+    {
       "id": "5ed0f203-c027-4b1f-862c-b28af324d954",
       "company": "Td",
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps",
@@ -508,7 +532,7 @@
     {
       "id": "ecabbd3f-f8f5-47ca-848c-17f029b100cf",
       "company": "Amgen",
-      "title": "Undergrad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+      "title": "Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
       "category": "Software Engineering",
       "location": "Remote, U.S.",
       "season": "Summer 2027",
@@ -520,7 +544,7 @@
     {
       "id": "e557ead2-38b6-41f1-b3bb-39d7f8505060",
       "company": "Amgen",
-      "title": "Grad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+      "title": "Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
       "category": "Software Engineering",
       "location": "Remote, U.S.",
       "season": "Summer 2027",
@@ -544,7 +568,7 @@
     {
       "id": "75e65f7c-2283-4ca6-a93a-d3b978ce924a",
       "company": "Amgen",
-      "title": "Grad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+      "title": "Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
       "category": "Software Engineering",
       "location": "Remote, U.S.",
       "season": "Summer 2027",
@@ -554,9 +578,21 @@
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"
     },
     {
+      "id": "6aa153ee-d11a-4a00-82f9-db389356691a",
+      "company": "Amgen",
+      "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-09-12",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Amgen&job=6aa153ee-d11a-4a00-82f9-db389356691a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742"
+    },
+    {
       "id": "40f0fb73-81d7-4e46-ae94-c19b658b854e",
       "company": "Amgen",
-      "title": "Undergrad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+      "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
       "category": "Software Engineering",
       "location": "Remote, U.S.",
       "season": "Summer 2027",
@@ -568,7 +604,7 @@
     {
       "id": "311e9d59-af93-4660-b8ae-127f9ab1ce44",
       "company": "Amgen",
-      "title": "Undergrad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+      "title": "Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
       "category": "Software Engineering",
       "location": "Remote, U.S.",
       "season": "Summer 2027",
