@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:00:24.254Z",
+  "updatedAt": "2026-09-15T02:15:30.921Z",
   "jobs": [
     {
       "id": "b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Dowjones&job=cca7fc68-edb9-49dd-8c30-2dd7f9ff74eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317"
+    },
+    {
+      "id": "a02a0db7-9583-47c9-8190-bcb91792359b",
+      "company": "Labcorp",
+      "title": "Intern - Software Developer",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Labcorp&job=a02a0db7-9583-47c9-8190-bcb91792359b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"
+    },
+    {
+      "id": "4fb35f54-1f3b-447b-95c2-a535de96f5c0",
+      "company": "Labcorp",
+      "title": "Intern - IT Product Manager",
+      "category": "Product",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Labcorp&job=4fb35f54-1f3b-447b-95c2-a535de96f5c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185"
     },
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
