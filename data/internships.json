@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T15:00:25.671Z",
+  "updatedAt": "2026-09-15T15:15:31.474Z",
   "jobs": [
     {
       "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"
+    },
+    {
+      "id": "e9f52856-1155-423a-a99f-29aadc9c7aac",
+      "company": "Trane Technologies",
+      "title": "Software Development Engineering Intern",
+      "category": "Software Engineering",
+      "location": "St Paul, MN",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Trane+Technologies&job=e9f52856-1155-423a-a99f-29aadc9c7aac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648"
     },
     {
       "id": "60fed66f-846d-4d95-a956-0bcb27ab6109",
