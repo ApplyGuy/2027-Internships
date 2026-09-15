@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-604-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-609-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -10,10 +10,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **604** active U.S. internships posted within the last **30 days**
+- **609** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 15, 2026, 11:30 AM PDT**
+- Last refresh: **Sep 15, 2026, 11:45 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +22,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**552 open roles**
+**557 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -30,7 +30,12 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Cisco | Software Engineer Data & AI I (Intern) - United States | San Jose California | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510) |
 | Co-Ops at New York ISO | Co-Op - IT - Software Engineering | Rensselaer, NY | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Co-Ops+at+New+York+ISO&job=38305909-375f-4457-9eae-ab8b4ae2b13c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007) |
 | DEKA Research & Development | Software Engineering Co-Op- Spring 2027 | Manchester, NH | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DEKA+Research+%26+Development&job=ce2b6ad0-6ac4-4abd-b9c7-2287abf29f87&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://deka.applytojob.com/apply/ulNhn2xOvG) |
+| FEEDING CHILDREN EVERYWHERE INC. | Spring 2027 Front-End Developer Intern | Longwood, FL | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=83475486-7a11-413a-9a52-b659b6e47e68&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483507) |
+| FEEDING CHILDREN EVERYWHERE INC. | Spring 2027 Software Engineering & Innovation Intern | Longwood, FL | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=5949b692-87e6-4c21-99ca-f61da6d1dcb2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483512) |
+| FEEDING CHILDREN EVERYWHERE INC. | Spring 2027 Backend Software Engineering Intern | Longwood, FL | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=a193604f-1678-4ab3-9b6c-7e039d936153&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483508) |
 | Labcorp | Intern - Software Developer | Durham, NC | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Labcorp&job=a02a0db7-9583-47c9-8190-bcb91792359b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330) |
+| Micron | Intern - Data Center SSD Firmware | Longmont-MAX- Office, CO | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Micron&job=7b64b73a-cca9-4e53-a523-1cca868a42d2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461) |
+| Micron | Intern - Firmware Engineer | Longmont-MAX- Office, CO | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Micron&job=1b3878ec-0b55-45a3-a882-bdae5c876085&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584) |
 | Oshkoshcorporation | Software Engineering Intern | San Francisco, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) |
 | Trane Technologies | Software Development Engineering Intern | St Paul, MN | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Trane+Technologies&job=e9f52856-1155-423a-a99f-29aadc9c7aac&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648) |
 | Wexinc | DevOps & AI Engineering Intern (Undergraduate) | Remote, U.S. | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=60fed66f-846d-4d95-a956-0bcb27ab6109&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056) |
