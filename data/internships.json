@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-15T07:15:40.376Z",
+  "updatedAt": "2026-09-15T07:30:33.479Z",
   "jobs": [
+    {
+      "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
+      "company": "Cai",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Client-State, PA",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cai&job=6f30f2f3-528c-4507-b095-e67ea572a4c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462"
+    },
     {
       "id": "b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13",
       "company": "Cisco",
