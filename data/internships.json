@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T18:30:31.616Z",
+  "updatedAt": "2026-09-15T18:45:35.430Z",
   "jobs": [
     {
       "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
@@ -62,6 +62,42 @@
       "listingUrl": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317"
     },
     {
+      "id": "83475486-7a11-413a-9a52-b659b6e47e68",
+      "company": "FEEDING CHILDREN EVERYWHERE INC.",
+      "title": "Spring 2027 Front-End Developer Intern",
+      "category": "Software Engineering",
+      "location": "Longwood, FL",
+      "season": "Spring 2027",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=83475486-7a11-413a-9a52-b659b6e47e68&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483507"
+    },
+    {
+      "id": "5949b692-87e6-4c21-99ca-f61da6d1dcb2",
+      "company": "FEEDING CHILDREN EVERYWHERE INC.",
+      "title": "Spring 2027 Software Engineering & Innovation Intern",
+      "category": "Software Engineering",
+      "location": "Longwood, FL",
+      "season": "Spring 2027",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=5949b692-87e6-4c21-99ca-f61da6d1dcb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483512"
+    },
+    {
+      "id": "a193604f-1678-4ab3-9b6c-7e039d936153",
+      "company": "FEEDING CHILDREN EVERYWHERE INC.",
+      "title": "Spring 2027 Backend Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Longwood, FL",
+      "season": "Spring 2027",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FEEDING+CHILDREN+EVERYWHERE+INC.&job=a193604f-1678-4ab3-9b6c-7e039d936153&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483508"
+    },
+    {
       "id": "a02a0db7-9583-47c9-8190-bcb91792359b",
       "company": "Labcorp",
       "title": "Intern - Software Developer",
@@ -84,6 +120,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Labcorp&job=4fb35f54-1f3b-447b-95c2-a535de96f5c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185"
+    },
+    {
+      "id": "7b64b73a-cca9-4e53-a523-1cca868a42d2",
+      "company": "Micron",
+      "title": "Intern - Data Center SSD Firmware",
+      "category": "Software Engineering",
+      "location": "Longmont-MAX- Office, CO",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=7b64b73a-cca9-4e53-a523-1cca868a42d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"
+    },
+    {
+      "id": "1b3878ec-0b55-45a3-a882-bdae5c876085",
+      "company": "Micron",
+      "title": "Intern - Firmware Engineer",
+      "category": "Software Engineering",
+      "location": "Longmont-MAX- Office, CO",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=1b3878ec-0b55-45a3-a882-bdae5c876085&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584"
     },
     {
       "id": "f2efc4c8-6172-4262-999a-bd91ab65a698",
