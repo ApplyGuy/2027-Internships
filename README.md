@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-657-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-656-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -8,12 +8,14 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 ⭐ **Star this repo** to keep the list one click away.
 
+**Run a Discord community?** [Send new listings to your channel →](https://applyguy.ai/community-feeds?feed=internships&utm_source=github&utm_medium=repository). Connect a webhook and get new openings automatically.
+
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **657** active U.S. internships posted within the last **30 days**
+- **656** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 16, 2026, 8:15 AM PDT**
+- Last refresh: **Sep 16, 2026, 8:30 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -22,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**600 open roles**
+**599 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -621,7 +623,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Zipline | Long Range Platform Embedded Firmware Intern (Summer 2027) | South San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003) |
 | Americanfidelity | Software Mobile Intern (OKC Local Only) | Oklahoma City, OK | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Americanfidelity&job=9cfa83e5-041a-4dbf-b4c7-bfba5094a290&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021) |
 | Americanfidelity | Software Test Intern (OKC Local Only) | Oklahoma City, OK | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Americanfidelity&job=2244155d-9128-482e-90dc-5599935d5b58&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Test-Intern--OKC-Local-Only-_JR1020) |
-| Apprenticely | Align AI Software Development Intern | Bentonville, AR | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Apprenticely&job=cf200b35-953a-4c9e-afd8-b82e74491d5d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787) |
 | Bear Robotics | Software Engineering Intern, Developer Productivity | Redwood City, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity) |
 | Intel | Software Development Graduate Intern | Folsom, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Intel&job=c9147049-dae9-4eac-8ae9-2aaf35e652ea&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
 | Point72 | Quantitative Developer Intern | New York | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Point72&job=2b0d0e43-0cfb-4d10-be2f-7e41092777f7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) |
