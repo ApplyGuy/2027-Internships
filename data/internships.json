@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:30:34.875Z",
+  "updatedAt": "2026-09-16T20:45:58.499Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -156,6 +156,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gfs&job=b960ed8d-a23e-4a4e-bae0-603c2e04033b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"
+    },
+    {
+      "id": "4cf34516-fb73-44ce-ad56-b9845e93040a",
+      "company": "Graco",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Graco&job=4cf34516-fb73-44ce-ad56-b9845e93040a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://graco.wd501.myworkdayjobs.com/graco_careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556"
+    },
+    {
+      "id": "e8074ba3-eba1-44f8-9dfd-3a0f8627d090",
+      "company": "Insulet",
+      "title": "Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite)",
+      "category": "Software Engineering",
+      "location": "Acton, MA",
+      "season": "2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Insulet&job=e8074ba3-eba1-44f8-9dfd-3a0f8627d090&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
+    },
+    {
+      "id": "1f589f10-7030-4f08-8e58-08f29e881efe",
+      "company": "Itron",
+      "title": "Intern -  Firmware Engineer (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "United States of America",
+      "season": "Spring 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Itron&job=1f589f10-7030-4f08-8e58-08f29e881efe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"
     },
     {
       "id": "ad5e23b5-303f-40ab-9ac1-efdf5f506517",
@@ -1812,18 +1848,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Insulet&job=aa21b633-4f03-47de-97d2-1cef0756d8a1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966"
-    },
-    {
-      "id": "8115004c-454b-4868-89a4-7e38354f9060",
-      "company": "Insulet",
-      "title": "Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)",
-      "category": "Software Engineering",
-      "location": "Acton, MA",
-      "season": "2027",
-      "posted": "2026-09-11",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Insulet&job=8115004c-454b-4868-89a4-7e38354f9060&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986"
     },
     {
       "id": "a25f1567-045d-4760-abe7-44b21d90a0c9",
@@ -7936,18 +7960,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=c9147049-dae9-4eac-8ae9-2aaf35e652ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1"
-    },
-    {
-      "id": "f985b482-45fa-4000-b9ed-df14f24d40ad",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Melbourne, FL",
-      "season": "Spring 2027",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f985b482-45fa-4000-b9ed-df14f24d40ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
     }
   ]
 }
