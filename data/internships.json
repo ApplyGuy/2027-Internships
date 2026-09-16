@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:00:34.111Z",
+  "updatedAt": "2026-09-16T18:15:41.090Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -1716,6 +1716,45 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -3949,6 +3988,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -7782,18 +7834,6 @@
       "listingUrl": "https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Test-Intern--OKC-Local-Only-_JR1020"
     },
     {
-      "id": "7c576cc9-c604-401d-baf8-c8fe3bb2dc7d",
-      "company": "Bear Robotics",
-      "title": "Software Engineering Intern, Developer Productivity",
-      "category": "Software Engineering",
-      "location": "Redwood City, CA",
-      "season": "Not specified",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
-    },
-    {
       "id": "c9147049-dae9-4eac-8ae9-2aaf35e652ea",
       "company": "Intel",
       "title": "Software Development Graduate Intern",
@@ -7804,18 +7844,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=c9147049-dae9-4eac-8ae9-2aaf35e652ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1"
-    },
-    {
-      "id": "2b0d0e43-0cfb-4d10-be2f-7e41092777f7",
-      "company": "Point72",
-      "title": "Quantitative Developer Intern",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Not specified",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Point72&job=2b0d0e43-0cfb-4d10-be2f-7e41092777f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002"
     },
     {
       "id": "f985b482-45fa-4000-b9ed-df14f24d40ad",
