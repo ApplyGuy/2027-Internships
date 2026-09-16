@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T15:00:26.606Z",
+  "updatedAt": "2026-09-16T15:15:37.386Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -74,6 +74,30 @@
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262"
     },
     {
+      "id": "7e4f729d-2a48-4ebb-a2ab-3bf7c91ae424",
+      "company": "Nasdaq",
+      "title": "Software Developer/ Engineer Intern - 2027 Summer Internship",
+      "category": "Software Engineering",
+      "location": "Glenridge Point, GA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nasdaq&job=7e4f729d-2a48-4ebb-a2ab-3bf7c91ae424&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
+    },
+    {
+      "id": "d3ff2eb6-ac5c-46af-8ed6-4cf6f23d9a3e",
+      "company": "Neogen",
+      "title": "Software or Firmware Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Oakdale, MN",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Neogen&job=d3ff2eb6-ac5c-46af-8ed6-4cf6f23d9a3e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
+    },
+    {
       "id": "de062b86-0280-4e13-84ef-04b3f857305d",
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
@@ -84,6 +108,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
+    },
+    {
+      "id": "676d458a-9a55-4799-a3d7-949204c631a8",
+      "company": "Relay",
+      "title": "Relay Launchpad Intern - Software Engineer (AI/ML)",
+      "category": "Software Engineering",
+      "location": "Raleigh, NC",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Relay&job=676d458a-9a55-4799-a3d7-949204c631a8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8176774"
+    },
+    {
+      "id": "27cb71c0-8d86-4088-beeb-cc6c60374a47",
+      "company": "Relay",
+      "title": "Relay Launchpad Intern - Software Engineer (Device Team)",
+      "category": "Software Engineering",
+      "location": "Raleigh, NC",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Relay&job=27cb71c0-8d86-4088-beeb-cc6c60374a47&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
     },
     {
       "id": "4bb69854-c7f3-4bc3-a857-16ab763a45de",
@@ -1668,6 +1716,45 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -3901,6 +3988,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
