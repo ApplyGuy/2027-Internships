@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:15:33.181Z",
+  "updatedAt": "2026-09-16T01:30:32.490Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Bracco&job=888cb419-c0ec-4dda-b0f6-09287669ed99&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324"
+    },
+    {
+      "id": "4362fe59-a8f5-4f42-8ed3-7293cffdc50e",
+      "company": "Brevium",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "American Fork, UT",
+      "season": "Not specified",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Brevium&job=4362fe59-a8f5-4f42-8ed3-7293cffdc50e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/brevium/jobs/4713683006"
     },
     {
       "id": "6f30f2f3-528c-4507-b095-e67ea572a4c1",
