@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T02:00:29.820Z",
+  "updatedAt": "2026-09-16T02:15:35.466Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -12,6 +12,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Acxiomllc&job=9b2aa81b-0ae0-4015-a9ba-65a332ea2503&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Intern---Product-Management_JR014469"
+    },
+    {
+      "id": "6122fc8a-1804-48a3-8486-9d654600147d",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Marlborough, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6122fc8a-1804-48a3-8486-9d654600147d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955"
+    },
+    {
+      "id": "0fc0932a-eecf-42c1-b52b-63d96ae2de95",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer/Fall 2027)",
+      "category": "Software Engineering",
+      "location": "Rockford, IL",
+      "season": "Fall 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=0fc0932a-eecf-42c1-b52b-63d96ae2de95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928"
+    },
+    {
+      "id": "06512220-f8bb-4e59-bb2a-d3de2eeddd27",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Annapolis, MD",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=06512220-f8bb-4e59-bb2a-d3de2eeddd27&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556"
+    },
+    {
+      "id": "36be5512-f593-4424-9d0a-6f8dcba4cc38",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "State College, PA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=36be5512-f593-4424-9d0a-6f8dcba4cc38&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987"
     },
     {
       "id": "46b4f0e4-d24c-466d-873b-7338e67f77c0",
@@ -1613,18 +1661,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977"
     },
     {
-      "id": "625330b0-04d4-4316-bdac-8b935ab37a04",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "State College, PA",
-      "season": "Summer 2027",
-      "posted": "2026-09-11",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=625330b0-04d4-4316-bdac-8b935ab37a04&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001"
-    },
-    {
       "id": "5fb89d79-7691-4566-bc12-ea09db02d57d",
       "company": "RTX",
       "title": "Software Platform Intern (Summer 2027)",
@@ -3187,7 +3223,7 @@
     {
       "id": "fc47d248-31b9-4107-b412-5af47757d22d",
       "company": "Gilead",
-      "title": "Intern - Commercial & Corporate Affairs - Commercial Product Strategy (HIV Prevention)",
+      "title": "Intern - Commercial - Commercial Product Strategy (HIV Prevention)",
       "category": "Product",
       "location": "Foster City, CA",
       "season": "Not specified",
@@ -7496,18 +7532,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-    },
-    {
-      "id": "de59f0ee-f3e6-438d-a65e-59c63e115674",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=de59f0ee-f3e6-438d-a65e-59c63e115674&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814"
     },
     {
       "id": "32dbc7b4-a662-44f5-9c0d-336ba68bed8f",
