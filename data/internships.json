@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:00:33.469Z",
+  "updatedAt": "2026-09-16T01:15:33.181Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Analogdevices&job=d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132"
+    },
+    {
+      "id": "ee433497-9e18-4e01-9e98-afd1041898dc",
+      "company": "Anduril Industries",
+      "title": "2027 Flight Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Costa Mesa, CA",
+      "season": "2027",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=ee433497-9e18-4e01-9e98-afd1041898dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"
     },
     {
       "id": "969f055a-abee-44a0-a1de-7f709c37ff25",
