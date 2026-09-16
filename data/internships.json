@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:15:36.789Z",
+  "updatedAt": "2026-09-16T20:30:34.875Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -146,6 +146,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082"
     },
     {
+      "id": "b960ed8d-a23e-4a4e-bae0-603c2e04033b",
+      "company": "Gfs",
+      "title": "Cloud DevOps Internship",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=b960ed8d-a23e-4a4e-bae0-603c2e04033b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"
+    },
+    {
       "id": "ad5e23b5-303f-40ab-9ac1-efdf5f506517",
       "company": "Jj",
       "title": "Software Engineering Intern - Robotics R&D",
@@ -240,6 +252,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Relay&job=27cb71c0-8d86-4088-beeb-cc6c60374a47&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
+    },
+    {
+      "id": "c425dadf-2aeb-4476-a3dd-10e056467784",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c425dadf-2aeb-4476-a3dd-10e056467784&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099"
+    },
+    {
+      "id": "77452802-5fc3-46f2-9308-3408d03e9e2d",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Tucson, AZ",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=77452802-5fc3-46f2-9308-3408d03e9e2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282"
+    },
+    {
+      "id": "5b930026-40d5-4345-9764-6a5cfa6912f3",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Winter/Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Spring 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b930026-40d5-4345-9764-6a5cfa6912f3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"
     },
     {
       "id": "4bb69854-c7f3-4bc3-a857-16ab763a45de",
@@ -2292,18 +2340,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a3b0247c-06cd-4c81-a200-a9b1d906e4b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
-    },
-    {
-      "id": "5efe2b9b-c3b1-4b9d-97a8-b2e2293c8b0d",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-10",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5efe2b9b-c3b1-4b9d-97a8-b2e2293c8b0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878"
     },
     {
       "id": "2bd6db53-f501-417c-9fbb-0d70ca806e68",
@@ -5389,18 +5425,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=f2850427-45ac-47f4-9605-1af676f37b25&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
-    },
-    {
-      "id": "67d388a7-6adc-4e58-8494-1d98f7f38418",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Winter/Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Spring 2027",
-      "posted": "2026-09-02",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=67d388a7-6adc-4e58-8494-1d98f7f38418&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191"
     },
     {
       "id": "45bff21c-4a59-43e4-8795-2f666a305aa6",
