@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:45:44.644Z",
+  "updatedAt": "2026-09-16T02:00:29.820Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Acxiomllc&job=9b2aa81b-0ae0-4015-a9ba-65a332ea2503&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/New-York/Intern---Product-Management_JR014469"
+    },
+    {
+      "id": "46b4f0e4-d24c-466d-873b-7338e67f77c0",
+      "company": "Smarty",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Orem, UT",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Smarty&job=46b4f0e4-d24c-466d-873b-7338e67f77c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/smarty/jobs/76ceddee-de0a-4218-a9fb-976bd420558a"
     },
     {
       "id": "d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6",
