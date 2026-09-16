@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:30:58.742Z",
+  "updatedAt": "2026-09-16T21:45:35.515Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -444,6 +444,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Smarty&job=46b4f0e4-d24c-466d-873b-7338e67f77c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/smarty/jobs/76ceddee-de0a-4218-a9fb-976bd420558a"
+    },
+    {
+      "id": "e0ad1a0a-eeca-4c03-b6a6-6de510d14509",
+      "company": "Tel",
+      "title": "Software Engineer 2027 Summer Intern",
+      "category": "Software Engineering",
+      "location": "Chaska, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tel&job=e0ad1a0a-eeca-4c03-b6a6-6de510d14509&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573"
+    },
+    {
+      "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
+      "company": "Valeo",
+      "title": "Systems Engineering Co-Op (Software)",
+      "category": "Software Engineering",
+      "location": "Troy, MI",
+      "season": "Co-op",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Valeo&job=d27aafad-cd5f-4ad3-969b-05b946ac8814&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
+    },
+    {
+      "id": "a5153b7c-a3a3-4db0-8c26-9dea6c4755dc",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+    },
+    {
+      "id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     },
     {
       "id": "551dea69-b070-46d6-8814-5d7fcc8f6cb3",
@@ -1920,6 +1968,45 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -4141,6 +4228,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
