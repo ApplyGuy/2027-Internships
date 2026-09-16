@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:45:58.499Z",
+  "updatedAt": "2026-09-16T21:00:31.621Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -216,6 +216,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jj&job=681867fb-381a-42a4-a4cc-0045b3307ac0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262"
+    },
+    {
+      "id": "6e666749-79c7-4a47-b5c6-8d01bd26b827",
+      "company": "Nanopath",
+      "title": "Software Development Co-op (Jan '27 Start)",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Co-op",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nanopath&job=6e666749-79c7-4a47-b5c6-8d01bd26b827&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005"
     },
     {
       "id": "7e4f729d-2a48-4ebb-a2ab-3bf7c91ae424",
