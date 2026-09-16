@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:30:37.345Z",
+  "updatedAt": "2026-09-16T09:45:27.277Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -1596,6 +1596,45 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -3829,6 +3868,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    {
+      "id": "custom:microsoft:3059885c2b1959ae67a5",
+      "company": "Microsoft",
+      "title": "Firmware Engineering INTERN",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -7708,42 +7760,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Datadog&job=5a8f2b7e-a1f0-4662-a3db-24b881bf14b3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241"
-    },
-    {
-      "id": "f67d2570-0a56-49d2-bdfb-bed11daccff9",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Fall 2027",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=f67d2570-0a56-49d2-bdfb-bed11daccff9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1"
-    },
-    {
-      "id": "b068dab4-e132-469e-bde1-7e13af0749a0",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Summer 2027",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=b068dab4-e132-469e-bde1-7e13af0749a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1"
-    },
-    {
-      "id": "ae1245bd-aa68-4290-834b-b251d848145c",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Spring 2027",
-      "posted": "2026-08-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=ae1245bd-aa68-4290-834b-b251d848145c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"
     },
     {
       "id": "c9147049-dae9-4eac-8ae9-2aaf35e652ea",
