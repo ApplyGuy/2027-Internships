@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:00:30.411Z",
+  "updatedAt": "2026-09-17T00:15:32.300Z",
   "jobs": [
     {
       "id": "9b2aa81b-0ae0-4015-a9ba-65a332ea2503",
@@ -24,6 +24,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=e36f42ed-7cef-44c6-a937-2200b38ef0e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550"
+    },
+    {
+      "id": "8eb0d6c0-1391-46b9-ad7d-52de5cd1ae88",
+      "company": "Antares",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Antares&job=8eb0d6c0-1391-46b9-ad7d-52de5cd1ae88&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/antares/419ef2df-f0aa-4b68-994a-077e08a959e3"
+    },
+    {
+      "id": "6020b42e-4531-4b07-9a8a-ef2cb30fce97",
+      "company": "Antares",
+      "title": "Software Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Antares&job=6020b42e-4531-4b07-9a8a-ef2cb30fce97&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830"
     },
     {
       "id": "f4db38a3-d1ed-4064-94da-82d1b0d4fca1",
