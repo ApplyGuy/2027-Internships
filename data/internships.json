@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:15:22.515Z",
+  "updatedAt": "2026-09-17T20:30:49.477Z",
   "jobs": [
     {
       "id": "89cffab9-2f33-4b3f-b8e6-8cf68aa5721f",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Copart&job=92f4727d-a58a-4033-beed-9291b795954b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532"
+    },
+    {
+      "id": "fb195867-4176-49a5-a0e5-56a7aca66dde",
+      "company": "Elkay",
+      "title": "Product Management Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Paso Robles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
     },
     {
       "id": "755a54b4-5d61-4d4a-93fe-e65d53e99d74",
