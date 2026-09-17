@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T15:45:19.370Z",
+  "updatedAt": "2026-09-17T16:00:22.683Z",
   "jobs": [
     {
       "id": "89cffab9-2f33-4b3f-b8e6-8cf68aa5721f",
@@ -86,6 +86,18 @@
       "listingUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
     },
     {
+      "id": "2669f7c6-57be-43f7-b46a-c9a064428f1d",
+      "company": "Ttmtech",
+      "title": "Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Farmingdale, NY",
+      "season": "Not specified",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=2669f7c6-57be-43f7-b46a-c9a064428f1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R18038"
+    },
+    {
       "id": "a29432f2-2917-4780-840b-09176359ea50",
       "company": "Unisys",
       "title": "Software Engineer Intern",
@@ -98,67 +110,7 @@
       "listingUrl": "https://unisys.wd5.myworkdayjobs.com/external/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111"
     },
     {
-      "id": "ebc71bf3-673e-4ca4-a56e-1b9e2c599577",
-      "company": "Visa",
-      "title": "Software Engineer, Intern, Bellevue - 2027",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=ebc71bf3-673e-4ca4-a56e-1b9e2c599577&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-1"
-    },
-    {
-      "id": "d26cda79-eaa6-49ff-b73e-5f132a51f40f",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=d26cda79-eaa6-49ff-b73e-5f132a51f40f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W"
-    },
-    {
-      "id": "c1f8b5a2-f9d1-4cc3-a73d-379e5e12c363",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "category": "Software Engineering",
-      "location": "Foster City, CA",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=c1f8b5a2-f9d1-4cc3-a73d-379e5e12c363&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W"
-    },
-    {
-      "id": "a7d4ce5b-f985-4d44-afc3-e578ceeb9c0b",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-      "category": "Software Engineering",
-      "location": "Denver, CO",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=a7d4ce5b-f985-4d44-afc3-e578ceeb9c0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W"
-    },
-    {
-      "id": "92993828-3ed6-457d-8f8c-90ac1d212c77",
-      "company": "Visa",
-      "title": "Software Engineer, Intern, Highlands Ranch, CO - 2027",
-      "category": "Software Engineering",
-      "location": "Denver, CO",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=92993828-3ed6-457d-8f8c-90ac1d212c77&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W-2"
-    },
-    {
-      "id": "92643a70-eb93-4dbf-a5e6-3e373fdc082a",
+      "id": "e865ff78-b6cc-4188-8c5f-bd23ec79a77b",
       "company": "Visa",
       "title": "Software Engineer, Intern - 2027 Austin, TX",
       "category": "Software Engineering",
@@ -166,11 +118,11 @@
       "season": "2027",
       "posted": "2026-09-17",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=92643a70-eb93-4dbf-a5e6-3e373fdc082a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W"
+      "url": "https://applyguy.ai/jobs?company=Visa&job=e865ff78-b6cc-4188-8c5f-bd23ec79a77b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
     },
     {
-      "id": "886702b6-c75e-48d9-b11b-3d4d190ffbeb",
+      "id": "d645b648-06cd-42c9-95d0-2888115aa87b",
       "company": "Visa",
       "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
       "category": "Software Engineering",
@@ -178,11 +130,23 @@
       "season": "2027",
       "posted": "2026-09-17",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=886702b6-c75e-48d9-b11b-3d4d190ffbeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W"
+      "url": "https://applyguy.ai/jobs?company=Visa&job=d645b648-06cd-42c9-95d0-2888115aa87b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"
     },
     {
-      "id": "6b300252-cef9-4966-adad-0a2e99ae280a",
+      "id": "c6db2a95-1f7f-4e91-ac4e-a87736fc1cdf",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=c6db2a95-1f7f-4e91-ac4e-a87736fc1cdf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
+    },
+    {
+      "id": "badd8ab8-18c1-4486-b453-f5b82e82c229",
       "company": "Visa",
       "title": "Software Engineer, Intern - Foster City 2027",
       "category": "Software Engineering",
@@ -190,23 +154,59 @@
       "season": "2027",
       "posted": "2026-09-17",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=6b300252-cef9-4966-adad-0a2e99ae280a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W"
+      "url": "https://applyguy.ai/jobs?company=Visa&job=badd8ab8-18c1-4486-b453-f5b82e82c229&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"
     },
     {
-      "id": "66d2dc69-b50c-4e3f-a23b-ef0c00aa100d",
+      "id": "b21050d5-8b1d-4048-ab66-f0aa8c59fccb",
       "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
+      "title": "Software Engineer, Intern, Bellevue - 2027",
       "category": "Software Engineering",
-      "location": "Austin, TX",
+      "location": "Bellevue, WA",
       "season": "2027",
       "posted": "2026-09-17",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=66d2dc69-b50c-4e3f-a23b-ef0c00aa100d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W"
+      "url": "https://applyguy.ai/jobs?company=Visa&job=b21050d5-8b1d-4048-ab66-f0aa8c59fccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2"
     },
     {
-      "id": "2820cb73-580c-4962-b68f-f5875ca321df",
+      "id": "b072c35a-004b-4c78-b118-4f6315154445",
+      "company": "Visa",
+      "title": "Software Engineer, Intern, Highlands Ranch, CO - 2027",
+      "category": "Software Engineering",
+      "location": "Denver, CO",
+      "season": "2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=b072c35a-004b-4c78-b118-4f6315154445&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"
+    },
+    {
+      "id": "872d5d21-70fa-4b23-a977-fe5564a0d1ed",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+      "category": "Software Engineering",
+      "location": "Denver, CO",
+      "season": "2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=872d5d21-70fa-4b23-a977-fe5564a0d1ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
+    },
+    {
+      "id": "3009b7d0-8f19-41cc-acf9-5cc656c68bf6",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=3009b7d0-8f19-41cc-acf9-5cc656c68bf6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"
+    },
+    {
+      "id": "081ba343-e9cc-4595-b010-c29984602be6",
       "company": "Visa",
       "title": "Software Engineer, Intern - 2027 Ashburn, VA",
       "category": "Software Engineering",
@@ -214,8 +214,20 @@
       "season": "2027",
       "posted": "2026-09-17",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=2820cb73-580c-4962-b68f-f5875ca321df&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W"
+      "url": "https://applyguy.ai/jobs?company=Visa&job=081ba343-e9cc-4595-b010-c29984602be6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1"
+    },
+    {
+      "id": "06759617-7f2d-45de-bd2d-95f2ffa00606",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=06759617-7f2d-45de-bd2d-95f2ffa00606&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
     },
     {
       "id": "fe327a7b-5093-4508-afd6-a9102983431c",
@@ -1718,18 +1730,6 @@
       "listingUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
     },
     {
-      "id": "78c19447-9360-490d-8dd6-7a356f9d28f7",
-      "company": "Ttmtech",
-      "title": "Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Farmingdale, NY",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=78c19447-9360-490d-8dd6-7a356f9d28f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R18005"
-    },
-    {
       "id": "c1f507f9-7701-45c4-a723-82f4d44688c1",
       "company": "Viavisolutions",
       "title": "Software Engineering Co-Op",
@@ -2244,45 +2244,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -4504,19 +4465,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=223330a1-d519-4656-8442-fb686422cc7b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
-    },
-    {
-      "id": "custom:microsoft:3059885c2b1959ae67a5",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Santa Clara",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "applySupported": false
     },
     {
       "id": "7fa2dd40-c6e2-4b44-a03d-84f713573b2c",
@@ -8182,18 +8130,6 @@
       "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
     },
     {
-      "id": "f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8",
-      "company": "Draper",
-      "title": "Full Stack Web Development Co-Op (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Spring 2027",
-      "posted": "2026-08-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Draper&job=f84bc1e4-c9bf-42f0-a2e2-e6978029d7c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
-    },
-    {
       "id": "b2ee60a7-e946-4868-8b56-dfd264602c94",
       "company": "Five Rings",
       "title": "LINK 2027: Software Development Intensive Program — Intern",
@@ -8264,18 +8200,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003"
-    },
-    {
-      "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
-      "company": "Zipline",
-      "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003"
     }
   ]
 }
