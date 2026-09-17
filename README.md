@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-676-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-674-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **676** active U.S. internships posted within the last **30 days**
+- **674** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 17, 2026, 1:30 AM PDT**
+- Last refresh: **Sep 17, 2026, 1:45 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**617 open roles**
+**615 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -640,8 +640,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Garda Capital Partners | Software Engineer Intern | New York City, NY | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Garda+Capital+Partners&job=9527486f-df6c-4b7f-b504-d62f61432e18&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) |
 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | RTX | Software Engineering Intern (Summer 2027) | Westford, MA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=32dbc7b4-a662-44f5-9c0d-336ba68bed8f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678) |
-| RTX | 2027 Software Engineering Intern (Onsite) | Cambridge, MA | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=6127eb0f-9258-420f-b898-0fb93b3bca5a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) |
-| RTX | 2027 Software Engineer Intern (Onsite) | Cambridge, MA | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=02799ef8-f589-4c30-a5aa-e3bd9b11fc44&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) |
 | Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | South San Francisco, CA | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003) |
 | Zipline | Enterprise Systems Software Engineer Intern (Summer 2027) | South San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003) |
 | Zipline | Long Range Platform Embedded Firmware Intern (Summer 2027) | South San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003) |
