@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:45:22.963Z",
+  "updatedAt": "2026-09-17T22:00:23.023Z",
   "jobs": [
     {
       "id": "530eeb85-469a-41da-8cb7-033a18f8da97",
@@ -936,18 +936,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
-    },
-    {
-      "id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     },
     {
       "id": "551dea69-b070-46d6-8814-5d7fcc8f6cb3",
@@ -2344,7 +2332,7 @@
     {
       "id": "a25f1567-045d-4760-abe7-44b21d90a0c9",
       "company": "Lyft",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
       "category": "Software Engineering",
       "location": "New York City, NY",
       "season": "Summer 2027",
@@ -2356,7 +2344,7 @@
     {
       "id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
       "company": "Lyft",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
       "category": "Software Engineering",
       "location": "San Francisco, CA",
       "season": "Summer 2027",
