@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:30:12.244Z",
+  "updatedAt": "2026-09-17T19:45:22.855Z",
   "jobs": [
     {
       "id": "89cffab9-2f33-4b3f-b8e6-8cf68aa5721f",
@@ -12,6 +12,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amperesand&job=89cffab9-2f33-4b3f-b8e6-8cf68aa5721f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
+    },
+    {
+      "id": "c8022b78-34e7-4d79-8c21-8f31ba073af5",
+      "company": "Axcelis",
+      "title": "Co-Op, (Manufacturing Software Development)",
+      "category": "Software Engineering",
+      "location": "Beverly, MA",
+      "season": "Co-op",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Axcelis&job=c8022b78-34e7-4d79-8c21-8f31ba073af5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019"
+    },
+    {
+      "id": "06226225-902b-47f7-ad9d-3f9fe6619a38",
+      "company": "Bcbsks",
+      "title": "RPA Engineering Developer Intern",
+      "category": "Software Engineering",
+      "location": "Topeka, KS",
+      "season": "Not specified",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bcbsks&job=06226225-902b-47f7-ad9d-3f9fe6619a38&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bcbsks.wd1.myworkdayjobs.com/external/job/Topeka/RPA-Engineering-Developer-Intern_R2026350"
+    },
+    {
+      "id": "c4bfebe3-7d16-4cd9-9b5d-92d49993faa5",
+      "company": "CAMBA",
+      "title": "Internship Developer, Learning to Work Program",
+      "category": "Software Engineering",
+      "location": "Brooklyn, NY",
+      "season": "Not specified",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CAMBA&job=c4bfebe3-7d16-4cd9-9b5d-92d49993faa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://camba.applytojob.com/apply/wv3YppWJJF"
     },
     {
       "id": "1bfbe157-dcc1-457e-890b-7b7299c5142d",
