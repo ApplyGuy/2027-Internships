@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:00:43.672Z",
+  "updatedAt": "2026-09-17T19:15:19.624Z",
   "jobs": [
     {
       "id": "89cffab9-2f33-4b3f-b8e6-8cf68aa5721f",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Greatamerica&job=755a54b4-5d61-4d4a-93fe-e65d53e99d74&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Quality-Engineer-Intern_JR1235"
+    },
+    {
+      "id": "8bdd0995-c5b9-4481-b603-55128e03f4a4",
+      "company": "Join the Imagine team!",
+      "title": "Summer 2027 Software Development Intern",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Join+the+Imagine+team%21&job=8bdd0995-c5b9-4481-b603-55128e03f4a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4510538"
     },
     {
       "id": "63ff558d-a51f-470f-b632-a3af9c5dc742",
