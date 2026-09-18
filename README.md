@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-697-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-699-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **697** active U.S. internships posted within the last **30 days**
+- **699** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 18, 2026, 8:45 AM PDT**
+- Last refresh: **Sep 18, 2026, 9:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**632 open roles**
+**634 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -39,6 +39,9 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Phase 2 | Software Engineer Intern | Oklahoma City, OK | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Phase+2&job=a26b581e-add6-46f2-8e18-755c3bca3de0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://phase2.applytojob.com/apply/sQXYQC0QJw) |
 | RTX | Software Engineering Intern (Summer 2027) | Colorado Springs, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=cb5cb7bd-ad27-461b-8dc2-c0df1d461fa7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131) |
 | RTX | Electrical Firmware (Winter/Spring Co-op)(Onsite) | Cedar Rapids, IA | Winter | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=020c0c39-750a-4cfd-9e1c-3cb7667e77be&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872-1) |
+| Together AI | Software Engineer Intern (Winter 2027) | San Francisco, CA | Winter 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Together+AI&job=718402f1-ed8b-49a5-b237-ddb34fb71e40&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/togetherai/jobs/5238031007) |
+| Together AI | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Together+AI&job=cb284cfe-fa39-4ad5-8c47-3a32582d8b08&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/togetherai/jobs/5232036007) |
+| Together AI | Software Development In Test Intern (Summer 2027) | San Francisco, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Together+AI&job=77dd38cb-0d58-41d2-9a33-24eb684a0437&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/togetherai/jobs/5238472007) |
 | Abridge | Software Engineering Intern, Spring | San Francisco, CA | Spring | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e) |
 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Summer 2027 | 1d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) |
 | Amperesand | Software Engineering Intern | Reno, NV | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Amperesand&job=89cffab9-2f33-4b3f-b8e6-8cf68aa5721f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/amperesand/jobs/4409254009) |
@@ -653,7 +656,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Zipline | Software Engineer Intern (Spring 2027) | South San Francisco, CA | Spring 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003) |
 | Zipline | Software Systems Validation Intern (Spring 2027) | South San Francisco, CA | Spring 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003) |
 | Zipline | Software Systems Validation Intern (Summer 2027) | South San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003) |
-| Clarity Partners LLC | Software Development Internship | Chicago, IL | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Clarity+Partners+LLC&job=7d0cde15-28b9-4146-a3a3-bc6085f30be6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4433376) |
 | Etegent Technologies, LTD | Machine Learning Engineer Co-Op | Beavercreek, OH | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Etegent+Technologies%2C+LTD&job=b249a568-eb27-434c-80fe-374bdbcf0b6a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4429295) |
 | Etegent Technologies, LTD | Software Development Co-Op | Beavercreek, OH | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Etegent+Technologies%2C+LTD&job=5d510b41-9d63-4a87-979f-e6c5b719cd73&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4429441) |
 | General Matter | Summer 2027 Internship - Software Engineering | Los Angeles, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=General+Matter&job=78ff7ec5-36c5-405a-9708-dbc145211fed&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) |
