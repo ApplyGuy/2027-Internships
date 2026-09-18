@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-698-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-700-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **698** active U.S. internships posted within the last **30 days**
+- **700** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 17, 2026, 7:45 PM PDT**
+- Last refresh: **Sep 17, 2026, 8:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**634 open roles**
+**635 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -32,6 +32,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | BERKLEY W R CORP | Dynamics Admin/Developer Intern | Urbandale, IA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=78a84939-0a4f-427f-a333-ba25b46b61c6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job) |
 | Disney | WDI Show Control Software Intern, Spring 2027 | Lake Buena Vista FL | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Disney&job=dd971d97-bcdc-4af4-85b0-cd726621295b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946) |
 | FIS | Intern, Software Engineer, FIS University Program | Jax 347, FL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FIS&job=acd16527-6a8e-4fd0-b9d8-e8addd16ea0e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512) |
+| Microsoft | Software Engineering Internship (6-month Program) | United States, California, Santa Clara · United States, Washington, Redmond | — | Today | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556982258) |
 | RTX | Software Engineering Intern (Summer 2027) | Colorado Springs, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=cb5cb7bd-ad27-461b-8dc2-c0df1d461fa7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131) |
 | RTX | Electrical Firmware (Winter/Spring Co-op)(Onsite) | Cedar Rapids, IA | Winter | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=020c0c39-750a-4cfd-9e1c-3cb7667e77be&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872-1) |
 | Abridge | Software Engineering Intern, Spring | San Francisco, CA | Spring | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e) |
@@ -665,7 +666,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**64 open roles**
+**65 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -675,6 +676,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Copart | Technology Product Analyst Intern | Dallas, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Copart&job=92f4727d-a58a-4033-beed-9291b795954b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532) |
 | Elkay | Product Management Intern (Summer 2027) | Paso Robles, CA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
 | Rockwellautomation | Intern, Product Management | Mequon, WI | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rockwellautomation&job=310962c5-9433-4095-b2a8-2fb26418a9a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971) |
+| Rundoo | Product Manager Intern | Redwood City, CA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rundoo&job=9838fad4-0282-4138-89cc-a0dbe9835973&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | Foster City, CA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Visa&job=fe327a7b-5093-4508-afd6-a9102983431c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | Austin, TX | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Visa&job=b80762fa-5a29-4a96-932d-03d91b9d41f7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) |
 | Elkay | Product Management Intern - Summer 2027 | Erie, PA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Elkay&job=bd5bb5cc-afd0-4888-ac73-b6062541e4b0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) |
