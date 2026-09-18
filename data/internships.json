@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:15:19.105Z",
+  "updatedAt": "2026-09-18T14:30:23.584Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Applied+Innovation&job=c9abc129-70ba-45e7-9fe9-e89cba964be3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://appliedinnovation.applytojob.com/apply/DWiAHxQUJn"
+    },
+    {
+      "id": "7725550d-597a-47ee-bcb4-140c45a3546d",
+      "company": "BERKLEY W R CORP",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Urbandale, IA",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=7725550d-597a-47ee-bcb4-140c45a3546d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-berkley.icims.com/jobs/14444/software-developer-intern/job"
     },
     {
       "id": "94e4821e-7697-45e6-99c7-d355fabff49a",
@@ -48,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=7769990a-dc71-48b0-afee-36a25341fd83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-berkley.icims.com/jobs/14439/product-management-analyst-intern-%28claims%29/job"
+    },
+    {
+      "id": "5fc38320-4d34-409b-8eab-7d23302feec6",
+      "company": "Careers",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Careers&job=5fc38320-4d34-409b-8eab-7d23302feec6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job"
     },
     {
       "id": "dd971d97-bcdc-4af4-85b0-cd726621295b",
