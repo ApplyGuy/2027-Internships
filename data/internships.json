@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:45:29.421Z",
+  "updatedAt": "2026-09-18T21:00:29.910Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -110,6 +110,18 @@
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946"
     },
     {
+      "id": "7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17",
+      "company": "Fable Security",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fable+Security&job=7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"
+    },
+    {
       "id": "acd16527-6a8e-4fd0-b9d8-e8addd16ea0e",
       "company": "FIS",
       "title": "Intern, Software Engineer, FIS University Program",
@@ -134,6 +146,54 @@
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
     },
     {
+      "id": "b1424d74-79b7-4204-9745-ba7c60f78729",
+      "company": "Gemini",
+      "title": "Product Management Intern (Winter 2027)",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Winter 2027",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gemini&job=b1424d74-79b7-4204-9745-ba7c60f78729&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332"
+    },
+    {
+      "id": "0964ec05-0d2b-4730-b87b-c8b7319ffa1a",
+      "company": "Gemini",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Winter 2027",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gemini&job=0964ec05-0d2b-4730-b87b-c8b7319ffa1a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272"
+    },
+    {
+      "id": "e179002c-d0e1-4414-8f79-abb32daec984",
+      "company": "Gfs",
+      "title": "Software Engineer Internship",
+      "category": "Software Engineering",
+      "location": "Wyoming, MI",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=e179002c-d0e1-4414-8f79-abb32daec984&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
+    },
+    {
+      "id": "8a4db17c-6d83-4999-b0b6-8a1bba16cddb",
+      "company": "Gfs",
+      "title": "Software Engineer Intern (Low Code)",
+      "category": "Software Engineering",
+      "location": "Wyoming, MI",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=8a4db17c-6d83-4999-b0b6-8a1bba16cddb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
+    },
+    {
       "id": "c23b79cd-d630-4621-877d-d24d39681088",
       "company": "Gfs",
       "title": "Digital Product Management Internship",
@@ -144,6 +204,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gfs&job=c23b79cd-d630-4621-877d-d24d39681088&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
+    },
+    {
+      "id": "ced4347c-95fa-42b4-8fad-a6ee3eb94ec5",
+      "company": "Guardianlife",
+      "title": "2027 Guardian Summer Intern, Group Benefits Product Management",
+      "category": "Product",
+      "location": "Boston, MA",
+      "season": "Summer",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
     },
     {
       "id": "custom:microsoft:ee255be7db7c26043d19",
@@ -362,18 +434,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
-    },
-    {
-      "id": "755a54b4-5d61-4d4a-93fe-e65d53e99d74",
-      "company": "Greatamerica",
-      "title": "Software Quality Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Not specified",
-      "posted": "2026-09-17",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Greatamerica&job=755a54b4-5d61-4d4a-93fe-e65d53e99d74&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Quality-Engineer-Intern_JR1235"
     },
     {
       "id": "8bdd0995-c5b9-4481-b603-55128e03f4a4",
