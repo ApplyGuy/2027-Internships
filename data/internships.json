@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:15:28.418Z",
+  "updatedAt": "2026-09-18T22:30:14.085Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -8393,18 +8393,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003"
-    },
-    {
-      "id": "78ff7ec5-36c5-405a-9708-dbc145211fed",
-      "company": "General Matter",
-      "title": "Summer 2027 Internship - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-19",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=General+Matter&job=78ff7ec5-36c5-405a-9708-dbc145211fed&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
     }
   ]
 }
