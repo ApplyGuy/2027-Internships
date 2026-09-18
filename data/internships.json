@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T21:00:29.910Z",
+  "updatedAt": "2026-09-18T21:15:22.601Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -8422,18 +8422,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=78ff7ec5-36c5-405a-9708-dbc145211fed&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
-    },
-    {
-      "id": "73eb214d-9fcf-4427-b4be-736ecdc78571",
-      "company": "Massey Services",
-      "title": "Software Engineer Intern - Orlando",
-      "category": "Software Engineering",
-      "location": "Orlando, FL",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Massey+Services&job=73eb214d-9fcf-4427-b4be-736ecdc78571&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566"
     }
   ]
 }
