@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:30:15.858Z",
+  "updatedAt": "2026-09-18T18:45:39.371Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -8309,18 +8309,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Massey+Services&job=73eb214d-9fcf-4427-b4be-736ecdc78571&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566"
-    },
-    {
-      "id": "38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7",
-      "company": "Specialisterne",
-      "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
-      "category": "Software Engineering",
-      "location": "Dallas, TX",
-      "season": "Not specified",
-      "posted": "2026-08-19",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Specialisterne&job=38fe4dee-a0c9-44eb-a93e-d6bb1083b4b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL"
     }
   ]
 }
