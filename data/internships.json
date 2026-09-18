@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:45:39.371Z",
+  "updatedAt": "2026-09-18T19:00:19.642Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Careers&job=5fc38320-4d34-409b-8eab-7d23302feec6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job"
+    },
+    {
+      "id": "deadbfc7-fd21-45a2-9a00-e2bacc3abc30",
+      "company": "DeSHAZO LLC",
+      "title": "Jr. Software Developer Intern – Part-Time",
+      "category": "Software Engineering",
+      "location": "Azle, TX",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DeSHAZO+LLC&job=deadbfc7-fd21-45a2-9a00-e2bacc3abc30&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4517949"
     },
     {
       "id": "dd971d97-bcdc-4af4-85b0-cd726621295b",
