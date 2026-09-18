@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T16:00:42.418Z",
+  "updatedAt": "2026-09-18T16:15:18.355Z",
   "jobs": [
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
@@ -219,16 +219,16 @@
       "listingUrl": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
     },
     {
-      "id": "custom:amazon:7cc9c2c010b02d0e0a8a",
+      "id": "custom:amazon:344342bfea1579c4250f",
       "company": "Amazon",
-      "title": "Software Development Engineer Internship - Summer -2027 (USA)",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
       "category": "Software Engineering",
       "location": "US, WA, Seattle",
       "season": "Summer 2027",
       "posted": "2026-09-17",
       "age": "1d",
-      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
       "applySupported": false
     },
     {
