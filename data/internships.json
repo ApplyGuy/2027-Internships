@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T02:30:23.081Z",
+  "updatedAt": "2026-09-18T02:45:47.672Z",
   "jobs": [
     {
       "id": "94e4821e-7697-45e6-99c7-d355fabff49a",
@@ -48,6 +48,66 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Disney&job=dd971d97-bcdc-4af4-85b0-cd726621295b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946"
+    },
+    {
+      "id": "acd16527-6a8e-4fd0-b9d8-e8addd16ea0e",
+      "company": "FIS",
+      "title": "Intern, Software Engineer, FIS University Program",
+      "category": "Software Engineering",
+      "location": "Jax 347, FL",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FIS&job=acd16527-6a8e-4fd0-b9d8-e8addd16ea0e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
+    },
+    {
+      "id": "aada6f05-9595-44f4-b888-0e310b98ca17",
+      "company": "FIS",
+      "title": "Intern, Product Management, FIS University Program",
+      "category": "Product",
+      "location": "Jax 347, FL",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FIS&job=aada6f05-9595-44f4-b888-0e310b98ca17&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
+    },
+    {
+      "id": "c23b79cd-d630-4621-877d-d24d39681088",
+      "company": "Gfs",
+      "title": "Digital Product Management Internship",
+      "category": "Product",
+      "location": "Wyoming, MI",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=c23b79cd-d630-4621-877d-d24d39681088&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
+    },
+    {
+      "id": "cb5cb7bd-ad27-461b-8dc2-c0df1d461fa7",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Colorado Springs, CO",
+      "season": "Summer 2027",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=cb5cb7bd-ad27-461b-8dc2-c0df1d461fa7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
+    },
+    {
+      "id": "020c0c39-750a-4cfd-9e1c-3cb7667e77be",
+      "company": "RTX",
+      "title": "Electrical Firmware (Winter/Spring Co-op)(Onsite)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Winter",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=020c0c39-750a-4cfd-9e1c-3cb7667e77be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872-1"
     },
     {
       "id": "530eeb85-469a-41da-8cb7-033a18f8da97",
@@ -3556,18 +3616,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7d0d32f3-07b8-4c98-b044-c55231cc3c50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
-    },
-    {
-      "id": "59c8630f-d544-4a8e-9f65-7ec3a47f18d2",
-      "company": "RTX",
-      "title": "Electrical Firmware (Winter/Spring Co-op)(Onsite)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Winter",
-      "posted": "2026-09-09",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=59c8630f-d544-4a8e-9f65-7ec3a47f18d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872"
     },
     {
       "id": "4b2eb21b-a18b-458c-a5c5-fdbc15c81eba",
