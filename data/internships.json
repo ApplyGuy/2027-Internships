@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:00:31.351Z",
+  "updatedAt": "2026-09-19T04:15:30.378Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -397,6 +397,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Together+AI&job=77dd38cb-0d58-41d2-9a33-24eb684a0437&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007"
+    },
+    {
+      "id": "97041ffa-c61c-4c00-bdab-aef79c6db585",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
     },
     {
       "id": "530eeb85-469a-41da-8cb7-033a18f8da97",
@@ -8337,18 +8349,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DMS+International&job=1e88759e-1303-49a1-be38-c4251b159ed6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://dms-international.breezy.hr/p/3bc895c156a8-blockchain-application-developer-intern"
-    },
-    {
-      "id": "93f8f57f-cb67-4564-a784-52c1d479c9a3",
-      "company": "E-Space",
-      "title": "Embedded Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Arlington, TX",
-      "season": "Not specified",
-      "posted": "2026-08-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=E-Space&job=93f8f57f-cb67-4564-a784-52c1d479c9a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
     },
     {
       "id": "fcc9fa6f-d86f-4b29-ad0b-646e63d40638",
