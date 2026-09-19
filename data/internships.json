@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:15:13.028Z",
+  "updatedAt": "2026-09-19T22:30:16.755Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -8312,18 +8312,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Databricks&job=592ecf39-0d39-402b-be13-e5bfd97ed4e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
-    },
-    {
-      "id": "2f83e1d8-1b34-48ac-83c3-175f9df26d51",
-      "company": "Microchip",
-      "title": "Intern - Engineering (Device Software and Test)",
-      "category": "Software Engineering",
-      "location": "Chandler, AZ",
-      "season": "Not specified",
-      "posted": "2026-08-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Microchip&job=2f83e1d8-1b34-48ac-83c3-175f9df26d51&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"
     }
   ]
 }
