@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:45:17.245Z",
+  "updatedAt": "2026-09-19T09:00:26.096Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jj&job=f6483b9f-96f8-4844-99ae-2cfb64dc7184&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757"
+    },
+    {
+      "id": "e8f0ac39-3057-42d7-bd8e-acc797ccae7e",
+      "company": "RTX",
+      "title": "Software Project Engineer Intern (Summer 2027) Onsite",
+      "category": "Software Engineering",
+      "location": "Windsor Locks, CT",
+      "season": "Summer 2027",
+      "posted": "2026-09-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e8f0ac39-3057-42d7-bd8e-acc797ccae7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660"
     },
     {
       "id": "e966eec5-82b9-4300-ae89-05ec95524ab1",
@@ -264,19 +276,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
-    },
-    {
-      "id": "custom:microsoft:ee255be7db7c26043d19",
-      "company": "Microsoft",
-      "title": "Software Engineering Internship (6-month Program)",
-      "category": "Software Engineering",
-      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -2810,45 +2809,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
