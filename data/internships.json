@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:30:24.343Z",
+  "updatedAt": "2026-09-19T23:45:44.108Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -8300,18 +8300,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
-    },
-    {
-      "id": "592ecf39-0d39-402b-be13-e5bfd97ed4e8",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Winter",
-      "posted": "2026-08-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Databricks&job=592ecf39-0d39-402b-be13-e5bfd97ed4e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     }
   ]
 }
