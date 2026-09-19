@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-19T01:30:21.951Z",
+  "updatedAt": "2026-09-19T01:45:11.048Z",
   "jobs": [
+    {
+      "id": "4a1e9cf9-3a1b-47e1-9928-f340c20ff7e1",
+      "company": "Bmo",
+      "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+      "category": "Software Engineering",
+      "location": "San Ramon, CA",
+      "season": "Winter 2027",
+      "posted": "2026-09-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bmo&job=4a1e9cf9-3a1b-47e1-9928-f340c20ff7e1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2"
+    },
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
       "company": "Applied Innovation",
@@ -378,7 +390,7 @@
     {
       "id": "89cffab9-2f33-4b3f-b8e6-8cf68aa5721f",
       "company": "Amperesand",
-      "title": "Software Engineering Intern",
+      "title": "Software Intern, Factory & Ops",
       "category": "Software Engineering",
       "location": "Reno, NV",
       "season": "Not specified",
