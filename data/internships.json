@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:45:18.244Z",
+  "updatedAt": "2026-09-20T17:00:46.558Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -8264,30 +8264,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Lab37&job=f0494edc-603a-4c19-8eb4-95e2f759811f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/lab37/jobs/8695475002"
-    },
-    {
-      "id": "fec93f9c-f4de-4847-9cf9-c4985637e1fb",
-      "company": "Syska Hennessy Group",
-      "title": "Innovations Intern (Full Stack/Front End Engineering)  ",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Not specified",
-      "posted": "2026-08-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Syska+Hennessy+Group&job=fec93f9c-f4de-4847-9cf9-c4985637e1fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
-    },
-    {
-      "id": "2eb3f992-0013-439a-86d9-316e292a1264",
-      "company": "Zipline",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
     }
   ]
 }
