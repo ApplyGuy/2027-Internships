@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:00:20.520Z",
+  "updatedAt": "2026-09-20T09:15:49.218Z",
   "jobs": [
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Jj&job=f6483b9f-96f8-4844-99ae-2cfb64dc7184&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757"
+    },
+    {
+      "id": "e639b8c8-4b23-49f0-8874-fe39f01c2e59",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027) - Onsite",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e639b8c8-4b23-49f0-8874-fe39f01c2e59&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017"
     },
     {
       "id": "e8f0ac39-3057-42d7-bd8e-acc797ccae7e",
