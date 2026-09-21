@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T21:45:32.064Z",
+  "updatedAt": "2026-09-21T22:00:38.801Z",
   "jobs": [
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
@@ -86,6 +86,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507721"
     },
     {
+      "id": "047affa7-4e92-4ffe-8fe3-cedc44842a38",
+      "company": "Liveoakbancshares",
+      "title": "Summer 2027 Intern: Software Engineering",
+      "category": "Software Engineering",
+      "location": "Wilmington, NC",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Liveoakbancshares&job=047affa7-4e92-4ffe-8fe3-cedc44842a38&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://liveoakbancshares.wd1.myworkdayjobs.com/live_oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
+    },
+    {
       "id": "46395cf7-16bc-4b49-9774-978d3a998a81",
       "company": "Mercury",
       "title": "Software Engineering Intern - Spring 2027",
@@ -132,6 +144,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=3bba73e7-435d-4267-900b-1c2932e2c355&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
+    },
+    {
+      "id": "44965258-259a-4770-ad6c-52e52e5e7361",
+      "company": "Philips",
+      "title": "Intern – Medical Imaging Software Engineering, IVUS – Plymouth, MN – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Plymouth, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=44965258-259a-4770-ad6c-52e52e5e7361&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
     },
     {
       "id": "01c2892e-0c1a-44c0-b148-4072cf7ff98b",
