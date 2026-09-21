@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:15:30.165Z",
+  "updatedAt": "2026-09-21T10:30:30.694Z",
   "jobs": [
     {
       "id": "46395cf7-16bc-4b49-9774-978d3a998a81",
@@ -1938,7 +1938,7 @@
     {
       "id": "6c46b04e-4b34-4643-ade2-bc0484f5dd4a",
       "company": "SingleStore",
-      "title": "Software Engineer Intern",
+      "title": "Software Engineer Intern- Helios",
       "category": "Software Engineering",
       "location": "United States",
       "season": "Not specified",
@@ -2294,6 +2294,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Saabusa&job=23a77a25-d201-4eb2-9f84-4b2bb74351fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1"
+    },
+    {
+      "id": "73dae9b5-b724-48b8-9d79-2bff950c3c85",
+      "company": "SingleStore",
+      "title": "Software Engineer Intern- Engine",
+      "category": "Software Engineering",
+      "location": "United States",
+      "season": "Not specified",
+      "posted": "2026-09-14",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=SingleStore&job=73dae9b5-b724-48b8-9d79-2bff950c3c85&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
     {
       "id": "681deca7-8551-4eed-ab6d-f6a122932dd2",
