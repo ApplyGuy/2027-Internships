@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:00:38.801Z",
+  "updatedAt": "2026-09-21T22:15:27.841Z",
   "jobs": [
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
@@ -156,6 +156,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Philips&job=44965258-259a-4770-ad6c-52e52e5e7361&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
+    },
+    {
+      "id": "f798f1ec-8839-4a0e-8ee9-c8b3570a4686",
+      "company": "PrizePicks",
+      "title": "Software Engineering Internship - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Spring 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PrizePicks&job=f798f1ec-8839-4a0e-8ee9-c8b3570a4686&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "http://prizepicks.com/position?gh_jid=7996172003"
+    },
+    {
+      "id": "52e07a7d-cced-473e-9a69-12cecee17ab9",
+      "company": "PrizePicks",
+      "title": "Software Engineering Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PrizePicks&job=52e07a7d-cced-473e-9a69-12cecee17ab9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "http://prizepicks.com/position?gh_jid=7999266003"
     },
     {
       "id": "01c2892e-0c1a-44c0-b148-4072cf7ff98b",
@@ -492,6 +516,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+    },
+    {
+      "id": "custom:microsoft:ee255be7db7c26043d19",
+      "company": "Microsoft",
+      "title": "Software Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3037,6 +3074,45 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
