@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T16:30:32.432Z",
+  "updatedAt": "2026-09-21T16:45:27.100Z",
   "jobs": [
     {
       "id": "aa2339b1-df57-4e2a-a524-6f147bf1ddb4",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=upbound&job=b46aec68-56b4-4fa8-9a0c-32f63282d559&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
+    },
+    {
+      "id": "6df74fdc-cacf-42ad-849c-c0b70bd18f80",
+      "company": "Wegmans",
+      "title": "Assistant Front End Manager Trainee",
+      "category": "Software Engineering",
+      "location": "Crofton, MD",
+      "season": "Not specified",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wegmans&job=6df74fdc-cacf-42ad-849c-c0b70bd18f80&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0296320"
     },
     {
       "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
