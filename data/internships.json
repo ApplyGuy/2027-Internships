@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-21T20:00:30.904Z",
+  "updatedAt": "2026-09-21T20:15:30.615Z",
   "jobs": [
+    {
+      "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
+      "company": "Bound",
+      "title": "Product Management Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Ames, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316"
+    },
     {
       "id": "aa2339b1-df57-4e2a-a524-6f147bf1ddb4",
       "company": "Fmr",
