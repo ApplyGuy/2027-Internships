@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:30:26.100Z",
+  "updatedAt": "2026-09-21T22:46:01.181Z",
   "jobs": [
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
@@ -218,6 +218,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
     },
     {
+      "id": "97edb332-9c35-4e30-bcac-135ce7307ae3",
+      "company": "Synnex",
+      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: • Sales • Marketing • Vendor Management • Business Development  • Product Management  • Data Analytics",
+      "category": "Product",
+      "location": "Greenville, SC",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Commercial--High-Growth-Track----Sales---Marketing---Vendor-Management---Business-Development----Product-Management----Data-Analytics_R56570"
+    },
+    {
       "id": "c3038adf-92d5-4e4c-9b11-d37c758ac82e",
       "company": "upbound",
       "title": "Software Engineer Intern",
@@ -240,6 +252,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=upbound&job=b46aec68-56b4-4fa8-9a0c-32f63282d559&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
+    },
+    {
+      "id": "5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
+    },
+    {
+      "id": "7373f538-fbbb-45e0-9fa7-a8e5b6393d00",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
     },
     {
       "id": "6df74fdc-cacf-42ad-849c-c0b70bd18f80",
