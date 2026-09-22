@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T18:15:34.344Z",
+  "updatedAt": "2026-09-22T18:30:35.707Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -8645,18 +8645,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=4ab5499d-aa04-454b-99b0-9aac5efbfd82&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610"
-    },
-    {
-      "id": "4c9335e6-fa63-47c7-8665-8ce5495a0014",
-      "company": "Toyota of Cedar Park Keating LLC",
-      "title": "Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "Cedar Park, TX",
-      "season": "Not specified",
-      "posted": "2026-08-23",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Toyota+of+Cedar+Park+Keating+LLC&job=4c9335e6-fa63-47c7-8665-8ce5495a0014&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4443596"
     }
   ]
 }
