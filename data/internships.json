@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:45:37.066Z",
+  "updatedAt": "2026-09-22T23:00:30.331Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -303,7 +303,7 @@
       "listingUrl": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d"
     },
     {
-      "id": "54217d52-5206-405e-8df1-ee93070e76e9",
+      "id": "0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1",
       "company": "Tencent",
       "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
       "category": "Software Engineering",
@@ -311,8 +311,8 @@
       "season": "Not specified",
       "posted": "2026-09-22",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Tencent&job=54217d52-5206-405e-8df1-ee93070e76e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
+      "url": "https://applyguy.ai/jobs?company=Tencent&job=0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158"
     },
     {
       "id": "c55d4c54-0544-4e28-b78e-25924b9ee550",
@@ -337,6 +337,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=UDig&job=84082c25-aeaf-4994-b9d6-cd000606c2f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
+    },
+    {
+      "id": "d2ddcd48-bc32-4d31-bbb3-0491ec9cf243",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
     },
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
@@ -625,6 +637,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=0858716a-c7b3-43c0-a7e8-396491af4a52&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
+    },
+    {
+      "id": "248d04b6-59ce-4250-ab2a-bc8f38702e18",
+      "company": "Symbotic",
+      "title": "Intern- Software Engineer",
+      "category": "Software Engineering",
+      "location": "USA Wilmington, MA",
+      "season": "Not specified",
+      "posted": "2026-09-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Symbotic&job=248d04b6-59ce-4250-ab2a-bc8f38702e18&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963"
+    },
+    {
+      "id": "102de741-b080-40c4-8dec-cdf935a606b8",
+      "company": "Symbotic",
+      "title": "Intern- Data Engineer",
+      "category": "Software Engineering",
+      "location": "USA Wilmington, MA",
+      "season": "Not specified",
+      "posted": "2026-09-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Symbotic&job=102de741-b080-40c4-8dec-cdf935a606b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967"
     },
     {
       "id": "97edb332-9c35-4e30-bcac-135ce7307ae3",
@@ -997,6 +1033,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+    },
+    {
+      "id": "custom:microsoft:ee255be7db7c26043d19",
+      "company": "Microsoft",
+      "title": "Software Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3542,6 +3591,45 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
