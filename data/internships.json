@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:30:38.941Z",
+  "updatedAt": "2026-09-22T21:45:36.996Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -193,6 +193,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Guidestone&job=937fe55e-f089-4997-be44-fd1ef07bd37b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
+    },
+    {
+      "id": "e257fdf4-b226-468d-84d6-1cac625de076",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=e257fdf4-b226-468d-84d6-1cac625de076&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858"
     },
     {
       "id": "f04eb534-58af-48d5-8df9-057bb0f01cc8",
@@ -937,19 +949,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
-    },
-    {
-      "id": "custom:microsoft:ee255be7db7c26043d19",
-      "company": "Microsoft",
-      "title": "Software Engineering Internship (6-month Program)",
-      "category": "Software Engineering",
-      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3497,45 +3496,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
-    },
-    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -4398,18 +4358,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=K2+Space&job=da5ce096-2626-42a0-9bd8-0e7a4cf3be99&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
-    },
-    {
-      "id": "bbf5c50f-0cef-4a3e-bb8d-9a5a6eb44e9d",
-      "company": "Leidos",
-      "title": "Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "Annapolis Junction, MD",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=bbf5c50f-0cef-4a3e-bb8d-9a5a6eb44e9d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713"
     },
     {
       "id": "9bcfaded-2a0c-4d08-ab8d-c01ad79d37aa",
