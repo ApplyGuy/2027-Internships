@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T15:31:03.612Z",
+  "updatedAt": "2026-09-22T15:45:56.413Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -145,6 +145,18 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
       "applySupported": false
+    },
+    {
+      "id": "937fe55e-f089-4997-be44-fd1ef07bd37b",
+      "company": "Guidestone",
+      "title": "Summer Intern - Software Developer",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Summer",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Guidestone&job=937fe55e-f089-4997-be44-fd1ef07bd37b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
     },
     {
       "id": "f04eb534-58af-48d5-8df9-057bb0f01cc8",
