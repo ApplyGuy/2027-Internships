@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:01:09.248Z",
+  "updatedAt": "2026-09-22T21:15:33.767Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -134,6 +134,18 @@
       "listingUrl": "https://careers-cotiviti.icims.com/jobs/20383/intern---data-engineer-ai-%28databricks%2c-sql%2c-python%2c-governance%29/job"
     },
     {
+      "id": "e3704efe-90f5-44e6-be7f-2f238b2dea94",
+      "company": "Danaher",
+      "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
+      "category": "Product",
+      "location": "Logan, UT",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692"
+    },
+    {
       "id": "e0cc408c-2738-48b7-a0b5-80edc36f3741",
       "company": "Emcins",
       "title": "Intern - Software Engineering",
@@ -205,6 +217,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rhoda+AI&job=cb701c66-921b-4430-a9de-c125526efe67&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4"
+    },
+    {
+      "id": "f62f3c58-b9d0-4c77-b550-70c754d1f5cf",
+      "company": "Rippling",
+      "title": "Full Stack Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
+    },
+    {
+      "id": "4dac149f-2ed9-432a-b4cc-989019e91939",
+      "company": "Rippling",
+      "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rippling&job=4dac149f-2ed9-432a-b4cc-989019e91939&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+    },
+    {
+      "id": "30ffdee8-bb38-48f1-bd23-e75583496d15",
+      "company": "Rippling",
+      "title": "Machine Learning Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rippling&job=30ffdee8-bb38-48f1-bd23-e75583496d15&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d"
     },
     {
       "id": "c55d4c54-0544-4e28-b78e-25924b9ee550",
@@ -889,19 +937,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
-    },
-    {
-      "id": "custom:microsoft:ee255be7db7c26043d19",
-      "company": "Microsoft",
-      "title": "Software Engineering Internship (6-month Program)",
-      "category": "Software Engineering",
-      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3447,45 +3482,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
