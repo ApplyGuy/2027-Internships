@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:01:01.814Z",
+  "updatedAt": "2026-09-22T13:15:33.805Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -108,6 +108,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cadence&job=ca7d10bd-fbe4-49af-86e9-57d2a33828d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2"
+    },
+    {
+      "id": "custom:google:134770032394543814",
+      "company": "Google",
+      "title": "Associate Product Manager Intern, Summer 2027",
+      "category": "Product",
+      "location": "Multiple U.S. locations",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
+      "applySupported": false
     },
     {
       "id": "f04eb534-58af-48d5-8df9-057bb0f01cc8",
