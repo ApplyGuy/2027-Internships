@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:30:32.509Z",
+  "updatedAt": "2026-09-22T02:46:01.614Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -72,6 +72,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bah&job=7e0d3a77-e0a6-409f-b86c-9ff0c41ad084&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
+    },
+    {
+      "id": "46e3f12b-cec7-441e-a10a-a2d37a510567",
+      "company": "Bcbsks",
+      "title": "Application Developer - Intern",
+      "category": "Software Engineering",
+      "location": "Topeka, KS",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bcbsks&job=46e3f12b-cec7-441e-a10a-a2d37a510567&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bcbsks.wd1.myworkdayjobs.com/external/job/Topeka/Application-Developer---Intern_R2026355"
+    },
+    {
+      "id": "8caf1ebc-8886-415d-9c72-3ad7303450cd",
+      "company": "Bracco",
+      "title": "Quality Analyst Intern (Software)",
+      "category": "Software Engineering",
+      "location": "Minnesota, 55344, Eden Prairie",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bracco&job=8caf1ebc-8886-415d-9c72-3ad7303450cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"
+    },
+    {
+      "id": "ca7d10bd-fbe4-49af-86e9-57d2a33828d1",
+      "company": "Cadence",
+      "title": "Graduate Student Intern - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=ca7d10bd-fbe4-49af-86e9-57d2a33828d1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2"
     },
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
@@ -6194,18 +6230,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=782a80d3-d83a-4eef-9b79-3379bf80b296&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-Op---Fall-2027_331393"
-    },
-    {
-      "id": "fce08bd5-8257-40da-b259-e9b890d27f8a",
-      "company": "Cadence",
-      "title": "Graduate Student Intern - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=fce08bd5-8257-40da-b259-e9b890d27f8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2"
     },
     {
       "id": "d8a923b0-88f5-4b71-a038-1b5316580d56",
