@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:30:39.915Z",
+  "updatedAt": "2026-09-22T22:45:37.066Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -301,6 +301,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rippling&job=30ffdee8-bb38-48f1-bd23-e75583496d15&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d"
+    },
+    {
+      "id": "54217d52-5206-405e-8df1-ee93070e76e9",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tencent&job=54217d52-5206-405e-8df1-ee93070e76e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
     },
     {
       "id": "c55d4c54-0544-4e28-b78e-25924b9ee550",
@@ -2562,10 +2574,10 @@
     {
       "id": "6c46b04e-4b34-4643-ade2-bc0484f5dd4a",
       "company": "SingleStore",
-      "title": "Software Engineer Intern- Helios",
+      "title": "Software Engineer Intern- Helios- 2027",
       "category": "Software Engineering",
       "location": "United States",
-      "season": "Not specified",
+      "season": "2027",
       "posted": "2026-09-15",
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=6c46b04e-4b34-4643-ade2-bc0484f5dd4a&utm_source=github&utm_medium=listing&utm_campaign=internships",
@@ -2934,10 +2946,10 @@
     {
       "id": "73dae9b5-b724-48b8-9d79-2bff950c3c85",
       "company": "SingleStore",
-      "title": "Software Engineer Intern- Engine",
+      "title": "Software Engineer Intern- Engine-2027",
       "category": "Software Engineering",
       "location": "United States",
-      "season": "Not specified",
+      "season": "2027",
       "posted": "2026-09-14",
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=73dae9b5-b724-48b8-9d79-2bff950c3c85&utm_source=github&utm_medium=listing&utm_campaign=internships",
