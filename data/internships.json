@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-22T02:00:33.114Z",
+  "updatedAt": "2026-09-22T02:15:33.190Z",
   "jobs": [
+    {
+      "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
+      "company": "Aero",
+      "title": "2027 Machine Learning Engineer Undergrad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=586e5b04-6071-4139-a32d-31e8bd4cdad8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667"
+    },
     {
       "id": "edaec168-dd40-4758-966b-07e73af8f327",
       "company": "Bah",
