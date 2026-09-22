@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:15:33.190Z",
+  "updatedAt": "2026-09-22T02:30:32.509Z",
   "jobs": [
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aero&job=586e5b04-6071-4139-a32d-31e8bd4cdad8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667"
+    },
+    {
+      "id": "fd87ad8f-b4f7-4678-a236-87600f17f635",
+      "company": "AeroVironment",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Simi Valley, CA",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=fd87ad8f-b4f7-4678-a236-87600f17f635&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813"
     },
     {
       "id": "edaec168-dd40-4758-966b-07e73af8f327",
