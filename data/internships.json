@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:00:56.877Z",
+  "updatedAt": "2026-09-23T23:15:42.425Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -328,6 +328,30 @@
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111"
     },
     {
+      "id": "7a9f3da8-6717-4c40-b2d4-a7e3f24123dc",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
+    },
+    {
+      "id": "c7b49955-b4bf-4749-abc7-d4bfb146f29d",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer ",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=c7b49955-b4bf-4749-abc7-d4bfb146f29d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
+    },
+    {
       "id": "298c25d7-41f4-475c-957a-224939040f04",
       "company": "Waymo",
       "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
@@ -362,6 +386,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=West+Bend&job=04d913dc-f546-44e8-abc3-b822e0ac03ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-thesilverlining.icims.com/jobs/3759/summer-2027-internship---it-software-engineer/job"
+    },
+    {
+      "id": "3aaf76fe-c260-4174-80f1-130e15162f6d",
+      "company": "ZipRecruiter",
+      "title": "Software Engineer - Intern",
+      "category": "Software Engineering",
+      "location": "Santa Monica, CA",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ZipRecruiter&job=3aaf76fe-c260-4174-80f1-130e15162f6d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"
     },
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -9083,18 +9119,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
-    },
-    {
-      "id": "af216a3e-4da9-4089-921d-b4be7ebd36c1",
-      "company": "Freddiemac",
-      "title": "Multifamily Software Development Intern – Summer 2027",
-      "category": "Software Engineering",
-      "location": "McLean, VA",
-      "season": "Summer 2027",
-      "posted": "2026-08-24",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Freddiemac&job=af216a3e-4da9-4089-921d-b4be7ebd36c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://freddiemac.wd5.myworkdayjobs.com/external/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
     },
     {
       "id": "a70f2545-efe9-4b34-a8c9-65b30859755e",
