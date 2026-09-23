@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:30:36.029Z",
+  "updatedAt": "2026-09-23T02:45:39.472Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -84,6 +84,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=fd87ad8f-b4f7-4678-a236-87600f17f635&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813"
+    },
+    {
+      "id": "2edb1a0d-f59e-4375-b735-d6be0fd104a4",
+      "company": "Astranis",
+      "title": "Flight Software Intern (Winter 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Winter 2027",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Astranis&job=2edb1a0d-f59e-4375-b735-d6be0fd104a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+    },
+    {
+      "id": "739ec968-6e30-42ec-947f-7c82ace6a7c1",
+      "company": "Astranis",
+      "title": "Flight Software Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Astranis&job=739ec968-6e30-42ec-947f-7c82ace6a7c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+    },
+    {
+      "id": "f229f9ab-99ca-4611-b7b4-d099b0ffadc9",
+      "company": "Astranis",
+      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+    },
+    {
+      "id": "a45442e0-97f8-45df-8511-0caaf37e01a4",
+      "company": "Astranis",
+      "title": "Software Engineer Backend Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
     },
     {
       "id": "edaec168-dd40-4758-966b-07e73af8f327",
