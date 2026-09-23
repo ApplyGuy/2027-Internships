@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:00:37.850Z",
+  "updatedAt": "2026-09-23T22:15:56.549Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
+    },
+    {
+      "id": "e795b3f3-6885-4bf1-9634-cf497b6d21bd",
+      "company": "Insulet",
+      "title": "Intern, DevOps Engineer: June-August 2027 (Onsite)",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Insulet&job=e795b3f3-6885-4bf1-9634-cf497b6d21bd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
     },
     {
       "id": "a60772ab-6b0e-471b-b2c1-f6bdbbab836a",
@@ -505,6 +517,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Guidestone&job=937fe55e-f089-4997-be44-fd1ef07bd37b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
+    },
+    {
+      "id": "17cedee5-280b-486d-b441-036796e7805b",
+      "company": "Hypertherm",
+      "title": "Firmware Developer - Internship",
+      "category": "Software Engineering",
+      "location": "Hanover, NH",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Hypertherm&job=17cedee5-280b-486d-b441-036796e7805b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"
     },
     {
       "id": "e257fdf4-b226-468d-84d6-1cac625de076",
