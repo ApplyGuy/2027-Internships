@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:16:01.676Z",
+  "updatedAt": "2026-09-23T03:30:30.700Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -72,6 +72,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
+    },
+    {
+      "id": "ea0f8d4e-3eff-4458-bdf2-c69095edbb3f",
+      "company": "RTX",
+      "title": "Operations Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Burnsville, MN",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ea0f8d4e-3eff-4458-bdf2-c69095edbb3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620"
+    },
+    {
+      "id": "db59a3ff-f563-4b90-9750-fc5c09ffe353",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Portsmouth, RI",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=db59a3ff-f563-4b90-9750-fc5c09ffe353&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065"
+    },
+    {
+      "id": "04d913dc-f546-44e8-abc3-b822e0ac03ec",
+      "company": "West Bend",
+      "title": "Summer 2027 Intern - IT Data Engineer",
+      "category": "Software Engineering",
+      "location": "West Bend, WI",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=West+Bend&job=04d913dc-f546-44e8-abc3-b822e0ac03ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-thesilverlining.icims.com/jobs/3759/summer-2027-intern---it-data-engineer/job"
     },
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
@@ -1129,6 +1165,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+    },
+    {
+      "id": "custom:microsoft:ee255be7db7c26043d19",
+      "company": "Microsoft",
+      "title": "Software Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3674,6 +3723,45 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
