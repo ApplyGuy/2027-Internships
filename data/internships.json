@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:45:38.169Z",
+  "updatedAt": "2026-09-23T17:00:37.933Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -156,6 +156,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=db59a3ff-f563-4b90-9750-fc5c09ffe353&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065"
+    },
+    {
+      "id": "5b4da2c8-5108-4c8a-a5b6-9b968d76fd94",
+      "company": "Symbotic",
+      "title": "Co-op - Software Engineer",
+      "category": "Software Engineering",
+      "location": "USA Wilmington, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Symbotic&job=5b4da2c8-5108-4c8a-a5b6-9b968d76fd94&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111"
     },
     {
       "id": "298c25d7-41f4-475c-957a-224939040f04",
