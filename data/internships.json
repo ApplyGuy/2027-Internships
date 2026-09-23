@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:00:34.967Z",
+  "updatedAt": "2026-09-23T21:15:33.544Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allegion&job=97e871b6-57f1-4d44-8597-d71f2fa2e634&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1"
+    },
+    {
+      "id": "c781cdf3-1f0e-42e6-8e35-d0e6d7811f17",
+      "company": "CACI",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=c781cdf3-1f0e-42e6-8e35-d0e6d7811f17&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
     },
     {
       "id": "d0d009ea-6caa-4f76-8e4c-ea765938a701",
