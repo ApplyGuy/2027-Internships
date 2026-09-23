@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:45:42.023Z",
+  "updatedAt": "2026-09-23T23:00:56.877Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -206,6 +206,32 @@
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
     },
     {
+      "id": "custom:microsoft:83b1e6c01864a7bbdaf6",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:9b4658387c31a9a9a7b3",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunity for University Students",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "applySupported": false
+    },
+    {
       "id": "f491c2dc-dd7d-40d2-bcb6-831e8941e88d",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineer Intern – Woodland Hills CA",
@@ -252,6 +278,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=db59a3ff-f563-4b90-9750-fc5c09ffe353&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065"
+    },
+    {
+      "id": "df9e9645-dbf5-4c2d-97b0-b274156b3671",
+      "company": "SeatGeek",
+      "title": "Software Engineer - Internship",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SeatGeek&job=df9e9645-dbf5-4c2d-97b0-b274156b3671&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
+    },
+    {
+      "id": "60579a88-cb62-4779-9d43-5e19adae6c41",
+      "company": "Sonos",
+      "title": "Software Engineering Co-op (Signal Processing)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=60579a88-cb62-4779-9d43-5e19adae6c41&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"
+    },
+    {
+      "id": "490b20d1-a495-4692-84d7-1c6b73c203aa",
+      "company": "Sonos",
+      "title": "Software Engineering Co-op (Cloud)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=490b20d1-a495-4692-84d7-1c6b73c203aa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"
     },
     {
       "id": "5b4da2c8-5108-4c8a-a5b6-9b968d76fd94",
@@ -1381,6 +1443,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+    },
+    {
+      "id": "custom:microsoft:ee255be7db7c26043d19",
+      "company": "Microsoft",
+      "title": "Software Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -3938,6 +4013,45 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
