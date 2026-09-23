@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:45:37.868Z",
+  "updatedAt": "2026-09-23T22:00:37.850Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -84,6 +84,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
+    },
+    {
+      "id": "a60772ab-6b0e-471b-b2c1-f6bdbbab836a",
+      "company": "Jj",
+      "title": "Heart Recovery Software R&D Co-Op",
+      "category": "Software Engineering",
+      "location": "Halethorpe, MD",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=a60772ab-6b0e-471b-b2c1-f6bdbbab836a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"
+    },
+    {
+      "id": "7b9d0fff-2250-44b7-a560-9d7f227758ef",
+      "company": "Jj",
+      "title": "Software Test Engineering Co-op (RLM)",
+      "category": "Software Engineering",
+      "location": "Danvers, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=7b9d0fff-2250-44b7-a560-9d7f227758ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"
+    },
+    {
+      "id": "1d26ae17-73d4-4660-ac5c-8dfa315daaf2",
+      "company": "Jj",
+      "title": "Software Test Engineering Co-op (Beatbox)",
+      "category": "Software Engineering",
+      "location": "Danvers, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=1d26ae17-73d4-4660-ac5c-8dfa315daaf2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"
     },
     {
       "id": "fdafb07f-5048-4868-b9d8-b3a681fe7970",
