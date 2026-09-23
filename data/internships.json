@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-23T01:30:34.694Z",
+  "updatedAt": "2026-09-23T01:45:38.217Z",
   "jobs": [
+    {
+      "id": "2e985600-835d-4887-92e7-49bc5d901a1d",
+      "company": "Mastercard",
+      "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
+      "category": "Product",
+      "location": "O'Fallon, MO",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
+    },
     {
       "id": "586e5b04-6071-4139-a32d-31e8bd4cdad8",
       "company": "Aero",
@@ -205,18 +217,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=e257fdf4-b226-468d-84d6-1cac625de076&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858"
-    },
-    {
-      "id": "c1bff435-9207-4537-9496-b41970c864a6",
-      "company": "Mastercard",
-      "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
-      "category": "Product",
-      "location": "O'Fallon, MO",
-      "season": "Summer 2027",
-      "posted": "2026-09-22",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Mastercard&job=c1bff435-9207-4537-9496-b41970c864a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625"
     },
     {
       "id": "f0f3c6af-ae5f-4d11-b129-000b9d00c6e5",
