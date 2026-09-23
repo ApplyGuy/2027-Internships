@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:45:39.756Z",
+  "updatedAt": "2026-09-23T10:00:39.624Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -8813,18 +8813,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Advanced+Space&job=77e0d160-ce56-40c6-be89-7db56be69b9a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"
-    },
-    {
-      "id": "8df659df-87d2-484c-b4a8-eb5b48ee3687",
-      "company": "Audax Group",
-      "title": "Data Engineer CO-OP",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Co-op",
-      "posted": "2026-08-24",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Audax+Group&job=8df659df-87d2-484c-b4a8-eb5b48ee3687&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005"
     },
     {
       "id": "92ce2ea6-3d20-4f43-b815-9401479e0e03",
