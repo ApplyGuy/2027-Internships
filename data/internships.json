@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:01:00.293Z",
+  "updatedAt": "2026-09-23T18:16:01.395Z",
   "jobs": [
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -132,18 +132,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
-    },
-    {
-      "id": "cd14448f-29ac-42c4-aae6-2daeb5e7e845",
-      "company": "Rexa",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Middleboro, MA",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rexa.bamboohr.com/careers/134"
     },
     {
       "id": "ea0f8d4e-3eff-4458-bdf2-c69095edbb3f",
@@ -2186,6 +2174,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=REV+Robotics&job=65828c6b-4c53-427f-a274-399120310fc1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba"
+    },
+    {
+      "id": "cd14448f-29ac-42c4-aae6-2daeb5e7e845",
+      "company": "Rexa",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Middleboro, MA",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rexa.bamboohr.com/careers/134"
     },
     {
       "id": "c425dadf-2aeb-4476-a3dd-10e056467784",
