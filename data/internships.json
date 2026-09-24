@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T15:15:47.609Z",
+  "updatedAt": "2026-09-24T15:30:58.270Z",
   "jobs": [
     {
       "id": "f06a176c-4709-405a-a8a8-15d2a2ac77c2",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cae&job=f06a176c-4709-405a-a8a8-15d2a2ac77c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"
+    },
+    {
+      "id": "f897e08d-e70c-4d18-b765-7dc779bea50e",
+      "company": "Ciena",
+      "title": "WaveLogic Software Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ciena&job=f897e08d-e70c-4d18-b765-7dc779bea50e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695"
+    },
+    {
+      "id": "04173206-13ef-4c2b-bc7c-5ef20273ca2f",
+      "company": "Ciena",
+      "title": "WaveLogic Software Intern Spring 2027",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Spring 2027",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ciena&job=04173206-13ef-4c2b-bc7c-5ef20273ca2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
     },
     {
       "id": "98c5097d-5eb1-4770-a1c3-427f859eea56",
