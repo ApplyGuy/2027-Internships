@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:00:42.967Z",
+  "updatedAt": "2026-09-24T20:15:43.120Z",
   "jobs": [
     {
       "id": "f06a176c-4709-405a-a8a8-15d2a2ac77c2",
@@ -324,6 +324,32 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
+    },
+    {
+      "id": "custom:microsoft:83b1e6c01864a7bbdaf6",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:9b4658387c31a9a9a7b3",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunity for University Students",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "applySupported": false
     },
     {
       "id": "f491c2dc-dd7d-40d2-bcb6-831e8941e88d",
@@ -1585,6 +1611,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Guardianlife&job=ced4347c-95fa-42b4-8fad-a6ee3eb94ec5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+    },
+    {
+      "id": "custom:microsoft:ee255be7db7c26043d19",
+      "company": "Microsoft",
+      "title": "Software Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+      "applySupported": false
     },
     {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
@@ -4142,6 +4181,45 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -8933,18 +9011,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Brunswick&job=48f82219-c830-4b82-aff4-deb80a20dd1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
-    },
-    {
-      "id": "1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb",
-      "company": "Haier",
-      "title": "Software Engineering Co-op_Fall 2027",
-      "category": "Software Engineering",
-      "location": "Ky, Louisville",
-      "season": "2027",
-      "posted": "2026-08-25",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Haier&job=1a13e4d2-076f-4ac9-98d4-fc01e7c09dfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592"
     },
     {
       "id": "37acf7c4-9586-4546-ad5d-150ccc417524",
