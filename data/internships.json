@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:30:32.700Z",
+  "updatedAt": "2026-09-24T21:45:12.193Z",
   "jobs": [
     {
       "id": "9bb4e31e-4881-42af-9054-5f98b6a39af3",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=04173206-13ef-4c2b-bc7c-5ef20273ca2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+    },
+    {
+      "id": "394356d4-cf82-4fc2-b99e-56feb3f1df36",
+      "company": "DRW - University Jobs",
+      "title": "Spring 2027 City Scholars Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Spring 2027",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DRW+-+University+Jobs&job=394356d4-cf82-4fc2-b99e-56feb3f1df36&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"
     },
     {
       "id": "41e0fa92-280e-492f-a964-095d6a224cc2",
