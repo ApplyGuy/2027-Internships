@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:00:44.650Z",
+  "updatedAt": "2026-09-24T16:15:31.156Z",
   "jobs": [
     {
       "id": "f06a176c-4709-405a-a8a8-15d2a2ac77c2",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Codemettle&job=37cb1540-b7fb-4481-ad0b-3bc8a4655b57&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://codemettle.bamboohr.com/careers/124"
+    },
+    {
+      "id": "41e0fa92-280e-492f-a964-095d6a224cc2",
+      "company": "Hyliion",
+      "title": "Engineering Intern, Full Stack Software",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hyliion&job=41e0fa92-280e-492f-a964-095d6a224cc2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hyliion/jobs/6207533004"
     },
     {
       "id": "98c5097d-5eb1-4770-a1c3-427f859eea56",
