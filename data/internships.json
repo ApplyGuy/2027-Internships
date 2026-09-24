@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:15:46.141Z",
+  "updatedAt": "2026-09-24T23:30:44.048Z",
   "jobs": [
     {
       "id": "9bb4e31e-4881-42af-9054-5f98b6a39af3",
@@ -278,6 +278,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=14121066-70ff-4d1b-b686-0011354b407d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687"
+    },
+    {
+      "id": "9be80cce-87ad-4f4b-8dc8-44cf5e1c6dc2",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=9be80cce-87ad-4f4b-8dc8-44cf5e1c6dc2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
     },
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -9079,18 +9091,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003"
-    },
-    {
-      "id": "0b3e6b90-7082-4ab8-8418-e7c828764a7c",
-      "company": "Plexus",
-      "title": "Intern - Software Engineer (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Neenah, WI",
-      "season": "Spring 2027",
-      "posted": "2026-08-25",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Plexus&job=0b3e6b90-7082-4ab8-8418-e7c828764a7c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
     },
     {
       "id": "cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17",
