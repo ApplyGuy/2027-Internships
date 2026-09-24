@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:45:41.480Z",
+  "updatedAt": "2026-09-24T04:00:33.792Z",
   "jobs": [
     {
       "id": "f06a176c-4709-405a-a8a8-15d2a2ac77c2",
@@ -120,6 +120,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
+    },
+    {
+      "id": "f9c8c4d0-d441-485f-9156-36c842b63dbc",
+      "company": "Graphcore",
+      "title": "Firmware Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Graphcore&job=f9c8c4d0-d441-485f-9156-36c842b63dbc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002"
     },
     {
       "id": "e795b3f3-6885-4bf1-9634-cf497b6d21bd",
