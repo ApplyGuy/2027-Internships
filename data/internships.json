@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:45:12.193Z",
+  "updatedAt": "2026-09-24T22:00:15.379Z",
   "jobs": [
     {
       "id": "9bb4e31e-4881-42af-9054-5f98b6a39af3",
@@ -144,6 +144,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ramp&job=6c81c066-880e-4314-92bf-fb88b8224284&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
+    },
+    {
+      "id": "14121066-70ff-4d1b-b686-0011354b407d",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=14121066-70ff-4d1b-b686-0011354b407d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687"
     },
     {
       "id": "7e84f501-b185-4e66-9ecf-a0c2839c2926",
@@ -384,32 +396,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
-    },
-    {
-      "id": "custom:microsoft:83b1e6c01864a7bbdaf6",
-      "company": "Microsoft",
-      "title": "Product Manager: Internship Opportunities",
-      "category": "Product",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:9b4658387c31a9a9a7b3",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunity for University Students",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-      "applySupported": false
     },
     {
       "id": "f491c2dc-dd7d-40d2-bcb6-831e8941e88d",
@@ -1673,19 +1659,6 @@
       "listingUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
     },
     {
-      "id": "custom:microsoft:ee255be7db7c26043d19",
-      "company": "Microsoft",
-      "title": "Software Engineering Internship (6-month Program)",
-      "category": "Software Engineering",
-      "location": "United States, California, Santa Clara · United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-      "applySupported": false
-    },
-    {
       "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
       "company": "Northrop Grumman",
       "title": "2027 Intern Software Engineer",
@@ -2597,18 +2570,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rexa.bamboohr.com/careers/134"
-    },
-    {
-      "id": "c425dadf-2aeb-4476-a3dd-10e056467784",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c425dadf-2aeb-4476-a3dd-10e056467784&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099"
     },
     {
       "id": "77452802-5fc3-46f2-9308-3408d03e9e2d",
@@ -4241,45 +4202,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
@@ -9083,30 +9005,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Plexus&job=0b3e6b90-7082-4ab8-8418-e7c828764a7c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
-    },
-    {
-      "id": "3c315d55-fdc5-4e9d-a800-d50f3933f6ec",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Anaheim, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-25",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3c315d55-fdc5-4e9d-a800-d50f3933f6ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697"
-    },
-    {
-      "id": "10a8055b-0712-496e-bb0c-c036929f1378",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Jupiter, FL",
-      "season": "Summer 2027",
-      "posted": "2026-08-25",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=10a8055b-0712-496e-bb0c-c036929f1378&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485"
     },
     {
       "id": "cfacd1d2-1e8a-4dfa-ac33-bfe3eea7da17",
