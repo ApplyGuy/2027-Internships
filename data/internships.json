@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T23:00:45.582Z",
+  "updatedAt": "2026-09-25T23:15:39.887Z",
   "jobs": [
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -168,6 +168,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=8c12ab19-2a95-444c-8d8f-6f5560aecd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+    },
+    {
+      "id": "1ebd4e2c-6daf-428a-a1ef-bba812592b51",
+      "company": "Myhrabc",
+      "title": "EDI IT Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Conshohocken, PA",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Myhrabc&job=1ebd4e2c-6daf-428a-a1ef-bba812592b51&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376"
+    },
+    {
+      "id": "094f0a88-2295-481e-82cd-b247edd83595",
+      "company": "Myhrabc",
+      "title": "Software Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Myhrabc&job=094f0a88-2295-481e-82cd-b247edd83595&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Remote-USA/Software-Intern_R2613763"
+    },
+    {
+      "id": "fdeee476-3bc2-49b0-9e91-0dd5c8504838",
+      "company": "Novanta",
+      "title": "Computer Software Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Apex, NC",
+      "season": "Co-op",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Novanta&job=fdeee476-3bc2-49b0-9e91-0dd5c8504838&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"
     },
     {
       "id": "47b5c101-2b3c-43c7-8d69-89816548b1c4",
