@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T23:15:39.887Z",
+  "updatedAt": "2026-09-25T23:30:10.422Z",
   "jobs": [
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -254,6 +254,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
     },
     {
+      "id": "3eacafd2-87a2-4073-aa5b-da3cd1a98446",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=3eacafd2-87a2-4073-aa5b-da3cd1a98446&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-23076"
+    },
+    {
       "id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
       "company": "Snowflake",
       "title": "Software Engineer Intern (AI / ML) - Spring 2027",
@@ -288,6 +300,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Snowflake&job=7d53daea-8a19-4c5a-993c-3be78a298c2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be"
+    },
+    {
+      "id": "cf28857b-85dc-4182-b2f3-584a00cbd28f",
+      "company": "Tencent",
+      "title": "Cloud Media Services Intern",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tencent&job=cf28857b-85dc-4182-b2f3-584a00cbd28f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186"
+    },
+    {
+      "id": "e74fea0c-c5d3-4520-9fd1-f3498027e3f4",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=e74fea0c-c5d3-4520-9fd1-f3498027e3f4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
+    },
+    {
+      "id": "56745e36-640c-4798-9f1b-5c1971d2a960",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=56745e36-640c-4798-9f1b-5c1971d2a960&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
+    },
+    {
+      "id": "32cf378d-f635-4a1d-a099-e3334c7aa368",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=32cf378d-f635-4a1d-a099-e3334c7aa368&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
     },
     {
       "id": "b729b19a-1d77-4990-bdfd-111a2573c704",
