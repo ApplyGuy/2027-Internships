@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:00:09.496Z",
+  "updatedAt": "2026-09-25T22:15:45.553Z",
   "jobs": [
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -110,6 +110,18 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
     },
     {
+      "id": "371baf17-555c-405c-908d-c770a3cd87ea",
+      "company": "Elkay",
+      "title": "Embedded Firmware Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Milwaukee, WI",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=371baf17-555c-405c-908d-c770a3cd87ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"
+    },
+    {
       "id": "50486d1d-9a6f-433d-9b9d-efb8e447acea",
       "company": "Epiqsystems",
       "title": "Software Engineer Intern",
@@ -158,6 +170,19 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
     },
     {
+      "id": "custom:microsoft:f4aabbfa9bb95e26de5f",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+      "category": "Software Engineering",
+      "location": "United States, Georgia, Atlanta",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+      "applySupported": false
+    },
+    {
       "id": "1dfe7a7d-ebaa-481e-ab19-2ac5a1ded777",
       "company": "rivian-vw-tech",
       "title": "Embedded Systems Software Engineering Intern at UIUC Research Park (January - August 2027)",
@@ -168,6 +193,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=rivian-vw-tech&job=1dfe7a7d-ebaa-481e-ab19-2ac5a1ded777&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e"
+    },
+    {
+      "id": "67328c91-2187-480a-bb34-01828f393fb2",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=67328c91-2187-480a-bb34-01828f393fb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082"
     },
     {
       "id": "dfd1b484-7e75-47a8-934f-5e2f6bfd6070",
@@ -496,18 +533,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952"
     },
     {
-      "id": "14121066-70ff-4d1b-b686-0011354b407d",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-24",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=14121066-70ff-4d1b-b686-0011354b407d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687"
-    },
-    {
       "id": "9be80cce-87ad-4f4b-8dc8-44cf5e1c6dc2",
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
@@ -758,19 +783,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
-    },
-    {
-      "id": "custom:microsoft:9b4658387c31a9a9a7b3",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunity for University Students",
-      "category": "Software Engineering",
-      "location": "United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-      "applySupported": false
     },
     {
       "id": "f491c2dc-dd7d-40d2-bcb6-831e8941e88d",
