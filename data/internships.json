@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:45:46.798Z",
+  "updatedAt": "2026-09-25T18:00:10.810Z",
   "jobs": [
     {
       "id": "d6942d68-7939-4507-97bd-4fc8bf9f92fb",
@@ -9175,18 +9175,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=9304ace2-67d9-4693-af30-db4e7193aa99&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
-    },
-    {
-      "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
-      "company": "Zipline",
-      "title": "Embedded Software Engineer Intern (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-08-26",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003"
     }
   ]
 }
