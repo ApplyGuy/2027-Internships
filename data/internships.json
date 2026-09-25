@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:45:45.055Z",
+  "updatedAt": "2026-09-25T22:00:09.496Z",
   "jobs": [
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
+    },
+    {
+      "id": "50486d1d-9a6f-433d-9b9d-efb8e447acea",
+      "company": "Epiqsystems",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Epiqsystems&job=50486d1d-9a6f-433d-9b9d-efb8e447acea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230"
     },
     {
       "id": "83c78414-d98d-417d-b886-594b4cba23e8",
