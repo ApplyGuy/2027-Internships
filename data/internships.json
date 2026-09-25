@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:00:12.038Z",
+  "updatedAt": "2026-09-25T16:15:44.465Z",
   "jobs": [
     {
       "id": "d6942d68-7939-4507-97bd-4fc8bf9f92fb",
@@ -84,6 +84,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
+    },
+    {
+      "id": "8c12ab19-2a95-444c-8d8f-6f5560aecd47",
+      "company": "Leidos",
+      "title": "Software Development Intern",
+      "category": "Software Engineering",
+      "location": "Gaithersburg, MD",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=8c12ab19-2a95-444c-8d8f-6f5560aecd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+    },
+    {
+      "id": "dfd1b484-7e75-47a8-934f-5e2f6bfd6070",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=dfd1b484-7e75-47a8-934f-5e2f6bfd6070&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
     },
     {
       "id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
