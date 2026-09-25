@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-25T20:45:31.342Z",
+  "updatedAt": "2026-09-25T21:00:45.256Z",
   "jobs": [
+    {
+      "id": "e55d77ff-5a24-41b3-bbc9-2aa8171c2712",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Golden, CO",
+      "season": "Summer",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Allegion&job=e55d77ff-5a24-41b3-bbc9-2aa8171c2712&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795"
+    },
     {
       "id": "d6942d68-7939-4507-97bd-4fc8bf9f92fb",
       "company": "BERKLEY W R CORP",
