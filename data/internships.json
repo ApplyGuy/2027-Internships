@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:30:12.773Z",
+  "updatedAt": "2026-09-25T04:45:36.310Z",
   "jobs": [
     {
       "id": "f77c288c-8582-4182-bec2-dd40d4335f67",
@@ -72,6 +72,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
+    },
+    {
+      "id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Spring 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snowflake&job=a3de4923-57a2-41d9-85e9-663ec2a7489d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca"
+    },
+    {
+      "id": "7f858ee2-c485-465a-92ab-8c67280d7742",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Spring 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snowflake&job=7f858ee2-c485-465a-92ab-8c67280d7742&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69"
+    },
+    {
+      "id": "7d53daea-8a19-4c5a-993c-3be78a298c2a",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Menlo Park, CA",
+      "season": "Spring 2027",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snowflake&job=7d53daea-8a19-4c5a-993c-3be78a298c2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be"
     },
     {
       "id": "9bb4e31e-4881-42af-9054-5f98b6a39af3",
@@ -330,7 +366,7 @@
     {
       "id": "0e879417-f9a8-482f-a026-b34c5a62573f",
       "company": "Reflect Orbital",
-      "title": "Ground Software Systems Intern",
+      "title": "Ground Software Engineering Intern",
       "category": "Software Engineering",
       "location": "Hawthorne, CA",
       "season": "Not specified",
