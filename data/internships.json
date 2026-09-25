@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:15:45.553Z",
+  "updatedAt": "2026-09-25T22:30:09.292Z",
   "jobs": [
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -8566,6 +8566,18 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
+    },
+    {
+      "id": "7d5b00e6-1cc8-4096-a085-6027c4858a65",
+      "company": "OnLogic",
+      "title": "Firmware Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Co-op",
+      "posted": "2026-09-01",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=OnLogic&job=7d5b00e6-1cc8-4096-a085-6027c4858a65&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/onlogic-inc/j/10EC1527D8/"
     },
     {
       "id": "e84fcdb9-0c91-4c38-bce2-2b7452184d80",
