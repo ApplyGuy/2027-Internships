@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-25T02:45:13.343Z",
+  "updatedAt": "2026-09-25T03:00:38.134Z",
   "jobs": [
+    {
+      "id": "f77c288c-8582-4182-bec2-dd40d4335f67",
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist II (Intern) – United States",
+      "category": "Product",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=f77c288c-8582-4182-bec2-dd40d4335f67&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801"
+    },
+    {
+      "id": "e548dd63-35ed-47ae-afd8-fc5f4b583eac",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802"
+    },
+    {
+      "id": "bb754c53-1ebd-471c-ad80-6ec643d07dda",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=bb754c53-1ebd-471c-ad80-6ec643d07dda&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805"
+    },
+    {
+      "id": "9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798"
+    },
+    {
+      "id": "38e20e29-03c5-41e6-9962-a1efa9ee87df",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer I (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=38e20e29-03c5-41e6-9962-a1efa9ee87df&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803"
+    },
+    {
+      "id": "14bb59c9-4430-4d3c-95e5-6e46a633b091",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
+    },
     {
       "id": "9bb4e31e-4881-42af-9054-5f98b6a39af3",
       "company": "Abb",
