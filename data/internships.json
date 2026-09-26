@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:30:12.198Z",
+  "updatedAt": "2026-09-26T17:45:41.727Z",
   "jobs": [
     {
       "id": "f5ca0fce-d5be-4a48-aa7c-ed3f55bf829c",
@@ -4786,19 +4786,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:09fcd77cc331dc85e26a",
       "company": "Microsoft",
       "title": "Software Engineering Intern - CTJ - TS",
@@ -4809,6 +4796,19 @@
       "age": "15d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
       "applySupported": false
     },
     {
