@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:00:17.261Z",
+  "updatedAt": "2026-09-26T20:15:38.210Z",
   "jobs": [
     {
       "id": "f5ca0fce-d5be-4a48-aa7c-ed3f55bf829c",
@@ -9221,30 +9221,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Jbssolutions&job=7d41e9df-95d6-416e-a143-ed3d1bb1f348&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jbssolutions.bamboohr.com/careers/156"
-    },
-    {
-      "id": "40210a22-d69b-4091-8c42-44eb4d1b4bd5",
-      "company": "Workiva",
-      "title": "Summer 2027 Intern - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Workiva&job=40210a22-d69b-4091-8c42-44eb4d1b4bd5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
-    },
-    {
-      "id": "1f576f00-4bad-4892-9149-bafe34f2eaeb",
-      "company": "Workiva",
-      "title": "Spring & Summer 2027 Intern - Product Management",
-      "category": "Product",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-08-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Workiva&job=1f576f00-4bad-4892-9149-bafe34f2eaeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355"
     }
   ]
 }
