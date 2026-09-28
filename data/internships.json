@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:00:39.856Z",
+  "updatedAt": "2026-09-28T18:15:47.571Z",
   "jobs": [
     {
       "id": "df729d0b-54c5-4a50-9fde-5d7bdf7af09d",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
+    },
+    {
+      "id": "39e92106-bbf7-439f-ba92-2995b0889fad",
+      "company": "Ttmtech",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Syracuse, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=39e92106-bbf7-439f-ba92-2995b0889fad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Syracuse-NY/Software-Engineering-Intern---Summer-2027_R18253"
     },
     {
       "id": "0f71cbbd-733f-4a11-99c8-4c0a380c2ab0",
@@ -3188,10 +3200,10 @@
     {
       "id": "cd14448f-29ac-42c4-aae6-2daeb5e7e845",
       "company": "Rexa",
-      "title": "Software Engineering Intern",
+      "title": "Software Engineering Intern (Winter Session)",
       "category": "Software Engineering",
       "location": "Middleboro, MA",
-      "season": "Not specified",
+      "season": "Winter",
       "posted": "2026-09-16",
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships",
