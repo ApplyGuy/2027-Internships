@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-28T05:45:50.417Z",
+  "updatedAt": "2026-09-28T06:00:19.995Z",
   "jobs": [
+    {
+      "id": "f2e2dd3f-7df9-4258-842a-d03fa4729043",
+      "company": "Ttc",
+      "title": "Electrical/software Coop",
+      "category": "Software Engineering",
+      "location": "Iron Mountain, MI",
+      "season": "Co-op",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
+    },
     {
       "id": "b96747df-79a8-4fec-89fb-fa7c548dfbed",
       "company": "QuEra Computing, Inc.",
