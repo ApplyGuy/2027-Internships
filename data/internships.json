@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-28T11:00:20.505Z",
+  "updatedAt": "2026-09-28T11:15:46.918Z",
   "jobs": [
+    {
+      "id": "933ad0ba-27d6-4f73-8e43-bff73798ede2",
+      "company": "Philips",
+      "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Bothell, WA",
+      "season": "Summer 2027",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=933ad0ba-27d6-4f73-8e43-bff73798ede2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074"
+    },
+    {
+      "id": "09a6b78d-058f-448b-a9c3-bfd777bef03e",
+      "company": "Philips",
+      "title": "Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027",
+      "category": "Product",
+      "location": "Bothell, WA",
+      "season": "Summer 2027",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"
+    },
     {
       "id": "f2e2dd3f-7df9-4258-842a-d03fa4729043",
       "company": "Ttc",
