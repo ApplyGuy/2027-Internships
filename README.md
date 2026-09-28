@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-758-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-759-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **758** active U.S. internships posted within the last **30 days**
+- **759** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 28, 2026, 11:00 AM PDT**
+- Last refresh: **Sep 28, 2026, 11:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**684 open roles**
+**685 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -33,6 +33,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Philips | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, WA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=933ad0ba-27d6-4f73-8e43-bff73798ede2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074) |
 | Poet | Software Developer Intern | Sioux Falls, SD | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Poet&job=8afcc612-ff9f-4bc6-9cd0-fa07af8cd735&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://poet.wd1.myworkdayjobs.com/poet/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) |
 | Ttc | Electrical/software Coop | Iron Mountain, MI | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089) |
+| Ttmtech | Software Engineering Intern - Summer 2027 | Syracuse, NY | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ttmtech&job=39e92106-bbf7-439f-ba92-2995b0889fad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Syracuse-NY/Software-Engineering-Intern---Summer-2027_R18253) |
 | Veteransunited | Intern - Software Engineer - Summer 2027 | Remote, U.S. | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Veteransunited&job=0f71cbbd-733f-4a11-99c8-4c0a380c2ab0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) |
 | QuEra Computing, Inc. | Internship - Scientific Software and Compilation | Boston, MA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=QuEra+Computing%2C+Inc.&job=b96747df-79a8-4fec-89fb-fa7c548dfbed&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008) |
 | Aero | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Aero&job=f5ca0fce-d5be-4a48-aa7c-ed3f55bf829c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715) |
@@ -265,7 +266,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Relay | Software Engineering Intern (AI/ML) - Summer 2027 | Raleigh, NC | Summer 2027 | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Relay&job=676d458a-9a55-4799-a3d7-949204c631a8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/relaypro/jobs/8176774) |
 | Relay | Software Engineering Intern (Device Team) - Summer 2027 | Raleigh, NC | Summer 2027 | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Relay&job=27cb71c0-8d86-4088-beeb-cc6c60374a47&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/relaypro/jobs/8180836) |
 | REV Robotics | Software Engineering INTERN 2027 | Carrollton, TX | 2027 | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=REV+Robotics&job=65828c6b-4c53-427f-a274-399120310fc1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba) |
-| Rexa | Software Engineering Intern | Middleboro, MA | — | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rexa.bamboohr.com/careers/134) |
+| Rexa | Software Engineering Intern (Winter Session) | Middleboro, MA | Winter | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rexa.bamboohr.com/careers/134) |
 | RTX | Software Engineer Intern | Tucson, AZ | — | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=77452802-5fc3-46f2-9308-3408d03e9e2d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
 | RTX | Software Engineering Co-op (Winter/Spring 2027) | Cedar Rapids, IA | Spring 2027 | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=5b930026-40d5-4345-9764-6a5cfa6912f3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464) |
 | RTX | Software Engineering Intern (Summer 2027) | Windsor Locks, CT | Summer 2027 | 12d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=4bb69854-c7f3-4bc3-a857-16ab763a45de&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775) |
