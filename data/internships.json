@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:15:17.096Z",
+  "updatedAt": "2026-09-28T23:30:12.481Z",
   "jobs": [
     {
       "id": "afe7d75a-643a-47f2-a1c4-cd0f3a2e9f32",
@@ -60,6 +60,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=8ff108d2-a90d-4f75-9a0a-3533d68c0233&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Machine-Learning-Software-Intern---Summer-2027_R5050656"
+    },
+    {
+      "id": "a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa",
+      "company": "H&amp;R Block Management, LLC",
+      "title": "Software Engineering Intern - S",
+      "category": "Software Engineering",
+      "location": "Kansas City, MO",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-hrblock.icims.com/jobs/76987/software-engineering-intern---s/job"
+    },
+    {
+      "id": "59c34282-fa73-4d53-a2c7-3e571a797c5e",
+      "company": "H&amp;R Block Management, LLC",
+      "title": "Product Management Intern - S",
+      "category": "Product",
+      "location": "Kansas City, MO",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-hrblock.icims.com/jobs/76986/product-management-intern---s/job"
     },
     {
       "id": "df729d0b-54c5-4a50-9fde-5d7bdf7af09d",
