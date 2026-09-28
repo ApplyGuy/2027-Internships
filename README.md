@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-760-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-759-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **760** active U.S. internships posted within the last **30 days**
+- **759** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 27, 2026, 10:00 PM PDT**
+- Last refresh: **Sep 27, 2026, 10:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**685 open roles**
+**684 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -711,7 +711,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | SK hynix memory solutions America Inc. | SSD Firmware Development Engineer Intern | San Jose, CA | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) |
 | Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, CA | Summer | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stripe.com/jobs/search?gh_jid=8128745) |
 | Whatnot | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd) |
-| Disney | Software Engineering Intern, Spring 2027 | Orlando, FL | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Disney&job=b183ce61-8314-4b2d-830b-3b799853af3a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599) |
 | HP | Software and Engineering Intern Roles - Imaging and Print | Corvallis, OR | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP&job=584da10c-963a-4211-821b-e0b80cf673e8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142) |
 
 ## Product Management Internships
