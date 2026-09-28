@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:46:04.729Z",
+  "updatedAt": "2026-09-28T18:00:39.856Z",
   "jobs": [
     {
       "id": "df729d0b-54c5-4a50-9fde-5d7bdf7af09d",
@@ -50,6 +50,18 @@
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"
     },
     {
+      "id": "8afcc612-ff9f-4bc6-9cd0-fa07af8cd735",
+      "company": "Poet",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Sioux Falls, SD",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Poet&job=8afcc612-ff9f-4bc6-9cd0-fa07af8cd735&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://poet.wd1.myworkdayjobs.com/poet/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+    },
+    {
       "id": "f2e2dd3f-7df9-4258-842a-d03fa4729043",
       "company": "Ttc",
       "title": "Electrical/software Coop",
@@ -60,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
+    },
+    {
+      "id": "0f71cbbd-733f-4a11-99c8-4c0a380c2ab0",
+      "company": "Veteransunited",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Veteransunited&job=0f71cbbd-733f-4a11-99c8-4c0a380c2ab0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
     },
     {
       "id": "b96747df-79a8-4fec-89fb-fa7c548dfbed",
