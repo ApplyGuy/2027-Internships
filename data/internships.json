@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T21:45:49.822Z",
+  "updatedAt": "2026-09-28T22:00:16.142Z",
   "jobs": [
     {
       "id": "afe7d75a-643a-47f2-a1c4-cd0f3a2e9f32",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AVARINT+LLC&job=508cb53d-5a14-433a-b7fe-56c8458c583d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718"
+    },
+    {
+      "id": "11d865fd-e388-44a2-98bf-4c53c7fcb224",
+      "company": "Framatome Inc.",
+      "title": "AI and Software Innovation Intern",
+      "category": "Software Engineering",
+      "location": "Lynchburg, VA",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Framatome+Inc.&job=11d865fd-e388-44a2-98bf-4c53c7fcb224&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-framatome.icims.com/jobs/3385/ai-and-software-innovation-intern/job"
     },
     {
       "id": "df729d0b-54c5-4a50-9fde-5d7bdf7af09d",
