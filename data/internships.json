@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:00:38.622Z",
+  "updatedAt": "2026-09-29T16:15:30.187Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aero&job=15f5fc55-ee06-4f33-b194-2aeea9ea532d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+    },
+    {
+      "id": "e702ecb5-2a1a-4c92-867b-0478e2952242",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Omaha, NE",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=e702ecb5-2a1a-4c92-867b-0478e2952242&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
     },
     {
       "id": "9c7f2c4f-94c5-496c-89f4-d82155ddf935",
