@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:30:12.251Z",
+  "updatedAt": "2026-09-29T23:45:15.156Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -168,6 +168,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Iridium+Communications+Inc.&job=9ed1c65c-06f1-4999-90cf-68fe20a63ddf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job"
+    },
+    {
+      "id": "03be846e-da96-42e5-8afb-31dadf6f4b77",
+      "company": "LiveRamp",
+      "title": "Co-Op, Software Development Engineer - Observability Team",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Co-op",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=LiveRamp&job=03be846e-da96-42e5-8afb-31dadf6f4b77&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--Software-Development-Engineer---Observability-Team_JR162201"
     },
     {
       "id": "ebd525a5-770e-4992-9526-e8e354115cdf",
