@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:30:36.390Z",
+  "updatedAt": "2026-09-29T16:45:12.172Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=e702ecb5-2a1a-4c92-867b-0478e2952242&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
+    },
+    {
+      "id": "ff5d103d-99e2-45a9-b95e-bd101c9c0a31",
+      "company": "Enova International",
+      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Enova+International&job=ff5d103d-99e2-45a9-b95e-bd101c9c0a31&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/enova/jobs/8239619"
     },
     {
       "id": "9c7f2c4f-94c5-496c-89f4-d82155ddf935",
@@ -2491,7 +2503,7 @@
     {
       "id": "aada6f05-9595-44f4-b888-0e310b98ca17",
       "company": "FIS",
-      "title": "Intern, Product Management, FIS University Program",
+      "title": "Product Management Intern Pipeline",
       "category": "Product",
       "location": "Jax 347, FL",
       "season": "Not specified",
