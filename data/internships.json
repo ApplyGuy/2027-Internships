@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-09-29T03:30:39.840Z",
+  "updatedAt": "2026-09-29T03:45:37.207Z",
   "jobs": [
+    {
+      "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
+      "company": "Aero",
+      "title": "2027 Software Tools and Assurance Engineering Grad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=ce0a395b-cba6-488f-b4b7-1a02aaea83ee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+    },
+    {
+      "id": "9106354c-42fd-46d2-b8ee-564a2ca8ba20",
+      "company": "Aero",
+      "title": "2027 Software Engineering Undergrad Intern",
+      "category": "Software Engineering",
+      "location": "Chantilly, VA",
+      "season": "2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=9106354c-42fd-46d2-b8ee-564a2ca8ba20&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
+    },
+    {
+      "id": "15f5fc55-ee06-4f33-b194-2aeea9ea532d",
+      "company": "Aero",
+      "title": "2027 Software Engineering Grad Intern",
+      "category": "Software Engineering",
+      "location": "Chantilly, VA",
+      "season": "2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=15f5fc55-ee06-4f33-b194-2aeea9ea532d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+    },
+    {
+      "id": "9c7f2c4f-94c5-496c-89f4-d82155ddf935",
+      "company": "Hermeus",
+      "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hermeus&job=9c7f2c4f-94c5-496c-89f4-d82155ddf935&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"
+    },
     {
       "id": "afe7d75a-643a-47f2-a1c4-cd0f3a2e9f32",
       "company": "Aero",
