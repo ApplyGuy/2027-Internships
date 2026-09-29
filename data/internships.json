@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:45:13.259Z",
+  "updatedAt": "2026-09-29T18:00:23.319Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -96,6 +96,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Perchwell&job=ebd525a5-770e-4992-9526-e8e354115cdf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f"
+    },
+    {
+      "id": "69400873-01d6-458a-bab5-d69ecdd6d1d7",
+      "company": "Q 2 Ebanking",
+      "title": "2027 Summer Internship - Machine Learning Engineer",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Q+2+Ebanking&job=69400873-01d6-458a-bab5-d69ecdd6d1d7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800"
+    },
+    {
+      "id": "6683f58f-e0e4-4d93-9b88-9c5eff59bee7",
+      "company": "Q 2 Ebanking",
+      "title": "2027 Summer Internship - Software Engineer",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Q+2+Ebanking&job=6683f58f-e0e4-4d93-9b88-9c5eff59bee7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
     },
     {
       "id": "d3aa30a2-644b-487e-a068-24f93d612f68",
