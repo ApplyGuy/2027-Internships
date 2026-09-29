@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:45:20.908Z",
+  "updatedAt": "2026-09-29T23:00:12.409Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Enova+International&job=ff5d103d-99e2-45a9-b95e-bd101c9c0a31&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/enova/jobs/8239619"
+    },
+    {
+      "id": "46133479-9f00-4936-90c7-ab89dc64b2f3",
+      "company": "Epic Games",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Cary, NC",
+      "season": "Not specified",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Epic+Games&job=46133479-9f00-4936-90c7-ab89dc64b2f3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004"
     },
     {
       "id": "92d9cbb0-4a81-4b76-aa0a-0310d7992f99",
