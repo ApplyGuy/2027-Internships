@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:45:12.172Z",
+  "updatedAt": "2026-09-29T17:00:22.476Z",
   "jobs": [
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -62,6 +62,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/enova/jobs/8239619"
     },
     {
+      "id": "92d9cbb0-4a81-4b76-aa0a-0310d7992f99",
+      "company": "Haier",
+      "title": "Software Engineering Co-op_Fall 2026",
+      "category": "Software Engineering",
+      "location": "Ky, Louisville",
+      "season": "2026",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Haier&job=92d9cbb0-4a81-4b76-aa0a-0310d7992f99&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-26919"
+    },
+    {
       "id": "9c7f2c4f-94c5-496c-89f4-d82155ddf935",
       "company": "Hermeus",
       "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
@@ -84,6 +96,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rhoda+AI&job=d3aa30a2-644b-487e-a068-24f93d612f68&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5"
+    },
+    {
+      "id": "78f7ddf3-8bd8-4bd4-bc3d-8f0be9d65ee8",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Woburn, MA",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=78f7ddf3-8bd8-4bd4-bc3d-8f0be9d65ee8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
+    },
+    {
+      "id": "42fb3097-d16f-4f99-8b55-8f1fc3d3ff11",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Rockford, IL",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=42fb3097-d16f-4f99-8b55-8f1fc3d3ff11&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
     },
     {
       "id": "8c42a8dc-e265-4dd5-9a67-a08c43c1cd76",
@@ -5536,18 +5572,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a3b0247c-06cd-4c81-a200-a9b1d906e4b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
-    },
-    {
-      "id": "2bd6db53-f501-417c-9fbb-0d70ca806e68",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027) (Open)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-09-10",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2bd6db53-f501-417c-9fbb-0d70ca806e68&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
     },
     {
       "id": "be5b08cb-a7bb-4ac8-ad3f-f0957f8a5826",
