@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-780-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-781-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **780** active U.S. internships posted within the last **30 days**
+- **781** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 28, 2026, 9:45 PM PDT**
+- Last refresh: **Sep 28, 2026, 10:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**703 open roles**
+**704 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -38,6 +38,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | AVARINT LLC | DIADS Software Engineer Intern | USA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AVARINT+LLC&job=508cb53d-5a14-433a-b7fe-56c8458c583d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718) |
 | Framatome Inc. | AI and Software Innovation Intern | Lynchburg, VA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Framatome+Inc.&job=11d865fd-e388-44a2-98bf-4c53c7fcb224&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-framatome.icims.com/jobs/3385/ai-and-software-innovation-intern/job) |
 | Gevernova | GE Vernova - Machine Learning Software Intern - Summer 2027 | Bellevue, WA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gevernova&job=8ff108d2-a90d-4f75-9a0a-3533d68c0233&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Machine-Learning-Software-Intern---Summer-2027_R5050656) |
+| GITAI | Field-Deployed Software Engineering Intern | Los Angeles, CA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GITAI&job=95e82e78-1f94-4dcf-802f-c1f9c67c7acd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/gitai/jobs/5437128008) |
 | H&amp;R Block Management, LLC | Software Engineering Intern - S | Kansas City, MO | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-hrblock.icims.com/jobs/76987/software-engineering-intern---s/job) |
 | Myhrabc | IT Software Intern | Conshohocken, PA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Myhrabc&job=df729d0b-54c5-4a50-9fde-5d7bdf7af09d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://myhrabc.wd5.myworkdayjobs.com/global/job/Conshohocken-PA/IT-Software-Intern_R2614031) |
 | Myhrabc | IT Software Development Intern | Conshohocken, PA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Myhrabc&job=8eadd5bc-bc41-44a2-b410-1e460bd4e2d6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://myhrabc.wd5.myworkdayjobs.com/global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039) |
