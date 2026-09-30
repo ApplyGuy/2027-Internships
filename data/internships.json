@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:00:37.592Z",
+  "updatedAt": "2026-09-30T22:15:34.509Z",
   "jobs": [
     {
       "id": "7fa12f92-054e-4ab5-8872-018d5ae235f6",
@@ -49,6 +49,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
       "applySupported": false
+    },
+    {
+      "id": "cfce7817-357d-40cb-95c2-16c0cc4b1d04",
+      "company": "Assurant",
+      "title": "Summer 2027 Intern: Product Analyst Intern - Housing",
+      "category": "Product",
+      "location": "United States Virtual",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Assurant&job=cfce7817-357d-40cb-95c2-16c0cc4b1d04&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
     },
     {
       "id": "65270a0b-2782-4dea-96b9-ad3a085c4bb9",
