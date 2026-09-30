@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:15:23.635Z",
+  "updatedAt": "2026-09-30T18:30:23.744Z",
   "jobs": [
     {
       "id": "87959437-9e28-490a-a4d4-7722b0ba12ce",
@@ -217,6 +217,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=bb883fb2-47a4-4818-a2ff-46bda900a91d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
+    },
+    {
+      "id": "f1b3abac-248d-4e6c-9f67-a84d0644206e",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=f1b3abac-248d-4e6c-9f67-a84d0644206e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
+    },
+    {
+      "id": "b89779e2-953f-46ff-8a51-f4f49d254e54",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=b89779e2-953f-46ff-8a51-f4f49d254e54&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
     },
     {
       "id": "ce0a395b-cba6-488f-b4b7-1a02aaea83ee",
@@ -1891,7 +1915,7 @@
     {
       "id": "c7b49955-b4bf-4749-abc7-d4bfb146f29d",
       "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer ",
+      "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer ",
       "category": "Software Engineering",
       "location": "Mountain View, CA",
       "season": "Summer 2027",
