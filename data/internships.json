@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:15:20.612Z",
+  "updatedAt": "2026-09-30T16:30:48.669Z",
   "jobs": [
     {
       "id": "87959437-9e28-490a-a4d4-7722b0ba12ce",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=0f36c38c-21a3-416b-9068-e15aaf018ded&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
+    },
+    {
+      "id": "17d85745-147a-46fc-bace-409a6bca91ea",
+      "company": "CACI",
+      "title": "Software/Network Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Florham Park, NJ",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=17d85745-147a-46fc-bace-409a6bca91ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
     },
     {
       "id": "e7a5d580-2133-492b-a9e6-139c0c886acc",
