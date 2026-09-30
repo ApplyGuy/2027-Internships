@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:15:34.509Z",
+  "updatedAt": "2026-09-30T22:30:23.277Z",
   "jobs": [
     {
       "id": "7fa12f92-054e-4ab5-8872-018d5ae235f6",
@@ -205,6 +205,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=58bd30b2-cf28-4f60-b454-bd678bec9ebd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"
+    },
+    {
+      "id": "d2c24797-cc87-4968-8971-44a7663ed6cc",
+      "company": "Peraton",
+      "title": "Spring & Summer 2027 Software Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=d2c24797-cc87-4968-8971-44a7663ed6cc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/171547/spring-%26-summer-2027-software-engineering-co-op/job"
     },
     {
       "id": "aa37f857-f274-498f-b252-473613814761",
@@ -9630,18 +9642,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=c1f55913-b19b-4d6e-908f-86e905a6121a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176711004"
-    },
-    {
-      "id": "4cbb4f91-e14f-4776-b6ac-80eb14e2c669",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer",
-      "posted": "2026-08-31",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128745"
     }
   ]
 }
