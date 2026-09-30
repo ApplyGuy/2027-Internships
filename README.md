@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-807-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-801-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **807** active U.S. internships posted within the last **30 days**
+- **801** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Sep 30, 2026, 12:15 PM PDT**
+- Last refresh: **Sep 30, 2026, 12:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**732 open roles**
+**726 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -751,12 +751,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Stryker | Summer 2027 Internship - Software Engineering - Indiana | Fort Wayne, IN | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stryker&job=05e7e982-6622-46d4-b407-83a8dc955505&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) |
 | Stryker | Summer 2027 Internship - Software Engineering - Michigan | Portage, MI | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stryker&job=05031a11-4236-4d10-9ceb-5000f66ea4a7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
 | Valon Tech | Software Engineer Intern | New York | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Valon+Tech&job=5815377a-6664-4c04-b1f3-58ea9fe632ed&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) |
-| HP IQ | Software Engineer Intern, Cloud Services (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) |
-| HP IQ | Software Engineering Intern, Product & Developer Productivity  (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6114890004) |
-| HP IQ | Software Engineering Intern, Software Systems (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) |
-| HP IQ | Software Engineering Intern, Product Security (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=3221f8e4-9d37-4e82-8c31-d13f4d664c0b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
-| HP IQ | Software Engineering Intern, Device Experiences (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6114912004) |
-| HP IQ | Software Engineering Intern, AML Platform (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) |
 | IXL Learning | Software Engineer, Intern | San Mateo, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IXL+Learning&job=0d64e527-26d6-479a-9af4-30e76e3eb225&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.ixl.com/company/jobs?gh_jid=8765770002) |
 | Katalyst Space Technologies | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=c1f55913-b19b-4d6e-908f-86e905a6121a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, CA | Summer | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://stripe.com/jobs/search?gh_jid=8128745) |
