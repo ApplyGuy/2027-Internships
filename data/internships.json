@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:00:19.169Z",
+  "updatedAt": "2026-09-30T18:15:23.635Z",
   "jobs": [
     {
       "id": "87959437-9e28-490a-a4d4-7722b0ba12ce",
@@ -99,6 +99,30 @@
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"
     },
     {
+      "id": "98170cd2-892e-406d-b3ff-bbff4bb1c486",
+      "company": "Mfs",
+      "title": "Spring 2027 Jr Software Engineer Co-op (January - June)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mfs&job=98170cd2-892e-406d-b3ff-bbff4bb1c486&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979"
+    },
+    {
+      "id": "3276a3b8-24f0-4285-bafa-b9c4cf926344",
+      "company": "Mfs",
+      "title": "Spring 2027 Investment Data Engineer Co-op (January - June)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mfs&job=3276a3b8-24f0-4285-bafa-b9c4cf926344&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978"
+    },
+    {
       "id": "8a26990d-f234-430f-9457-37b2365690e9",
       "company": "Muon Space",
       "title": "GNC Software Engineering Intern (Summer 2027)",
@@ -109,6 +133,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=8a26990d-f234-430f-9457-37b2365690e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
+    },
+    {
+      "id": "fbb9f328-cf8e-4981-bf97-ff1890c27c86",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineer Intern - Morrisville NC",
+      "category": "Software Engineering",
+      "location": "Morrisville, NC",
+      "season": "2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fbb9f328-cf8e-4981-bf97-ff1890c27c86&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
+    },
+    {
+      "id": "d87f889e-0441-44ef-a402-6ef136e933af",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineer Intern - Rolling Meadows IL",
+      "category": "Software Engineering",
+      "location": "Rolling Meadows, IL",
+      "season": "2027",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d87f889e-0441-44ef-a402-6ef136e933af&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
     },
     {
       "id": "e8e57826-0632-4bda-958b-e4c132a2f1c5",
@@ -9510,30 +9558,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Valon+Tech&job=5815377a-6664-4c04-b1f3-58ea9fe632ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64"
-    },
-    {
-      "id": "b9db3390-dbd1-4c8b-b5d2-5a60e1273612",
-      "company": "C 3 Ascend",
-      "title": "Software Engineer - Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Redwood City, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-31",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
-    },
-    {
-      "id": "688de8d6-cb68-427f-a18b-17e590d9e7b9",
-      "company": "C3 AI",
-      "title": "Software Engineer - Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Redwood City, CA",
-      "season": "Summer 2027",
-      "posted": "2026-08-31",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
     },
     {
       "id": "57d806cd-b7f7-4515-a4cb-7016b40b133f",
