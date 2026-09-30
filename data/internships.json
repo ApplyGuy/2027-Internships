@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:30:48.669Z",
+  "updatedAt": "2026-09-30T16:45:21.495Z",
   "jobs": [
     {
       "id": "87959437-9e28-490a-a4d4-7722b0ba12ce",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=0f36c38c-21a3-416b-9068-e15aaf018ded&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
+    },
+    {
+      "id": "65270a0b-2782-4dea-96b9-ad3a085c4bb9",
+      "company": "Bracco",
+      "title": "Firmware Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "California, 94566, Pleasanton",
+      "season": "Co-op",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bracco&job=65270a0b-2782-4dea-96b9-ad3a085c4bb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319"
     },
     {
       "id": "17d85745-147a-46fc-bace-409a6bca91ea",
@@ -770,6 +782,19 @@
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
     },
     {
+      "id": "custom:microsoft:9b4658387c31a9a9a7b3",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunity for University Students",
+      "category": "Software Engineering",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-26",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+      "applySupported": false
+    },
+    {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
       "company": "Allegion",
       "title": "Summer Intern - Software Engineering",
@@ -948,6 +973,32 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=8c12ab19-2a95-444c-8d8f-6f5560aecd47&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+    },
+    {
+      "id": "custom:microsoft:f4aabbfa9bb95e26de5f",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+      "category": "Software Engineering",
+      "location": "United States, Georgia, Atlanta",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:83b1e6c01864a7bbdaf6",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "applySupported": false
     },
     {
       "id": "1ebd4e2c-6daf-428a-a1ef-bba812592b51",
@@ -5430,6 +5481,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -9569,18 +9659,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=c1f55913-b19b-4d6e-908f-86e905a6121a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176711004"
-    },
-    {
-      "id": "285da5bf-6aff-4268-87c6-237bc6be5b16",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "SSD Firmware Development Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-08-31",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009"
     },
     {
       "id": "4cbb4f91-e14f-4776-b6ac-80eb14e2c669",
