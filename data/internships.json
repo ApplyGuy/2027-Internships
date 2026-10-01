@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:15:41.776Z",
+  "updatedAt": "2026-10-01T18:30:39.122Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pinterest&job=7dff8ec0-84a5-4dd6-8193-574ded377b04&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    {
+      "id": "87bb86c5-d746-4faa-bb0c-e1b71d2a665c",
+      "company": "Riot Games",
+      "title": "Software Engineering Intern - Summer 2027 (Remote)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Riot+Games&job=87bb86c5-d746-4faa-bb0c-e1b71d2a665c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
     },
     {
       "id": "c1ba3950-b96a-476f-8d8f-74e439f1e011",
@@ -9546,30 +9558,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Eulerity&job=b7e3b39f-53db-4723-98ff-b6bdae04a89a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006"
-    },
-    {
-      "id": "c9f13603-71d5-44d1-89d5-146119b58e0b",
-      "company": "Hermeus",
-      "title": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Hermeus&job=c9f13603-71d5-44d1-89d5-146119b58e0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936"
-    },
-    {
-      "id": "8ca4c109-75ea-4aff-aae0-229e8870636b",
-      "company": "HP IQ",
-      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
     },
     {
       "id": "48446eeb-91ed-4f2e-a79e-7fe67a95fca4",
