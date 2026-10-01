@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T16:00:41.451Z",
+  "updatedAt": "2026-10-01T16:15:20.714Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allegion&job=b704dda6-e7fe-414c-9546-fc1e1594144d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"
+    },
+    {
+      "id": "e11af2e8-bd4c-450b-a38f-609d00c5da6f",
+      "company": "Cisco",
+      "title": "Software Engineer II (Co-op) - United States",
+      "category": "Software Engineering",
+      "location": "Maynard, MA",
+      "season": "Co-op",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=e11af2e8-bd4c-450b-a38f-609d00c5da6f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923"
+    },
+    {
+      "id": "91a20d5c-44c2-49b9-a47a-be5b60bbdcb5",
+      "company": "Cisco",
+      "title": "Software Engineer I (Co-op) - United States",
+      "category": "Software Engineering",
+      "location": "Maynard, MA",
+      "season": "Co-op",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=91a20d5c-44c2-49b9-a47a-be5b60bbdcb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920"
     },
     {
       "id": "c3b59e23-1802-4111-a04f-d8628da9bf3f",
