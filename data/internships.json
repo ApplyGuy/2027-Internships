@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T03:30:22.359Z",
+  "updatedAt": "2026-10-01T03:45:45.046Z",
   "jobs": [
     {
       "id": "eea0c3fd-f8a1-4b65-8001-5b3d2207e3c0",
@@ -5746,19 +5746,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "20d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
       "company": "Microsoft",
       "title": "Product Management Intern - CTJ - TS",
@@ -5769,6 +5756,19 @@
       "age": "20d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "20d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
       "applySupported": false
     },
     {
