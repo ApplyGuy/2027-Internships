@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:30:53.006Z",
+  "updatedAt": "2026-10-01T15:45:50.935Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -9498,18 +9498,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=IEX+Group&job=48446eeb-91ed-4f2e-a79e-7fe67a95fca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://iex.io/careers/apply?gh_jid=8172248"
-    },
-    {
-      "id": "64ad1cfa-7f17-4b04-a89c-d22af413ee42",
-      "company": "Stoke Space",
-      "title": "Summer 2027 Internship - Software",
-      "category": "Software Engineering",
-      "location": "Kent, WA",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Stoke+Space&job=64ad1cfa-7f17-4b04-a89c-d22af413ee42&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"
     }
   ]
 }
