@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:30:20.696Z",
+  "updatedAt": "2026-10-01T00:45:39.678Z",
   "jobs": [
     {
       "id": "eea0c3fd-f8a1-4b65-8001-5b3d2207e3c0",
@@ -457,6 +457,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=ae897f42-874d-498f-a99c-5d12cd558255&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913"
+    },
+    {
+      "id": "fbdc29b0-a5a3-4867-ac44-cbecfc19e748",
+      "company": "Clay Labs",
+      "title": "Software Engineering Intern ",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-09-29",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Clay+Labs&job=fbdc29b0-a5a3-4867-ac44-cbecfc19e748&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"
     },
     {
       "id": "ff5d103d-99e2-45a9-b95e-bd101c9c0a31",
