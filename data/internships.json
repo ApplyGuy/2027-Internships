@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:15:40.243Z",
+  "updatedAt": "2026-10-01T17:30:18.136Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c3b59e23-1802-4111-a04f-d8628da9bf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
+    },
+    {
+      "id": "7ef93999-2a8f-4f0b-8b36-0ca2f3584178",
+      "company": "Mindex",
+      "title": "Software Engineer Co-Op - On-site",
+      "category": "Software Engineering",
+      "location": "Rochester, NY",
+      "season": "Co-op",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mindex&job=7ef93999-2a8f-4f0b-8b36-0ca2f3584178&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/mindex/j/84B10DB922/"
     },
     {
       "id": "eea0c3fd-f8a1-4b65-8001-5b3d2207e3c0",
