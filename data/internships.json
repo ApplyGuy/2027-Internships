@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:00:23.455Z",
+  "updatedAt": "2026-10-01T10:15:55.248Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -24,84 +24,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c3b59e23-1802-4111-a04f-d8628da9bf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
-    },
-    {
-      "id": "custom:microsoft:745260beb2bb6c075545",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
-      "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
-      "company": "Microsoft",
-      "title": "Product Manager: Internship Opportunities",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "applySupported": false
     },
     {
       "id": "eea0c3fd-f8a1-4b65-8001-5b3d2207e3c0",
@@ -5845,45 +5767,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "20d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "20d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "20d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
-    },
-    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -9543,30 +9426,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Workiva&job=e5227d9a-fa21-4c78-b31d-5d0a44836ae4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://workiva.wd503.myworkdayjobs.com/careers/job/Ames/Software-Engineering-Intern_R12420"
-    },
-    {
-      "id": "be719cd4-d06b-4288-99b4-17e41f37b65f",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern - Honolulu, HI",
-      "category": "Software Engineering",
-      "location": "Honolulu, HI",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=be719cd4-d06b-4288-99b4-17e41f37b65f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
-    },
-    {
-      "id": "55942c07-19c0-4a01-bbc4-6f2573dbed40",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL",
-      "category": "Software Engineering",
-      "location": "Fort Walton Beach, FL",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=55942c07-19c0-4a01-bbc4-6f2573dbed40&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
     },
     {
       "id": "b7e3b39f-53db-4723-98ff-b6bdae04a89a",
