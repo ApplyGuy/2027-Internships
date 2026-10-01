@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:30:42.013Z",
+  "updatedAt": "2026-10-01T21:45:41.359Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -48,6 +48,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=91a20d5c-44c2-49b9-a47a-be5b60bbdcb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920"
+    },
+    {
+      "id": "dd3e26e6-4067-4d4a-89c3-2b6f91bc3638",
+      "company": "Intel",
+      "title": "AI Software Technical Intern",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=dd3e26e6-4067-4d4a-89c3-2b6f91bc3638&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
+    },
+    {
+      "id": "bc91ca31-165d-4f2b-afc6-a1cd97ea7a89",
+      "company": "Intel",
+      "title": "Software Engineering PhD Intern New 2027",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "2027",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=bc91ca31-165d-4f2b-afc6-a1cd97ea7a89&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
     {
       "id": "c3b59e23-1802-4111-a04f-d8628da9bf3f",
