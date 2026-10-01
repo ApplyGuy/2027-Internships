@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:00:17.638Z",
+  "updatedAt": "2026-10-01T05:15:52.055Z",
   "jobs": [
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allegion&job=b704dda6-e7fe-414c-9546-fc1e1594144d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"
+    },
+    {
+      "id": "c3b59e23-1802-4111-a04f-d8628da9bf3f",
+      "company": "Leidos",
+      "title": "Embedded Design Engineering Intern – Firmware",
+      "category": "Software Engineering",
+      "location": "Huntsville, AL",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=c3b59e23-1802-4111-a04f-d8628da9bf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
     },
     {
       "id": "eea0c3fd-f8a1-4b65-8001-5b3d2207e3c0",
@@ -113,7 +125,7 @@
     {
       "id": "3d6f3ca0-102a-4579-87dd-f4c017b30d70",
       "company": "Dandy",
-      "title": "Summer 2027 Internship - Software Engineering",
+      "title": "Summer 2027 Internship - Software Engineering Intern",
       "category": "Software Engineering",
       "location": "New York City, NY",
       "season": "Summer 2027",
@@ -9462,18 +9474,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=IEX+Group&job=48446eeb-91ed-4f2e-a79e-7fe67a95fca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://iex.io/careers/apply?gh_jid=8172248"
-    },
-    {
-      "id": "1de7368c-aea6-461e-a9ae-2ddd78a9da1b",
-      "company": "K2 Space",
-      "title": "Software Engineering Intern – Summer 2027",
-      "category": "Software Engineering",
-      "location": "Los Angeles, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=K2+Space&job=1de7368c-aea6-461e-a9ae-2ddd78a9da1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
     },
     {
       "id": "e84fcdb9-0c91-4c38-bce2-2b7452184d80",
