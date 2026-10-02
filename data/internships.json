@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-02T22:15:28.084Z",
+  "updatedAt": "2026-10-02T22:30:40.177Z",
   "jobs": [
+    {
+      "id": "30b0af21-7e50-48ee-8765-f7e36f8356a5",
+      "company": "Affirm",
+      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Affirm&job=30b0af21-7e50-48ee-8765-f7e36f8356a5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
+    },
+    {
+      "id": "5cd895c7-99a2-4b47-b390-68139acde555",
+      "company": "Affirm",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Affirm&job=5cd895c7-99a2-4b47-b390-68139acde555&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
+    },
     {
       "id": "custom:amazon:8149bafcb3ba3205625d",
       "company": "Amazon",
@@ -13,6 +37,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
       "applySupported": false
+    },
+    {
+      "id": "a82ae4fa-9d2f-4136-9e8f-75e49ab5718a",
+      "company": "Arc Boat Company",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Torrance, CA",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Arc+Boat+Company&job=a82ae4fa-9d2f-4136-9e8f-75e49ab5718a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
     },
     {
       "id": "a6b19453-931b-459c-a35a-8499268a8a21",
@@ -9019,42 +9055,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
-    },
-    {
-      "id": "e34249bf-0cdc-438b-bb6c-0ab8e1551b60",
-      "company": "Alliedsolutions",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Carmel, IN",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=e34249bf-0cdc-438b-bb6c-0ab8e1551b60&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/Carmel-IN/Software-Engineering-Intern_R-011087"
-    },
-    {
-      "id": "5f9a73a4-b90a-44fc-a32a-5bf4acf7eb38",
-      "company": "Alliedsolutions",
-      "title": "Software Delivery Management Intern",
-      "category": "Software Engineering",
-      "location": "Carmel, IN",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=5f9a73a4-b90a-44fc-a32a-5bf4acf7eb38&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086"
-    },
-    {
-      "id": "2f4a7ff3-33d0-4aa2-ba16-06c37fba2927",
-      "company": "Alliedsolutions",
-      "title": "Product Management Intern - Risk Management",
-      "category": "Product",
-      "location": "St. Paul, MN",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=2f4a7ff3-33d0-4aa2-ba16-06c37fba2927&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
     },
     {
       "id": "5e352e0d-890a-41fb-8d0d-464ca6ec0e45",
