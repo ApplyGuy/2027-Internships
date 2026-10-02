@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:15:24.360Z",
+  "updatedAt": "2026-10-02T10:30:23.917Z",
   "jobs": [
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
@@ -96,6 +96,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rb&job=932a8713-0012-46cf-ab34-eae64ec5261c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rb.wd5.myworkdayjobs.com/frs/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
+    },
+    {
+      "id": "4d70f152-81c3-4feb-98f9-876443346467",
+      "company": "ShopBack",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ShopBack&job=4d70f152-81c3-4feb-98f9-876443346467&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98"
+    },
+    {
+      "id": "29bfd0e2-c6d5-414b-a1df-467016f733ee",
+      "company": "ShopBack",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ShopBack&job=29bfd0e2-c6d5-414b-a1df-467016f733ee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"
     },
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
