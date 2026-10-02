@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-02T05:15:23.056Z",
+  "updatedAt": "2026-10-02T05:30:21.392Z",
   "jobs": [
+    {
+      "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
+    },
+    {
+      "id": "49adb3bd-892b-4e52-9ebb-f4a484033633",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=49adb3bd-892b-4e52-9ebb-f4a484033633&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
+    },
+    {
+      "id": "3840dfef-b139-4e8d-8a40-cb2e579dd557",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3840dfef-b139-4e8d-8a40-cb2e579dd557&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+    },
     {
       "id": "efdbbd88-a761-460e-8bf5-f25d294dd3e4",
       "company": "Marvell",
@@ -9091,30 +9127,6 @@
       "listingUrl": "https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad"
     },
     {
-      "id": "8049a77c-f5ee-48d6-929a-fb39f95233e2",
-      "company": "Fifththird",
-      "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "Spring 2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Fifththird&job=8049a77c-f5ee-48d6-929a-fb39f95233e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
-    },
-    {
-      "id": "536838a1-182e-43b2-83c6-993d9ab2a5c2",
-      "company": "Flir",
-      "title": "EADSIM Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Flir&job=536838a1-182e-43b2-83c6-993d9ab2a5c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
-    },
-    {
       "id": "9bbebf62-2dbd-48f0-ac95-ed3b70d5e78e",
       "company": "General Matter",
       "title": "Summer 2027 Internship - Embedded Software Engineering",
@@ -9605,54 +9617,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Tencent&job=09ae5cfb-bb32-4eab-b55c-6882bed27104&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020"
-    },
-    {
-      "id": "e88b13f3-12bf-4f94-979f-4874d711c360",
-      "company": "Touchstone Investments",
-      "title": "Artificial Intelligence Developer Intern (Full Year 2027)",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=e88b13f3-12bf-4f94-979f-4874d711c360&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job"
-    },
-    {
-      "id": "cffed038-1947-404c-849d-b9eaf77aa9b9",
-      "company": "Touchstone Investments",
-      "title": "Software Developer Intern (Agency Systems) (Full Year 2027)",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=cffed038-1947-404c-849d-b9eaf77aa9b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job"
-    },
-    {
-      "id": "b5bbbb02-ef22-4845-bac2-c415e6e8b974",
-      "company": "Touchstone Investments",
-      "title": "Software Developer Intern (Enterprise Process Management Team) (Full Year 2027)",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=b5bbbb02-ef22-4845-bac2-c415e6e8b974&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25245/software-developer-intern-%28enterprise-process-management-team%29-%28full-year-2027%29/job"
-    },
-    {
-      "id": "3b69b5e5-2889-4e9f-899c-af7ecf06cd98",
-      "company": "Touchstone Investments",
-      "title": "Software Automation Testing Intern (Full Year 2027)",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=3b69b5e5-2889-4e9f-899c-af7ecf06cd98&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-westernsouthern.icims.com/jobs/25006/software-automation-testing-intern-%28full-year-2027%29/job"
     },
     {
       "id": "ccfd1429-9ce3-4516-b86c-786aeb4a72d4",
