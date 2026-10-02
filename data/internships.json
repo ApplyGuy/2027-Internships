@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:30:23.895Z",
+  "updatedAt": "2026-10-02T00:45:46.479Z",
   "jobs": [
     {
       "id": "efdbbd88-a761-460e-8bf5-f25d294dd3e4",
@@ -488,6 +488,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=f79f0534-255a-43d9-9921-e4ec1379f5a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003"
+    },
+    {
+      "id": "72a631ab-9568-4c51-ba04-9ab27a6e355c",
+      "company": "Walleye Capital Internships",
+      "title": "Special Projects Developer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Walleye+Capital+Internships&job=72a631ab-9568-4c51-ba04-9ab27a6e355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"
     },
     {
       "id": "7fa12f92-054e-4ab5-8872-018d5ae235f6",
