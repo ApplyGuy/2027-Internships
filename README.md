@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-773-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-767-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **773** active U.S. internships posted within the last **30 days**
+- **767** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 2, 2026, 9:30 AM PDT**
+- Last refresh: **Oct 2, 2026, 9:45 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**702 open roles**
+**697 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -717,14 +717,9 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Genpt | Web Developer Intern | Birmingham, AL | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Genpt&job=8eb7e2d6-92c1-4ee8-b4ed-239477dd4adf&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238) |
 | Intel | Software Engineering - Intern, Graduate | Hillsboro, OR | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Intel&job=1de9ec1a-49fc-4e93-858a-77d1ed251d59&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) |
 | Intel | Software Engineering - Intern, Bachelor’s | Hillsboro, OR | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Intel&job=1c533354-bbd4-4f8e-9016-4a398935b9e2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) |
-| National Information Solutions Cooperative (NISC) | Intern - Software Development | Cedar Rapids, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=c61c3538-5962-43a8-95e9-b72125c0bab4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/nisc/jobs/8092699) |
-| National Information Solutions Cooperative (NISC) | Intern - Data Engineer | Cedar Rapids, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=fe7a2063-0aa4-4d85-b777-41f23bfd2d8f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/nisc/jobs/8167858) |
 | NISC | Intern - Software Development | Mandan, ND | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=08d8df05-0715-41b5-a203-1e4149170758&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8174096) |
 | NISC | Intern - Software Development | Lake Saint Louis, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=fc7d7698-c0d5-4957-871f-d6a62f052db6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8174090) |
 | NISC | Intern - Software Development | Cedar Rapids, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=71e624fd-dc9b-419a-9e47-e285c3a0d527&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8174088) |
-| NISC | Intern - Data Engineer | Mandan, ND | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=4c3c6f88-f391-4891-8615-20e3d2502295&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8167886) |
-| NISC | Intern - Data Engineer | Lake Saint Louis, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=f26f995a-f31b-4599-b79b-ae3c1c7a32a6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8167884) |
-| NISC | Intern - Data Engineer | Cedar Rapids, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=f5dd650b-63d5-4c47-99c5-70c836bb452a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8167883) |
 | Northmarq | Software Engineering Intern, Summer 2027 | Minneapolis, MN | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northmarq&job=9f3c4927-2519-4b7b-9f5b-f9be53f91367&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/northmarq/jobs/5414475008) |
 | Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland | Linthicum, MD | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=10ca4da9-3410-44f1-bf63-55f3b25dd285&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
 | Steel Dynamics, Inc. | Software Development Internship | Fort Wayne, IN | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Steel+Dynamics%2C+Inc.&job=bfc71ac8-56c3-4fc3-8ac8-ff881eb9c13e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-steeldynamics.icims.com/jobs/7994/software-development-internship/job) |
@@ -733,7 +728,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**71 open roles**
+**70 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -807,7 +802,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Harman | Intern - Product Strategy | Home Office New York | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Harman&job=5fe9960a-9a0e-414a-93d2-fe87e54a5a6b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://harman.wd3.myworkdayjobs.com/harman/job/US-Home-Office-New-York/Intern---Product-Strategy_R-55477-2026) |
 | HP | Personal Systems Product Management Intern | Austin, TX | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HP&job=0e007c4d-74af-4f40-9ba7-c4a4b0f92a54&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755) |
 | Mastercard | Product Management – Technical Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, MO | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mastercard&job=d5365167-d020-4019-8031-8033b38e1475&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) |
-| Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Roblox&job=9c834517-36c5-4334-a26c-5a1fceee078e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 
 ## Contributing
 
