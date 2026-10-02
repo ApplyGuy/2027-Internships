@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:15:42.152Z",
+  "updatedAt": "2026-10-02T23:30:40.654Z",
   "jobs": [
     {
       "id": "30b0af21-7e50-48ee-8765-f7e36f8356a5",
@@ -121,6 +121,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=53366a55-3c59-46db-b8cc-bbb12a5c40cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4556132"
+    },
+    {
+      "id": "b7c57b24-62ea-481d-85f2-5999e4c9322f",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – Machine Learning Engineer, AV/AI Platform",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b7c57b24-62ea-481d-85f2-5999e4c9322f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
+    },
+    {
+      "id": "35f25e8f-9fc8-47fa-8e50-a037708a9e27",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform",
+      "category": "Software Engineering",
+      "location": "Warren, MI",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=35f25e8f-9fc8-47fa-8e50-a037708a9e27&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
     },
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
