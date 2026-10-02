@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:00:49.821Z",
+  "updatedAt": "2026-10-02T06:15:23.676Z",
   "jobs": [
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
@@ -48,18 +48,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=efdbbd88-a761-460e-8bf5-f25d294dd3e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
-    },
-    {
-      "id": "26b76294-3da4-43e5-8195-a4e1a5039978",
-      "company": "Mercor",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-10-02",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Mercor&job=26b76294-3da4-43e5-8195-a4e1a5039978&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d"
     },
     {
       "id": "78a4ce42-8a88-481f-898e-a93da2d6e9c5",
@@ -216,6 +204,110 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mfs&job=4ab77493-9597-494d-a6fc-094942f4efbf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984"
+    },
+    {
+      "id": "custom:microsoft:d0ea588678d51d037eda",
+      "company": "Microsoft",
+      "title": "Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "applySupported": false
     },
     {
       "id": "7ef93999-2a8f-4f0b-8b36-0ca2f3584178",
@@ -6139,6 +6231,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "21d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "21d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "21d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -9116,30 +9247,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/nisc/jobs/8167858"
     },
     {
-      "id": "28ffc9fa-5b66-4bca-b60d-1402b0d3e231",
-      "company": "Newrez",
-      "title": "2027 Summer Internship - Software Developer",
-      "category": "Software Engineering",
-      "location": "Coppell, TX",
-      "season": "Summer 2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Newrez&job=28ffc9fa-5b66-4bca-b60d-1402b0d3e231&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://newrez.wd1.myworkdayjobs.com/nrz/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
-    },
-    {
-      "id": "feb266ae-7f1a-4a62-a9ca-b3f343e74368",
-      "company": "Nike",
-      "title": "NIKE, Inc. Software Engineering Undergraduate Internship",
-      "category": "Software Engineering",
-      "location": "Beaverton, OR",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nike&job=feb266ae-7f1a-4a62-a9ca-b3f343e74368&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
-    },
-    {
       "id": "08d8df05-0715-41b5-a203-1e4149170758",
       "company": "NISC",
       "title": "Intern - Software Development",
@@ -9234,18 +9341,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=10ca4da9-3410-44f1-bf63-55f3b25dd285&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
-    },
-    {
-      "id": "0b7908dc-a9c1-4567-9c2c-b15e118e6c92",
-      "company": "Ntrs",
-      "title": "Technology Intern – Software Engineering",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Ntrs&job=0b7908dc-a9c1-4567-9c2c-b15e118e6c92&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"
     },
     {
       "id": "badb4f30-5b0e-497b-a4f8-b960eb6f5ecd",
