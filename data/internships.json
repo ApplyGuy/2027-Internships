@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:45:37.155Z",
+  "updatedAt": "2026-10-02T23:00:18.971Z",
   "jobs": [
     {
       "id": "30b0af21-7e50-48ee-8765-f7e36f8356a5",
@@ -61,6 +61,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=a6b19453-931b-459c-a35a-8499268a8a21&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c"
+    },
+    {
+      "id": "00f383dc-0510-4004-92a4-e78630e85954",
+      "company": "C 3 Ascend",
+      "title": "AI Product Manager - MBA Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Redwood City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=C+3+Ascend&job=00f383dc-0510-4004-92a4-e78630e85954&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002"
+    },
+    {
+      "id": "fcc84b26-195a-4582-9c29-505c0c73af28",
+      "company": "C3 AI",
+      "title": "AI Product Manager - MBA Intern (Summer 2027)",
+      "category": "Product",
+      "location": "Redwood City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=C3+AI&job=fcc84b26-195a-4582-9c29-505c0c73af28&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
+    },
+    {
+      "id": "b10470f9-92ac-4d4d-9cef-92c7a30473eb",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b10470f9-92ac-4d4d-9cef-92c7a30473eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037"
     },
     {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
@@ -9055,18 +9091,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
-    },
-    {
-      "id": "5e352e0d-890a-41fb-8d0d-464ca6ec0e45",
-      "company": "CACI",
-      "title": "Software Engineering Co-op - Fall 2026",
-      "category": "Software Engineering",
-      "location": "King of Prussia, PA",
-      "season": "Fall 2026",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=5e352e0d-890a-41fb-8d0d-464ca6ec0e45&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472"
     },
     {
       "id": "d8a923b0-88f5-4b71-a038-1b5316580d56",
