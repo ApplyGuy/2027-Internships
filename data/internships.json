@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-02T00:00:21.862Z",
+  "updatedAt": "2026-10-02T00:15:39.498Z",
   "jobs": [
+    {
+      "id": "efdbbd88-a761-460e-8bf5-f25d294dd3e4",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=efdbbd88-a761-460e-8bf5-f25d294dd3e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
+    },
+    {
+      "id": "26b76294-3da4-43e5-8195-a4e1a5039978",
+      "company": "Mercor",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mercor&job=26b76294-3da4-43e5-8195-a4e1a5039978&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d"
+    },
+    {
+      "id": "78a4ce42-8a88-481f-898e-a93da2d6e9c5",
+      "company": "Nordsonhcm",
+      "title": "Software Intern",
+      "category": "Software Engineering",
+      "location": "Minneapolis, MN",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=78a4ce42-8a88-481f-898e-a93da2d6e9c5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945"
+    },
+    {
+      "id": "0efa2509-12c1-4fd2-9a99-9afc9962b31f",
+      "company": "Nordsonhcm",
+      "title": "Intern (Software Engineering)",
+      "category": "Software Engineering",
+      "location": "East Providence, RI",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=0efa2509-12c1-4fd2-9a99-9afc9962b31f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006"
+    },
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
       "company": "Allegion",
@@ -7949,18 +7997,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=343deb92-2522-4016-b8fc-c6942db6d6c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
-    },
-    {
-      "id": "3a43fee0-a5ae-441a-a63b-4ad7751761d6",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-05",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
     },
     {
       "id": "3ad3f24e-5c2c-4d26-abd9-85d79ea3f016",
