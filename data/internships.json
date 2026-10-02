@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:15:23.676Z",
+  "updatedAt": "2026-10-02T06:30:22.377Z",
   "jobs": [
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=0efa2509-12c1-4fd2-9a99-9afc9962b31f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006"
+    },
+    {
+      "id": "932a8713-0012-46cf-ab34-eae64ec5261c",
+      "company": "Rb",
+      "title": "Summer 2027 Intern-Computer Science and Software Engineering",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rb&job=932a8713-0012-46cf-ab34-eae64ec5261c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rb.wd5.myworkdayjobs.com/frs/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
     },
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
@@ -232,6 +244,19 @@
       "applySupported": false
     },
     {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
       "id": "custom:microsoft:745260beb2bb6c075545",
       "company": "Microsoft",
       "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
@@ -281,19 +306,6 @@
       "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:f113e962cccbfe5e554d",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-01",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
@@ -9343,66 +9355,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
     },
     {
-      "id": "badb4f30-5b0e-497b-a4f8-b960eb6f5ecd",
-      "company": "Philips",
-      "title": "Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=badb4f30-5b0e-497b-a4f8-b960eb6f5ecd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095"
-    },
-    {
-      "id": "9cdb5760-a81d-4791-8104-9e8cc611f689",
-      "company": "Philips",
-      "title": "Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=9cdb5760-a81d-4791-8104-9e8cc611f689&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
-    },
-    {
-      "id": "6ba7fb4b-c09e-4f3f-9c07-c48531f1cadc",
-      "company": "Philips",
-      "title": "Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=6ba7fb4b-c09e-4f3f-9c07-c48531f1cadc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
-    },
-    {
-      "id": "a478f75a-8100-4508-9490-293417a132a3",
-      "company": "Plexus",
-      "title": "Intern - Software Engineer (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Raleigh, NC",
-      "season": "Summer 2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Plexus&job=a478f75a-8100-4508-9490-293417a132a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424"
-    },
-    {
-      "id": "847a0de5-5570-42fc-ad41-cd233f3af88d",
-      "company": "Plexus",
-      "title": "Intern - Software Engineer (Fall 2027)",
-      "category": "Software Engineering",
-      "location": "Neenah, WI",
-      "season": "Fall 2027",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Plexus&job=847a0de5-5570-42fc-ad41-cd233f3af88d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2027-_R040443"
-    },
-    {
       "id": "9c834517-36c5-4334-a26c-5a1fceee078e",
       "company": "Roblox",
       "title": "[Summer 2027] Product Management Intern",
@@ -9413,18 +9365,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=9c834517-36c5-4334-a26c-5a1fceee078e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981"
-    },
-    {
-      "id": "f2850427-45ac-47f4-9605-1af676f37b25",
-      "company": "Rockwellautomation",
-      "title": "Intern, Content IDE Software Development (LCS)",
-      "category": "Software Engineering",
-      "location": "Mayfield Heights, OH",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=f2850427-45ac-47f4-9605-1af676f37b25&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
     },
     {
       "id": "bfc71ac8-56c3-4fc3-8ac8-ff881eb9c13e",
