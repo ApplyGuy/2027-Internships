@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:30:22.377Z",
+  "updatedAt": "2026-10-02T06:45:22.223Z",
   "jobs": [
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=0efa2509-12c1-4fd2-9a99-9afc9962b31f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006"
+    },
+    {
+      "id": "7f40e7e3-b728-47dd-8596-616023c6b4a4",
+      "company": "Profluent",
+      "title": "Intern, Software Engineering",
+      "category": "Software Engineering",
+      "location": "Emeryville, CA",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Profluent&job=7f40e7e3-b728-47dd-8596-616023c6b4a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/profluent/jobs/5441955008"
     },
     {
       "id": "932a8713-0012-46cf-ab34-eae64ec5261c",
@@ -9389,114 +9401,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Stryker&job=f70c0dd2-a0f6-4d7b-9c45-5f87e429ddc7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"
-    },
-    {
-      "id": "1f2199ff-99bd-41c6-b4a6-04ae543bd3c4",
-      "company": "Tencent",
-      "title": "Tencent Cloud CPaaS Product Management Intern",
-      "category": "Product",
-      "location": "Palo Alto, CA",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tencent&job=1f2199ff-99bd-41c6-b4a6-04ae543bd3c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
-    },
-    {
-      "id": "09ae5cfb-bb32-4eab-b55c-6882bed27104",
-      "company": "Tencent",
-      "title": "Tencent Cloud CPaaS Product Management Intern",
-      "category": "Product",
-      "location": "Los Angeles, CA",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tencent&job=09ae5cfb-bb32-4eab-b55c-6882bed27104&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020"
-    },
-    {
-      "id": "ccfd1429-9ce3-4516-b86c-786aeb4a72d4",
-      "company": "Travelers",
-      "title": "Product Management Development Program (PMDP) Intern",
-      "category": "Product",
-      "location": "Hartford, CT",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=ccfd1429-9ce3-4516-b86c-786aeb4a72d4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317"
-    },
-    {
-      "id": "f3926e9e-5166-4738-9f7e-0b39e3fea509",
-      "company": "Usfoods",
-      "title": "Intern – Data Engineer (Hybrid: Onsite & Remote)",
-      "category": "Software Engineering",
-      "location": "Rosemont, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Usfoods&job=f3926e9e-5166-4738-9f7e-0b39e3fea509&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R282116"
-    },
-    {
-      "id": "b7541eb7-2cd9-45b1-93bf-b57f88a59705",
-      "company": "Usfoods",
-      "title": "Intern – Product Analyst, Supply Chain Technology (Hybrid: Onsite & Remote)",
-      "category": "Product",
-      "location": "Rosemont, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Usfoods&job=b7541eb7-2cd9-45b1-93bf-b57f88a59705&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Product-Analyst--Supply-Chain-Technology--Hybrid--Onsite---Remote-_R282104"
-    },
-    {
-      "id": "a446ddcf-b4c7-425c-bc73-08187671c012",
-      "company": "Usfoods",
-      "title": "Intern – Software Engineer, Legacy Systems (Hybrid: Onsite & Remote)",
-      "category": "Software Engineering",
-      "location": "Rosemont, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Usfoods&job=a446ddcf-b4c7-425c-bc73-08187671c012&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106"
-    },
-    {
-      "id": "42b38e52-a411-419b-8828-b395cbdefdb1",
-      "company": "Usfoods",
-      "title": "Intern – Software Engineer, Digital Commerce (Hybrid: Onsite & Remote)",
-      "category": "Software Engineering",
-      "location": "Rosemont, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Usfoods&job=42b38e52-a411-419b-8828-b395cbdefdb1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111"
-    },
-    {
-      "id": "227857d5-9eba-4786-abb1-aec803861f35",
-      "company": "Usfoods",
-      "title": "Intern – Product Analyst, Digital Commerce (Hybrid: Onsite & Remote)",
-      "category": "Product",
-      "location": "Rosemont, IL",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Usfoods&job=227857d5-9eba-4786-abb1-aec803861f35&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/Rosemont-IL/Intern---Product-Analyst--Digital-Commerce--Hybrid--Onsite---Remote-_R282105"
-    },
-    {
-      "id": "12569b05-b444-4a0a-97b0-5248b8d99e8d",
-      "company": "Vanguard",
-      "title": "College to Corporate IT Internship - Technical Product Manager",
-      "category": "Product",
-      "location": "Malvern, PA",
-      "season": "Not specified",
-      "posted": "2026-09-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Vanguard&job=12569b05-b444-4a0a-97b0-5248b8d99e8d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969"
     },
     {
       "id": "e5227d9a-fa21-4c78-b31d-5d0a44836ae4",
