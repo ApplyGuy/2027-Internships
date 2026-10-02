@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-02T15:45:40.262Z",
+  "updatedAt": "2026-10-02T16:00:24.942Z",
   "jobs": [
+    {
+      "id": "custom:amazon:8149bafcb3ba3205625d",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+      "category": "Software Engineering",
+      "location": "US, WA, Seattle",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+      "applySupported": false
+    },
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
       "company": "Generalmotors",
