@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:45:23.376Z",
+  "updatedAt": "2026-10-02T22:00:24.971Z",
   "jobs": [
     {
       "id": "custom:amazon:8149bafcb3ba3205625d",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
+    },
+    {
+      "id": "53366a55-3c59-46db-b8cc-bbb12a5c40cd",
+      "company": "Election Systems & Software LLC",
+      "title": "Summer Internship 2027 - Information Systems Software Developer",
+      "category": "Software Engineering",
+      "location": "Omaha, NE",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=53366a55-3c59-46db-b8cc-bbb12a5c40cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4556132"
     },
     {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
@@ -229,6 +241,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=91a20d5c-44c2-49b9-a47a-be5b60bbdcb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920"
+    },
+    {
+      "id": "87c50de7-3689-43b1-b92f-66881d5d5cd4",
+      "company": "Election Systems & Software LLC",
+      "title": "Summer Internship 2027 - DevOps",
+      "category": "Software Engineering",
+      "location": "Omaha, NE",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=87c50de7-3689-43b1-b92f-66881d5d5cd4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553481"
+    },
+    {
+      "id": "82381cee-a37d-4be4-8935-d452b9955a00",
+      "company": "Election Systems & Software LLC",
+      "title": "Summer Internship 2027 - Software Development",
+      "category": "Software Engineering",
+      "location": "Omaha, NE",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=82381cee-a37d-4be4-8935-d452b9955a00&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447"
     },
     {
       "id": "4ac8d122-d8bc-4d5c-8c2d-5560447336b1",
