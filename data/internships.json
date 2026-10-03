@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:45:39.205Z",
+  "updatedAt": "2026-10-03T01:00:53.985Z",
   "jobs": [
     {
       "id": "30b0af21-7e50-48ee-8765-f7e36f8356a5",
@@ -289,6 +289,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=ShopBack&job=29bfd0e2-c6d5-414b-a1df-467016f733ee&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"
+    },
+    {
+      "id": "df98ee96-c8f4-45c2-b55a-d52d6ce65a03",
+      "company": "SpaceXAI",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Spring 2027",
+      "posted": "2026-10-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SpaceXAI&job=df98ee96-c8f4-45c2-b55a-d52d6ce65a03&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/xai/jobs/5252108007"
+    },
+    {
+      "id": "969a1f5b-6c1d-429e-be8a-2cf39691d453",
+      "company": "SpaceXAI",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SpaceXAI&job=969a1f5b-6c1d-429e-be8a-2cf39691d453&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
     },
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
