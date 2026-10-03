@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T12:45:19.710Z",
+  "updatedAt": "2026-10-03T13:00:22.297Z",
   "jobs": [
     {
       "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=19cf3f13-f30f-4174-a3ef-380b9207eeb3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"
+    },
+    {
+      "id": "39b55249-658f-4974-9cec-24cb2a974c09",
+      "company": "Revvity",
+      "title": "Software Integration Co-Op (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Akron, OH",
+      "season": "Spring 2027",
+      "posted": "2026-10-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Revvity&job=39b55249-658f-4974-9cec-24cb2a974c09&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://revvity.wd103.myworkdayjobs.com/external/job/Akron/Software-Integration-Co-Op--Spring-2027-_JR-045618"
     },
     {
       "id": "30b0af21-7e50-48ee-8765-f7e36f8356a5",
@@ -349,6 +361,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SpaceXAI&job=969a1f5b-6c1d-429e-be8a-2cf39691d453&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
+    },
+    {
+      "id": "9e781cc1-6849-4f9b-a23e-ec0161cc0740",
+      "company": "Spartannash",
+      "title": "IS Internship - IT Ecommerce & Marketing Developer",
+      "category": "Software Engineering",
+      "location": "Byron Center, MI",
+      "season": "Not specified",
+      "posted": "2026-10-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Spartannash&job=9e781cc1-6849-4f9b-a23e-ec0161cc0740&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
     },
     {
       "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
