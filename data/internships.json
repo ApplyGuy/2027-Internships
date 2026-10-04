@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T23:00:40.729Z",
+  "updatedAt": "2026-10-04T23:15:22.968Z",
   "jobs": [
     {
       "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
@@ -529,6 +529,110 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mfs&job=4ab77493-9597-494d-a6fc-094942f4efbf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984"
+    },
+    {
+      "id": "custom:microsoft:d0ea588678d51d037eda",
+      "company": "Microsoft",
+      "title": "Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:745260beb2bb6c075545",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:422cce84ab8a91a0d7ce",
+      "company": "Microsoft",
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:108fa5e1c7f83fb391bf",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:1a75bbf16ed228cda7e2",
+      "company": "Microsoft",
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
+      "company": "Microsoft",
+      "title": "Product Manager: Internship Opportunities",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "applySupported": false
     },
     {
       "id": "7ef93999-2a8f-4f0b-8b36-0ca2f3584178",
@@ -6452,6 +6556,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "23d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "23d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "23d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -8382,18 +8525,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Saabusa&job=3ad3f24e-5c2c-4d26-abd9-85d79ea3f016&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
-    },
-    {
-      "id": "0b7eb8ec-617f-451b-ad92-f92b612a4195",
-      "company": "Barclays",
-      "title": "2027 Technology Developer Summer Internship Program Wilmington",
-      "category": "Software Engineering",
-      "location": "Wilmington, 125 South West Street",
-      "season": "Summer",
-      "posted": "2026-09-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Barclays&job=0b7eb8ec-617f-451b-ad92-f92b612a4195&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
     },
     {
       "id": "3c61c44d-b0ae-42e4-85b1-9c3e77bc5d4d",
