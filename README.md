@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-706-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-704-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **706** active U.S. internships posted within the last **30 days**
+- **704** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 4, 2026, 12:00 PM PDT**
+- Last refresh: **Oct 4, 2026, 12:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**639 open roles**
+**637 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -665,8 +665,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Cox | Software Engineering Intern - Summer 2027 (North Hills, NY) | Long Island, NY | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cox&job=00955569-c13d-406d-b8a6-f67a28151022&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1) |
 | Garner Health | Software Engineering Intern | New York City, NY | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Garner+Health&job=71673ee8-f305-4a7a-a747-c7eb51c65ec0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004) |
 | NASCO | Software Engineering Intern | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NASCO&job=7fa2dd40-c6e2-4b44-a03d-84f713573b2c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-nasco.icims.com/jobs/4402/software-engineering-intern/job) |
-| Simon | Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors) | Indianapolis, IN | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Simon&job=bec118ee-81f7-4227-a5ed-f0030e6645d8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) |
-| Zipline | Aircraft Software Integration Intern (Summer 2027) | South San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zipline&job=58f6c64a-461d-43ac-b68b-00dba0e386e0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) |
 
 ## Product Management Internships
 
