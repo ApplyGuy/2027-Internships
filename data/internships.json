@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T19:00:28.516Z",
+  "updatedAt": "2026-10-04T19:15:27.703Z",
   "jobs": [
     {
       "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
@@ -8454,30 +8454,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=NASCO&job=7fa2dd40-c6e2-4b44-a03d-84f713573b2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-nasco.icims.com/jobs/4402/software-engineering-intern/job"
-    },
-    {
-      "id": "bec118ee-81f7-4227-a5ed-f0030e6645d8",
-      "company": "Simon",
-      "title": "Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)",
-      "category": "Software Engineering",
-      "location": "Indianapolis, IN",
-      "season": "Not specified",
-      "posted": "2026-09-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Simon&job=bec118ee-81f7-4227-a5ed-f0030e6645d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"
-    },
-    {
-      "id": "58f6c64a-461d-43ac-b68b-00dba0e386e0",
-      "company": "Zipline",
-      "title": "Aircraft Software Integration Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-04",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=58f6c64a-461d-43ac-b68b-00dba0e386e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
     }
   ]
 }
