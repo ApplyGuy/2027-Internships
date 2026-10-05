@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:15:30.123Z",
+  "updatedAt": "2026-10-05T21:31:00.514Z",
   "jobs": [
     {
       "id": "82c7ee06-c1fd-4f61-a883-4add39e2a2b8",
@@ -72,6 +72,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Quantum+Signal+AI&job=f309aaba-4efa-480f-81fd-7032b3f277d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9"
+    },
+    {
+      "id": "7f6310f7-499c-4dad-8be6-2d441bb8bc16",
+      "company": "TensorWave",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Las Vegas, NV",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TensorWave&job=7f6310f7-499c-4dad-8be6-2d441bb8bc16&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab"
+    },
+    {
+      "id": "53ac64c5-bf5a-4b6a-9ae6-5aaa99059c84",
+      "company": "TensorWave",
+      "title": "Developer Community Engagement Intern",
+      "category": "Software Engineering",
+      "location": "Las Vegas, NV",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TensorWave&job=53ac64c5-bf5a-4b6a-9ae6-5aaa99059c84&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731"
     },
     {
       "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
@@ -6378,6 +6402,42 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Bracco&job=8717f73c-d46e-4a2a-a064-700985abf0b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"
+    },
+    {
+      "id": "1337fcfb-e76e-45fe-b1f8-9f13d0eac5f7",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Embedded Software Test Engineer",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "2027",
+      "posted": "2026-09-11",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=1337fcfb-e76e-45fe-b1f8-9f13d0eac5f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175"
+    },
+    {
+      "id": "1a12eb0d-47df-4a9b-8751-313c980876f1",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Embedded Firmware Engineer",
+      "category": "Software Engineering",
+      "location": "Phoenix, AZ",
+      "season": "2027",
+      "posted": "2026-09-11",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=1a12eb0d-47df-4a9b-8751-313c980876f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8"
+    },
+    {
+      "id": "3aa6f52a-9546-4a15-a80a-2c559c5355a4",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Embedded Software Engineer",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "2027",
+      "posted": "2026-09-11",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=3aa6f52a-9546-4a15-a80a-2c559c5355a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec"
     },
     {
       "id": "fa50ca20-f808-42fc-883e-b69093786392",
