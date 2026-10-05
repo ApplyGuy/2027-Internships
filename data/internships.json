@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:45:28.306Z",
+  "updatedAt": "2026-10-05T19:00:41.335Z",
   "jobs": [
     {
       "id": "82c7ee06-c1fd-4f61-a883-4add39e2a2b8",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=206385ae-4f98-4fdf-bd00-b0eb7af56790&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
+    },
+    {
+      "id": "3250e485-d8b8-4d4a-8897-6309422088eb",
+      "company": "Manulife",
+      "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
     },
     {
       "id": "f309aaba-4efa-480f-81fd-7032b3f277d2",
