@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T23:30:25.044Z",
+  "updatedAt": "2026-10-05T23:45:30.061Z",
   "jobs": [
     {
       "id": "3dabcaff-b7a6-4222-8e79-6e711e4bd29f",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=206385ae-4f98-4fdf-bd00-b0eb7af56790&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
+    },
+    {
+      "id": "ae12e551-77cb-4ebd-8a49-de5f8deaa0c1",
+      "company": "IDEMIA North America",
+      "title": "Software Engineer Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=ae12e551-77cb-4ebd-8a49-de5f8deaa0c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job"
     },
     {
       "id": "3250e485-d8b8-4d4a-8897-6309422088eb",
