@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T01:15:29.661Z",
+  "updatedAt": "2026-10-06T01:30:42.165Z",
   "jobs": [
     {
       "id": "d2057793-c714-48c6-9ad2-23666b62c8e3",
@@ -168,6 +168,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=TensorWave&job=53ac64c5-bf5a-4b6a-9ae6-5aaa99059c84&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731"
+    },
+    {
+      "id": "abc07d16-d665-4334-8de3-9736c22c8363",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=abc07d16-d665-4334-8de3-9736c22c8363&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
     },
     {
       "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
