@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:45:24.680Z",
+  "updatedAt": "2026-10-06T19:00:36.223Z",
   "jobs": [
     {
       "id": "f20f7588-4bd2-4115-ac8e-d7e3273c1275",
@@ -38,6 +38,19 @@
       "listingUrl": "https://alston.wd1.myworkdayjobs.com/externalcareer/job/Atlanta/Developer-Intern_JR100986"
     },
     {
+      "id": "custom:amazon:add6eb3bfd699f81cc69",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+      "category": "Software Engineering",
+      "location": "US, WA, Seattle",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+      "applySupported": false
+    },
+    {
       "id": "23ed97e2-7288-4de7-b14e-b237ef9da1dc",
       "company": "Amgen",
       "title": "Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing",
@@ -60,18 +73,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Courier+Health&job=d87255c9-10eb-4a7b-932f-c9e4ec186f92&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007"
-    },
-    {
-      "id": "69f14014-74e4-4a07-b1d2-81b2760c6a2d",
-      "company": "Dryft",
-      "title": "Full-Stack Engineering Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-10-06",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Dryft&job=69f14014-74e4-4a07-b1d2-81b2760c6a2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/dryft/d4c7d1cd-a4e3-440e-ad53-4dab3391d883"
     },
     {
       "id": "de310f1e-7d71-4bd6-b92f-22bb5bdfce88",
@@ -180,6 +181,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=193999cd-de65-4185-82cc-46429a0f73bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1"
+    },
+    {
+      "id": "fdb6bfa6-c414-48f9-8a80-12fc48aca495",
+      "company": "Space Dynamics Laboratory",
+      "title": "Software Engineering Intern - AI Enabled Software Development",
+      "category": "Software Engineering",
+      "location": "North Logan, UT",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Space+Dynamics+Laboratory&job=fdb6bfa6-c414-48f9-8a80-12fc48aca495&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq"
+    },
+    {
+      "id": "3a8be9ab-e721-4f0a-af20-d156d98bd0c4",
+      "company": "Space Dynamics Laboratory",
+      "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+      "category": "Software Engineering",
+      "location": "North Logan, UT",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Space+Dynamics+Laboratory&job=3a8be9ab-e721-4f0a-af20-d156d98bd0c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l"
     },
     {
       "id": "3dabcaff-b7a6-4222-8e79-6e711e4bd29f",
