@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-06T00:00:42.005Z",
+  "updatedAt": "2026-10-06T00:15:25.396Z",
   "jobs": [
+    {
+      "id": "d2057793-c714-48c6-9ad2-23666b62c8e3",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=d2057793-c714-48c6-9ad2-23666b62c8e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914"
+    },
     {
       "id": "3dabcaff-b7a6-4222-8e79-6e711e4bd29f",
       "company": "Atoms",
@@ -24,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=82c7ee06-c1fd-4f61-a883-4add39e2a2b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
+    },
+    {
+      "id": "61348986-5b6e-4fd7-955f-2cf14106482a",
+      "company": "Found Industries",
+      "title": "Data Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Cambridge, MA",
+      "season": "Co-op",
+      "posted": "2026-10-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Found+Industries&job=61348986-5b6e-4fd7-955f-2cf14106482a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"
     },
     {
       "id": "c1957bd2-1461-479d-a8f6-621c45c3dab3",
@@ -156,18 +180,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Hntb&job=b55268e8-74ba-4a2b-8f06-a3e7f7d950e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
-    },
-    {
-      "id": "19cf3f13-f30f-4174-a3ef-380b9207eeb3",
-      "company": "Leidos",
-      "title": "Software Developer Intern",
-      "category": "Software Engineering",
-      "location": "Annapolis Junction, MD",
-      "season": "Not specified",
-      "posted": "2026-10-03",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=19cf3f13-f30f-4174-a3ef-380b9207eeb3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"
     },
     {
       "id": "39b55249-658f-4974-9cec-24cb2a974c09",
