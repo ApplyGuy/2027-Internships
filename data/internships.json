@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:00:30.644Z",
+  "updatedAt": "2026-10-06T18:16:01.444Z",
   "jobs": [
     {
       "id": "f20f7588-4bd2-4115-ac8e-d7e3273c1275",
@@ -132,6 +132,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=17eb88f3-996c-469a-a6e0-0cb02c84fa64&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
+    },
+    {
+      "id": "b8311174-1820-4346-ad99-41207d28cbb5",
+      "company": "RTX",
+      "title": "Software Engineer Co-op (January 2027)",
+      "category": "Software Engineering",
+      "location": "Marlborough, MA",
+      "season": "2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=b8311174-1820-4346-ad99-41207d28cbb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330"
+    },
+    {
+      "id": "abd85885-0b2a-4409-890e-dc453a50a868",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=abd85885-0b2a-4409-890e-dc453a50a868&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884"
+    },
+    {
+      "id": "4a8fe78e-0c22-4b03-a279-24efeeca2bee",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Morrisville, NC",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4a8fe78e-0c22-4b03-a279-24efeeca2bee&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553"
+    },
+    {
+      "id": "193999cd-de65-4185-82cc-46429a0f73bf",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Largo, FL",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=193999cd-de65-4185-82cc-46429a0f73bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1"
     },
     {
       "id": "3dabcaff-b7a6-4222-8e79-6e711e4bd29f",
@@ -963,18 +1011,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
     },
     {
-      "id": "5a82ef24-71d7-43b9-87bb-12e3c61bf2f6",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-01",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5a82ef24-71d7-43b9-87bb-12e3c61bf2f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"
-    },
-    {
       "id": "7e17d702-64ad-4871-b6bb-09aca31e5af9",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -1694,18 +1730,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42fb3097-d16f-4f99-8b55-8f1fc3d3ff11&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
-    },
-    {
-      "id": "c5ccecdb-9253-49d5-90c0-17a8eae54247",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c5ccecdb-9253-49d5-90c0-17a8eae54247&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951"
     },
     {
       "id": "5e13e742-f662-47ad-ad62-09f53c05240e",
