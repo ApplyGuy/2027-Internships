@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:00:36.223Z",
+  "updatedAt": "2026-10-06T19:15:39.739Z",
   "jobs": [
     {
       "id": "f20f7588-4bd2-4115-ac8e-d7e3273c1275",
@@ -87,6 +87,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564633"
     },
     {
+      "id": "d7fb4995-7f06-4d75-a6f8-3057e6a2d85a",
+      "company": "Everpure",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Everpure&job=d7fb4995-7f06-4d75-a6f8-3057e6a2d85a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
+    },
+    {
       "id": "b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc",
       "company": "Hpe",
       "title": "Cloud Developer Intern",
@@ -121,6 +133,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=d2057793-c714-48c6-9ad2-23666b62c8e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914"
+    },
+    {
+      "id": "a2fc44da-c816-4656-b1ca-8ba7669d0083",
+      "company": "Marvell",
+      "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=a2fc44da-c816-4656-b1ca-8ba7669d0083&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989"
     },
     {
       "id": "17eb88f3-996c-469a-a6e0-0cb02c84fa64",
@@ -1263,18 +1287,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=21c89d42-ed5d-4090-8e7c-fd9b55c1df5d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
-    },
-    {
-      "id": "e7a5d580-2133-492b-a9e6-139c0c886acc",
-      "company": "Marvell",
-      "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=e7a5d580-2133-492b-a9e6-139c0c886acc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"
     },
     {
       "id": "98170cd2-892e-406d-b3ff-bbff4bb1c486",
