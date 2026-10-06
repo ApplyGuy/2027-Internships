@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:15:57.975Z",
+  "updatedAt": "2026-10-06T04:30:24.746Z",
   "jobs": [
     {
       "id": "d2057793-c714-48c6-9ad2-23666b62c8e3",
@@ -800,6 +800,19 @@
       "age": "5d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-01",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "applySupported": false
     },
     {
