@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:45:25.189Z",
+  "updatedAt": "2026-10-06T17:00:26.939Z",
   "jobs": [
     {
       "id": "23ed97e2-7288-4de7-b14e-b237ef9da1dc",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=d2057793-c714-48c6-9ad2-23666b62c8e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914"
+    },
+    {
+      "id": "17eb88f3-996c-469a-a6e0-0cb02c84fa64",
+      "company": "Rockwellautomation",
+      "title": "Intern, Firmware and Software Test Development",
+      "category": "Software Engineering",
+      "location": "Mequon, WI",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=17eb88f3-996c-469a-a6e0-0cb02c84fa64&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
     },
     {
       "id": "3dabcaff-b7a6-4222-8e79-6e711e4bd29f",
