@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:15:39.739Z",
+  "updatedAt": "2026-10-06T19:30:27.081Z",
   "jobs": [
     {
       "id": "f20f7588-4bd2-4115-ac8e-d7e3273c1275",
@@ -145,6 +145,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=a2fc44da-c816-4656-b1ca-8ba7669d0083&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989"
+    },
+    {
+      "id": "d5c5845c-164a-4ba6-b1d3-8dcda4805575",
+      "company": "Niantic Spatial",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Niantic+Spatial&job=d5c5845c-164a-4ba6-b1d3-8dcda4805575&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd"
     },
     {
       "id": "17eb88f3-996c-469a-a6e0-0cb02c84fa64",
