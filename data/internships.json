@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:45:35.431Z",
+  "updatedAt": "2026-10-06T06:00:27.212Z",
   "jobs": [
     {
       "id": "23ed97e2-7288-4de7-b14e-b237ef9da1dc",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amgen&job=23ed97e2-7288-4de7-b14e-b237ef9da1dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886"
+    },
+    {
+      "id": "b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc",
+      "company": "Hpe",
+      "title": "Cloud Developer Intern",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
+    },
+    {
+      "id": "556d5273-c5a4-4c24-8191-b756d44dfb95",
+      "company": "Hpe",
+      "title": "Systems Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Bloomington, MN",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=556d5273-c5a4-4c24-8191-b756d44dfb95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401"
     },
     {
       "id": "d2057793-c714-48c6-9ad2-23666b62c8e3",
