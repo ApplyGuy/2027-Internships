@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T23:00:44.774Z",
+  "updatedAt": "2026-10-07T23:15:29.445Z",
   "jobs": [
     {
       "id": "custom:amazon:58f26e0ed63d42210488",
@@ -4278,6 +4278,19 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e966eec5-82b9-4300-ae89-05ec95524ab1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780"
+    },
+    {
+      "id": "custom:amazon:b1ed12b35a791b80f850",
+      "company": "Amazon",
+      "title": "Data Engineer Internship - 2027 (US)",
+      "category": "Software Engineering",
+      "location": "US, WA, Seattle",
+      "season": "2027",
+      "posted": "2026-09-18",
+      "age": "19d",
+      "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+      "applySupported": false
     },
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
