@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-737-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-740-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **737** active U.S. internships posted within the last **30 days**
+- **740** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 7, 2026, 10:45 AM PDT**
+- Last refresh: **Oct 7, 2026, 11:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,12 +24,15 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**670 open roles**
+**673 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Amazon | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | Today | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
+| Boseallaboutme | Embedded Software Engineer Co-op  - Audio Tech | Framingham, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boseallaboutme&job=b3fac716-f7a0-4e72-a132-0403706f5d34&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278) |
+| Boseallaboutme | Data Engineer Co-Op | Framingham, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boseallaboutme&job=4cf8d594-2567-4d3f-b6c6-10730385c99e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270) |
 | Entrust | Software Engineer Co-op | Shakopee, MN (GHQ) | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Entrust&job=60a8fe4a-84d7-4cce-99fe-1f8a3b960531&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416) |
+| IDEMIA North America | Software Engineering Internship | Reston, VA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IDEMIA+North+America&job=83f1ddb6-f0fe-4bc2-898b-f30f82676a20&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uscareers-idemia.icims.com/jobs/8657/software-engineering-internship/job) |
 | kendallgroup | Software Engineering Intern | Portage, MI | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=kendallgroup&job=3acb5a35-4b92-4f96-85d1-210f298e4893&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kendallgroup.wd503.myworkdayjobs.com/kendall_careers/job/Portage-MI/Software-Engineering-Intern_R-101166) |
 | Leidos | Software Engineer Intern | Arlington, VA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Leidos&job=505b7869-1db6-432c-a34b-505bdf532e59&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineer-Intern_R-00193933) |
 | Marvell | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Marvell&job=caaf9f6b-8127-4ee6-8d34-454d92f2d5c6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1) |
