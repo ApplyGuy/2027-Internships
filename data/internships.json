@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:15:30.616Z",
+  "updatedAt": "2026-10-07T22:30:28.826Z",
   "jobs": [
     {
       "id": "custom:amazon:58f26e0ed63d42210488",
@@ -61,6 +61,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Entrust&job=60a8fe4a-84d7-4cce-99fe-1f8a3b960531&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416"
+    },
+    {
+      "id": "1c719f63-5b23-4c59-9b31-8fe57b8d6500",
+      "company": "Happyrobot Inc.",
+      "title": "Product Operations Engineer Intern",
+      "category": "Product",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Happyrobot+Inc.&job=1c719f63-5b23-4c59-9b31-8fe57b8d6500&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768"
     },
     {
       "id": "38397ff3-00f0-4900-a49d-68967ebd2c4b",
@@ -181,6 +193,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=77d38624-8bd1-4ce0-9bf5-4a43f7e1ca12&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520"
+    },
+    {
+      "id": "bc7647d6-62ab-456d-b84a-07b845446a88",
+      "company": "Strada",
+      "title": "Software Engineer (Intern)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Strada&job=bc7647d6-62ab-456d-b84a-07b845446a88&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e"
     },
     {
       "id": "64b5f056-e1a5-47e6-8c3f-984c02bfe7c0",
