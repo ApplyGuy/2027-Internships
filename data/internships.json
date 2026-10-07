@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:15:31.703Z",
+  "updatedAt": "2026-10-07T18:30:28.064Z",
   "jobs": [
     {
       "id": "custom:amazon:58f26e0ed63d42210488",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=4cf8d594-2567-4d3f-b6c6-10730385c99e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270"
+    },
+    {
+      "id": "abcfc20b-e2bb-4854-b04c-cce97559c1c3",
+      "company": "Entrust",
+      "title": "Firmware Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN (GHQ)",
+      "season": "Co-op",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Entrust&job=abcfc20b-e2bb-4854-b04c-cce97559c1c3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"
     },
     {
       "id": "60a8fe4a-84d7-4cce-99fe-1f8a3b960531",
@@ -97,6 +109,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=caaf9f6b-8127-4ee6-8d34-454d92f2d5c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1"
+    },
+    {
+      "id": "9e7fba8b-e68f-4d1a-9b2f-a944e113cabe",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer /Fall 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Fall 2027",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9e7fba8b-e68f-4d1a-9b2f-a944e113cabe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"
+    },
+    {
+      "id": "6c5c057b-7ea5-42b4-b67b-367ade3848b2",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6c5c057b-7ea5-42b4-b67b-367ade3848b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
     },
     {
       "id": "77d38624-8bd1-4ce0-9bf5-4a43f7e1ca12",
@@ -1986,18 +2022,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
     },
     {
-      "id": "3d2f9ab8-cbac-4563-a183-500f2a624b80",
-      "company": "RTX",
-      "title": "Software Engineering Co-op  (Spring/Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3d2f9ab8-cbac-4563-a183-500f2a624b80&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
-    },
-    {
       "id": "0b8949e5-6588-431e-a279-7ff7170b88c8",
       "company": "Superior Support Resources, Inc.",
       "title": "Software Development Intern",
@@ -2164,18 +2188,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Poet&job=8afcc612-ff9f-4bc6-9cd0-fa07af8cd735&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://poet.wd1.myworkdayjobs.com/poet/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
-    },
-    {
-      "id": "f70c0b8e-19ac-4b00-b7ce-34e2c0b02f52",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Summer/Fall 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Fall 2027",
-      "posted": "2026-09-28",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f70c0b8e-19ac-4b00-b7ce-34e2c0b02f52&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
     },
     {
       "id": "e73f8219-6f45-4e37-82ae-58a904057c41",
