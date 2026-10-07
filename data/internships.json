@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T19:15:59.512Z",
+  "updatedAt": "2026-10-07T19:30:33.315Z",
   "jobs": [
     {
       "id": "custom:amazon:58f26e0ed63d42210488",
@@ -121,6 +121,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=caaf9f6b-8127-4ee6-8d34-454d92f2d5c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1"
+    },
+    {
+      "id": "bd38f9e6-3f8b-4bf8-9cf0-ed1102c093bc",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Roy UT",
+      "category": "Software Engineering",
+      "location": "Roy, UT",
+      "season": "2027",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=bd38f9e6-3f8b-4bf8-9cf0-ed1102c093bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"
+    },
+    {
+      "id": "7bc072ee-45b1-4abe-9c5a-f5cc6b49cf3d",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Developer Intern- Chantilly VA",
+      "category": "Software Engineering",
+      "location": "Chantilly, VA",
+      "season": "2027",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7bc072ee-45b1-4abe-9c5a-f5cc6b49cf3d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
     },
     {
       "id": "9e7fba8b-e68f-4d1a-9b2f-a944e113cabe",
@@ -8671,18 +8695,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Nelnet&job=eefe411e-0b3d-47a7-a4bb-5821c297e39e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
-    },
-    {
-      "id": "054bba30-ae17-4e44-8c07-5d83e8a02476",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Roy UT",
-      "category": "Software Engineering",
-      "location": "Roy, UT",
-      "season": "2027",
-      "posted": "2026-09-08",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=054bba30-ae17-4e44-8c07-5d83e8a02476&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
     },
     {
       "id": "d135f2f0-6865-44d3-a256-c7fb23c90384",
