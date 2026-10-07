@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-07T00:15:37.770Z",
+  "updatedAt": "2026-10-07T00:30:59.619Z",
   "jobs": [
+    {
+      "id": "60a8fe4a-84d7-4cce-99fe-1f8a3b960531",
+      "company": "Entrust",
+      "title": "Software Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN (GHQ)",
+      "season": "Co-op",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Entrust&job=60a8fe4a-84d7-4cce-99fe-1f8a3b960531&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416"
+    },
     {
       "id": "505b7869-1db6-432c-a34b-505bdf532e59",
       "company": "Leidos",
