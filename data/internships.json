@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-07T23:15:29.445Z",
+  "updatedAt": "2026-10-07T23:30:26.970Z",
   "jobs": [
+    {
+      "id": "70906ce8-2451-4b24-89b7-24a4d73bfcb7",
+      "company": "Aero",
+      "title": "2027 Embedded Systems / Software Engineering Undergrad Intern",
+      "category": "Software Engineering",
+      "location": "Chantilly, VA",
+      "season": "2027",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=70906ce8-2451-4b24-89b7-24a4d73bfcb7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804"
+    },
     {
       "id": "custom:amazon:58f26e0ed63d42210488",
       "company": "Amazon",
