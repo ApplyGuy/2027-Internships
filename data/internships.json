@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:15:24.997Z",
+  "updatedAt": "2026-10-08T04:30:23.936Z",
   "jobs": [
     {
       "id": "41109a82-2969-426a-bd27-52c998aded68",
@@ -939,6 +939,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3840dfef-b139-4e8d-8a40-cb2e579dd557&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+    },
+    {
+      "id": "020f5de0-997a-49f5-93b0-82c6330419d8",
+      "company": "Haier",
+      "title": "Software Engineering Co-op_Summer 2027",
+      "category": "Software Engineering",
+      "location": "Ky, Louisville",
+      "season": "2027",
+      "posted": "2026-10-02",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Haier&job=020f5de0-997a-49f5-93b0-82c6330419d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
     },
     {
       "id": "d85ed342-15b0-4621-8b83-4cfd99437790",
