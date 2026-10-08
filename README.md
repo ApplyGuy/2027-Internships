@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-736-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-735-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **736** active U.S. internships posted within the last **30 days**
+- **735** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 8, 2026, 4:15 AM PDT**
+- Last refresh: **Oct 8, 2026, 4:30 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**673 open roles**
+**672 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -690,7 +690,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | LineVision, Inc. | Full Stack Software Engineering Co-op (Applications) (Spring 2027) | Boston, MA | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=48fc22cf-4486-4300-bde6-a043137b4f0e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482882) |
 | LineVision, Inc. | Software Test Engineering Co-op (Spring 2027) | Boston, MA | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=ba6a0982-5d1f-4160-9a93-400c91eb0c7a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482751) |
 | LineVision, Inc. | Full Stack Software Engineer (Onboarding Systems) Co-op (Spring 2027) | Boston, MA | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=LineVision%2C+Inc.&job=b493903f-140d-4b1c-ac08-0f77e5f69596&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482621) |
-| Micron | Intern - Software Engineer | Boise, ID | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Micron&job=7adc6915-74e6-4243-902b-a54ef2da5929&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550) |
 | Nelnet | Intern - Software Engineer - New Ventures - Starting Summer 2027 | Lincoln, NE | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nelnet&job=eefe411e-0b3d-47a7-a4bb-5821c297e39e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098) |
 | Redhat | Software Engineer Intern | Raleigh, NC | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Redhat&job=d434fb90-8a84-44ea-b532-1c9bf0893eef&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038) |
 | Redhat | Software Engineer Co-op | Raleigh, NC | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Redhat&job=891dcbde-9498-4bef-bfb5-dafde744b2c7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039) |
