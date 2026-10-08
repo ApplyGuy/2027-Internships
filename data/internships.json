@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T20:00:22.289Z",
+  "updatedAt": "2026-10-08T20:15:13.339Z",
   "jobs": [
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -855,6 +855,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+    },
+    {
+      "id": "custom:microsoft:c389e45713b9477d8875",
+      "company": "Microsoft",
+      "title": "Firmware Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "applySupported": false
     },
     {
       "id": "f309aaba-4efa-480f-81fd-7032b3f277d2",
@@ -7319,6 +7332,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "27d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "27d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "27d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -8627,18 +8679,6 @@
       "listingUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
     },
     {
-      "id": "0434d9fe-49dd-4ee8-9ecc-e863f17d8736",
-      "company": "RF-SMART",
-      "title": "Software Support Engineer Internship (NetSuite) - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Highlands Ranch, CO",
-      "season": "Summer 2027",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RF-SMART&job=0434d9fe-49dd-4ee8-9ecc-e863f17d8736&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
-    },
-    {
       "id": "cae5849e-f73d-48d2-99f0-3d8ef5effc46",
       "company": "Shield AI",
       "title": "Summer 2027 - Software Engineer Intern",
@@ -8649,18 +8689,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=cae5849e-f73d-48d2-99f0-3d8ef5effc46&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"
-    },
-    {
-      "id": "a16267b1-4f9b-4f4b-90f2-e6238b0c1bae",
-      "company": "Viam",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Viam&job=a16267b1-4f9b-4f4b-90f2-e6238b0c1bae&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004"
     }
   ]
 }
