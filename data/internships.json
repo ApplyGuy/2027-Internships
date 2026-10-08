@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-08T17:30:33.207Z",
+  "updatedAt": "2026-10-08T17:45:30.639Z",
   "jobs": [
+    {
+      "id": "custom:amazon:34379af5f436b3d22885",
+      "company": "Amazon",
+      "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
+      "category": "Software Engineering",
+      "location": "US, MA, North Reading",
+      "season": "Spring 2027",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+      "applySupported": false
+    },
     {
       "id": "ccaa1346-6795-4617-aa4b-5ee017828f59",
       "company": "Axos",
@@ -60,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rugged+Robotics&job=24da54b0-57f6-4ff7-bc7c-604dfda38ed5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
+    },
+    {
+      "id": "125fa281-141c-4dea-867f-1bbe182af191",
+      "company": "SoloPulse",
+      "title": "Software Engineer Intern/Co-op - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Peachtree Corners, GA",
+      "season": "Spring 2027",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SoloPulse&job=125fa281-141c-4dea-867f-1bbe182af191&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef"
     },
     {
       "id": "70906ce8-2451-4b24-89b7-24a4d73bfcb7",
