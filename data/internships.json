@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:00:26.526Z",
+  "updatedAt": "2026-10-08T22:15:27.280Z",
   "jobs": [
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -8601,30 +8601,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
-    },
-    {
-      "id": "ef99636b-0f9a-495e-a018-22181e2c33a9",
-      "company": "Coinbase",
-      "title": "Associate Product Manager Intern",
-      "category": "Product",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=ef99636b-0f9a-495e-a018-22181e2c33a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322"
-    },
-    {
-      "id": "e0a46c26-fe12-4486-90c6-deb214635609",
-      "company": "Coinbase",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
     }
   ]
 }
