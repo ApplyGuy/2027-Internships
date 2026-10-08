@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:15:12.921Z",
+  "updatedAt": "2026-10-08T18:30:18.832Z",
   "jobs": [
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -8483,18 +8483,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007"
     },
     {
-      "id": "b1938c60-9959-4993-9f32-61af9adf4fc8",
-      "company": "Chrobinson",
-      "title": "Software Engineering Internship 2027",
-      "category": "Software Engineering",
-      "location": "Eden Prairie, MN",
-      "season": "2027",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Chrobinson&job=b1938c60-9959-4993-9f32-61af9adf4fc8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
-    },
-    {
       "id": "dbea86f9-0a33-4d03-b268-1a6c08482b95",
       "company": "Coinbase",
       "title": "Machine Learning Engineer Intern",
@@ -8553,42 +8541,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
-    },
-    {
-      "id": "a0a547d5-6640-4bb3-b12a-058e730e7610",
-      "company": "Danaher",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Chaska, MN",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Danaher&job=a0a547d5-6640-4bb3-b12a-058e730e7610&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1316911"
-    },
-    {
-      "id": "0ae6e7ad-89f0-4b20-9c6f-2c6eae2cb914",
-      "company": "Dimensional",
-      "title": "Internship in Technology - Software Engineer",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Dimensional&job=0ae6e7ad-89f0-4b20-9c6f-2c6eae2cb914&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022"
-    },
-    {
-      "id": "5016db81-8c6c-4d53-bb2c-e3b9e68b8ba4",
-      "company": "Formlabs",
-      "title": "AI Software Intern (Winter/Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Spring 2027",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=5016db81-8c6c-4d53-bb2c-e3b9e68b8ba4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874"
     },
     {
       "id": "169dfc7b-3728-4c2e-afc6-0c61334e9a75",
