@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-08T00:45:26.254Z",
+  "updatedAt": "2026-10-08T01:00:53.316Z",
   "jobs": [
+    {
+      "id": "41109a82-2969-426a-bd27-52c998aded68",
+      "company": "Mckesson",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Irving, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mckesson&job=41109a82-2969-426a-bd27-52c998aded68&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
+    },
     {
       "id": "70906ce8-2451-4b24-89b7-24a4d73bfcb7",
       "company": "Aero",
@@ -109,6 +121,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=83f1ddb6-f0fe-4bc2-898b-f30f82676a20&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://uscareers-idemia.icims.com/jobs/8657/software-engineering-internship/job"
+    },
+    {
+      "id": "82ef4d59-bee7-405a-854f-2303f34c8428",
+      "company": "IXL Learning",
+      "title": "Software Engineer, Intern",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Not specified",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=82ef4d59-bee7-405a-854f-2303f34c8428&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8862214002"
     },
     {
       "id": "3acb5a35-4b92-4f96-85d1-210f298e4893",
