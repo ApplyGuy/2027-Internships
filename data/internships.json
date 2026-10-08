@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:15:27.280Z",
+  "updatedAt": "2026-10-08T22:30:26.789Z",
   "jobs": [
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Badgermeter&job=01e1f5c5-a83e-4d62-ba26-1abff8491db1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645"
+    },
+    {
+      "id": "1405c4f1-dd6c-4d16-a2b4-fc5c0b106aaf",
+      "company": "Bah",
+      "title": "University, Applied AI Software Development Intern",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Not specified",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=1405c4f1-dd6c-4d16-a2b4-fc5c0b106aaf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314"
     },
     {
       "id": "760edc6a-1786-4a7c-b44a-ebc74729a338",
@@ -2669,6 +2681,18 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=77a67454-027f-415c-a692-7485d5773b78&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
+    },
+    {
+      "id": "0bb930cf-2ec4-4506-8d04-935da0f34250",
+      "company": "Terranova",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Berkeley, CA",
+      "season": "Not specified",
+      "posted": "2026-09-26",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Terranova&job=0bb930cf-2ec4-4506-8d04-935da0f34250&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0"
     },
     {
       "id": "fc12bf25-1524-462d-a02a-82b17d9d9522",
@@ -8565,42 +8589,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=7e5406f1-2ce1-4fd4-b0a4-786f86d616a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
-    },
-    {
-      "id": "dbea86f9-0a33-4d03-b268-1a6c08482b95",
-      "company": "Coinbase",
-      "title": "Machine Learning Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=dbea86f9-0a33-4d03-b268-1a6c08482b95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
-    },
-    {
-      "id": "c273ae40-7934-4d7f-86fb-6c02a82b4553",
-      "company": "Coinbase",
-      "title": "Product Manager (HR Technology) Intern",
-      "category": "Product",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=c273ae40-7934-4d7f-86fb-6c02a82b4553&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504"
-    },
-    {
-      "id": "9782afb3-4c13-4e56-b5a2-a29f68a84f44",
-      "company": "Coinbase",
-      "title": "Data Engineer Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
     }
   ]
 }
