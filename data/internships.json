@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:00:25.851Z",
+  "updatedAt": "2026-10-08T19:15:26.505Z",
   "jobs": [
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -121,6 +121,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mckesson&job=41109a82-2969-426a-bd27-52c998aded68&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
+    },
+    {
+      "id": "4d8761fb-e0d6-4080-9fa2-0294d496aad9",
+      "company": "Replit",
+      "title": "Software Engineering Intern – Winter 2027 (U.S. Based)",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Winter 2027",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Replit&job=4d8761fb-e0d6-4080-9fa2-0294d496aad9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea"
     },
     {
       "id": "24da54b0-57f6-4ff7-bc7c-604dfda38ed5",
