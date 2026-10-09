@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:30:26.542Z",
+  "updatedAt": "2026-10-09T18:45:17.727Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -60,6 +60,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Danaher&job=2e83cdf7-c7a7-4ae8-9884-d76e63ed499e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -1059,6 +1072,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+    },
+    {
+      "id": "custom:microsoft:c389e45713b9477d8875",
+      "company": "Microsoft",
+      "title": "Firmware Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "applySupported": false
     },
     {
       "id": "f309aaba-4efa-480f-81fd-7032b3f277d2",
@@ -7499,6 +7525,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -8025,18 +8090,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Domino+Data+Lab&job=d1eb1147-93e4-4282-bc1d-e6a50a82ac8f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
-    },
-    {
-      "id": "33f18d48-73de-4918-a963-6569191a4367",
-      "company": "Donaldson",
-      "title": "Product Management Intern",
-      "category": "Product",
-      "location": "Bloomington, MN (USA)",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Donaldson&job=33f18d48-73de-4918-a963-6569191a4367&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://donaldson.wd115.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-27835-1"
     },
     {
       "id": "ce78daaf-5b18-43d0-9a48-89f0afad7b72",
