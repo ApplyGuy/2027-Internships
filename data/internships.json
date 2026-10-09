@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:45:31.449Z",
+  "updatedAt": "2026-10-09T18:00:27.319Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aptiv&job=18afbaa5-2e83-4f1b-a476-7e7531009a00&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
+    },
+    {
+      "id": "22b2abd6-19a3-413b-b959-e78bb39509bf",
+      "company": "Arcesium LLC",
+      "title": "Infrastructure Engineer Intern",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Arcesium+LLC&job=22b2abd6-19a3-413b-b959-e78bb39509bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"
+    },
+    {
+      "id": "fee0d560-f96c-4bff-9a3a-f6fc5ee8d90b",
+      "company": "Barrywehmiller",
+      "title": "Software Engineering Intern - DAL",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=fee0d560-f96c-4bff-9a3a-f6fc5ee8d90b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"
     },
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -7989,30 +8013,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Amperesand&job=f157cc81-a68b-4e08-a150-efe632ceb49e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/amperesand/jobs/4381214009"
-    },
-    {
-      "id": "c004206c-63f4-4972-a587-c33d128bee6c",
-      "company": "Aoins",
-      "title": "Intelligent Automation Developer Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Lansing, MI",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Aoins&job=c004206c-63f4-4972-a587-c33d128bee6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474"
-    },
-    {
-      "id": "88ad1302-16ab-4a82-be68-5701c36e9079",
-      "company": "Aoins",
-      "title": "IT Document Automation Developer Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Lansing, MI",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Aoins&job=88ad1302-16ab-4a82-be68-5701c36e9079&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471"
     },
     {
       "id": "6f0f5c5c-65bf-4031-8b4f-b35441660bc3",
