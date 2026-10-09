@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:15:24.892Z",
+  "updatedAt": "2026-10-09T21:30:32.188Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -96,6 +96,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=553f3d47-8ac2-4858-b380-355d2e83025a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -1119,6 +1132,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+    },
+    {
+      "id": "custom:microsoft:c389e45713b9477d8875",
+      "company": "Microsoft",
+      "title": "Firmware Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "applySupported": false
     },
     {
       "id": "f309aaba-4efa-480f-81fd-7032b3f277d2",
@@ -7559,6 +7585,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -8073,30 +8138,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Thomsonreuters&job=a1ff04fb-9e31-45bd-9299-37ea9d1613d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587"
-    },
-    {
-      "id": "43da7e10-ff2d-4d79-82e7-88e5e2d99549",
-      "company": "NinjaHoldings",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NinjaHoldings&job=43da7e10-ff2d-4d79-82e7-88e5e2d99549&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"
-    },
-    {
-      "id": "a20621de-698b-4f85-b3fb-4312449e8d89",
-      "company": "NinjaHoldings",
-      "title": "Data Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NinjaHoldings&job=a20621de-698b-4f85-b3fb-4312449e8d89&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"
     },
     {
       "id": "3cc66d8a-0325-4ea2-b8e3-8d78db21b2a7",
