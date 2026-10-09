@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:45:11.931Z",
+  "updatedAt": "2026-10-09T22:00:12.240Z",
   "jobs": [
     {
       "id": "custom:amazon:6a4756f44a0264799301",
@@ -7224,7 +7224,7 @@
       "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811"
     },
     {
-      "id": "16c17170-33cc-499b-ad43-fabebf737597",
+      "id": "bb247a8d-00ed-44aa-afcd-0de838e8b00e",
       "company": "Allegion",
       "title": "Summer Intern - Marketing, Global Software Solutions (GSS)",
       "category": "Software Engineering",
@@ -7232,8 +7232,8 @@
       "season": "Summer",
       "posted": "2026-09-12",
       "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Allegion&job=16c17170-33cc-499b-ad43-fabebf737597&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Marketing--Global-Software-Solutions--GSS-_JR37435-2"
+      "url": "https://applyguy.ai/jobs?company=Allegion&job=bb247a8d-00ed-44aa-afcd-0de838e8b00e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Carmel-IN/Summer-Intern---Marketing--Global-Software-Solutions--GSS-_JR37435-1"
     },
     {
       "id": "ecabbd3f-f8f5-47ca-848c-17f029b100cf",
@@ -7704,6 +7704,18 @@
       "listingUrl": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235"
     },
     {
+      "id": "16cb321b-73b9-427b-a3db-ffbc8d54f8c9",
+      "company": "Thgrp",
+      "title": "Software Engineering Intern, Applied AI",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=Thgrp&job=16cb321b-73b9-427b-a3db-ffbc8d54f8c9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727"
+    },
+    {
       "id": "ee840181-3ca4-44c6-9b43-dad2341acdb1",
       "company": "Ttc",
       "title": "Embedded Software Engineering Intern - The Toro Company",
@@ -8062,18 +8074,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tanium&job=69911910-fa2a-4002-bf68-b999afe5c9ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tanium/jobs/8181017"
-    },
-    {
-      "id": "16cb321b-73b9-427b-a3db-ffbc8d54f8c9",
-      "company": "Thgrp",
-      "title": "Software Engineering Intern, Applied AI",
-      "category": "Software Engineering",
-      "location": "Indianapolis, IN",
-      "season": "Not specified",
-      "posted": "2026-09-10",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Thgrp&job=16cb321b-73b9-427b-a3db-ffbc8d54f8c9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727"
     },
     {
       "id": "a1ff04fb-9e31-45bd-9299-37ea9d1613d5",
