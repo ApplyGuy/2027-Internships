@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:45:24.997Z",
+  "updatedAt": "2026-10-09T14:00:24.900Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -580,9 +580,21 @@
       "listingUrl": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e"
     },
     {
+      "id": "ddc7ab0f-d434-4fe5-a762-242314787b71",
+      "company": "Tenstorrent University Jobs",
+      "title": "AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-10-07",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=ddc7ab0f-d434-4fe5-a762-242314787b71&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"
+    },
+    {
       "id": "64b5f056-e1a5-47e6-8c3f-984c02bfe7c0",
       "company": "Tenstorrent University Jobs",
-      "title": "AI Software Intern",
+      "title": "AI Software Intern (USA)",
       "category": "Software Engineering",
       "location": "Austin, TX",
       "season": "Not specified",
