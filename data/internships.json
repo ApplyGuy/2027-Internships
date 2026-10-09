@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:45:25.916Z",
+  "updatedAt": "2026-10-09T20:00:25.751Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -180,6 +180,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895"
+    },
+    {
+      "id": "66ec7db7-8e0e-4320-97a0-c053001ec13e",
+      "company": "Schonfeld",
+      "title": "2027 Quantitative Developer Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schonfeld&job=66ec7db7-8e0e-4320-97a0-c053001ec13e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092"
     },
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -8063,30 +8075,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491272"
     },
     {
-      "id": "d47494a4-5023-4748-8436-0c6b44068aaa",
-      "company": "Immuta",
-      "title": "Full-Stack Engineering Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Columbus, OH",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Immuta&job=d47494a4-5023-4748-8436-0c6b44068aaa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d"
-    },
-    {
-      "id": "440c150e-fdb6-485f-8867-0e87ecab26f9",
-      "company": "Immuta",
-      "title": "Platform & Site Reliability Engineering Internship - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Columbus, OH",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Immuta&job=440c150e-fdb6-485f-8867-0e87ecab26f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e"
-    },
-    {
       "id": "43da7e10-ff2d-4d79-82e7-88e5e2d99549",
       "company": "NinjaHoldings",
       "title": "Software Engineer Intern",
@@ -8121,30 +8109,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=e265cb53-9183-49c1-a8bd-6eeddb804eeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
-    },
-    {
-      "id": "44642df9-37f4-4a08-9b3c-d8c7138dfd9b",
-      "company": "Pae",
-      "title": "Software Programmer Intern",
-      "category": "Software Engineering",
-      "location": "Tullahoma, TN",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=44642df9-37f4-4a08-9b3c-d8c7138dfd9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775"
-    },
-    {
-      "id": "30a542b2-e7c5-436f-83f2-f459e8b41d6a",
-      "company": "Pae",
-      "title": "Software Programmer Intern",
-      "category": "Software Engineering",
-      "location": "Detroit, MI",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=30a542b2-e7c5-436f-83f2-f459e8b41d6a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773"
     },
     {
       "id": "3cc66d8a-0325-4ea2-b8e3-8d78db21b2a7",
