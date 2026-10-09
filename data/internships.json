@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-10-09T00:30:25.975Z",
+  "updatedAt": "2026-10-09T00:45:34.541Z",
   "jobs": [
+    {
+      "id": "f33251f4-ef31-4d57-b1b9-1af8e1ec56c7",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f33251f4-ef31-4d57-b1b9-1af8e1ec56c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890"
+    },
+    {
+      "id": "eceeb37b-604c-4ae4-80a0-5465799313f7",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "St Petersburg, FL",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=eceeb37b-604c-4ae4-80a0-5465799313f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928"
+    },
+    {
+      "id": "66d342dd-9597-42c3-928e-36df37c1c9e8",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Ft Wayne, IN",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=66d342dd-9597-42c3-928e-36df37c1c9e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090"
+    },
+    {
+      "id": "2d8a68da-c8b9-4ec1-83f1-dce0df5a1d88",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2d8a68da-c8b9-4ec1-83f1-dce0df5a1d88&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369"
+    },
+    {
+      "id": "098c62b9-0ace-4a82-b43a-bcbade675174",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Anaheim, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=098c62b9-0ace-4a82-b43a-bcbade675174&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01880755"
+    },
+    {
+      "id": "4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895"
+    },
     {
       "id": "custom:amazon:34379af5f436b3d22885",
       "company": "Amazon",
@@ -434,18 +506,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9e7fba8b-e68f-4d1a-9b2f-a944e113cabe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"
-    },
-    {
-      "id": "6c5c057b-7ea5-42b4-b67b-367ade3848b2",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Spring/Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-07",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6c5c057b-7ea5-42b4-b67b-367ade3848b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
     },
     {
       "id": "77d38624-8bd1-4ce0-9bf5-4a43f7e1ca12",
@@ -2033,18 +2093,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5d022da3-6b0b-4f6d-8e4b-82242d7d0af6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
-    },
-    {
-      "id": "bb883fb2-47a4-4818-a2ff-46bda900a91d",
-      "company": "RTX",
-      "title": "Software Engineering  Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Ft Wayne, IN",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=bb883fb2-47a4-4818-a2ff-46bda900a91d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
     },
     {
       "id": "5b006e15-5161-49be-b1fd-088b1df1aea3",
@@ -4581,18 +4629,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660"
     },
     {
-      "id": "e966eec5-82b9-4300-ae89-05ec95524ab1",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Summer 2027",
-      "posted": "2026-09-19",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e966eec5-82b9-4300-ae89-05ec95524ab1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780"
-    },
-    {
       "id": "custom:amazon:b1ed12b35a791b80f850",
       "company": "Amazon",
       "title": "Data Engineer Internship - 2027 (US)",
@@ -6381,18 +6417,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Rilla&job=2186432d-1f23-4b9d-a1f6-c589ee5f3f33&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9"
-    },
-    {
-      "id": "79a446ea-9d95-4b09-9aef-9b489733791f",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "St Petersburg, FL",
-      "season": "Summer 2027",
-      "posted": "2026-09-15",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=79a446ea-9d95-4b09-9aef-9b489733791f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926"
     },
     {
       "id": "c99ee8de-a1e8-4d93-bb60-0b47256443a8",
