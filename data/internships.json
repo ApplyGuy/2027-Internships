@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T05:45:29.989Z",
+  "updatedAt": "2026-10-09T06:00:31.309Z",
   "jobs": [
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -1867,18 +1867,6 @@
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"
     },
     {
-      "id": "0f36c38c-21a3-416b-9068-e15aaf018ded",
-      "company": "AeroVironment",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Sunrise, FL",
-      "season": "Not specified",
-      "posted": "2026-09-30",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=0f36c38c-21a3-416b-9068-e15aaf018ded&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
-    },
-    {
       "id": "custom:amazon:eef2386e5f7a776c9dda",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
@@ -2202,6 +2190,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=15f5fc55-ee06-4f33-b194-2aeea9ea532d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+    },
+    {
+      "id": "0f36c38c-21a3-416b-9068-e15aaf018ded",
+      "company": "AeroVironment",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Sunrise, FL",
+      "season": "Not specified",
+      "posted": "2026-09-29",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=0f36c38c-21a3-416b-9068-e15aaf018ded&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
     },
     {
       "id": "c43957c4-eb6f-4c83-b8e9-f6f823df74b4",
