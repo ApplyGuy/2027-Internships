@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:30:31.195Z",
+  "updatedAt": "2026-10-09T17:45:31.449Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -2911,18 +2911,6 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803"
     },
     {
-      "id": "14bb59c9-4430-4d3c-95e5-6e46a633b091",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend II (Intern) – United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Not specified",
-      "posted": "2026-09-25",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
-    },
-    {
       "id": "c67f699e-d152-4d8f-96da-55583ee915ab",
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
@@ -3295,6 +3283,18 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=04173206-13ef-4c2b-bc7c-5ef20273ca2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+    },
+    {
+      "id": "14bb59c9-4430-4d3c-95e5-6e46a633b091",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-24",
+      "age": "15d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
     },
     {
       "id": "394356d4-cf82-4fc2-b99e-56feb3f1df36",
@@ -8145,18 +8145,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Immuta&job=440c150e-fdb6-485f-8867-0e87ecab26f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e"
-    },
-    {
-      "id": "b70e38e0-ca58-4dbc-b132-5ae6d2d4d103",
-      "company": "Intel",
-      "title": "Software Research Engineering - (PhD Intern)",
-      "category": "Software Engineering",
-      "location": "Hillsboro, OR",
-      "season": "Not specified",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Intel&job=b70e38e0-ca58-4dbc-b132-5ae6d2d4d103&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
     {
       "id": "b9196797-2e80-4674-b5a5-d85f07fd5e5f",
