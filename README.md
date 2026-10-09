@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-699-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-695-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **699** active U.S. internships posted within the last **30 days**
+- **695** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 9, 2026, 6:30 AM PDT**
+- Last refresh: **Oct 9, 2026, 6:45 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**641 open roles**
+**638 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -106,7 +106,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Generalmotors | 2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's) | Sunnyvale, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Generalmotors&job=206385ae-4f98-4fdf-bd00-b0eb7af56790&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655) |
 | IDEMIA North America | Software Engineer Internship - Summer 2027 | Reston, VA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IDEMIA+North+America&job=ae12e551-77cb-4ebd-8a49-de5f8deaa0c1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job) |
 | Manulife | Spring Co-op 2027 - Software Engineering, Security & Operations | Boston, MA | Spring | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121) |
-| Microsoft | Firmware Engineering Internship (6-month Program) | United States, California, Santa Clara | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393557023161) |
 | Quantum Signal AI | Software Engineering Intern – Tools and Prototypes | Saline, MI | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Quantum+Signal+AI&job=f309aaba-4efa-480f-81fd-7032b3f277d2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9) |
 | Root Insurance | Software Engineer Intern: Agent Commerce | Remote, U.S. | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Root+Insurance&job=0b6b370c-b65a-4344-8cc0-6b27910fa9e0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) |
 | RTX | Software Engineering Intern (Summer 2027) (Hybrid) | Aguadilla, PR | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=76310046-cb57-411d-90a5-8fea194d2f6b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Intern--Summer-2027---Hybrid-_01879311) |
@@ -595,8 +594,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Matrix Design Group | Software Engineering - Embedded Systems Intern | Newburgh, IN | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Matrix+Design+Group&job=7c60b3dd-1e0c-4d9d-a65d-64c5d269e27c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://matrix-design-group.breezy.hr/p/f0fb9ea37c63-software-engineering-embedded-systems-intern) |
 | Megazone Cloud US | Software Engineer Co-op 2027 | Rochester, NY | 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=7581b58d-9d94-420c-99dc-8c863c6fcb68&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca) |
 | Megazone Cloud US | Data Engineer Co-op 2027 | Rochester, NY | 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa) |
-| Microsoft | Software Engineering Intern - CTJ - TS | United States, Virginia, Reston | — | 28d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556983223) |
-| Microsoft | Software Engineering Intern - CTJ - TS | United States, Washington, Redmond | — | 28d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556983221) |
 | Munich Airport NJ LLC | FM Software and Data Analyst Internship | Newark, NJ | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Munich+Airport+NJ+LLC&job=ef778961-856d-4183-b143-2d6b5fa1c5bd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3) |
 | Oshkoshcorporation | Data Engineer Intern | Oshkosh, WI | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oshkoshcorporation&job=2559ae2a-c898-48c3-87ba-ed959c642d70&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868) |
 | RTX | Software Engineer Co-Op - Onsite | Cedar Rapids, IA | Co-op | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=f848b25a-b66d-4c9e-a728-0e21270a4890&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478) |
@@ -672,7 +669,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**58 open roles**
+**57 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -730,7 +727,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Xcelenergy | Residential Energy Product Strategy Intern - MN, WI | Minnesota | — | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Xcelenergy&job=d6cb8c15-b8d3-4577-8615-88b41e74b70b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1) |
 | Xcelenergy | Residential Energy Product Strategy Intern - MN | Minneapolis, MN | — | 25d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Xcelenergy&job=c6998f32-0dc2-4a7a-a805-5b89f6b33d10&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) |
 | Digikey | Product Management & Supplier Development Intern | Thief River Falls, MN | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Digikey&job=99273c9e-8d30-43a1-b123-9782fd8e236d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829) |
-| Microsoft | Product Management Intern - CTJ - TS | United States, Washington, Redmond | — | 28d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556983226) |
 | Momentive | Summer 2027 Product Management Intern | Friendly, WV | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Momentive&job=7c9be29a-277e-4c74-8343-9bb64869bdee&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) |
 | Hudl | Product Management Intern | Lincoln, NE | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hudl&job=f56cd0b8-74b9-4100-98c1-1206c3fd66c2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hudl/jobs/8155103) |
 | Donaldson | Product Management Intern | Bloomington, MN (USA) | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Donaldson&job=33f18d48-73de-4918-a963-6569191a4367&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://donaldson.wd115.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-27835-1) |
