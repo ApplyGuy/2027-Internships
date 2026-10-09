@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:45:28.420Z",
+  "updatedAt": "2026-10-09T11:00:12.408Z",
   "jobs": [
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -3621,18 +3621,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
     },
     {
-      "id": "118c1862-7932-4ef5-9b56-3690b97a4ebb",
-      "company": "KLA",
-      "title": "Software Engineering Intern (C++, Unix)",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=118c1862-7932-4ef5-9b56-3690b97a4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325"
-    },
-    {
       "id": "bcbf808d-8915-4114-874a-5561effa378f",
       "company": "lthc",
       "title": "College Intern - Summer 2027 - Mobile Software Engineering Team",
@@ -4087,6 +4075,18 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Hypertherm&job=17cedee5-280b-486d-b441-036796e7805b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"
+    },
+    {
+      "id": "a2e06600-4c67-4665-84aa-023203a07da7",
+      "company": "Kla",
+      "title": "Software Engineering Intern (C++, Unix)",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=a2e06600-4c67-4665-84aa-023203a07da7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
     },
     {
       "id": "f0f3c6af-ae5f-4d11-b129-000b9d00c6e5",
