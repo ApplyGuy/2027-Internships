@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T20:00:25.751Z",
+  "updatedAt": "2026-10-09T20:15:09.757Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -192,6 +192,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Schonfeld&job=66ec7db7-8e0e-4320-97a0-c053001ec13e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092"
+    },
+    {
+      "id": "7c3446bb-735f-4082-a1b1-e513844dd9ca",
+      "company": "Tenet3",
+      "title": "Software Developer (Full Stack) Intern (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Spring 2027",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tenet3&job=7c3446bb-735f-4082-a1b1-e513844dd9ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/tenet3/jobs/8878874002"
     },
     {
       "id": "custom:amazon:34379af5f436b3d22885",
@@ -8133,42 +8145,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=54365cfe-856d-4d76-a4e8-c576fac6cca8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
-    },
-    {
-      "id": "c15ca0d0-40ea-4525-afcb-efdc04824388",
-      "company": "Spgi",
-      "title": "Machine Learning Engineer - Summer Intern 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Spgi&job=c15ca0d0-40ea-4525-afcb-efdc04824388&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714"
-    },
-    {
-      "id": "98e06a8b-557a-4335-a1fe-b343bb2b7722",
-      "company": "Spgi",
-      "title": "Software Engineer - Summer Intern 2027",
-      "category": "Software Engineering",
-      "location": "Cambridge, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Spgi&job=98e06a8b-557a-4335-a1fe-b343bb2b7722&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
-    },
-    {
-      "id": "dd100551-df41-4c4c-bdf5-e356672083d9",
-      "company": "Tel",
-      "title": "Software Engineer, AI Research Summer 2027 Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
     }
   ]
 }
