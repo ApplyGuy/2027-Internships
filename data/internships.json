@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:15:11.376Z",
+  "updatedAt": "2026-10-09T15:30:11.378Z",
   "jobs": [
     {
       "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
@@ -8109,18 +8109,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DV+Trading&job=ce78daaf-5b18-43d0-9a48-89f0afad7b72&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
-    },
-    {
-      "id": "a08f2e71-4959-4ee4-8991-aca467867c13",
-      "company": "Formlabs",
-      "title": "Embedded Software Intern (Winter/Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Spring 2027",
-      "posted": "2026-09-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=a08f2e71-4959-4ee4-8991-aca467867c13&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578"
     },
     {
       "id": "420e3af2-51c7-4c9a-9d3e-b472d2072f76",
