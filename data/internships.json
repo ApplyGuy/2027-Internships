@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:00:31.245Z",
+  "updatedAt": "2026-10-10T02:15:49.830Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -278,6 +278,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895"
+    },
+    {
+      "id": "c274bb96-9602-4d7a-8650-ed867b6dd260",
+      "company": "SageSure",
+      "title": "Software Product Management Intern ",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SageSure&job=c274bb96-9602-4d7a-8650-ed867b6dd260&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006"
+    },
+    {
+      "id": "0833d9bd-f6fa-4e30-8da5-f9b6d378043f",
+      "company": "SageSure",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SageSure&job=0833d9bd-f6fa-4e30-8da5-f9b6d378043f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006"
     },
     {
       "id": "66ec7db7-8e0e-4320-97a0-c053001ec13e",
