@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:30:11.784Z",
+  "updatedAt": "2026-10-10T18:45:10.757Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -5854,6 +5854,18 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=e36f42ed-7cef-44c6-a937-2200b38ef0e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550"
+    },
+    {
+      "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
+      "company": "Analogdevices",
+      "title": "AI/ML Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Wilmington, MA",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Analogdevices&job=29532d19-742a-465b-af6b-7ffb7df0556e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"
     },
     {
       "id": "8eb0d6c0-1391-46b9-ad7d-52de5cd1ae88",
