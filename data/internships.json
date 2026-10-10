@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:45:27.827Z",
+  "updatedAt": "2026-10-10T01:00:21.605Z",
   "jobs": [
     {
       "id": "d7a0efed-9d88-4259-8c87-7e76744bc014",
@@ -277,6 +277,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Tenet3&job=7c3446bb-735f-4082-a1b1-e513844dd9ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenet3/jobs/8878874002"
+    },
+    {
+      "id": "dc97fce8-640d-4951-9000-3ae03a66ee48",
+      "company": "Zipline",
+      "title": "Firmware Engineer Intern (Summer 2027) ",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=dc97fce8-640d-4951-9000-3ae03a66ee48&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003"
+    },
+    {
+      "id": "5154933d-6ead-40de-b9f4-ac1a35136b5f",
+      "company": "Zipline",
+      "title": "Firmware Engineer Intern (Spring 2027) ",
+      "category": "Software Engineering",
+      "location": "South San Francisco, CA",
+      "season": "Spring 2027",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Zipline&job=5154933d-6ead-40de-b9f4-ac1a35136b5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003"
     },
     {
       "id": "custom:amazon:34379af5f436b3d22885",
