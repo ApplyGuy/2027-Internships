@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-10T01:00:21.605Z",
+  "updatedAt": "2026-10-10T01:15:27.539Z",
   "jobs": [
+    {
+      "id": "6c75760d-da0c-4685-9a60-3e496df047da",
+      "company": "Globalfoundries",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Globalfoundries&job=6c75760d-da0c-4685-9a60-3e496df047da&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
+    },
     {
       "id": "d7a0efed-9d88-4259-8c87-7e76744bc014",
       "company": "Amat",
@@ -157,6 +169,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=59c2fc45-d8db-40c7-9970-14bfc8241d3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"
+    },
+    {
+      "id": "custom:microsoft:ae21949cd07442304893",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond · United States, California, Mountain View",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "applySupported": false
     },
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
@@ -1216,6 +1241,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=3250e485-d8b8-4d4a-8897-6309422088eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+    },
+    {
+      "id": "custom:microsoft:c389e45713b9477d8875",
+      "company": "Microsoft",
+      "title": "Firmware Engineering Internship (6-month Program)",
+      "category": "Software Engineering",
+      "location": "United States, California, Santa Clara",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "applySupported": false
     },
     {
       "id": "f309aaba-4efa-480f-81fd-7032b3f277d2",
@@ -7644,6 +7682,45 @@
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
     },
     {
+      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "category": "Product",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "29d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:09fcd77cc331dc85e26a",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Virginia, Reston",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "29d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:7f4cd060be70871cbcd8",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-09-11",
+      "age": "29d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "applySupported": false
+    },
+    {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
       "company": "Momentive",
       "title": "Summer 2027 Product Management Intern",
@@ -7896,18 +7973,6 @@
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1"
     },
     {
-      "id": "3da20bdd-0f83-4606-a6b9-85414159c690",
-      "company": "Greatamerica",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Not specified",
-      "posted": "2026-09-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Greatamerica&job=3da20bdd-0f83-4606-a6b9-85414159c690&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
-    },
-    {
       "id": "d9842c39-43c2-4f36-a9a8-9675a8c1ad95",
       "company": "Hudl",
       "title": "Software Quality Assurance Engineering Intern",
@@ -8002,18 +8067,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Rsm&job=d9ed0bcd-c076-4856-a572-f438fbc5a22b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/Chicago/Cyber-ServiceNow-Developer-Intern---Summer-2027_JR117289"
-    },
-    {
-      "id": "a3b0247c-06cd-4c81-a200-a9b1d906e4b2",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-09-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a3b0247c-06cd-4c81-a200-a9b1d906e4b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
     },
     {
       "id": "be5b08cb-a7bb-4ac8-ad3f-f0957f8a5826",
