@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:00:13.902Z",
+  "updatedAt": "2026-10-10T16:15:27.865Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -590,6 +590,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Replit&job=4d8761fb-e0d6-4080-9fa2-0294d496aad9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea"
+    },
+    {
+      "id": "26743584-919c-4f0f-9338-3e42369dcd48",
+      "company": "RTX",
+      "title": "Software Engineering Co-Op (Summer/Fall 2027) (Hybrid)",
+      "category": "Software Engineering",
+      "location": "Aguadilla, PR",
+      "season": "Fall 2027",
+      "posted": "2026-10-08",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=26743584-919c-4f0f-9338-3e42369dcd48&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Intern--Summer-Fall-2027---Hybrid-_01874124"
     },
     {
       "id": "24da54b0-57f6-4ff7-bc7c-604dfda38ed5",
@@ -2057,18 +2069,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=cfb2a6ec-4ad0-49ab-a436-06429aaf4dfc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
-    },
-    {
-      "id": "26743584-919c-4f0f-9338-3e42369dcd48",
-      "company": "RTX",
-      "title": "Software Engineering Co-Op (Summer/Fall 2027) (Hybrid)",
-      "category": "Software Engineering",
-      "location": "Aguadilla, PR",
-      "season": "Fall 2027",
-      "posted": "2026-10-01",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=26743584-919c-4f0f-9338-3e42369dcd48&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Intern--Summer-Fall-2027---Hybrid-_01874124"
     },
     {
       "id": "c1ba3950-b96a-476f-8d8f-74e439f1e011",
@@ -8002,18 +8002,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=92d08563-fa6b-419e-89ae-d492db6a55ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1"
-    },
-    {
-      "id": "d9842c39-43c2-4f36-a9a8-9675a8c1ad95",
-      "company": "Hudl",
-      "title": "Software Quality Assurance Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Lincoln, NE",
-      "season": "Not specified",
-      "posted": "2026-09-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/hudl/jobs/8155102"
     },
     {
       "id": "fe62422c-a1f9-4d4c-a101-712b43cf8f49",
