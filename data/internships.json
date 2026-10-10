@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:45:29.373Z",
+  "updatedAt": "2026-10-10T13:00:26.434Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -219,19 +219,6 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"
     },
     {
-      "id": "custom:microsoft:ae21949cd07442304893",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-10-09",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "applySupported": false
-    },
-    {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
       "company": "Moog",
       "title": "Intern, Software Engineering",
@@ -254,6 +241,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Residex+Software&job=1b902c4d-a077-4ae5-9e8e-9d7b658c9bf3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799"
+    },
+    {
+      "id": "d858d5c6-8600-4249-a5d4-2d08c61aeb25",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Melbourne, FL",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d858d5c6-8600-4249-a5d4-2d08c61aeb25&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
     },
     {
       "id": "f33251f4-ef31-4d57-b1b9-1af8e1ec56c7",
@@ -7763,45 +7762,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Megazone+Cloud+US&job=3395aba8-e690-476f-a0bb-1d107cb30532&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"
-    },
-    {
-      "id": "custom:microsoft:09fcd77cc331dc85e26a",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Virginia, Reston",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "29d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:c44015dd7f6dcb71e4a2",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "29d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:7f4cd060be70871cbcd8",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "29d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "applySupported": false
     },
     {
       "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
