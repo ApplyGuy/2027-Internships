@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:30:14.317Z",
+  "updatedAt": "2026-10-10T09:45:15.744Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -2898,6 +2898,18 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-hrblock.icims.com/jobs/76986/product-management-intern---s/job"
+    },
+    {
+      "id": "1f589f10-7030-4f08-8e58-08f29e881efe",
+      "company": "Itron",
+      "title": "Intern -  Firmware Engineer (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "United States of America",
+      "season": "Spring 2027",
+      "posted": "2026-09-28",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Itron&job=1f589f10-7030-4f08-8e58-08f29e881efe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"
     },
     {
       "id": "df729d0b-54c5-4a50-9fde-5d7bdf7af09d",
@@ -5974,18 +5986,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Insulet&job=e8074ba3-eba1-44f8-9dfd-3a0f8627d090&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
-    },
-    {
-      "id": "1f589f10-7030-4f08-8e58-08f29e881efe",
-      "company": "Itron",
-      "title": "Intern -  Firmware Engineer (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "United States of America",
-      "season": "Spring 2027",
-      "posted": "2026-09-16",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Itron&job=1f589f10-7030-4f08-8e58-08f29e881efe&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"
     },
     {
       "id": "ad5e23b5-303f-40ab-9ac1-efdf5f506517",
