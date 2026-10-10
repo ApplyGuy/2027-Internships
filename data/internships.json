@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T20:15:25.805Z",
+  "updatedAt": "2026-10-10T20:30:16.547Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -8038,18 +8038,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=5399b7f2-bb74-4e2c-ae83-4cc4b138a30d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009"
-    },
-    {
-      "id": "a1ff04fb-9e31-45bd-9299-37ea9d1613d5",
-      "company": "Thomsonreuters",
-      "title": "Software Engineer Co-Op",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Co-op",
-      "posted": "2026-09-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Thomsonreuters&job=a1ff04fb-9e31-45bd-9299-37ea9d1613d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587"
     }
   ]
 }
