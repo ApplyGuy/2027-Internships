@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-675-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-674-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **675** active U.S. internships posted within the last **30 days**
+- **674** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 10, 2026, 8:45 AM PDT**
+- Last refresh: **Oct 10, 2026, 9:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**616 open roles**
+**615 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -636,7 +636,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Brevanhoward | 2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York | New York | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Brevanhoward&job=1bd6ccd1-f52f-4bf1-abd8-5f9e9b55bbb8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://brevanhoward.wd3.myworkdayjobs.com/bh_externalcareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) |
 | CACI | Software Engineering Intern - Summer 2027 | Denver, CO | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CACI&job=92d08563-fa6b-419e-89ae-d492db6a55ca&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1) |
 | Hudl | Software Quality Assurance Engineering Intern | Lincoln, NE | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hudl/jobs/8155102) |
-| Hudl | Software Engineering Intern | Lincoln, NE | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hudl&job=b5cf83bd-2e8a-438a-8402-93af27860a02&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hudl/jobs/8114314) |
 | Intel | AI Software Engineering PhD Intern | Phoenix, AZ | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Intel&job=fe62422c-a1f9-4d4c-a101-712b43cf8f49&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
 | Magna | Intern - Engineering Software | Southfield, MI | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Magna&job=90372fbc-e14a-422d-b30a-03e8bd72174d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://magna.wd3.myworkdayjobs.com/magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232) |
 | Northrop Grumman | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | Spring 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=a81b4f22-c150-4ac0-8e2a-f19361b8bea5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1) |
