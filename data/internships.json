@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:30:55.749Z",
+  "updatedAt": "2026-10-11T19:45:34.151Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -1482,18 +1482,6 @@
       "listingUrl": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
     },
     {
-      "id": "b55268e8-74ba-4a2b-8f06-a3e7f7d950e3",
-      "company": "Hntb",
-      "title": "Intern - AI Business Process Developer (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-03",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Hntb&job=b55268e8-74ba-4a2b-8f06-a3e7f7d950e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
-    },
-    {
       "id": "39b55249-658f-4974-9cec-24cb2a974c09",
       "company": "Revvity",
       "title": "Software Integration Co-Op (Spring 2027)",
@@ -1709,6 +1697,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Harvey&job=3c00c68f-7ae2-4c58-9f23-d5932c1ff0eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
+    },
+    {
+      "id": "5a919f28-7a41-452e-ac92-27a9940dedf3",
+      "company": "Hntb",
+      "title": "Intern - AI Business Process Developer (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Hntb&job=5a919f28-7a41-452e-ac92-27a9940dedf3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
     },
     {
       "id": "f27e049e-2869-4699-91a8-300983cbd105",
