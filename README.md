@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-662-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-659-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **662** active U.S. internships posted within the last **30 days**
+- **659** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 10, 2026, 5:15 PM PDT**
+- Last refresh: **Oct 10, 2026, 5:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**602 open roles**
+**599 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -603,9 +603,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Baincapital | Applications Developer Co-op | Boston, MA | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Baincapital&job=d67e323b-8cad-4ac5-8200-a6356e80330d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://baincapital.wd1.myworkdayjobs.com/external_private/job/Boston/Applications-Developer-Co-op_REQ_108376) |
 | GE HealthCare | LSS Software Engineering Co-op - Madison, WI | Madison, WI | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GE+HealthCare&job=c4e2e5a9-b023-4b2d-9959-2bf85ba3796f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Madison/LSS-Software-Engineering-Co-op---Madison--WI_R4046263-1) |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose, CA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=c83e2c77-2cf6-4347-a7bb-5b759aba1c57&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009) |
-| AeroVironment | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AeroVironment&job=5815a76d-d0c0-4db5-8cef-c8c4a7348493&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) |
-| AeroVironment | Software Engineering Intern | Centreville, VA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AeroVironment&job=37ceaa91-05cf-40ad-816f-509756730c5d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Centreville-VA/Software-Engineering-Intern_8593) |
-| Bracco | Software Engineering Intern | Minnesota, 55344, Eden Prairie | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracco&job=8717f73c-d46e-4a2a-a064-700985abf0b4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328) |
 | Cirrus Logic | 2027 Internship - Embedded Software Test Engineer | Austin, TX | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cirrus+Logic&job=1337fcfb-e76e-45fe-b1f8-9f13d0eac5f7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175) |
 | Cirrus Logic | 2027 Internship - Embedded Firmware Engineer | Phoenix, AZ | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cirrus+Logic&job=1a12eb0d-47df-4a9b-8751-313c980876f1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8) |
 | Cirrus Logic | 2027 Internship - Embedded Software Engineer | Austin, TX | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cirrus+Logic&job=3aa6f52a-9546-4a15-a80a-2c559c5355a4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec) |
