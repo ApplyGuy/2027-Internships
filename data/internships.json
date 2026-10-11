@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T20:00:38.026Z",
+  "updatedAt": "2026-10-11T20:15:37.822Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -1723,18 +1723,6 @@
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
     },
     {
-      "id": "efdbbd88-a761-460e-8bf5-f25d294dd3e4",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=efdbbd88-a761-460e-8bf5-f25d294dd3e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
-    },
-    {
       "id": "69729f56-48f2-4b68-96c9-2bd019e20e3f",
       "company": "Nelnet",
       "title": "Intern - IT Software Engineer .NET (Summer 2027)",
@@ -2009,6 +1997,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c3b59e23-1802-4111-a04f-d8628da9bf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
+    },
+    {
+      "id": "98c6144e-ae13-4057-a1d8-3167bee05c63",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=98c6144e-ae13-4057-a1d8-3167bee05c63&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
     },
     {
       "id": "e6422bc4-bcf6-460c-a590-5e5c2bb275a4",
@@ -2372,19 +2372,19 @@
       "listingUrl": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004"
     },
     {
-      "id": "bdff8b88-0ceb-4f4e-87f8-bb6cfcce606e",
-      "company": "KLA",
+      "id": "5db43189-6117-4dc0-b505-e4a535ce14b5",
+      "company": "Kla",
       "title": "Software Engineering Intern",
       "category": "Software Engineering",
       "location": "Milpitas, CA",
       "season": "Not specified",
       "posted": "2026-09-30",
       "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=bdff8b88-0ceb-4f4e-87f8-bb6cfcce606e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2641572"
+      "url": "https://applyguy.ai/jobs?company=Kla&job=5db43189-6117-4dc0-b505-e4a535ce14b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
     },
     {
-      "id": "21c89d42-ed5d-4090-8e7c-fd9b55c1df5d",
+      "id": "f4726d71-bcc9-4638-b6fc-afb634bdbbe2",
       "company": "Marvell",
       "title": "Firmware Engineer Intern, BS - Summer 2027",
       "category": "Software Engineering",
@@ -2392,7 +2392,7 @@
       "season": "Summer 2027",
       "posted": "2026-09-30",
       "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=21c89d42-ed5d-4090-8e7c-fd9b55c1df5d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=f4726d71-bcc9-4638-b6fc-afb634bdbbe2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
     },
     {
@@ -4078,18 +4078,6 @@
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"
     },
     {
-      "id": "fdafb07f-5048-4868-b9d8-b3a681fe7970",
-      "company": "KLA",
-      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=fdafb07f-5048-4868-b9d8-b3a681fe7970&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
-    },
-    {
       "id": "bcbf808d-8915-4114-874a-5561effa378f",
       "company": "lthc",
       "title": "College Intern - Summer 2027 - Mobile Software Engineering Team",
@@ -4534,7 +4522,7 @@
       "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
     },
     {
-      "id": "a2e06600-4c67-4665-84aa-023203a07da7",
+      "id": "10448d56-c89f-4ad0-9564-c5eae9aa78aa",
       "company": "Kla",
       "title": "Software Engineering Intern (C++, Unix)",
       "category": "Software Engineering",
@@ -4542,8 +4530,20 @@
       "season": "Not specified",
       "posted": "2026-09-22",
       "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=a2e06600-4c67-4665-84aa-023203a07da7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=10448d56-c89f-4ad0-9564-c5eae9aa78aa&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
+    },
+    {
+      "id": "e16807b2-f065-4881-a4eb-ec6975d5d027",
+      "company": "KLA",
+      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-09-22",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=e16807b2-f065-4881-a4eb-ec6975d5d027&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
     },
     {
       "id": "f0f3c6af-ae5f-4d11-b129-000b9d00c6e5",
@@ -6924,6 +6924,18 @@
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"
     },
     {
+      "id": "40f0fb73-81d7-4e46-ae94-c19b658b854e",
+      "company": "Amgen",
+      "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Amgen&job=40f0fb73-81d7-4e46-ae94-c19b658b854e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709"
+    },
+    {
       "id": "05a2b54b-33e8-4869-9213-f74c452b2fb5",
       "company": "Autostore",
       "title": "Co-Op/Intern - Software Engineering",
@@ -7536,18 +7548,6 @@
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742"
     },
     {
-      "id": "40f0fb73-81d7-4e46-ae94-c19b658b854e",
-      "company": "Amgen",
-      "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-09-12",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Amgen&job=40f0fb73-81d7-4e46-ae94-c19b658b854e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709"
-    },
-    {
       "id": "311e9d59-af93-4660-b8ae-127f9ab1ce44",
       "company": "Amgen",
       "title": "Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
@@ -7654,18 +7654,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Matrix+Design+Group&job=7c60b3dd-1e0c-4d9d-a65d-64c5d269e27c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://matrix-design-group.breezy.hr/p/f0fb9ea37c63-software-engineering-embedded-systems-intern"
-    },
-    {
-      "id": "7c9be29a-277e-4c74-8343-9bb64869bdee",
-      "company": "Momentive",
-      "title": "Summer 2027 Product Management Intern",
-      "category": "Product",
-      "location": "Friendly, WV",
-      "season": "Summer 2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Momentive&job=7c9be29a-277e-4c74-8343-9bb64869bdee&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816"
     },
     {
       "id": "ee840181-3ca4-44c6-9b43-dad2341acdb1",
