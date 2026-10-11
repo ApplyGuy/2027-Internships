@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T16:30:28.617Z",
+  "updatedAt": "2026-10-11T16:45:12.381Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -988,6 +988,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Courier+Health&job=d87255c9-10eb-4a7b-932f-c9e4ec186f92&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007"
+    },
+    {
+      "id": "3d6f3ca0-102a-4579-87dd-f4c017b30d70",
+      "company": "Dandy",
+      "title": "Summer 2027 Internship - Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Dandy&job=3d6f3ca0-102a-4579-87dd-f4c017b30d70&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099"
     },
     {
       "id": "de310f1e-7d71-4bd6-b92f-22bb5bdfce88",
@@ -2310,18 +2322,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=17d85745-147a-46fc-bace-409a6bca91ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
-    },
-    {
-      "id": "3d6f3ca0-102a-4579-87dd-f4c017b30d70",
-      "company": "Dandy",
-      "title": "Summer 2027 Internship - Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Dandy&job=3d6f3ca0-102a-4579-87dd-f4c017b30d70&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099"
     },
     {
       "id": "cffad343-cfd3-4b4a-a832-de221756fae6",
