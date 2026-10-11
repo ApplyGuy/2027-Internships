@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T09:45:44.184Z",
+  "updatedAt": "2026-10-11T10:00:30.399Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -1603,18 +1603,6 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
     },
     {
-      "id": "35f25e8f-9fc8-47fa-8e50-a037708a9e27",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform",
-      "category": "Software Engineering",
-      "location": "Warren, MI",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=35f25e8f-9fc8-47fa-8e50-a037708a9e27&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
-    },
-    {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
       "company": "Generalmotors",
       "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
@@ -1649,6 +1637,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3840dfef-b139-4e8d-8a40-cb2e579dd557&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+    },
+    {
+      "id": "35f25e8f-9fc8-47fa-8e50-a037708a9e27",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform",
+      "category": "Software Engineering",
+      "location": "Warren, MI",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=35f25e8f-9fc8-47fa-8e50-a037708a9e27&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
     },
     {
       "id": "020f5de0-997a-49f5-93b0-82c6330419d8",
