@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:45:28.354Z",
+  "updatedAt": "2026-10-11T15:00:12.501Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -7656,18 +7656,6 @@
       "listingUrl": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
     },
     {
-      "id": "d8c6d591-8e40-4b86-8ca3-9695de1eb0ed",
-      "company": "DV Trading",
-      "title": "Software Developer Intern - Summer 2027 (DV Equities)",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Summer 2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=d8c6d591-8e40-4b86-8ca3-9695de1eb0ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"
-    },
-    {
       "id": "a25f1567-045d-4760-abe7-44b21d90a0c9",
       "company": "Lyft",
       "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
@@ -7738,18 +7726,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
-    },
-    {
-      "id": "7d58d191-da8f-421e-879d-9e3deeaa4bde",
-      "company": "Xcimer Energy",
-      "title": "Summer 2027 Internship - Computational and Software Engineering",
-      "category": "Software Engineering",
-      "location": "Denver, CO",
-      "season": "Summer 2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Xcimer+Energy&job=7d58d191-da8f-421e-879d-9e3deeaa4bde&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"
     }
   ]
 }
