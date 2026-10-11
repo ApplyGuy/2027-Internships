@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T15:30:19.350Z",
+  "updatedAt": "2026-10-11T15:45:12.645Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -7714,18 +7714,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Ttc&job=ee840181-3ca4-44c6-9b43-dad2341acdb1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
-    },
-    {
-      "id": "736f0d37-3363-4a40-9482-d2af0fe47977",
-      "company": "Veeam Software",
-      "title": "Software Engineering Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
     }
   ]
 }
