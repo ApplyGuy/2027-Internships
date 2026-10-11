@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:00:18.042Z",
+  "updatedAt": "2026-10-11T23:15:56.285Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -7594,18 +7594,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=1a12eb0d-47df-4a9b-8751-313c980876f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8"
-    },
-    {
-      "id": "3aa6f52a-9546-4a15-a80a-2c559c5355a4",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Embedded Software Engineer",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=3aa6f52a-9546-4a15-a80a-2c559c5355a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec"
     }
   ]
 }
