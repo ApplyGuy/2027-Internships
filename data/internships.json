@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:15:56.285Z",
+  "updatedAt": "2026-10-11T23:30:42.119Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -7570,30 +7570,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=c83e2c77-2cf6-4347-a7bb-5b759aba1c57&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009"
-    },
-    {
-      "id": "1337fcfb-e76e-45fe-b1f8-9f13d0eac5f7",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Embedded Software Test Engineer",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=1337fcfb-e76e-45fe-b1f8-9f13d0eac5f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175"
-    },
-    {
-      "id": "1a12eb0d-47df-4a9b-8751-313c980876f1",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Embedded Firmware Engineer",
-      "category": "Software Engineering",
-      "location": "Phoenix, AZ",
-      "season": "2027",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=1a12eb0d-47df-4a9b-8751-313c980876f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8"
     }
   ]
 }
