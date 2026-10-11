@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:00:18.301Z",
+  "updatedAt": "2026-10-11T04:15:30.009Z",
   "jobs": [
     {
       "id": "6c75760d-da0c-4685-9a60-3e496df047da",
@@ -217,19 +217,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=59c2fc45-d8db-40c7-9970-14bfc8241d3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"
-    },
-    {
-      "id": "custom:microsoft:ae21949cd07442304893",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond · United States, California, Mountain View",
-      "season": "Not specified",
-      "posted": "2026-10-09",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "applySupported": false
     },
     {
       "id": "59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9",
