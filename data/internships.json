@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:00:16.229Z",
+  "updatedAt": "2026-10-11T19:15:50.740Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -1168,18 +1168,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4a8fe78e-0c22-4b03-a279-24efeeca2bee&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553"
-    },
-    {
-      "id": "193999cd-de65-4185-82cc-46429a0f73bf",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "posted": "2026-10-06",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=193999cd-de65-4185-82cc-46429a0f73bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1"
     },
     {
       "id": "083067c1-6301-4c39-8d84-127512cca73e",
@@ -2876,6 +2864,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
     },
     {
+      "id": "c5ccecdb-9253-49d5-90c0-17a8eae54247",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Largo, FL",
+      "season": "Summer 2027",
+      "posted": "2026-09-29",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c5ccecdb-9253-49d5-90c0-17a8eae54247&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951"
+    },
+    {
       "id": "5e13e742-f662-47ad-ad62-09f53c05240e",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -3296,7 +3296,7 @@
       "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937"
     },
     {
-      "id": "371baf17-555c-405c-908d-c770a3cd87ea",
+      "id": "d04990bf-589e-4270-b30e-70ca30244724",
       "company": "Elkay",
       "title": "Embedded Firmware Intern (Summer 2027)",
       "category": "Software Engineering",
@@ -3304,7 +3304,7 @@
       "season": "Summer 2027",
       "posted": "2026-09-25",
       "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=371baf17-555c-405c-908d-c770a3cd87ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=d04990bf-589e-4270-b30e-70ca30244724&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"
     },
     {
@@ -3956,6 +3956,18 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=d0d009ea-6caa-4f76-8e4c-ea765938a701&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372"
+    },
+    {
+      "id": "5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d",
+      "company": "Elkay",
+      "title": "Product Management Intern - Summer 2027",
+      "category": "Product",
+      "location": "Erie, PA",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "18d",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"
     },
     {
       "id": "66e1c62b-1617-4f0e-8fcf-85f8e8df8252",
@@ -5351,18 +5363,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
     },
     {
-      "id": "020c0c39-750a-4cfd-9e1c-3cb7667e77be",
-      "company": "RTX",
-      "title": "Electrical Firmware (Winter/Spring Co-op)(Onsite)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Winter",
-      "posted": "2026-09-18",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=020c0c39-750a-4cfd-9e1c-3cb7667e77be&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872-1"
-    },
-    {
       "id": "ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4",
       "company": "Rubrik Job Board",
       "title": "Software Engineering Winter Internship",
@@ -5518,18 +5518,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=CAMBA&job=c4bfebe3-7d16-4cd9-9b5d-92d49993faa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://camba.applytojob.com/apply/wv3YppWJJF"
-    },
-    {
-      "id": "caffba05-f54a-4f43-9c08-739946ec9641",
-      "company": "Churchdwight",
-      "title": "AI Developer Co-op - Graduate Program (9 Months)",
-      "category": "Software Engineering",
-      "location": "Nj, Ewing",
-      "season": "Co-op",
-      "posted": "2026-09-17",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Churchdwight&job=caffba05-f54a-4f43-9c08-739946ec9641&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"
     },
     {
       "id": "1bfbe157-dcc1-457e-890b-7b7299c5142d",
@@ -6010,18 +5998,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=D3+Embedded&job=f6700342-163f-4301-b566-b728b171e037&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://d3engineering.applytojob.com/apply/uixxAbdlV5"
-    },
-    {
-      "id": "bd5bb5cc-afd0-4888-ac73-b6062541e4b0",
-      "company": "Elkay",
-      "title": "Product Management Intern - Summer 2027",
-      "category": "Product",
-      "location": "Erie, PA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=bd5bb5cc-afd0-4888-ac73-b6062541e4b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"
     },
     {
       "id": "339e8e2e-f340-4695-8733-41bd25711a45",
@@ -6528,18 +6504,6 @@
       "listingUrl": "https://deka.applytojob.com/apply/ulNhn2xOvG"
     },
     {
-      "id": "cca7fc68-edb9-49dd-8c30-2dd7f9ff74eb",
-      "company": "Dowjones",
-      "title": "Summer 2027 Internship Program – Product Strategy Intern",
-      "category": "Product",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-15",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Dowjones&job=cca7fc68-edb9-49dd-8c30-2dd7f9ff74eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317"
-    },
-    {
       "id": "d7eeb4f1-3c43-4263-afdc-ec533a71dc9d",
       "company": "Duolingo",
       "title": "Associate Product Manager, Intern",
@@ -7018,6 +6982,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+    },
+    {
+      "id": "cd324f5b-3230-4d63-937f-3ac72f5fb0cc",
+      "company": "Dowjones",
+      "title": "Summer 2027 Internship Program – Product Strategy Intern",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-14",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Dowjones&job=cd324f5b-3230-4d63-937f-3ac72f5fb0cc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317"
     },
     {
       "id": "875746d9-bee4-4987-8a17-42bcdbf71d3a",
@@ -7642,30 +7618,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=3aa6f52a-9546-4a15-a80a-2c559c5355a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec"
-    },
-    {
-      "id": "99273c9e-8d30-43a1-b123-9782fd8e236d",
-      "company": "Digikey",
-      "title": "Product Management & Supplier Development Intern",
-      "category": "Product",
-      "location": "Thief River Falls, MN",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Digikey&job=99273c9e-8d30-43a1-b123-9782fd8e236d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829"
-    },
-    {
-      "id": "5ec90e86-822a-4550-8c16-9d73c6ffd129",
-      "company": "Directsupply",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Milwaukee, WI",
-      "season": "Not specified",
-      "posted": "2026-09-11",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Directsupply&job=5ec90e86-822a-4550-8c16-9d73c6ffd129&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
     },
     {
       "id": "7c60b3dd-1e0c-4d9d-a65d-64c5d269e27c",
