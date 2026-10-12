@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:30:52.273Z",
+  "updatedAt": "2026-10-12T19:45:45.015Z",
   "jobs": [
     {
       "id": "cc4ce392-f8ac-4f7b-a067-daa23a78dd7f",
@@ -48,18 +48,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
-    },
-    {
-      "id": "6c75760d-da0c-4685-9a60-3e496df047da",
-      "company": "Globalfoundries",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-10",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Globalfoundries&job=6c75760d-da0c-4685-9a60-3e496df047da&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
     },
     {
       "id": "b7ffea0b-9e58-4565-95d3-e988dcfb9fe2",
