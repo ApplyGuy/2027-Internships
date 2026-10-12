@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:30:22.261Z",
+  "updatedAt": "2026-10-12T15:45:21.408Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -891,6 +891,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=77d38624-8bd1-4ce0-9bf5-4a43f7e1ca12&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520"
+    },
+    {
+      "id": "4b2eb21b-a18b-458c-a5c5-fdbc15c81eba",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Fall/Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Spring 2027",
+      "posted": "2026-10-07",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4b2eb21b-a18b-458c-a5c5-fdbc15c81eba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
     },
     {
       "id": "bc7647d6-62ab-456d-b84a-07b845446a88",
