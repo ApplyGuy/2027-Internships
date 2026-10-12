@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:00:57.171Z",
+  "updatedAt": "2026-10-12T19:15:43.222Z",
   "jobs": [
     {
       "id": "cc4ce392-f8ac-4f7b-a067-daa23a78dd7f",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cboe&job=cc4ce392-f8ac-4f7b-a067-daa23a78dd7f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"
+    },
+    {
+      "id": "fb1d8c4e-5e0a-4f92-a711-7dd6c4a41126",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Aurora, CO",
+      "season": "Summer 2027",
+      "posted": "2026-10-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fb1d8c4e-5e0a-4f92-a711-7dd6c4a41126&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524"
+    },
+    {
+      "id": "a7d63087-7a12-4ae8-9974-bdfc18ff4906",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Tucson, AZ",
+      "season": "Not specified",
+      "posted": "2026-10-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a7d63087-7a12-4ae8-9974-bdfc18ff4906&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1"
     },
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -3356,18 +3380,6 @@
       "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"
     },
     {
-      "id": "50486d1d-9a6f-433d-9b9d-efb8e447acea",
-      "company": "Epiqsystems",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Not specified",
-      "posted": "2026-09-25",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Epiqsystems&job=50486d1d-9a6f-433d-9b9d-efb8e447acea&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230"
-    },
-    {
       "id": "83c78414-d98d-417d-b886-594b4cba23e8",
       "company": "Greenheckgroup",
       "title": "Application Developer Co-op",
@@ -6250,18 +6262,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Rexa&job=cd14448f-29ac-42c4-aae6-2daeb5e7e845&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://rexa.bamboohr.com/careers/134"
-    },
-    {
-      "id": "77452802-5fc3-46f2-9308-3408d03e9e2d",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Tucson, AZ",
-      "season": "Not specified",
-      "posted": "2026-09-16",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=77452802-5fc3-46f2-9308-3408d03e9e2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282"
     },
     {
       "id": "5b930026-40d5-4345-9764-6a5cfa6912f3",
