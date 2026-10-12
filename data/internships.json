@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:45:45.015Z",
+  "updatedAt": "2026-10-12T20:00:24.394Z",
   "jobs": [
     {
       "id": "cc4ce392-f8ac-4f7b-a067-daa23a78dd7f",
@@ -831,18 +831,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=caaf9f6b-8127-4ee6-8d34-454d92f2d5c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1"
-    },
-    {
-      "id": "41109a82-2969-426a-bd27-52c998aded68",
-      "company": "Mckesson",
-      "title": "Software Engineering Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Irving, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-07",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Mckesson&job=41109a82-2969-426a-bd27-52c998aded68&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
     },
     {
       "id": "bd38f9e6-3f8b-4bf8-9cf0-ed1102c093bc",
@@ -3753,18 +3741,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/hyliion/jobs/6207533004"
     },
     {
-      "id": "921d2a30-2083-4b15-8dc0-b44fe2325b9e",
-      "company": "Irhythmtech",
-      "title": "Firmware Quality Assurance Engineer Co-Op Intern Full Time January-June",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Co-op",
-      "posted": "2026-09-24",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Irhythmtech&job=921d2a30-2083-4b15-8dc0-b44fe2325b9e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791"
-    },
-    {
       "id": "af59914e-e1bd-4da8-a18d-12d94e801c86",
       "company": "Jj",
       "title": "Software Engineering Co-Op",
@@ -4027,18 +4003,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Graphcore&job=f9c8c4d0-d441-485f-9156-36c842b63dbc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002"
-    },
-    {
-      "id": "17cedee5-280b-486d-b441-036796e7805b",
-      "company": "Hypertherm",
-      "title": "Firmware Developer - Internship",
-      "category": "Software Engineering",
-      "location": "Hanover, NH",
-      "season": "Not specified",
-      "posted": "2026-09-23",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Hypertherm&job=17cedee5-280b-486d-b441-036796e7805b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"
     },
     {
       "id": "e795b3f3-6885-4bf1-9634-cf497b6d21bd",
@@ -6597,18 +6561,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Gecko+Robotics&job=56789448-d8c5-44f1-8b14-b45602a0d37b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a"
-    },
-    {
-      "id": "f86d4a3b-ad3d-4281-a388-604160e2b4bd",
-      "company": "Hitachi",
-      "title": "Intern - Onboard Software Developer",
-      "category": "Software Engineering",
-      "location": "Pittsburgh, PA",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Hitachi&job=f86d4a3b-ad3d-4281-a388-604160e2b4bd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
     },
     {
       "id": "0b3c7c15-fa52-4bc8-92ec-e40804b3bf5f",
