@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:30:21.965Z",
+  "updatedAt": "2026-10-12T07:45:21.622Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -4426,18 +4426,6 @@
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
     },
     {
-      "id": "46e3f12b-cec7-441e-a10a-a2d37a510567",
-      "company": "Bcbsks",
-      "title": "Application Developer - Intern",
-      "category": "Software Engineering",
-      "location": "Topeka, KS",
-      "season": "Not specified",
-      "posted": "2026-09-22",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Bcbsks&job=46e3f12b-cec7-441e-a10a-a2d37a510567&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bcbsks.wd1.myworkdayjobs.com/external/job/Topeka/Application-Developer---Intern_R2026355"
-    },
-    {
       "id": "8caf1ebc-8886-415d-9c72-3ad7303450cd",
       "company": "Bracco",
       "title": "Quality Analyst Intern (Software)",
@@ -4700,6 +4688,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
+    },
+    {
+      "id": "46e3f12b-cec7-441e-a10a-a2d37a510567",
+      "company": "Bcbsks",
+      "title": "Application Developer - Intern",
+      "category": "Software Engineering",
+      "location": "Topeka, KS",
+      "season": "Not specified",
+      "posted": "2026-09-21",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Bcbsks&job=46e3f12b-cec7-441e-a10a-a2d37a510567&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bcbsks.wd1.myworkdayjobs.com/external/job/Topeka/Application-Developer---Intern_R2026355"
     },
     {
       "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
