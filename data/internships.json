@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:30:24.449Z",
+  "updatedAt": "2026-10-12T01:45:47.983Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -7462,18 +7462,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bah&job=77e40e60-ae49-440b-8e9f-790c87242751&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
-    },
-    {
-      "id": "c4e2e5a9-b023-4b2d-9959-2bf85ba3796f",
-      "company": "GE HealthCare",
-      "title": "LSS Software Engineering Co-op - Madison, WI",
-      "category": "Software Engineering",
-      "location": "Madison, WI",
-      "season": "Co-op",
-      "posted": "2026-09-12",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=GE+HealthCare&job=c4e2e5a9-b023-4b2d-9959-2bf85ba3796f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/Madison/LSS-Software-Engineering-Co-op---Madison--WI_R4046263-1"
     }
   ]
 }
