@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:15:34.873Z",
+  "updatedAt": "2026-10-12T00:30:18.563Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -988,6 +988,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Amgen&job=23ed97e2-7288-4de7-b14e-b237ef9da1dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886"
+    },
+    {
+      "id": "df78b9fc-45da-44a3-ae1a-322aae98878c",
+      "company": "Aoins",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Bedford, NH",
+      "season": "Not specified",
+      "posted": "2026-10-06",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Aoins&job=df78b9fc-45da-44a3-ae1a-322aae98878c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465"
     },
     {
       "id": "ef26c9d9-f449-48a3-8a47-f8ccf2a41665",
@@ -7450,18 +7462,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bah&job=77e40e60-ae49-440b-8e9f-790c87242751&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
-    },
-    {
-      "id": "d67e323b-8cad-4ac5-8200-a6356e80330d",
-      "company": "Baincapital",
-      "title": "Applications Developer Co-op",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Co-op",
-      "posted": "2026-09-12",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Baincapital&job=d67e323b-8cad-4ac5-8200-a6356e80330d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://baincapital.wd1.myworkdayjobs.com/external_private/job/Boston/Applications-Developer-Co-op_REQ_108376"
     },
     {
       "id": "c4e2e5a9-b023-4b2d-9959-2bf85ba3796f",
