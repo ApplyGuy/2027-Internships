@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-612-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-610-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **612** active U.S. internships posted within the last **30 days**
+- **610** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 12, 2026, 4:30 PM PDT**
+- Last refresh: **Oct 12, 2026, 4:45 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -585,7 +585,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**58 open roles**
+**56 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -613,9 +613,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | H&amp;R Block Management, LLC | Product Management Intern - S | Kansas City, MO | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-hrblock.icims.com/jobs/76986/product-management-intern---s/job) |
 | BERKLEY W R CORP | Intern Product Management Analyst | Urbandale, IA | — | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=d6942d68-7939-4507-97bd-4fc8bf9f92fb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-berkley.icims.com/jobs/14461/intern-product-management-analyst/job) |
 | Cisco | Engineering Product Management Specialist II (Intern) – United States | San Jose California | — | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=f77c288c-8582-4182-bec2-dd40d4335f67&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801) |
-| Copart | Technology Product Analyst Intern | Dallas, TX | — | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Copart&job=c67f699e-d152-4d8f-96da-55583ee915ab&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937) |
 | Pebl | Associate Product Manager Intern | Palo Alto, CA | — | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pebl&job=47b5c101-2b3c-43c7-8d69-89816548b1c4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4) |
-| Abb | Product Management Intern - Summer 2027 | New Berlin, WI | Summer 2027 | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abb&job=9bb4e31e-4881-42af-9054-5f98b6a39af3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) |
 | Jj | Product Analyst Co-op | Shepherdsville, KY | Co-op | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jj&job=5e0e36fb-7554-47c9-8262-748582c21dd4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018) |
 | Elkay | Product Management Intern - Summer 2027 | Erie, PA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Elkay&job=5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) |
 | Danaher | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, UT | Summer 2027 | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
