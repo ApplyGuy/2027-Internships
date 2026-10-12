@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-613-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-617-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **613** active U.S. internships posted within the last **30 days**
+- **617** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 12, 2026, 1:15 PM PDT**
+- Last refresh: **Oct 12, 2026, 1:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,11 +24,14 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**555 open roles**
+**559 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cboe&job=cc4ce392-f8ac-4f7b-a067-daa23a78dd7f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726) |
+| KLA | AI/ML Software Engineer - Intern | Ann Arbor, MI | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=KLA&job=ec61f5ce-a077-416b-86e1-7508c7577fe5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kla.wd1.myworkdayjobs.com/ur/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701) |
+| RF-SMART | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Jacksonville, FL | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RF-SMART&job=bcab54bf-ee3a-4f97-b926-ccdcd9ab13ed&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) |
+| RF-SMART | Software Developer Internship- Summer 2027 | Highlands Ranch, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RF-SMART&job=a9c19ba1-baac-4bf0-8637-04f3f178a7b1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) |
 | RTX | Software Engineering Intern (Summer 2027) | Aurora, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=fb1d8c4e-5e0a-4f92-a711-7dd6c4a41126&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524) |
 | RTX | Software Engineer Intern | Tucson, AZ | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=a7d63087-7a12-4ae8-9974-bdfc18ff4906&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1) |
 | Parsons | Software Engineer Co-Op - TS/SCI | VA Centreville | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) |
@@ -556,6 +559,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Drakeandassociates | Software Engineering & AI Intern | Waukesha, WI | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Drakeandassociates&job=875746d9-bee4-4987-8a17-42bcdbf71d3a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://drakeandassociates.bamboohr.com/careers/88) |
 | EquipmentShare | Intern: Software Engineer | Columbia, MO (Headquarters) | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=EquipmentShare&job=09b4f46a-1bb5-4566-b2db-b6d75c1ea540&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.equipmentshare.com/careers/openings/?gh_jid=8188474) |
 | Figma | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
+| Gilead | Intern - Development - DevOps Business Strategy | Foster City, CA | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772) |
 | Gnw | Software Engineering Intern | Raleigh, NC | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gnw&job=b18af59e-d352-428c-b5e2-d69627aace88&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367) |
 | Lunaroutpost | Ground Software  Engineering Intern - Summer 2027 | Golden, CO | Summer 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lunaroutpost&job=725bb820-fa6b-4e6a-9c3d-d0a56c97c176&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lunaroutpost.bamboohr.com/careers/398) |
 | Mill | Firmware Engineering Intern, Winter 2026 | San Bruno, CA | Winter 2026 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/mill/jobs/4733709005) |
