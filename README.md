@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-619-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-618-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **619** active U.S. internships posted within the last **30 days**
+- **618** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 12, 2026, 12:30 PM PDT**
+- Last refresh: **Oct 12, 2026, 12:45 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**561 open roles**
+**560 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -32,7 +32,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | RTX | Software Engineering Intern (Summer 2027) | Aurora, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=fb1d8c4e-5e0a-4f92-a711-7dd6c4a41126&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524) |
 | RTX | Software Engineer Intern | Tucson, AZ | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=a7d63087-7a12-4ae8-9974-bdfc18ff4906&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1) |
 | Parsons | Software Engineer Co-Op - TS/SCI | VA Centreville | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) |
-| Globalfoundries | Software Engineering Intern (Summer 2027) | Austin, TX | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Globalfoundries&job=6c75760d-da0c-4685-9a60-3e496df047da&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
 | Workday | Software Development Engineer Intern | Pleasanton, CA | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Workday&job=b7ffea0b-9e58-4565-95d3-e988dcfb9fe2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810) |
 | Workday | Software Application Development Engineer Intern | Pleasanton, CA | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Workday&job=68852663-6f5a-4357-a188-63fb8c7b6c03&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) |
 | Workday | Machine Learning Engineer Intern | Pleasanton, CA | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Workday&job=0b296fda-c174-4987-925d-69a68b5d5310&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) |
