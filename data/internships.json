@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:45:31.080Z",
+  "updatedAt": "2026-10-12T13:00:27.533Z",
   "jobs": [
     {
       "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
@@ -1639,18 +1639,6 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
     },
     {
-      "id": "49adb3bd-892b-4e52-9ebb-f4a484033633",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=49adb3bd-892b-4e52-9ebb-f4a484033633&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
-    },
-    {
       "id": "35f25e8f-9fc8-47fa-8e50-a037708a9e27",
       "company": "Generalmotors",
       "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform",
@@ -1961,6 +1949,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Gas+South&job=4ac8d122-d8bc-4d5c-8c2d-5560447336b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/gassouth/jobs/8247622"
+    },
+    {
+      "id": "49adb3bd-892b-4e52-9ebb-f4a484033633",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=49adb3bd-892b-4e52-9ebb-f4a484033633&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
     },
     {
       "id": "3840dfef-b139-4e8d-8a40-cb2e579dd557",
