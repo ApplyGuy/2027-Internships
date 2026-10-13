@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:45:26.760Z",
+  "updatedAt": "2026-10-13T15:00:26.258Z",
   "jobs": [
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lifefitness&job=741ee0c3-e3bb-4a23-b829-7b311cb02847&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+    },
+    {
+      "id": "fc55fafc-009d-4bd8-8767-b85a4cdb60df",
+      "company": "Vestmark, Inc.",
+      "title": "Software Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Vestmark%2C+Inc.&job=fc55fafc-009d-4bd8-8767-b85a4cdb60df&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
     },
     {
       "id": "438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9",
