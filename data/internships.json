@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T18:45:37.044Z",
+  "updatedAt": "2026-10-13T19:00:33.621Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lifefitness&job=741ee0c3-e3bb-4a23-b829-7b311cb02847&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+    },
+    {
+      "id": "3f899916-423f-46e1-ba6b-24a7395802ba",
+      "company": "Rhombus",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Sacramento, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rhombus&job=3f899916-423f-46e1-ba6b-24a7395802ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
     },
     {
       "id": "adf8969b-0690-4737-bb66-b641bbbd1096",
