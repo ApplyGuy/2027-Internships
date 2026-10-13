@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:30:39.507Z",
+  "updatedAt": "2026-10-13T00:45:34.165Z",
   "jobs": [
     {
       "id": "438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9",
@@ -193,30 +193,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027",
       "applySupported": false
-    },
-    {
-      "id": "6d1589b8-8092-47f8-97a0-1f602144403d",
-      "company": "Aptiv",
-      "title": "Linux Software Development Intern",
-      "category": "Software Engineering",
-      "location": "USA Home Office",
-      "season": "Not specified",
-      "posted": "2026-10-09",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Aptiv&job=6d1589b8-8092-47f8-97a0-1f602144403d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"
-    },
-    {
-      "id": "18afbaa5-2e83-4f1b-a476-7e7531009a00",
-      "company": "Aptiv",
-      "title": "Embedded Software - Engineering Intern",
-      "category": "Software Engineering",
-      "location": "USA Walnut Creek, CA",
-      "season": "Not specified",
-      "posted": "2026-10-09",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Aptiv&job=18afbaa5-2e83-4f1b-a476-7e7531009a00&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
     },
     {
       "id": "b068120c-5a36-4434-a674-ea50be6d9439",
@@ -518,18 +494,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
       "applySupported": false
-    },
-    {
-      "id": "ccaa1346-6795-4617-aa4b-5ee017828f59",
-      "company": "Axos",
-      "title": "Software Development Intern",
-      "category": "Software Engineering",
-      "location": "HQ - San Diego, CA",
-      "season": "Not specified",
-      "posted": "2026-10-08",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Axos&job=ccaa1346-6795-4617-aa4b-5ee017828f59&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"
     },
     {
       "id": "01e1f5c5-a83e-4d62-ba26-1abff8491db1",
@@ -1023,18 +987,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=64b5f056-e1a5-47e6-8c3f-984c02bfe7c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
-    },
-    {
-      "id": "f20f7588-4bd2-4115-ac8e-d7e3273c1275",
-      "company": "AeroVironment",
-      "title": "Hypersonic RF Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Germantown, MD",
-      "season": "Not specified",
-      "posted": "2026-10-06",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=f20f7588-4bd2-4115-ac8e-d7e3273c1275&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
     },
     {
       "id": "cb943d50-66c8-49be-9611-2b0a8d4111ed",
@@ -2358,18 +2310,6 @@
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261"
     },
     {
-      "id": "87959437-9e28-490a-a4d4-7722b0ba12ce",
-      "company": "AeroVironment",
-      "title": "Titan-SV Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Leesburg, VA",
-      "season": "Not specified",
-      "posted": "2026-09-30",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=87959437-9e28-490a-a4d4-7722b0ba12ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"
-    },
-    {
       "id": "custom:amazon:eef2386e5f7a776c9dda",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
@@ -2693,18 +2633,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=15f5fc55-ee06-4f33-b194-2aeea9ea532d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
-    },
-    {
-      "id": "0f36c38c-21a3-416b-9068-e15aaf018ded",
-      "company": "AeroVironment",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Sunrise, FL",
-      "season": "Not specified",
-      "posted": "2026-09-29",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=0f36c38c-21a3-416b-9068-e15aaf018ded&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
     },
     {
       "id": "c43957c4-eb6f-4c83-b8e9-f6f823df74b4",
@@ -3621,7 +3549,7 @@
       "applySupported": false
     },
     {
-      "id": "f1acda5f-06a8-4138-b909-84a62017bef4",
+      "id": "678f839f-d081-4bd9-bb1a-0ff0007ef344",
       "company": "Ameren",
       "title": "Intern (Robotics, AI, OT, Software development)",
       "category": "Software Engineering",
@@ -3629,8 +3557,8 @@
       "season": "Not specified",
       "posted": "2026-09-24",
       "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Ameren&job=f1acda5f-06a8-4138-b909-84a62017bef4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ameren.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1"
+      "url": "https://applyguy.ai/jobs?company=Ameren&job=678f839f-d081-4bd9-bb1a-0ff0007ef344&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945"
     },
     {
       "id": "8c107fb3-6ab6-4a3f-8c32-45d0eecf0af6",
@@ -3655,18 +3583,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Astranis&job=e8e053c6-4a53-4c12-b48f-d57e602f7512&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705599006"
-    },
-    {
-      "id": "f06a176c-4709-405a-a8a8-15d2a2ac77c2",
-      "company": "Cae",
-      "title": "Weapons Simulation Software Co-Op",
-      "category": "Software Engineering",
-      "location": "Arlington, TX",
-      "season": "Co-op",
-      "posted": "2026-09-24",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Cae&job=f06a176c-4709-405a-a8a8-15d2a2ac77c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"
     },
     {
       "id": "f897e08d-e70c-4d18-b765-7dc779bea50e",
@@ -4279,18 +4195,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=586e5b04-6071-4139-a32d-31e8bd4cdad8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667"
-    },
-    {
-      "id": "fd87ad8f-b4f7-4678-a236-87600f17f635",
-      "company": "AeroVironment",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Simi Valley, CA",
-      "season": "Not specified",
-      "posted": "2026-09-22",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=fd87ad8f-b4f7-4678-a236-87600f17f635&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813"
     },
     {
       "id": "2edb1a0d-f59e-4375-b735-d6be0fd104a4",
@@ -5831,18 +5735,6 @@
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
     },
     {
-      "id": "e36f42ed-7cef-44c6-a937-2200b38ef0e2",
-      "company": "AeroVironment",
-      "title": "Summer 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Melbourne, FL",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=e36f42ed-7cef-44c6-a937-2200b38ef0e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550"
-    },
-    {
       "id": "29532d19-742a-465b-af6b-7ffb7df0556e",
       "company": "Analogdevices",
       "title": "AI/ML Engineer Intern",
@@ -5877,18 +5769,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Antares&job=6020b42e-4531-4b07-9a8a-ef2cb30fce97&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830"
-    },
-    {
-      "id": "f4db38a3-d1ed-4064-94da-82d1b0d4fca1",
-      "company": "Aspentech",
-      "title": "Software Development Intern - Digital Grid Management - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Medina, MN",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Aspentech&job=f4db38a3-d1ed-4064-94da-82d1b0d4fca1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"
     },
     {
       "id": "512504bf-8fc4-4b28-851c-62f3ac630ab7",
