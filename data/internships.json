@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:15:27.330Z",
+  "updatedAt": "2026-10-13T19:30:37.135Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rhombus&job=3f899916-423f-46e1-ba6b-24a7395802ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
+    },
+    {
+      "id": "7df013bd-a0b7-4f3a-b84b-dd87c35ce786",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7df013bd-a0b7-4f3a-b84b-dd87c35ce786&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1"
     },
     {
       "id": "adf8969b-0690-4737-bb66-b641bbbd1096",
@@ -517,18 +529,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=098c62b9-0ace-4a82-b43a-bcbade675174&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01880755"
-    },
-    {
-      "id": "4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Annapolis Junction, MD",
-      "season": "Summer 2027",
-      "posted": "2026-10-09",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4fdfeb13-795a-4ab8-8a3c-e7d7538e0a0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895"
     },
     {
       "id": "c274bb96-9602-4d7a-8650-ed867b6dd260",
