@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:45:38.221Z",
+  "updatedAt": "2026-10-13T20:00:33.181Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7df013bd-a0b7-4f3a-b84b-dd87c35ce786&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1"
+    },
+    {
+      "id": "6c5c057b-7ea5-42b4-b67b-367ade3848b2",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6c5c057b-7ea5-42b4-b67b-367ade3848b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
     },
     {
       "id": "adf8969b-0690-4737-bb66-b641bbbd1096",
@@ -517,18 +529,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=66d342dd-9597-42c3-928e-36df37c1c9e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090"
-    },
-    {
-      "id": "2d8a68da-c8b9-4ec1-83f1-dce0df5a1d88",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Spring/Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-09",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2d8a68da-c8b9-4ec1-83f1-dce0df5a1d88&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369"
     },
     {
       "id": "098c62b9-0ace-4a82-b43a-bcbade675174",
