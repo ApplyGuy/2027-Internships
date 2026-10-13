@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:15:29.077Z",
+  "updatedAt": "2026-10-13T10:30:33.339Z",
   "jobs": [
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
@@ -3943,6 +3943,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=d0d009ea-6caa-4f76-8e4c-ea765938a701&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372"
+    },
+    {
+      "id": "5ec90e86-822a-4550-8c16-9d73c6ffd129",
+      "company": "Directsupply",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Milwaukee, WI",
+      "season": "Not specified",
+      "posted": "2026-09-23",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Directsupply&job=5ec90e86-822a-4550-8c16-9d73c6ffd129&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
     },
     {
       "id": "5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d",
