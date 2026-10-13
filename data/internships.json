@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:45:28.976Z",
+  "updatedAt": "2026-10-13T21:00:35.427Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -122,6 +122,18 @@
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
     },
     {
+      "id": "205e03aa-3cfa-425d-a54c-e2883a9f3bb3",
+      "company": "Prologis",
+      "title": "AI Product Management Intern",
+      "category": "Product",
+      "location": "Denver, CO",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Prologis&job=205e03aa-3cfa-425d-a54c-e2883a9f3bb3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840"
+    },
+    {
       "id": "3f899916-423f-46e1-ba6b-24a7395802ba",
       "company": "Rhombus",
       "title": "Software Engineering Intern - Summer 2027",
@@ -132,6 +144,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rhombus&job=3f899916-423f-46e1-ba6b-24a7395802ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
+    },
+    {
+      "id": "17b5bb2d-0f49-4c0b-b6f7-f6479a119129",
+      "company": "Rollsroyce",
+      "title": "Integrated Control Systems Engineer Intern (Software)",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=17b5bb2d-0f49-4c0b-b6f7-f6479a119129&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452"
     },
     {
       "id": "7df013bd-a0b7-4f3a-b84b-dd87c35ce786",
@@ -3139,6 +3163,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4544004"
     },
     {
+      "id": "6df74fdc-cacf-42ad-849c-c0b70bd18f80",
+      "company": "Wegmans",
+      "title": "Assistant Front End Manager Trainee",
+      "category": "Software Engineering",
+      "location": "Crofton, MD",
+      "season": "Not specified",
+      "posted": "2026-09-29",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Wegmans&job=6df74fdc-cacf-42ad-849c-c0b70bd18f80&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0296320"
+    },
+    {
       "id": "afe7d75a-643a-47f2-a1c4-cd0f3a2e9f32",
       "company": "Aero",
       "title": "2027 Software Implementation and Integration Undergrad Cleared Intern",
@@ -5107,18 +5143,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
-    },
-    {
-      "id": "6df74fdc-cacf-42ad-849c-c0b70bd18f80",
-      "company": "Wegmans",
-      "title": "Assistant Front End Manager Trainee",
-      "category": "Software Engineering",
-      "location": "Crofton, MD",
-      "season": "Not specified",
-      "posted": "2026-09-21",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Wegmans&job=6df74fdc-cacf-42ad-849c-c0b70bd18f80&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0296320"
     },
     {
       "id": "67d4efbe-747e-4651-9aa7-b0bd8636cce2",
