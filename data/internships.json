@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-13T22:00:43.866Z",
+  "updatedAt": "2026-10-13T22:15:33.301Z",
   "jobs": [
+    {
+      "id": "6f91611b-65c6-4acc-9aa7-7833eca57779",
+      "company": "Bmo",
+      "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+      "category": "Software Engineering",
+      "location": "San Ramon, CA",
+      "season": "Winter 2027",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bmo&job=6f91611b-65c6-4acc-9aa7-7833eca57779&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/privileged/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-1"
+    },
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
       "company": "Cryptic Vector",
@@ -5155,18 +5167,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=67d4efbe-747e-4651-9aa7-b0bd8636cce2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925"
-    },
-    {
-      "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
-      "company": "Bmo",
-      "title": "Software Developer, Winter 2027 (Internship) - 4 months",
-      "category": "Software Engineering",
-      "location": "San Ramon, CA",
-      "season": "Winter 2027",
-      "posted": "2026-09-19",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Bmo&job=fc71b4e3-0c53-4b29-9885-a6d087199a77&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
     },
     {
       "id": "f6483b9f-96f8-4844-99ae-2cfb64dc7184",
