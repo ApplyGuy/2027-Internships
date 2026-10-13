@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:15:21.806Z",
+  "updatedAt": "2026-10-13T02:30:39.282Z",
   "jobs": [
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
@@ -24,6 +24,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Geaerospace&job=38ae6d9b-f535-43dc-8910-4e658d33bd85&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1"
+    },
+    {
+      "id": "f9add349-d2d4-4442-80ed-df135e91b956",
+      "company": "Lifefitness",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Rosemont, IL",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lifefitness&job=f9add349-d2d4-4442-80ed-df135e91b956&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280"
+    },
+    {
+      "id": "c822c4a1-08fd-4073-8a72-0f52a5f35746",
+      "company": "Lifefitness",
+      "title": "Android Software Intern",
+      "category": "Software Engineering",
+      "location": "Schaumburg, IL 60173",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lifefitness&job=c822c4a1-08fd-4073-8a72-0f52a5f35746&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277"
+    },
+    {
+      "id": "741ee0c3-e3bb-4a23-b829-7b311cb02847",
+      "company": "Lifefitness",
+      "title": "Embedded Software Intern",
+      "category": "Software Engineering",
+      "location": "Schaumburg, IL 60173",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lifefitness&job=741ee0c3-e3bb-4a23-b829-7b311cb02847&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
     },
     {
       "id": "438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9",
