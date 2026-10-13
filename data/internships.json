@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T04:45:25.299Z",
+  "updatedAt": "2026-10-13T05:00:35.323Z",
   "jobs": [
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
@@ -2190,6 +2190,18 @@
       "listingUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
     },
     {
+      "id": "55f8e2e8-f7e7-4a5f-a939-1e45189d644c",
+      "company": "Radiancetech",
+      "title": "Software Engineer Intern Spring/Summer 2027",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=55f8e2e8-f7e7-4a5f-a939-1e45189d644c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443"
+    },
+    {
       "id": "236f10d3-eb95-428e-82d8-ac37ce59df50",
       "company": "Range",
       "title": "Software Engineering Intern",
@@ -3775,18 +3787,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=746f5109-9fe0-4703-aacc-e8cc29a08e9d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7"
-    },
-    {
-      "id": "f23824e2-66b6-4e78-902a-5da1a738e37a",
-      "company": "Radiancetech",
-      "title": "Software Engineer Intern Spring/Summer 2027",
-      "category": "Software Engineering",
-      "location": "Dayton, OH",
-      "season": "Summer 2027",
-      "posted": "2026-09-24",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=f23824e2-66b6-4e78-902a-5da1a738e37a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102444"
     },
     {
       "id": "98c5097d-5eb1-4770-a1c3-427f859eea56",
