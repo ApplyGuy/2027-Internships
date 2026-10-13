@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-605-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-606-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **605** active U.S. internships posted within the last **30 days**
+- **606** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 13, 2026, 11:00 AM PDT**
+- Last refresh: **Oct 13, 2026, 11:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -579,11 +579,12 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**57 open roles**
+**58 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Lifefitness | Product Management Intern | Rosemont, IL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lifefitness&job=f9add349-d2d4-4442-80ed-df135e91b956&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
+| Travelpro Products, Inc. | Design & Product Management Intern | Boca Raton, FL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Travelpro+Products%2C+Inc.&job=adf8969b-0690-4737-bb66-b641bbbd1096&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581780) |
 | Arcesium LLC | Product Management Intern | New York | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Arcesium+LLC&job=438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) |
 | Valmont | Product Analyst Intern (Part Time) | Valley, NE | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Valmont&job=bcad00b1-c813-43b9-af70-b75d96e79a12&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |
 | Wattswater | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wattswater&job=6ae17da9-779c-42b2-a55e-d6ec6e596606&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wattswater.wd5.myworkdayjobs.com/intern-external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) |
