@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:45:29.884Z",
+  "updatedAt": "2026-10-13T18:00:34.459Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -397,6 +397,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Moog&job=59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"
+    },
+    {
+      "id": "69729f56-48f2-4b68-96c9-2bd019e20e3f",
+      "company": "Nelnet",
+      "title": "Intern - IT Software Engineer .NET (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Lincoln, NE",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Nelnet&job=69729f56-48f2-4b68-96c9-2bd019e20e3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
     },
     {
       "id": "1b902c4d-a077-4ae5-9e8e-9d7b658c9bf3",
@@ -1840,18 +1852,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=f27e049e-2869-4699-91a8-300983cbd105&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
-    },
-    {
-      "id": "69729f56-48f2-4b68-96c9-2bd019e20e3f",
-      "company": "Nelnet",
-      "title": "Intern - IT Software Engineer .NET (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Lincoln, NE",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Nelnet&job=69729f56-48f2-4b68-96c9-2bd019e20e3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
     },
     {
       "id": "78a4ce42-8a88-481f-898e-a93da2d6e9c5",
