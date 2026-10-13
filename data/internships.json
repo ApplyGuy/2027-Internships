@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:45:38.145Z",
+  "updatedAt": "2026-10-13T14:00:25.181Z",
   "jobs": [
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
@@ -5543,18 +5543,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4510538"
     },
     {
-      "id": "63ff558d-a51f-470f-b632-a3af9c5dc742",
-      "company": "Kbr",
-      "title": "Image Processing Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Sioux Falls, SD",
-      "season": "Not specified",
-      "posted": "2026-09-17",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=63ff558d-a51f-470f-b632-a3af9c5dc742&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"
-    },
-    {
       "id": "2a5b9689-ca38-48f2-ba62-dd145c061fd0",
       "company": "Kpm",
       "title": "Embedded Software Engineer – New Product Launch (6-12-month Contract) — Internship",
@@ -6009,6 +5997,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Jj&job=681867fb-381a-42a4-a4cc-0045b3307ac0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262"
+    },
+    {
+      "id": "63ff558d-a51f-470f-b632-a3af9c5dc742",
+      "company": "Kbr",
+      "title": "Image Processing Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Sioux Falls, SD",
+      "season": "Not specified",
+      "posted": "2026-09-16",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Kbr&job=63ff558d-a51f-470f-b632-a3af9c5dc742&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"
     },
     {
       "id": "e9c1542a-579e-4d60-8455-f4705dc02424",
