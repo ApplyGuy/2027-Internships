@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:15:33.301Z",
+  "updatedAt": "2026-10-13T22:30:23.354Z",
   "jobs": [
     {
       "id": "6f91611b-65c6-4acc-9aa7-7833eca57779",
@@ -4233,18 +4233,6 @@
       "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3"
     },
     {
-      "id": "701f0162-78fe-4597-8338-360a283592dc",
-      "company": "lthc",
-      "title": "College Intern - Summer 2027 - Software Testing and Automation",
-      "category": "Software Engineering",
-      "location": "Rochester, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-23",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=lthc&job=701f0162-78fe-4597-8338-360a283592dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Software-Testing-and-Automation_JR104024-2"
-    },
-    {
       "id": "6a853fe8-311b-4a34-983f-89b55673a116",
       "company": "lthc",
       "title": "College Intern - Summer 2027 - Software Engineering (Multiple Openings Available)",
@@ -4255,6 +4243,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=lthc&job=6a853fe8-311b-4a34-983f-89b55673a116&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1"
+    },
+    {
+      "id": "701f0162-78fe-4597-8338-360a283592dc",
+      "company": "lthc",
+      "title": "College Intern - Summer 2027 - Software Testing and Automation",
+      "category": "Software Engineering",
+      "location": "Rochester, NY",
+      "season": "Summer 2027",
+      "posted": "2026-09-23",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=lthc&job=701f0162-78fe-4597-8338-360a283592dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lthc.wd1.myworkdayjobs.com/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Software-Testing-and-Automation_JR104024-2"
     },
     {
       "id": "f491c2dc-dd7d-40d2-bcb6-831e8941e88d",
