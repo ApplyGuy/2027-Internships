@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-13T17:30:25.149Z",
+  "updatedAt": "2026-10-13T17:45:29.884Z",
   "jobs": [
+    {
+      "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
+      "company": "Cryptic Vector",
+      "title": "Summer 2027 Full Stack Developer Internship",
+      "category": "Software Engineering",
+      "location": "Liberty Township, OH",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cryptic+Vector&job=4d2fd592-9f95-4ff1-994d-d7535cd0c58b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581330"
+    },
     {
       "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
       "company": "Geaerospace",
