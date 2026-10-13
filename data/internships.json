@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:15:36.446Z",
+  "updatedAt": "2026-10-13T21:30:39.654Z",
   "jobs": [
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
@@ -4281,18 +4281,6 @@
       "listingUrl": "https://jobs.lever.co/ro/92c4b27e-a95f-4c9c-9bfb-88e550b0e721"
     },
     {
-      "id": "6e666177-0343-4b27-9d5e-8859d48e17cf",
-      "company": "RTX",
-      "title": "Summer 2027 Software Engineering Intern (Onsite)",
-      "category": "Software Engineering",
-      "location": "East Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-09-23",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6e666177-0343-4b27-9d5e-8859d48e17cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
-    },
-    {
       "id": "ea0f8d4e-3eff-4458-bdf2-c69095edbb3f",
       "company": "RTX",
       "title": "Operations Software Engineering Intern (Summer 2027)",
@@ -4699,6 +4687,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
+    },
+    {
+      "id": "6e666177-0343-4b27-9d5e-8859d48e17cf",
+      "company": "RTX",
+      "title": "Summer 2027 Software Engineering Intern (Onsite)",
+      "category": "Software Engineering",
+      "location": "East Hartford, CT",
+      "season": "Summer 2027",
+      "posted": "2026-09-22",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6e666177-0343-4b27-9d5e-8859d48e17cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
     },
     {
       "id": "248d04b6-59ce-4250-ab2a-bc8f38702e18",
