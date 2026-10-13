@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-603-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-604-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **603** active U.S. internships posted within the last **30 days**
+- **604** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 13, 2026, 7:45 AM PDT**
+- Last refresh: **Oct 13, 2026, 8:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**546 open roles**
+**547 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -32,6 +32,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Geaerospace | Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 - Returning Students | Evendale, OH | Fall 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Geaerospace&job=38ae6d9b-f535-43dc-8910-4e658d33bd85&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1) |
 | Lifefitness | Android Software Intern | Schaumburg, IL 60173 | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lifefitness&job=c822c4a1-08fd-4073-8a72-0f52a5f35746&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277) |
 | Lifefitness | Embedded Software Intern | Schaumburg, IL 60173 | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lifefitness&job=741ee0c3-e3bb-4a23-b829-7b311cb02847&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276) |
+| Vestmark, Inc. | Software Engineer Co-op | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vestmark%2C+Inc.&job=fc55fafc-009d-4bd8-8767-b85a4cdb60df&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/vestmark/jobs/8204509) |
 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cboe&job=cc4ce392-f8ac-4f7b-a067-daa23a78dd7f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726) |
 | Hpe | Firmware Engineering Intern | Sunnyvale, CA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hpe&job=d73aaf88-3ce0-4b75-8730-e2e59a5ba09e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254) |
 | Itron | Intern -  Firmware Engineer (Spring 2027) | United States of America | Spring 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Itron&job=58270dfa-d003-4d63-b1fe-93a67c327afb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://itron.wd5.myworkdayjobs.com/early_careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920) |
