@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:45:32.505Z",
+  "updatedAt": "2026-10-14T22:00:22.368Z",
   "jobs": [
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Parsons&job=f5009370-8534-4389-a6cf-4c099889c4ac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
+    },
+    {
+      "id": "5766dd98-90dc-4097-9704-1f9fce747164",
+      "company": "Peraton",
+      "title": "Mission Systems Software & Edge Computing Intern &ndash; Norman, OK",
+      "category": "Software Engineering",
+      "location": "Home, OK",
+      "season": "Not specified",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=5766dd98-90dc-4097-9704-1f9fce747164&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/172378/mission-systems-software-%26-edge-computing-intern-%e2%80%93-norman%2c-ok/job"
     },
     {
       "id": "e19d85dc-9788-4034-8b95-4008c17de1ae",
@@ -2238,18 +2250,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/profluent/jobs/5441955008"
     },
     {
-      "id": "932a8713-0012-46cf-ab34-eae64ec5261c",
-      "company": "Rb",
-      "title": "Summer 2027 Intern-Computer Science and Software Engineering",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Rb&job=932a8713-0012-46cf-ab34-eae64ec5261c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rb.wd5.myworkdayjobs.com/frs/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
-    },
-    {
       "id": "4d70f152-81c3-4feb-98f9-876443346467",
       "company": "ShopBack",
       "title": "Software Engineer Intern",
@@ -2632,6 +2632,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Range&job=236f10d3-eb95-428e-82d8-ac37ce59df50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718"
+    },
+    {
+      "id": "932a8713-0012-46cf-ab34-eae64ec5261c",
+      "company": "Rb",
+      "title": "Summer 2027 Intern-Computer Science and Software Engineering",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-10-01",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Rb&job=932a8713-0012-46cf-ab34-eae64ec5261c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rb.wd5.myworkdayjobs.com/frs/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
     },
     {
       "id": "87bb86c5-d746-4faa-bb0c-e1b71d2a665c",
