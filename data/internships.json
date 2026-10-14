@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:00:34.929Z",
+  "updatedAt": "2026-10-14T03:15:19.380Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -240,6 +240,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Vestmark%2C+Inc.&job=fc55fafc-009d-4bd8-8767-b85a4cdb60df&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
+    },
+    {
+      "id": "d09aaefa-1099-468b-8c4a-00e8dcf6f2a9",
+      "company": "Wing",
+      "title": "Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=d09aaefa-1099-468b-8c4a-00e8dcf6f2a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wing.com/careers/8872476002?gh_jid=8872476002"
+    },
+    {
+      "id": "a176f468-96e1-40cb-9e90-2b95eab756fe",
+      "company": "Wing",
+      "title": "Data Infra Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=a176f468-96e1-40cb-9e90-2b95eab756fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wing.com/careers/8872471002?gh_jid=8872471002"
+    },
+    {
+      "id": "69164479-18b7-4f6c-a5e9-424a0053a0e2",
+      "company": "Wing",
+      "title": "Motion Planning Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=69164479-18b7-4f6c-a5e9-424a0053a0e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wing.com/careers/8872472002?gh_jid=8872472002"
+    },
+    {
+      "id": "5a8adf52-5688-4046-8a84-7c85ce4cb23c",
+      "company": "Wing",
+      "title": "Execution & Topology Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=5a8adf52-5688-4046-8a84-7c85ce4cb23c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wing.com/careers/8872477002?gh_jid=8872477002"
+    },
+    {
+      "id": "47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3",
+      "company": "Wing",
+      "title": "Manufacturing Software Test Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wing.com/careers/8872468002?gh_jid=8872468002"
     },
     {
       "id": "438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9",
