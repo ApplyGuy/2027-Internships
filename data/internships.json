@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:45:24.361Z",
+  "updatedAt": "2026-10-14T15:15:24.388Z",
   "jobs": [
     {
       "id": "custom:amazon:3d5342d2e20974d01b9f",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
+    },
+    {
+      "id": "e19d85dc-9788-4034-8b95-4008c17de1ae",
+      "company": "Point72",
+      "title": "2027 Summer Internship – Software Engineer ",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Point72&job=e19d85dc-9788-4034-8b95-4008c17de1ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
     },
     {
       "id": "24953e68-7dff-4896-8613-7f339ab2f2df",
