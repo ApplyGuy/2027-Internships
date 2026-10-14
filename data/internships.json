@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:15:24.388Z",
+  "updatedAt": "2026-10-14T15:30:57.961Z",
   "jobs": [
     {
       "id": "custom:amazon:3d5342d2e20974d01b9f",
@@ -7126,30 +7126,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/mill/jobs/4733709005"
-    },
-    {
-      "id": "1fb18931-18f9-4b24-bf5e-618beb2fc8bb",
-      "company": "North Atlantic Industries, Inc",
-      "title": "Intern - Software Engineer (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Bohemia, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=1fb18931-18f9-4b24-bf5e-618beb2fc8bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273"
-    },
-    {
-      "id": "fe4e7fc7-f9af-486b-b2fe-c9d63fda3508",
-      "company": "North Atlantic Industries, Inc",
-      "title": "Intern - Full Stack Software Engineer (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Bohemia, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=fe4e7fc7-f9af-486b-b2fe-c9d63fda3508&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
     },
     {
       "id": "d503a2c5-5b63-4e5d-844e-16a6e876fc76",
