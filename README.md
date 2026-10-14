@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-601-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-599-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **601** active U.S. internships posted within the last **30 days**
+- **599** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 14, 2026, 1:00 PM PDT**
+- Last refresh: **Oct 14, 2026, 1:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**545 open roles**
+**543 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -564,8 +564,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Vestmark Internship Program | Software Engineer Co-op | Boston, MA | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vestmark+Internship+Program&job=651c011b-e337-420c-a953-70f708c34f9d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) |
 | CSC Generation | Software Engineer - Legacy Applications & Modernization - Intern/Part Time | Houston, TX | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CSC+Generation&job=9dfd3190-3dae-462d-a10c-decd97bb6e03&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813) |
 | DoorDash USA | Software Engineer, Intern (Summer 2027) - US | New York City, NY | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| Gnw | Software Engineering Intern | Raleigh, NC | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gnw&job=b18af59e-d352-428c-b5e2-d69627aace88&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367) |
-| Stirista LLC | Software Engineering/PMO Intern | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Stirista+LLC&job=681deca7-8551-4eed-ab6d-f6a122932dd2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4502409) |
 | Viavisolutions | Software Engineering Co-Op | Germantown, MD | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Viavisolutions&job=e0eb6bda-0535-408a-9595-9a231645fd2a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Commercialization | Mountain View, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
 | Wexinc | Fullstack Software Engineer Intern (Undergraduate) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=f0cece6c-db8b-41b4-8234-ae7e6ccdf054&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593) |
