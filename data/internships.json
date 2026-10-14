@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-14T18:15:33.252Z",
+  "updatedAt": "2026-10-14T18:30:38.197Z",
   "jobs": [
-    {
-      "id": "custom:amazon:3d5342d2e20974d01b9f",
-      "company": "Amazon",
-      "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
-      "category": "Software Engineering",
-      "location": "US, MA, Westboro",
-      "season": "2027",
-      "posted": "2026-10-14",
-      "age": "Today",
-      "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
-      "applySupported": false
-    },
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
       "company": "Boseallaboutme",
@@ -7114,18 +7101,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Quartz&job=d503a2c5-5b63-4e5d-844e-16a6e876fc76&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-quartzbenefits.icims.com/jobs/2408/health-insurance-product-intern/job"
-    },
-    {
-      "id": "73dae9b5-b724-48b8-9d79-2bff950c3c85",
-      "company": "SingleStore",
-      "title": "Software Engineer Intern- Engine-2027",
-      "category": "Software Engineering",
-      "location": "United States",
-      "season": "2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=73dae9b5-b724-48b8-9d79-2bff950c3c85&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
     {
       "id": "681deca7-8551-4eed-ab6d-f6a122932dd2",
