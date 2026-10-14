@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:30:28.274Z",
+  "updatedAt": "2026-10-14T06:45:23.510Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
+    },
+    {
+      "id": "74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d",
+      "company": "Anduril Industries",
+      "title": "2027 Firmware Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Costa Mesa, CA",
+      "season": "2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"
     },
     {
       "id": "6f91611b-65c6-4acc-9aa7-7833eca57779",
