@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:45:31.100Z",
+  "updatedAt": "2026-10-14T14:00:35.390Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -3739,6 +3739,18 @@
       "listingUrl": "https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"
     },
     {
+      "id": "87a9dce1-ea25-4d62-ba9e-239076c1e954",
+      "company": "Oshkoshcorporation",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Hagerstown, MD",
+      "season": "Not specified",
+      "posted": "2026-09-25",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=87a9dce1-ea25-4d62-ba9e-239076c1e954&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414"
+    },
+    {
       "id": "5bc10f79-e8a2-475b-aeb2-15661c88be5f",
       "company": "Patch My PC",
       "title": "Software Engineering Intern – Summer 2027",
@@ -7115,18 +7127,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
     },
     {
-      "id": "87a9dce1-ea25-4d62-ba9e-239076c1e954",
-      "company": "Oshkoshcorporation",
-      "title": "Product Management Intern",
-      "category": "Product",
-      "location": "Hagerstown, MD",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=87a9dce1-ea25-4d62-ba9e-239076c1e954&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414"
-    },
-    {
       "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
       "company": "Oshkoshcorporation",
       "title": "Software Engineer Intern - Summer 2027",
@@ -7149,18 +7149,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Quartz&job=d503a2c5-5b63-4e5d-844e-16a6e876fc76&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-quartzbenefits.icims.com/jobs/2408/health-insurance-product-intern/job"
-    },
-    {
-      "id": "cb91a1a5-eeec-4b48-9226-13dbb60820f8",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Indianapolis, IN",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=cb91a1a5-eeec-4b48-9226-13dbb60820f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145"
     },
     {
       "id": "73dae9b5-b724-48b8-9d79-2bff950c3c85",
