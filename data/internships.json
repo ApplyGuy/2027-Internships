@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:00:35.390Z",
+  "updatedAt": "2026-10-14T14:15:34.828Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -1227,6 +1227,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7bc072ee-45b1-4abe-9c5a-f5cc6b49cf3d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
+    },
+    {
+      "id": "87bc1a48-22e3-4e08-9b47-d3fe38219f31",
+      "company": "Persona",
+      "title": "Software Engineer, Intern (Summer 2027) ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-07",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Persona&job=87bc1a48-22e3-4e08-9b47-d3fe38219f31&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
     },
     {
       "id": "09a6b78d-058f-448b-a9c3-bfd777bef03e",
@@ -6333,18 +6345,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
-    },
-    {
-      "id": "87bc1a48-22e3-4e08-9b47-d3fe38219f31",
-      "company": "Persona",
-      "title": "Software Engineer, Intern (Summer 2027) ",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Persona&job=87bc1a48-22e3-4e08-9b47-d3fe38219f31&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
     },
     {
       "id": "676d458a-9a55-4799-a3d7-949204c631a8",
