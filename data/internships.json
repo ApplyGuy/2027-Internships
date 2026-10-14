@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:30:33.714Z",
+  "updatedAt": "2026-10-14T03:45:25.038Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -3523,18 +3523,6 @@
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714"
     },
     {
-      "id": "77a67454-027f-415c-a692-7485d5773b78",
-      "company": "Intel",
-      "title": "Software Solutions PhD Intern New 2027",
-      "category": "Software Engineering",
-      "location": "Hillsboro, OR",
-      "season": "2027",
-      "posted": "2026-09-26",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Intel&job=77a67454-027f-415c-a692-7485d5773b78&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
-    },
-    {
       "id": "0bb930cf-2ec4-4506-8d04-935da0f34250",
       "company": "Terranova",
       "title": "Software Engineering Intern",
@@ -3641,6 +3629,18 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Greenheckgroup&job=83c78414-d98d-417d-b886-594b4cba23e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
+    },
+    {
+      "id": "77a67454-027f-415c-a692-7485d5773b78",
+      "company": "Intel",
+      "title": "Software Solutions PhD Intern New 2027",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "2027",
+      "posted": "2026-09-25",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=77a67454-027f-415c-a692-7485d5773b78&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
     },
     {
       "id": "3503f4d3-0610-450f-a76e-f6b81d9521a6",
