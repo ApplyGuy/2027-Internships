@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:45:23.823Z",
+  "updatedAt": "2026-10-14T23:00:35.655Z",
   "jobs": [
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -3463,6 +3463,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718"
     },
     {
+      "id": "94b73409-2b22-44f4-83db-8bd6a3fdaa8e",
+      "company": "Danaher",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Chaska, MN",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=94b73409-2b22-44f4-83db-8bd6a3fdaa8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747"
+    },
+    {
       "id": "11d865fd-e388-44a2-98bf-4c53c7fcb224",
       "company": "Framatome Inc.",
       "title": "AI and Software Innovation Intern",
@@ -5638,7 +5650,7 @@
       "listingUrl": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272"
     },
     {
-      "id": "4151b06a-8d00-473f-8fe3-a4c6c66bc68d",
+      "id": "94bc8bc2-cbf4-4041-881f-4b7504781a0a",
       "company": "Gevernova",
       "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
       "category": "Software Engineering",
@@ -5646,8 +5658,8 @@
       "season": "2027",
       "posted": "2026-09-18",
       "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=4151b06a-8d00-473f-8fe3-a4c6c66bc68d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+      "url": "https://applyguy.ai/jobs?company=Gevernova&job=94bc8bc2-cbf4-4041-881f-4b7504781a0a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
     },
     {
       "id": "e179002c-d0e1-4414-8f79-abb32daec984",
@@ -7113,18 +7125,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Vestmark+Internship+Program&job=651c011b-e337-420c-a953-70f708c34f9d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511"
-    },
-    {
-      "id": "d676aead-b823-468b-9d10-97b7cd4710d3",
-      "company": "DoorDash USA",
-      "title": "Software Engineer, Intern (Summer 2027) - US",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
     }
   ]
 }
