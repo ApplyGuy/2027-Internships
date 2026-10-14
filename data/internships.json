@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:00:39.917Z",
+  "updatedAt": "2026-10-14T06:15:24.580Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -144,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lifefitness&job=741ee0c3-e3bb-4a23-b829-7b311cb02847&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+    },
+    {
+      "id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, BS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461"
     },
     {
       "id": "205e03aa-3cfa-425d-a54c-e2883a9f3bb3",
@@ -2731,18 +2743,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
     },
     {
-      "id": "f4726d71-bcc9-4638-b6fc-afb634bdbbe2",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, BS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=f4726d71-bcc9-4638-b6fc-afb634bdbbe2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
-    },
-    {
       "id": "98170cd2-892e-406d-b3ff-bbff4bb1c486",
       "company": "Mfs",
       "title": "Spring 2027 Jr Software Engineer Co-op (January - June)",
@@ -4269,18 +4269,6 @@
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"
     },
     {
-      "id": "7b9d0fff-2250-44b7-a560-9d7f227758ef",
-      "company": "Jj",
-      "title": "Software Test Engineering Co-op (RLM)",
-      "category": "Software Engineering",
-      "location": "Danvers, MA",
-      "season": "Co-op",
-      "posted": "2026-09-23",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Jj&job=7b9d0fff-2250-44b7-a560-9d7f227758ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"
-    },
-    {
       "id": "1d26ae17-73d4-4660-ac5c-8dfa315daaf2",
       "company": "Jj",
       "title": "Software Test Engineering Co-op (Beatbox)",
@@ -4291,6 +4279,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Jj&job=1d26ae17-73d4-4660-ac5c-8dfa315daaf2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"
+    },
+    {
+      "id": "7b9d0fff-2250-44b7-a560-9d7f227758ef",
+      "company": "Jj",
+      "title": "Software Test Engineering Co-op (RLM)",
+      "category": "Software Engineering",
+      "location": "Danvers, MA",
+      "season": "Co-op",
+      "posted": "2026-09-23",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=7b9d0fff-2250-44b7-a560-9d7f227758ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"
     },
     {
       "id": "bcbf808d-8915-4114-874a-5561effa378f",
