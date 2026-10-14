@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:15:39.865Z",
+  "updatedAt": "2026-10-14T21:30:27.442Z",
   "jobs": [
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -7113,102 +7113,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
-    },
-    {
-      "id": "009e8dec-220c-4a3c-9825-e30dbec544b4",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
-    },
-    {
-      "id": "f0cece6c-db8b-41b4-8234-ae7e6ccdf054",
-      "company": "Wexinc",
-      "title": "Fullstack Software Engineer Intern (Undergraduate)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=f0cece6c-db8b-41b4-8234-ae7e6ccdf054&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
-    },
-    {
-      "id": "d19e525b-ba70-40c1-b2ce-78d8b46ead6c",
-      "company": "Wexinc",
-      "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=d19e525b-ba70-40c1-b2ce-78d8b46ead6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
-    },
-    {
-      "id": "bdeaace7-bc29-4597-bade-66c92d165e8b",
-      "company": "Wexinc",
-      "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=bdeaace7-bc29-4597-bade-66c92d165e8b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
-    },
-    {
-      "id": "737efb4b-0e29-44ce-82f7-7713e6e2648e",
-      "company": "Wexinc",
-      "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=737efb4b-0e29-44ce-82f7-7713e6e2648e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
-    },
-    {
-      "id": "540611ee-40e3-4ce0-85df-edd6b72beb63",
-      "company": "Wexinc",
-      "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=540611ee-40e3-4ce0-85df-edd6b72beb63&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"
-    },
-    {
-      "id": "d6cb8c15-b8d3-4577-8615-88b41e74b70b",
-      "company": "Xcelenergy",
-      "title": "Residential Energy Product Strategy Intern - MN, WI",
-      "category": "Product",
-      "location": "Minnesota",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Xcelenergy&job=d6cb8c15-b8d3-4577-8615-88b41e74b70b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1"
-    },
-    {
-      "id": "c6998f32-0dc2-4a7a-a805-5b89f6b33d10",
-      "company": "Xcelenergy",
-      "title": "Residential Energy Product Strategy Intern - MN",
-      "category": "Product",
-      "location": "Minneapolis, MN",
-      "season": "Not specified",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Xcelenergy&job=c6998f32-0dc2-4a7a-a805-5b89f6b33d10&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811"
     }
   ]
 }
