@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:30:24.327Z",
+  "updatedAt": "2026-10-14T20:45:33.766Z",
   "jobs": [
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -62,6 +62,18 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
     },
     {
+      "id": "a5e77350-1b52-4731-9fb6-68b83e006742",
+      "company": "Lseg",
+      "title": "Intern - Software Engineer",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lseg&job=a5e77350-1b52-4731-9fb6-68b83e006742&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+    },
+    {
       "id": "f5009370-8534-4389-a6cf-4c099889c4ac",
       "company": "Parsons",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -84,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Point72&job=e19d85dc-9788-4034-8b95-4008c17de1ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
+    },
+    {
+      "id": "f183cfe1-b273-4b07-9870-931b99c95088",
+      "company": "Skydio",
+      "title": "Manufacturing Software Engineer Intern - Winter 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Winter 2027",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=f183cfe1-b273-4b07-9870-931b99c95088&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     },
     {
       "id": "24953e68-7dff-4896-8613-7f339ab2f2df",
@@ -324,6 +348,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Skydio&job=bd480cb7-f75a-46a7-9b23-06b72451dafb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"
+    },
+    {
+      "id": "6dfd5c80-9fc5-4a86-af8b-626e68cd8451",
+      "company": "Skydio",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=6dfd5c80-9fc5-4a86-af8b-626e68cd8451&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"
     },
     {
       "id": "adf8969b-0690-4737-bb66-b641bbbd1096",
@@ -7089,18 +7125,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
-    },
-    {
-      "id": "e0eb6bda-0535-408a-9595-9a231645fd2a",
-      "company": "Viavisolutions",
-      "title": "Software Engineering Co-Op",
-      "category": "Software Engineering",
-      "location": "Germantown, MD",
-      "season": "Co-op",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=e0eb6bda-0535-408a-9595-9a231645fd2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
     },
     {
       "id": "009e8dec-220c-4a3c-9825-e30dbec544b4",
