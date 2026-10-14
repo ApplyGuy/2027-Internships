@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14T01:00:37.309Z",
+  "updatedAt": "2026-10-14T01:15:21.015Z",
   "jobs": [
+    {
+      "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
+      "company": "Boseallaboutme",
+      "title": "Embedded Audio ML Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "MA, Framingham",
+      "season": "Co-op",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
+    },
     {
       "id": "6f91611b-65c6-4acc-9aa7-7833eca57779",
       "company": "Bmo",
