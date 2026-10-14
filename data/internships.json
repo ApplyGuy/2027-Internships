@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-14T14:30:38.075Z",
+  "updatedAt": "2026-10-14T14:45:24.361Z",
   "jobs": [
+    {
+      "id": "custom:amazon:3d5342d2e20974d01b9f",
+      "company": "Amazon",
+      "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+      "category": "Software Engineering",
+      "location": "US, MA, Westboro",
+      "season": "2027",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+      "applySupported": false
+    },
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
       "company": "Boseallaboutme",
@@ -7125,18 +7138,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=fe4e7fc7-f9af-486b-b2fe-c9d63fda3508&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
-    },
-    {
-      "id": "b698bcf0-44b6-489d-b4f5-a5298e3d6934",
-      "company": "Oshkoshcorporation",
-      "title": "Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Huntersville, NC",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=b698bcf0-44b6-489d-b4f5-a5298e3d6934&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321"
     },
     {
       "id": "d503a2c5-5b63-4e5d-844e-16a6e876fc76",
