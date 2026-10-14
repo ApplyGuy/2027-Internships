@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-600-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-592-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **600** active U.S. internships posted within the last **30 days**
+- **592** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 14, 2026, 2:15 PM PDT**
+- Last refresh: **Oct 14, 2026, 2:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**544 open roles**
+**538 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -566,16 +566,10 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Trane Technologies | Software Development Engineering Intern | St Paul, MN | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Trane+Technologies&job=e9f52856-1155-423a-a99f-29aadc9c7aac&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648) |
 | Vestmark Internship Program | Software Engineer Co-op | Boston, MA | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vestmark+Internship+Program&job=651c011b-e337-420c-a953-70f708c34f9d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) |
 | DoorDash USA | Software Engineer, Intern (Summer 2027) - US | New York City, NY | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Commercialization | Mountain View, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
-| Wexinc | Fullstack Software Engineer Intern (Undergraduate) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=f0cece6c-db8b-41b4-8234-ae7e6ccdf054&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593) |
-| Wexinc | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=d19e525b-ba70-40c1-b2ce-78d8b46ead6c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) |
-| Wexinc | Backend Software Engineer Intern - Java & AI (Master’s) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=bdeaace7-bc29-4597-bade-66c92d165e8b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547) |
-| Wexinc | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=737efb4b-0e29-44ce-82f7-7713e6e2648e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546) |
-| Wexinc | DevOps & Backend Software Engineer Intern (Undergraduate) | Remote, U.S. | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wexinc&job=540611ee-40e3-4ce0-85df-edd6b72beb63&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584) |
 
 ## Product Management Internships
 
-**56 open roles**
+**54 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -633,8 +627,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Cheiron | Technical Product Management Intern (Los Altos) | Los Altos, CA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cheiron&job=37f37312-83b5-4258-bcf9-2aa613e95c6e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/cheiron/e193c411-f175-480e-a341-72e7131e009a) |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Duolingo&job=d7eeb4f1-3c43-4263-afdc-ec533a71dc9d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) |
 | Labcorp | Intern - IT Product Manager | Durham, NC | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Labcorp&job=4fb35f54-1f3b-447b-95c2-a535de96f5c0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185) |
-| Xcelenergy | Residential Energy Product Strategy Intern - MN, WI | Minnesota | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Xcelenergy&job=d6cb8c15-b8d3-4577-8615-88b41e74b70b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1) |
-| Xcelenergy | Residential Energy Product Strategy Intern - MN | Minneapolis, MN | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Xcelenergy&job=c6998f32-0dc2-4a7a-a805-5b89f6b33d10&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) |
 
 ## Contributing
 
