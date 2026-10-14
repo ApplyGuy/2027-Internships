@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:30:53.317Z",
+  "updatedAt": "2026-10-14T11:45:24.712Z",
   "jobs": [
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -7245,18 +7245,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=6b65a23b-e709-4201-a1d4-c37001b20ea2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4503589"
-    },
-    {
-      "id": "e551f4d6-20b1-4d56-ac65-774b6af0a928",
-      "company": "Tive Inc",
-      "title": "Software Engineer Co-op ",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Co-op",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tive+Inc&job=e551f4d6-20b1-4d56-ac65-774b6af0a928&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
     },
     {
       "id": "e0eb6bda-0535-408a-9595-9a231645fd2a",
