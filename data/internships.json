@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:00:24.461Z",
+  "updatedAt": "2026-10-14T19:15:30.153Z",
   "jobs": [
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
+    },
+    {
+      "id": "8cec924d-e941-4752-ac54-43b6cca889db",
+      "company": "CACI",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Florham Park, NJ",
+      "season": "Summer 2027",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=8cec924d-e941-4752-ac54-43b6cca889db&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
+    },
+    {
+      "id": "f5009370-8534-4389-a6cf-4c099889c4ac",
+      "company": "Parsons",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "AL Huntsville",
+      "season": "Summer 2027",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Parsons&job=f5009370-8534-4389-a6cf-4c099889c4ac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
     },
     {
       "id": "e19d85dc-9788-4034-8b95-4008c17de1ae",
@@ -7019,18 +7043,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511"
     },
     {
-      "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
-      "company": "CACI",
-      "title": "Cleared Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Denver CO",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=49df6dcb-ef09-4a0b-bf1c-262810c1c3cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999"
-    },
-    {
       "id": "9dfd3190-3dae-462d-a10c-decd97bb6e03",
       "company": "CSC Generation",
       "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
@@ -7053,18 +7065,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=d676aead-b823-468b-9d10-97b7cd4710d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
-    },
-    {
-      "id": "cd324f5b-3230-4d63-937f-3ac72f5fb0cc",
-      "company": "Dowjones",
-      "title": "Summer 2027 Internship Program – Product Strategy Intern",
-      "category": "Product",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Dowjones&job=cd324f5b-3230-4d63-937f-3ac72f5fb0cc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317"
     },
     {
       "id": "b18af59e-d352-428c-b5e2-d69627aace88",
@@ -7197,18 +7197,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Wexinc&job=540611ee-40e3-4ce0-85df-edd6b72beb63&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"
-    },
-    {
-      "id": "26a2f8a6-65ce-4681-9c75-907c77d04310",
-      "company": "Workshop",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Omaha, NE",
-      "season": "Summer 2027",
-      "posted": "2026-09-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Workshop&job=26a2f8a6-65ce-4681-9c75-907c77d04310&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     },
     {
       "id": "d6cb8c15-b8d3-4577-8615-88b41e74b70b",
