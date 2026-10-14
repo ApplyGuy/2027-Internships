@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:45:36.048Z",
+  "updatedAt": "2026-10-14T16:00:50.370Z",
   "jobs": [
     {
       "id": "custom:amazon:3d5342d2e20974d01b9f",
@@ -5567,18 +5567,6 @@
       "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
     },
     {
-      "id": "8a4db17c-6d83-4999-b0b6-8a1bba16cddb",
-      "company": "Gfs",
-      "title": "Software Engineer Intern (Low Code)",
-      "category": "Software Engineering",
-      "location": "Wyoming, MI",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Gfs&job=8a4db17c-6d83-4999-b0b6-8a1bba16cddb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
-    },
-    {
       "id": "c23b79cd-d630-4621-877d-d24d39681088",
       "company": "Gfs",
       "title": "Digital Product Management Internship",
@@ -5589,6 +5577,18 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Gfs&job=c23b79cd-d630-4621-877d-d24d39681088&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
+    },
+    {
+      "id": "8a4db17c-6d83-4999-b0b6-8a1bba16cddb",
+      "company": "Gfs",
+      "title": "Software Engineer Intern (Low Code)",
+      "category": "Software Engineering",
+      "location": "Wyoming, MI",
+      "season": "Not specified",
+      "posted": "2026-09-18",
+      "age": "26d",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=8a4db17c-6d83-4999-b0b6-8a1bba16cddb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
     },
     {
       "id": "ced4347c-95fa-42b4-8fad-a6ee3eb94ec5",
