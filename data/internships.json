@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:30:52.141Z",
+  "updatedAt": "2026-10-15T12:45:39.301Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -588,6 +588,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Cboe&job=cc4ce392-f8ac-4f7b-a067-daa23a78dd7f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"
+    },
+    {
+      "id": "aa2339b1-df57-4e2a-a524-6f147bf1ddb4",
+      "company": "Fmr",
+      "title": "Summer 2027 Undergraduate Internship - Software",
+      "category": "Software Engineering",
+      "location": "One Destiny Way Westlake, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-12",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Fmr&job=aa2339b1-df57-4e2a-a524-6f147bf1ddb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
     },
     {
       "id": "d73aaf88-3ce0-4b75-8730-e2e59a5ba09e",
@@ -5289,18 +5301,6 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926"
     },
     {
-      "id": "aa2339b1-df57-4e2a-a524-6f147bf1ddb4",
-      "company": "Fmr",
-      "title": "Summer 2027 Undergraduate Internship - Software",
-      "category": "Software Engineering",
-      "location": "One Destiny Way Westlake, TX",
-      "season": "Summer 2027",
-      "posted": "2026-09-21",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Fmr&job=aa2339b1-df57-4e2a-a524-6f147bf1ddb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
-    },
-    {
       "id": "1e36536d-0c23-4da7-a711-d5d69d74221e",
       "company": "GE HealthCare",
       "title": "Software Engineering Summer Intern 2027",
@@ -6416,18 +6416,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Antares&job=6020b42e-4531-4b07-9a8a-ef2cb30fce97&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830"
-    },
-    {
-      "id": "512504bf-8fc4-4b28-851c-62f3ac630ab7",
-      "company": "Basspro",
-      "title": "IT Developer Intern Summer 2027",
-      "category": "Software Engineering",
-      "location": "Springfield, MO (Bass Pro Shops Base Camp)",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Basspro&job=512504bf-8fc4-4b28-851c-62f3ac630ab7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
     },
     {
       "id": "c107bb97-0c15-4c48-947c-1204fccf0c60",
