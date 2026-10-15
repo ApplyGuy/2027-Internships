@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:45:30.523Z",
+  "updatedAt": "2026-10-15T22:00:59.225Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -6932,18 +6932,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Brevium&job=4362fe59-a8f5-4f42-8ed3-7293cffdc50e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/brevium/jobs/4713683006"
-    },
-    {
-      "id": "6c46b04e-4b34-4643-ade2-bc0484f5dd4a",
-      "company": "SingleStore",
-      "title": "Software Engineer Intern- Helios- 2027",
-      "category": "Software Engineering",
-      "location": "United States",
-      "season": "2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=6c46b04e-4b34-4643-ade2-bc0484f5dd4a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205514"
     }
   ]
 }
