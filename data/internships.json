@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:00:57.693Z",
+  "updatedAt": "2026-10-15T16:15:37.095Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -4377,18 +4377,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/hyliion/jobs/6207533004"
     },
     {
-      "id": "af59914e-e1bd-4da8-a18d-12d94e801c86",
-      "company": "Jj",
-      "title": "Software Engineering Co-Op",
-      "category": "Software Engineering",
-      "location": "Danvers, MA",
-      "season": "Co-op",
-      "posted": "2026-09-24",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Jj&job=af59914e-e1bd-4da8-a18d-12d94e801c86&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"
-    },
-    {
       "id": "5e0e36fb-7554-47c9-8262-748582c21dd4",
       "company": "Jj",
       "title": "Product Analyst Co-op",
@@ -4399,6 +4387,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Jj&job=5e0e36fb-7554-47c9-8262-748582c21dd4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018"
+    },
+    {
+      "id": "af59914e-e1bd-4da8-a18d-12d94e801c86",
+      "company": "Jj",
+      "title": "Software Engineering Co-Op",
+      "category": "Software Engineering",
+      "location": "Danvers, MA",
+      "season": "Co-op",
+      "posted": "2026-09-24",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Jj&job=af59914e-e1bd-4da8-a18d-12d94e801c86&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"
     },
     {
       "id": "d1ae0e35-b742-4ccf-8c2e-2ad5ef092a38",
