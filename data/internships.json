@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T19:45:47.026Z",
+  "updatedAt": "2026-10-15T20:00:59.842Z",
   "jobs": [
+    {
+      "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
+      "company": "Duolingo",
+      "title": "Product Manager, MBA Intern",
+      "category": "Product",
+      "location": "Pittsburgh, PA",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Duolingo&job=c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002"
+    },
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
       "company": "Generalmotors",
@@ -6908,18 +6920,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Plastipak&job=d847de02-a377-442f-962a-fd25a6eea2d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512"
-    },
-    {
-      "id": "c99ee8de-a1e8-4d93-bb60-0b47256443a8",
-      "company": "Simventions, Inc",
-      "title": "2027 Software Development Intern",
-      "category": "Software Engineering",
-      "location": "Fredericksburg, VA",
-      "season": "2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Simventions%2C+Inc&job=c99ee8de-a1e8-4d93-bb60-0b47256443a8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job"
     },
     {
       "id": "6c46b04e-4b34-4643-ade2-bc0484f5dd4a",
