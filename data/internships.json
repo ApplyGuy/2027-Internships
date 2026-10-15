@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:30:27.705Z",
+  "updatedAt": "2026-10-15T20:45:43.329Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -48,6 +48,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
+      "company": "Muon Space",
+      "title": "Ground Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Muon+Space&job=1b0d7e33-8f30-43af-bfbb-59730f834a7f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
+    },
+    {
+      "id": "cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Laptop - Summer 2027",
+      "category": "Product",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905"
     },
     {
       "id": "8004eaff-4f89-41de-be11-706ad2632dbd",
