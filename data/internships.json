@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:00:35.448Z",
+  "updatedAt": "2026-10-15T21:15:41.700Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Propio&job=910d6d7a-cb65-45b3-92b2-61a66ec1ed27&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630"
+    },
+    {
+      "id": "5f42c2e6-d6cf-402e-8d13-3e4af9e4ad26",
+      "company": "Q 2 Ebanking",
+      "title": "2027 Summer Internship - Product Operations",
+      "category": "Product",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Q+2+Ebanking&job=5f42c2e6-d6cf-402e-8d13-3e4af9e4ad26&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1"
     },
     {
       "id": "b94c14c2-9bf7-4586-ac34-2c2614489792",
@@ -1238,6 +1250,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=IMC&job=728760a2-dab0-4b90-8362-2860814620e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
+    },
+    {
+      "id": "b70e38e0-ca58-4dbc-b132-5ae6d2d4d103",
+      "company": "Intel",
+      "title": "Software Research Engineering - (PhD Intern)",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "Not specified",
+      "posted": "2026-10-08",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=b70e38e0-ca58-4dbc-b132-5ae6d2d4d103&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
     {
       "id": "58b1ee1e-d151-4dd2-86ee-6513cece9ddf",
@@ -2586,18 +2610,6 @@
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
     },
     {
-      "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - Quality Assurance",
-      "category": "Software Engineering",
-      "location": "Golden, CO",
-      "season": "Summer",
-      "posted": "2026-10-01",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Allegion&job=b704dda6-e7fe-414c-9546-fc1e1594144d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"
-    },
-    {
       "id": "b432d3f6-8836-4ebc-8274-3e548b5f8b44",
       "company": "Attentive",
       "title": "Product Management Intern, Agentic Integrations",
@@ -3064,6 +3076,18 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Adobe&job=7fa12f92-054e-4ab5-8872-018d5ae235f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261"
+    },
+    {
+      "id": "b704dda6-e7fe-414c-9546-fc1e1594144d",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering - Quality Assurance",
+      "category": "Software Engineering",
+      "location": "Golden, CO",
+      "season": "Summer",
+      "posted": "2026-09-30",
+      "age": "15d",
+      "url": "https://applyguy.ai/jobs?company=Allegion&job=b704dda6-e7fe-414c-9546-fc1e1594144d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"
     },
     {
       "id": "custom:amazon:eef2386e5f7a776c9dda",
@@ -6908,30 +6932,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Brevium&job=4362fe59-a8f5-4f42-8ed3-7293cffdc50e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/brevium/jobs/4713683006"
-    },
-    {
-      "id": "bdc66800-babb-442b-b162-a9395e233da6",
-      "company": "Nelnet",
-      "title": "2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027",
-      "category": "Software Engineering",
-      "location": "Madison, WI",
-      "season": "Summer 2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nelnet&job=bdc66800-babb-442b-b162-a9395e233da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
-    },
-    {
-      "id": "d847de02-a377-442f-962a-fd25a6eea2d0",
-      "company": "Plastipak",
-      "title": "Software Engineering Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Plastipak GBTC - Plymouth, MI",
-      "season": "Summer 2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Plastipak&job=d847de02-a377-442f-962a-fd25a6eea2d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512"
     },
     {
       "id": "6c46b04e-4b34-4643-ade2-bc0484f5dd4a",
