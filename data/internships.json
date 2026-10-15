@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:15:34.561Z",
+  "updatedAt": "2026-10-15T17:30:39.793Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -5875,6 +5875,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=800f6ac6-ffbe-42d9-a723-eba440c945d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
+    },
+    {
+      "id": "b1568b63-dae5-4b2b-a034-a4a794b067e2",
+      "company": "Ntst",
+      "title": "Cloud Engineer Future  (Summer 2027 Internship)",
+      "category": "Software Engineering",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-09-18",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Ntst&job=b1568b63-dae5-4b2b-a034-a4a794b067e2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
     },
     {
       "id": "a26b581e-add6-46f2-8e18-755c3bca3de0",
