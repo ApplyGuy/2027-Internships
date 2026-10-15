@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:15:43.620Z",
+  "updatedAt": "2026-10-15T19:30:37.474Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -6860,18 +6860,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
-    },
-    {
-      "id": "ee433497-9e18-4e01-9e98-afd1041898dc",
-      "company": "Anduril Industries",
-      "title": "2027 Flight Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Costa Mesa, CA",
-      "season": "2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=ee433497-9e18-4e01-9e98-afd1041898dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"
     },
     {
       "id": "4362fe59-a8f5-4f42-8ed3-7293cffdc50e",
