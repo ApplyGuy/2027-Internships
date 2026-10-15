@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:00:48.281Z",
+  "updatedAt": "2026-10-15T18:15:34.600Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -588,6 +588,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Arcesium+LLC&job=438cd02d-b0d1-4bbb-9c59-1c9833c7a8b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007"
+    },
+    {
+      "id": "b24caa45-0ec7-4f91-b62d-2f15a47e8bc6",
+      "company": "CACI",
+      "title": "Software Engineering Co-op - Summer & Fall 2027",
+      "category": "Software Engineering",
+      "location": "Danbury, CT",
+      "season": "Fall 2027",
+      "posted": "2026-10-12",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b24caa45-0ec7-4f91-b62d-2f15a47e8bc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
     },
     {
       "id": "cc4ce392-f8ac-4f7b-a067-daa23a78dd7f",
