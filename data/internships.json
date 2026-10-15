@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:00:59.842Z",
+  "updatedAt": "2026-10-15T20:15:55.585Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -6932,18 +6932,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=6c46b04e-4b34-4643-ade2-bc0484f5dd4a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205514"
-    },
-    {
-      "id": "0b7fd6a6-e013-496c-b071-ee65e72a7d47",
-      "company": "SSOE Group",
-      "title": "Software Developer Intern - Fall 2026",
-      "category": "Software Engineering",
-      "location": "Toledo, OH",
-      "season": "Fall 2026",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SSOE+Group&job=0b7fd6a6-e013-496c-b071-ee65e72a7d47&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-ssoe.icims.com/jobs/3812/software-developer-intern---fall-2026/job"
     }
   ]
 }
