@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:00:26.235Z",
+  "updatedAt": "2026-10-15T12:15:26.957Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -5635,19 +5635,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e8f0ac39-3057-42d7-bd8e-acc797ccae7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660"
-    },
-    {
-      "id": "custom:amazon:b1ed12b35a791b80f850",
-      "company": "Amazon",
-      "title": "Data Engineer Internship - 2027 (US)",
-      "category": "Software Engineering",
-      "location": "US, WA, Seattle",
-      "season": "2027",
-      "posted": "2026-09-18",
-      "age": "27d",
-      "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
-      "applySupported": false
     },
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
