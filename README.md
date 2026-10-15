@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-588-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-586-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **588** active U.S. internships posted within the last **30 days**
+- **586** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 15, 2026, 7:45 AM PDT**
+- Last refresh: **Oct 15, 2026, 8:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**533 open roles**
+**531 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -520,7 +520,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Gfs | Cloud DevOps Internship | Atlanta, GA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gfs&job=b960ed8d-a23e-4a4e-bae0-603c2e04033b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259) |
 | Graco | Software Engineer Intern | Dayton, OH | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Graco&job=4cf34516-fb73-44ce-ad56-b9845e93040a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://graco.wd501.myworkdayjobs.com/graco_careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556) |
 | Insulet | Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite) | Acton, MA | 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Insulet&job=e8074ba3-eba1-44f8-9dfd-3a0f8627d090&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012) |
-| Jj | Software Engineering Intern - Robotics R&D | Santa Clara, CA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jj&job=ad5e23b5-303f-40ab-9ac1-efdf5f506517&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919) |
 | Kbr | Image Processing Software Engineer Intern | Sioux Falls, SD | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kbr&job=63ff558d-a51f-470f-b632-a3af9c5dc742&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067) |
 | Kitware | Software Developer Internship | Clifton Park, NY | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kitware&job=e9c1542a-579e-4d60-8455-f4705dc02424&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906) |
 | Nanopath | Software Development Co-op (Jan '27 Start) | Cambridge, MA | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nanopath&job=6e666749-79c7-4a47-b5c6-8d01bd26b827&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005) |
@@ -554,7 +553,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | NISC | Intern - Software Development (AI Development) | Lake Saint Louis, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=07caff52-8938-43a0-a4a5-4b621994fc68&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8204161) |
 | NISC | Intern - Software Development (AI Development) | Cedar Rapids, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NISC&job=4284feae-a5d1-456e-8273-c9eae9caac6c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/testnisc/jobs/8204156) |
 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=a6e93b9a-3440-47f9-8300-27b088775e89&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186) |
-| Oshkoshcorporation | Software Engineering Intern | San Francisco, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493) |
 | Plastipak | Software Engineering Intern - Summer 2027 | Plastipak GBTC - Plymouth, MI | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Plastipak&job=d847de02-a377-442f-962a-fd25a6eea2d0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512) |
 | Simventions, Inc | 2027 Software Development Intern | Fredericksburg, VA | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Simventions%2C+Inc&job=c99ee8de-a1e8-4d93-bb60-0b47256443a8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job) |
 | SingleStore | Software Engineer Intern- Helios- 2027 | United States | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SingleStore&job=6c46b04e-4b34-4643-ade2-bc0484f5dd4a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/singlestore/jobs/8205514) |
