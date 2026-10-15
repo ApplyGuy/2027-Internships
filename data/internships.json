@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:00:46.993Z",
+  "updatedAt": "2026-10-15T17:15:34.561Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -2238,18 +2238,6 @@
       "listingUrl": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
     },
     {
-      "id": "b10470f9-92ac-4d4d-9cef-92c7a30473eb",
-      "company": "CACI",
-      "title": "Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=b10470f9-92ac-4d4d-9cef-92c7a30473eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037"
-    },
-    {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
       "company": "CACI",
       "title": "Software Development Intern - Summer 2027",
@@ -2260,6 +2248,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
+    },
+    {
+      "id": "b10470f9-92ac-4d4d-9cef-92c7a30473eb",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b10470f9-92ac-4d4d-9cef-92c7a30473eb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037"
     },
     {
       "id": "53366a55-3c59-46db-b8cc-bbb12a5c40cd",
@@ -6874,18 +6874,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507357"
     },
     {
-      "id": "61c16564-b24a-4c34-855a-5c39ea980a20",
-      "company": "National Information Solutions Cooperative (NISC)",
-      "title": "Intern - Software Development (AI Development)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=61c16564-b24a-4c34-855a-5c39ea980a20&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/nisc/jobs/8204086"
-    },
-    {
       "id": "bdc66800-babb-442b-b162-a9395e233da6",
       "company": "Nelnet",
       "title": "2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027",
@@ -6896,30 +6884,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Nelnet&job=bdc66800-babb-442b-b162-a9395e233da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
-    },
-    {
-      "id": "07caff52-8938-43a0-a4a5-4b621994fc68",
-      "company": "NISC",
-      "title": "Intern - Software Development (AI Development)",
-      "category": "Software Engineering",
-      "location": "Lake Saint Louis, MO",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NISC&job=07caff52-8938-43a0-a4a5-4b621994fc68&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8204161"
-    },
-    {
-      "id": "4284feae-a5d1-456e-8273-c9eae9caac6c",
-      "company": "NISC",
-      "title": "Intern - Software Development (AI Development)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=NISC&job=4284feae-a5d1-456e-8273-c9eae9caac6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8204156"
     },
     {
       "id": "a6e93b9a-3440-47f9-8300-27b088775e89",
