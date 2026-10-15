@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:30:25.962Z",
+  "updatedAt": "2026-10-15T04:45:33.647Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -3895,18 +3895,6 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805"
     },
     {
-      "id": "9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Intern) – United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Not specified",
-      "posted": "2026-09-25",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798"
-    },
-    {
       "id": "d04990bf-589e-4270-b30e-70ca30244724",
       "company": "Elkay",
       "title": "Embedded Firmware Intern (Summer 2027)",
@@ -4231,6 +4219,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=04173206-13ef-4c2b-bc7c-5ef20273ca2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+    },
+    {
+      "id": "9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-24",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798"
     },
     {
       "id": "38e20e29-03c5-41e6-9962-a1efa9ee87df",
