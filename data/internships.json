@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T13:30:26.790Z",
+  "updatedAt": "2026-10-15T13:45:39.598Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -1373,18 +1373,6 @@
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270"
     },
     {
-      "id": "abcfc20b-e2bb-4854-b04c-cce97559c1c3",
-      "company": "Entrust",
-      "title": "Firmware Engineering Co-op",
-      "category": "Software Engineering",
-      "location": "Shakopee, MN (GHQ)",
-      "season": "Co-op",
-      "posted": "2026-10-07",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Entrust&job=abcfc20b-e2bb-4854-b04c-cce97559c1c3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"
-    },
-    {
       "id": "60a8fe4a-84d7-4cce-99fe-1f8a3b960531",
       "company": "Entrust",
       "title": "Software Engineer Co-op",
@@ -1395,6 +1383,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Entrust&job=60a8fe4a-84d7-4cce-99fe-1f8a3b960531&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416"
+    },
+    {
+      "id": "abcfc20b-e2bb-4854-b04c-cce97559c1c3",
+      "company": "Entrust",
+      "title": "Firmware Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN (GHQ)",
+      "season": "Co-op",
+      "posted": "2026-10-07",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Entrust&job=abcfc20b-e2bb-4854-b04c-cce97559c1c3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"
     },
     {
       "id": "1c719f63-5b23-4c59-9b31-8fe57b8d6500",
