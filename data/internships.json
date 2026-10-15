@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T01:45:41.690Z",
+  "updatedAt": "2026-10-15T02:00:31.045Z",
   "jobs": [
+    {
+      "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
+      "company": "Generalmotors",
+      "title": "2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)",
+      "category": "Product",
+      "location": "Sunnyvale, CA",
+      "season": "2027",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3aaa7242-ca8d-4a8e-a46c-295a903f29bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
+    },
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
       "company": "Assurant",
@@ -36,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=8cec924d-e941-4752-ac54-43b6cca889db&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
+    },
+    {
+      "id": "82986888-d765-4e34-a68d-127aa37365c0",
+      "company": "Figure",
+      "title": "Embedded Software Engineering Intern, Platform",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Figure&job=82986888-d765-4e34-a68d-127aa37365c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
     },
     {
       "id": "e7e511b6-553e-42d2-9a53-69635a47e139",
@@ -4173,6 +4197,18 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
     },
     {
+      "id": "99273c9e-8d30-43a1-b123-9782fd8e236d",
+      "company": "Digikey",
+      "title": "Product Management & Supplier Development Intern",
+      "category": "Product",
+      "location": "Thief River Falls, MN",
+      "season": "Not specified",
+      "posted": "2026-09-24",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Digikey&job=99273c9e-8d30-43a1-b123-9782fd8e236d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829"
+    },
+    {
       "id": "394356d4-cf82-4fc2-b99e-56feb3f1df36",
       "company": "DRW - University Jobs",
       "title": "Spring 2027 City Scholars Software Developer Intern",
@@ -5491,19 +5527,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e8f0ac39-3057-42d7-bd8e-acc797ccae7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660"
-    },
-    {
-      "id": "custom:amazon:b1ed12b35a791b80f850",
-      "company": "Amazon",
-      "title": "Data Engineer Internship - 2027 (US)",
-      "category": "Software Engineering",
-      "location": "US, WA, Seattle",
-      "season": "2027",
-      "posted": "2026-09-18",
-      "age": "27d",
-      "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
-      "applySupported": false
     },
     {
       "id": "c9abc129-70ba-45e7-9fe9-e89cba964be3",
