@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T02:15:36.016Z",
+  "updatedAt": "2026-10-15T02:30:20.752Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
+    },
+    {
+      "id": "910d6d7a-cb65-45b3-92b2-61a66ec1ed27",
+      "company": "Propio",
+      "title": "Product Manager Intern",
+      "category": "Product",
+      "location": "Overland Park, KS",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Propio&job=910d6d7a-cb65-45b3-92b2-61a66ec1ed27&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630"
     },
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
