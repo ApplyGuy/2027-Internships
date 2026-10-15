@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:00:41.502Z",
+  "updatedAt": "2026-10-15T07:15:40.712Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -6813,18 +6813,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
-    },
-    {
-      "id": "551dea69-b070-46d6-8814-5d7fcc8f6cb3",
-      "company": "Aero",
-      "title": "2027 Aerospace Software Engineer Undergraduate Intern",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Aero&job=551dea69-b070-46d6-8814-5d7fcc8f6cb3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
     },
     {
       "id": "d21e5cdd-a8b9-419d-9e05-3d21b99c2ee6",
