@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:30:33.714Z",
+  "updatedAt": "2026-10-15T07:45:25.535Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -889,6 +889,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Moog&job=59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"
+    },
+    {
+      "id": "a21d9d4b-e039-4d4c-b51f-a32fdaad72f5",
+      "company": "Nelnet",
+      "title": "Intern - UX/UI Front End Engineer - Starting Spring 2027",
+      "category": "Software Engineering",
+      "location": "Madison, WI",
+      "season": "Spring 2027",
+      "posted": "2026-10-09",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Nelnet&job=a21d9d4b-e039-4d4c-b51f-a32fdaad72f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118"
     },
     {
       "id": "69729f56-48f2-4b68-96c9-2bd019e20e3f",
@@ -6993,18 +7005,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Nelnet&job=bdc66800-babb-442b-b162-a9395e233da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
-    },
-    {
-      "id": "a21d9d4b-e039-4d4c-b51f-a32fdaad72f5",
-      "company": "Nelnet",
-      "title": "Intern - UX/UI Front End Engineer - Starting Spring 2027",
-      "category": "Software Engineering",
-      "location": "Madison, WI",
-      "season": "Spring 2027",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nelnet&job=a21d9d4b-e039-4d4c-b51f-a32fdaad72f5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118"
     },
     {
       "id": "07caff52-8938-43a0-a4a5-4b621994fc68",
