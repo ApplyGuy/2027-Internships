@@ -15,7 +15,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **578** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 15, 2026, 12:45 PM PDT**
+- Last refresh: **Oct 15, 2026, 1:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**524 open roles**
+**523 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -549,16 +549,16 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Nelnet | 2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027 | Madison, WI | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nelnet&job=bdc66800-babb-442b-b162-a9395e233da6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106) |
 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=a6e93b9a-3440-47f9-8300-27b088775e89&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186) |
 | Plastipak | Software Engineering Intern - Summer 2027 | Plastipak GBTC - Plymouth, MI | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Plastipak&job=d847de02-a377-442f-962a-fd25a6eea2d0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://plastipak.wd1.myworkdayjobs.com/plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512) |
-| Simventions, Inc | 2027 Software Development Intern | Fredericksburg, VA | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Simventions%2C+Inc&job=c99ee8de-a1e8-4d93-bb60-0b47256443a8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job) |
 | SingleStore | Software Engineer Intern- Helios- 2027 | United States | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SingleStore&job=6c46b04e-4b34-4643-ade2-bc0484f5dd4a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/singlestore/jobs/8205514) |
 | SSOE Group | Software Developer Intern - Fall 2026 | Toledo, OH | Fall 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SSOE+Group&job=0b7fd6a6-e013-496c-b071-ee65e72a7d47&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-ssoe.icims.com/jobs/3812/software-developer-intern---fall-2026/job) |
 
 ## Product Management Internships
 
-**54 open roles**
+**55 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| Duolingo | Product Manager, MBA Intern | Pittsburgh, PA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Duolingo&job=c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) |
 | Generalmotors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Generalmotors&job=3aaa7242-ca8d-4a8e-a46c-295a903f29bc&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | Propio | Product Manager Intern | Overland Park, KS | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Propio&job=910d6d7a-cb65-45b3-92b2-61a66ec1ed27&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630) |
 | Lifefitness | Product Management Intern | Rosemont, IL | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lifefitness&job=f9add349-d2d4-4442-80ed-df135e91b956&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
