@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:15:29.701Z",
+  "updatedAt": "2026-10-15T14:30:41.026Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -3643,6 +3643,18 @@
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747"
     },
     {
+      "id": "acd16527-6a8e-4fd0-b9d8-e8addd16ea0e",
+      "company": "FIS",
+      "title": "Software Engineering Intern Pipeline",
+      "category": "Software Engineering",
+      "location": "Jax 347, FL",
+      "season": "Not specified",
+      "posted": "2026-09-28",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=FIS&job=acd16527-6a8e-4fd0-b9d8-e8addd16ea0e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
+    },
+    {
       "id": "11d865fd-e388-44a2-98bf-4c53c7fcb224",
       "company": "Framatome Inc.",
       "title": "AI and Software Innovation Intern",
@@ -5757,18 +5769,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"
     },
     {
-      "id": "acd16527-6a8e-4fd0-b9d8-e8addd16ea0e",
-      "company": "FIS",
-      "title": "Software Engineering Intern Pipeline",
-      "category": "Software Engineering",
-      "location": "Jax 347, FL",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=FIS&job=acd16527-6a8e-4fd0-b9d8-e8addd16ea0e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
-    },
-    {
       "id": "aada6f05-9595-44f4-b888-0e310b98ca17",
       "company": "FIS",
       "title": "Product Management Intern Pipeline",
@@ -6884,18 +6884,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Brevium&job=4362fe59-a8f5-4f42-8ed3-7293cffdc50e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/brevium/jobs/4713683006"
-    },
-    {
-      "id": "38305909-375f-4457-9eae-ab8b4ae2b13c",
-      "company": "Co-Ops at New York ISO",
-      "title": "Co-Op - IT - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Rensselaer, NY",
-      "season": "Co-op",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Co-Ops+at+New+York+ISO&job=38305909-375f-4457-9eae-ab8b4ae2b13c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007"
     },
     {
       "id": "d7eeb4f1-3c43-4263-afdc-ec533a71dc9d",
