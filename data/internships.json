@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:15:41.700Z",
+  "updatedAt": "2026-10-15T21:30:35.314Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Q+2+Ebanking&job=5f42c2e6-d6cf-402e-8d13-3e4af9e4ad26&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1"
+    },
+    {
+      "id": "5ea7e8e5-3c21-4325-81cb-726cb6f97e1d",
+      "company": "ROCKWOOL Group",
+      "title": "Associate Product Management Intern",
+      "category": "Product",
+      "location": "Chicago, IL",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ROCKWOOL+Group&job=5ea7e8e5-3c21-4325-81cb-726cb6f97e1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2"
     },
     {
       "id": "b94c14c2-9bf7-4586-ac34-2c2614489792",
@@ -2584,18 +2596,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7bef89fc-7153-4adf-bd51-52d203d09f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
-    },
-    {
-      "id": "7eb25954-2a8d-40b9-b68d-a96c0c755859",
-      "company": "Thomsonreuters",
-      "title": "Software Engineer Co-Op",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Co-op",
-      "posted": "2026-10-02",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Thomsonreuters&job=7eb25954-2a8d-40b9-b68d-a96c0c755859&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587"
     },
     {
       "id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
