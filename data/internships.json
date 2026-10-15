@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:15:28.254Z",
+  "updatedAt": "2026-10-15T03:30:35.494Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -48,6 +48,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Propio&job=910d6d7a-cb65-45b3-92b2-61a66ec1ed27&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630"
+    },
+    {
+      "id": "b94c14c2-9bf7-4586-ac34-2c2614489792",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Spokane Valley, WA",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
+    },
+    {
+      "id": "786ff59d-15cf-4dba-b9bd-b04782285fdb",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=786ff59d-15cf-4dba-b9bd-b04782285fdb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
     },
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -4037,18 +4061,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=dfd1b484-7e75-47a8-934f-5e2f6bfd6070&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
-    },
-    {
-      "id": "3eacafd2-87a2-4073-aa5b-da3cd1a98446",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Boise, ID",
-      "season": "Not specified",
-      "posted": "2026-09-25",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=3eacafd2-87a2-4073-aa5b-da3cd1a98446&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-23076"
     },
     {
       "id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
