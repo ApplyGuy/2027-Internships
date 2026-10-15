@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:30:35.314Z",
+  "updatedAt": "2026-10-15T21:45:30.523Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -2394,18 +2394,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4556132"
     },
     {
-      "id": "b7c57b24-62ea-481d-85f2-5999e4c9322f",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – Machine Learning Engineer, AV/AI Platform",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b7c57b24-62ea-481d-85f2-5999e4c9322f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
-    },
-    {
       "id": "eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf",
       "company": "Generalmotors",
       "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
@@ -2416,6 +2404,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=eca7db58-8fa3-4d0b-b37a-8b5d18a50fbf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
+    },
+    {
+      "id": "b7c57b24-62ea-481d-85f2-5999e4c9322f",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern – Machine Learning Engineer, AV/AI Platform",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-02",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b7c57b24-62ea-481d-85f2-5999e4c9322f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
     },
     {
       "id": "35f25e8f-9fc8-47fa-8e50-a037708a9e27",
