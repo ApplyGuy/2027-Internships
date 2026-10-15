@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:30:39.793Z",
+  "updatedAt": "2026-10-15T17:45:42.369Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -1371,6 +1371,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=4cf8d594-2567-4d3f-b6c6-10730385c99e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270"
+    },
+    {
+      "id": "b1838233-4cda-417a-937e-c3f3f7a69186",
+      "company": "Draper",
+      "title": "Operating Systems and Embedded Software Development Co-Op (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Lowell, MA",
+      "season": "Spring 2027",
+      "posted": "2026-10-07",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Draper&job=b1838233-4cda-417a-937e-c3f3f7a69186&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974"
     },
     {
       "id": "60a8fe4a-84d7-4cce-99fe-1f8a3b960531",
@@ -3377,18 +3389,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Clay+Labs&job=fbdc29b0-a5a3-4867-ac44-cbecfc19e748&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"
-    },
-    {
-      "id": "b1838233-4cda-417a-937e-c3f3f7a69186",
-      "company": "Draper",
-      "title": "Operating Systems and Embedded Software Development Co-Op (Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Lowell, MA",
-      "season": "Spring 2027",
-      "posted": "2026-09-29",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Draper&job=b1838233-4cda-417a-937e-c3f3f7a69186&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://draper.wd5.myworkdayjobs.com/draper_careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974"
     },
     {
       "id": "ff5d103d-99e2-45a9-b95e-bd101c9c0a31",
