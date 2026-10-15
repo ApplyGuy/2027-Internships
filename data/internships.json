@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:15:41.758Z",
+  "updatedAt": "2026-10-15T22:30:59.095Z",
   "jobs": [
     {
       "id": "c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8",
@@ -1853,18 +1853,6 @@
       "listingUrl": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
     },
     {
-      "id": "b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc",
-      "company": "Hpe",
-      "title": "Cloud Developer Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-10-06",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Hpe&job=b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
-    },
-    {
       "id": "3acb5a35-4b92-4f96-85d1-210f298e4893",
       "company": "kendallgroup",
       "title": "Software Engineering Intern",
@@ -2127,6 +2115,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=206385ae-4f98-4fdf-bd00-b0eb7af56790&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
+    },
+    {
+      "id": "b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc",
+      "company": "Hpe",
+      "title": "Cloud Developer Intern",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-05",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
     },
     {
       "id": "556d5273-c5a4-4c24-8191-b756d44dfb95",
