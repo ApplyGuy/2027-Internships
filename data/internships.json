@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:45:36.733Z",
+  "updatedAt": "2026-10-15T07:00:41.502Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -4145,6 +4145,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Wexinc&job=b729b19a-1d77-4990-bdfd-111a2573c704&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543"
+    },
+    {
+      "id": "a0e04609-c1f4-4950-b375-6c2407ea0c88",
+      "company": "Abglobal",
+      "title": "Software Development Summer Intern",
+      "category": "Software Engineering",
+      "location": "Nashville, TN",
+      "season": "Summer",
+      "posted": "2026-09-24",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Abglobal&job=a0e04609-c1f4-4950-b375-6c2407ea0c88&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"
     },
     {
       "id": "custom:amazon:cc6eba948c67a5b27477",
