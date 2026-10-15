@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T02:00:31.045Z",
+  "updatedAt": "2026-10-15T02:15:36.016Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3aaa7242-ca8d-4a8e-a46c-295a903f29bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
+    },
+    {
+      "id": "5c9752c1-7c25-48c1-83d3-c3f975fa8406",
+      "company": "Icf",
+      "title": "2027 Summer Intern, Software Engineer (Reston, VA)",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
     },
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -312,6 +324,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461"
+    },
+    {
+      "id": "9996a19b-d129-4160-981f-82874362a15f",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
+      "category": "Product",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-13",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=9996a19b-d129-4160-981f-82874362a15f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
     },
     {
       "id": "205e03aa-3cfa-425d-a54c-e2883a9f3bb3",
@@ -6514,18 +6538,6 @@
       "listingUrl": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
     },
     {
-      "id": "de062b86-0280-4e13-84ef-04b3f857305d",
-      "company": "NVIDIA",
-      "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
-      "category": "Product",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
-    },
-    {
       "id": "676d458a-9a55-4799-a3d7-949204c631a8",
       "company": "Relay",
       "title": "Software Engineering Intern (AI/ML) - Summer 2027",
@@ -6896,30 +6908,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=KEB+America&job=0b3c7c15-fa52-4bc8-92ec-e40804b3bf5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507357"
-    },
-    {
-      "id": "a02a0db7-9583-47c9-8190-bcb91792359b",
-      "company": "Labcorp",
-      "title": "Intern - Software Developer",
-      "category": "Software Engineering",
-      "location": "Durham, NC",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Labcorp&job=a02a0db7-9583-47c9-8190-bcb91792359b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"
-    },
-    {
-      "id": "4fb35f54-1f3b-447b-95c2-a535de96f5c0",
-      "company": "Labcorp",
-      "title": "Intern - IT Product Manager",
-      "category": "Product",
-      "location": "Durham, NC",
-      "season": "Not specified",
-      "posted": "2026-09-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Labcorp&job=4fb35f54-1f3b-447b-95c2-a535de96f5c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185"
     },
     {
       "id": "61c16564-b24a-4c34-855a-5c39ea980a20",
