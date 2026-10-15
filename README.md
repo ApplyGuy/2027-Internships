@@ -15,7 +15,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **578** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 15, 2026, 2:15 PM PDT**
+- Last refresh: **Oct 15, 2026, 2:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**521 open roles**
+**520 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -218,7 +218,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Spartannash | IS Internship - IT Ecommerce & Marketing Developer | Byron Center, MI | — | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Spartannash&job=9e781cc1-6849-4f9b-a23e-ec0161cc0740&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110) |
 | The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) | Hartford, CT | Summer 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=a70f2545-efe9-4b34-a8c9-65b30859755e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) |
 | The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | Summer 2027 | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=7bef89fc-7153-4adf-bd51-52d203d09f4b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
-| Thomsonreuters | Software Engineer Co-Op | New York | Co-op | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Thomsonreuters&job=7eb25954-2a8d-40b9-b68d-a96c0c755859&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587) |
 | Adobe | 2027 Intern - Machine Learning Engineer | San Jose, CA | 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
 | Cisco | Software Engineer II (Co-op) - United States | Maynard, MA | Co-op | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=e11af2e8-bd4c-450b-a38f-609d00c5da6f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
 | Cisco | Software Engineer I (Co-op) - United States | Maynard, MA | Co-op | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=91a20d5c-44c2-49b9-a47a-be5b60bbdcb5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
@@ -552,7 +551,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**57 open roles**
+**58 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -561,6 +560,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | NVIDIA | Product Management MBA Intern, Laptop - Summer 2027 | Santa Clara, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | Propio | Product Manager Intern | Overland Park, KS | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Propio&job=910d6d7a-cb65-45b3-92b2-61a66ec1ed27&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630) |
 | Q 2 Ebanking | 2027 Summer Internship - Product Operations | Austin, TX | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Q+2+Ebanking&job=5f42c2e6-d6cf-402e-8d13-3e4af9e4ad26&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
+| ROCKWOOL Group | Associate Product Management Intern | Chicago, IL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ROCKWOOL+Group&job=5ea7e8e5-3c21-4325-81cb-726cb6f97e1d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
 | Lifefitness | Product Management Intern | Rosemont, IL | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lifefitness&job=f9add349-d2d4-4442-80ed-df135e91b956&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
 | NVIDIA | Product Management MBA Intern, Data Center GPU - Summer 2027 | Santa Clara, CA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=9996a19b-d129-4160-981f-82874362a15f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) |
 | Prologis | AI Product Management Intern | Denver, CO | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Prologis&job=205e03aa-3cfa-425d-a54c-e2883a9f3bb3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) |
