@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:45:25.535Z",
+  "updatedAt": "2026-10-15T08:00:34.728Z",
   "jobs": [
     {
       "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
@@ -6081,6 +6081,18 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Cloudflare&job=0a152ee1-aa4f-4cec-8392-73c58151c518&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
+    },
+    {
+      "id": "a28b3298-19a8-43cc-8399-5fae20747092",
+      "company": "ConductorAI",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-09-17",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=ConductorAI&job=a28b3298-19a8-43cc-8399-5fae20747092&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891"
     },
     {
       "id": "fb195867-4176-49a5-a0e5-56a7aca66dde",
