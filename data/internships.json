@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:30:32.760Z",
+  "updatedAt": "2026-10-16T21:45:21.597Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -6741,18 +6741,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
-    },
-    {
-      "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
-      "company": "Valeo",
-      "title": "Systems Engineering Co-Op (Software)",
-      "category": "Software Engineering",
-      "location": "Troy, MI",
-      "season": "Co-op",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Valeo&job=d27aafad-cd5f-4ad3-969b-05b946ac8814&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
     }
   ]
 }
