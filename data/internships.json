@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T12:45:32.853Z",
+  "updatedAt": "2026-10-16T13:00:33.724Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HEALTHPEAK+PROPERTIES%2C+INC.&job=000ff0a9-1fd0-4380-8f37-a7d6e54849ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h"
+    },
+    {
+      "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
+      "company": "CACI",
+      "title": "Software Development Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Ashburn, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
     },
     {
       "id": "b9dfd506-05ab-4b4e-a1fa-5a6150389906",
@@ -2513,18 +2525,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=C3+AI&job=fcc84b26-195a-4582-9c29-505c0c73af28&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
-    },
-    {
-      "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
-      "company": "CACI",
-      "title": "Software Development Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Ashburn, VA",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
     },
     {
       "id": "b10470f9-92ac-4d4d-9cef-92c7a30473eb",
