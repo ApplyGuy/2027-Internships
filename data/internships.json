@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:30:26.413Z",
+  "updatedAt": "2026-10-16T23:45:36.669Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AiDASH%2C+Inc.&job=41e2e71e-d65c-41d8-bc07-d6ec11b82e93&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
+    },
+    {
+      "id": "e1ac5e3d-a148-47a3-961a-f96a9d8342fa",
+      "company": "Allegion",
+      "title": "Summer Intern - Firmware Engineer",
+      "category": "Software Engineering",
+      "location": "Farmington, CT",
+      "season": "Summer",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Allegion&job=e1ac5e3d-a148-47a3-961a-f96a9d8342fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"
     },
     {
       "id": "8047e295-a4d7-4393-83eb-cbf4e5765c26",
