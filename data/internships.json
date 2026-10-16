@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:15:43.405Z",
+  "updatedAt": "2026-10-16T01:30:34.352Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -1046,6 +1046,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Moog&job=59444cac-5d1e-4fdc-8b3d-fe331e7a9bd9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"
+    },
+    {
+      "id": "bdc66800-babb-442b-b162-a9395e233da6",
+      "company": "Nelnet",
+      "title": "2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027",
+      "category": "Software Engineering",
+      "location": "Madison, WI",
+      "season": "Summer 2027",
+      "posted": "2026-10-09",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Nelnet&job=bdc66800-babb-442b-b162-a9395e233da6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
     },
     {
       "id": "a21d9d4b-e039-4d4c-b51f-a32fdaad72f5",
