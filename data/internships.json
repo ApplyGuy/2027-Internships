@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-16T19:15:58.839Z",
+  "updatedAt": "2026-10-16T19:30:53.048Z",
   "jobs": [
+    {
+      "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
+      "company": "AgZen",
+      "title": "Software Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Somerville, MA",
+      "season": "Co-op",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AgZen&job=3d0360b0-7f8f-41d6-bd9f-0ee56677e59d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a"
+    },
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
       "company": "AiDASH, Inc.",
