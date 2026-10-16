@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:30:38.020Z",
+  "updatedAt": "2026-10-16T03:45:35.131Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -1961,6 +1961,18 @@
       "listingUrl": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
     },
     {
+      "id": "c1957bd2-1461-479d-a8f6-621c45c3dab3",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
+      "category": "Software Engineering",
+      "location": "Warren, MI",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=c1957bd2-1461-479d-a8f6-621c45c3dab3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
+    },
+    {
       "id": "3acb5a35-4b92-4f96-85d1-210f298e4893",
       "company": "kendallgroup",
       "title": "Software Engineering Intern",
@@ -2199,18 +2211,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Found+Industries&job=61348986-5b6e-4fd7-955f-2cf14106482a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"
-    },
-    {
-      "id": "c1957bd2-1461-479d-a8f6-621c45c3dab3",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
-      "category": "Software Engineering",
-      "location": "Warren, MI",
-      "season": "Summer 2027",
-      "posted": "2026-10-05",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=c1957bd2-1461-479d-a8f6-621c45c3dab3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
     },
     {
       "id": "8b5d7302-e273-4d88-98c9-223103dcaafa",
