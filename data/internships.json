@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:15:23.284Z",
+  "updatedAt": "2026-10-16T14:30:39.722Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -6800,42 +6800,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5b930026-40d5-4345-9764-6a5cfa6912f3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"
-    },
-    {
-      "id": "4bb69854-c7f3-4bc3-a857-16ab763a45de",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Windsor Locks, CT",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4bb69854-c7f3-4bc3-a857-16ab763a45de&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775"
-    },
-    {
-      "id": "8e6a4d49-8203-4c2b-9e16-59ed96c331c2",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e6a4d49-8203-4c2b-9e16-59ed96c331c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743"
-    },
-    {
-      "id": "4a3d64a7-58f3-41af-8452-7683720e0a70",
-      "company": "RTX",
-      "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4a3d64a7-58f3-41af-8452-7683720e0a70&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484"
     },
     {
       "id": "ebffdd24-cbe5-42d4-bd39-8f0bfd9a2da3",
