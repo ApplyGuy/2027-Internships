@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:15:53.317Z",
+  "updatedAt": "2026-10-16T20:30:22.579Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -216,6 +216,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6728,18 +6741,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Insulet&job=e8074ba3-eba1-44f8-9dfd-3a0f8627d090&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
-    },
-    {
-      "id": "5b930026-40d5-4345-9764-6a5cfa6912f3",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Winter/Spring 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Spring 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b930026-40d5-4345-9764-6a5cfa6912f3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"
     },
     {
       "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
