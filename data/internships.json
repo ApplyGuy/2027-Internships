@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:00:29.496Z",
+  "updatedAt": "2026-10-16T23:15:54.309Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AiDASH%2C+Inc.&job=41e2e71e-d65c-41d8-bc07-d6ec11b82e93&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
+    },
+    {
+      "id": "8047e295-a4d7-4393-83eb-cbf4e5765c26",
+      "company": "Assort Health",
+      "title": "Software Engineering Internship (Jan - Apr 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "2027",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Assort+Health&job=8047e295-a4d7-4393-83eb-cbf4e5765c26&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee"
     },
     {
       "id": "7eaadf61-2131-4442-b141-68678ac3de54",
