@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:00:39.292Z",
+  "updatedAt": "2026-10-16T20:15:53.317Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Centene&job=b2eb08a6-4e13-4958-81c2-4c72eb281e62&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710"
+    },
+    {
+      "id": "3ff1bef3-9c21-46d6-8684-fb7d3e619cd1",
+      "company": "Entrust",
+      "title": "Software Engineering Co-op",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN (GHQ)",
+      "season": "Co-op",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Entrust&job=3ff1bef3-9c21-46d6-8684-fb7d3e619cd1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425"
     },
     {
       "id": "9f9ccce2-c0fe-42e0-a016-1f482274bd61",
@@ -376,10 +388,10 @@
     {
       "id": "82986888-d765-4e34-a68d-127aa37365c0",
       "company": "Figure",
-      "title": "Embedded Software Engineering Intern, Platform",
+      "title": "Embedded Software Engineering Intern [Winter 2027]",
       "category": "Software Engineering",
       "location": "San Jose, CA",
-      "season": "Not specified",
+      "season": "Winter 2027",
       "posted": "2026-10-14",
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Figure&job=82986888-d765-4e34-a68d-127aa37365c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
@@ -6752,18 +6764,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Vermeer&job=abf9a87d-5c89-4d34-a63a-dd7d24cef492&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
-    },
-    {
-      "id": "a5153b7c-a3a3-4db0-8c26-9dea6c4755dc",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
     }
   ]
 }
