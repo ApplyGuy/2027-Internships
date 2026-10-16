@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:30:53.194Z",
+  "updatedAt": "2026-10-16T07:45:41.273Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -5157,6 +5157,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
     },
     {
+      "id": "c8022b78-34e7-4d79-8c21-8f31ba073af5",
+      "company": "Axcelis",
+      "title": "Co-Op, (Manufacturing Software Development)",
+      "category": "Software Engineering",
+      "location": "Beverly, MA",
+      "season": "Co-op",
+      "posted": "2026-09-22",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Axcelis&job=c8022b78-34e7-4d79-8c21-8f31ba073af5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019"
+    },
+    {
       "id": "edaec168-dd40-4758-966b-07e73af8f327",
       "company": "Bah",
       "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
@@ -6236,18 +6248,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Amperesand&job=89cffab9-2f33-4b3f-b8e6-8cf68aa5721f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
-    },
-    {
-      "id": "c8022b78-34e7-4d79-8c21-8f31ba073af5",
-      "company": "Axcelis",
-      "title": "Co-Op, (Manufacturing Software Development)",
-      "category": "Software Engineering",
-      "location": "Beverly, MA",
-      "season": "Co-op",
-      "posted": "2026-09-17",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Axcelis&job=c8022b78-34e7-4d79-8c21-8f31ba073af5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019"
     },
     {
       "id": "06226225-902b-47f7-ad9d-3f9fe6619a38",
