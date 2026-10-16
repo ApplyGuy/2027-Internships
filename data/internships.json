@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:00:37.673Z",
+  "updatedAt": "2026-10-16T15:15:33.262Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -168,19 +168,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6753,54 +6740,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Nanopath&job=6e666749-79c7-4a47-b5c6-8d01bd26b827&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005"
-    },
-    {
-      "id": "7e4f729d-2a48-4ebb-a2ab-3bf7c91ae424",
-      "company": "Nasdaq",
-      "title": "Software Developer/ Engineer Intern - 2027 Summer Internship",
-      "category": "Software Engineering",
-      "location": "Glenridge Point, GA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nasdaq&job=7e4f729d-2a48-4ebb-a2ab-3bf7c91ae424&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
-    },
-    {
-      "id": "d3ff2eb6-ac5c-46af-8ed6-4cf6f23d9a3e",
-      "company": "Neogen",
-      "title": "Software or Firmware Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Oakdale, MN",
-      "season": "Not specified",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Neogen&job=d3ff2eb6-ac5c-46af-8ed6-4cf6f23d9a3e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
-    },
-    {
-      "id": "676d458a-9a55-4799-a3d7-949204c631a8",
-      "company": "Relay",
-      "title": "Software Engineering Intern (AI/ML) - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Raleigh, NC",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Relay&job=676d458a-9a55-4799-a3d7-949204c631a8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8176774"
-    },
-    {
-      "id": "27cb71c0-8d86-4088-beeb-cc6c60374a47",
-      "company": "Relay",
-      "title": "Software Engineering Intern (Device Team) - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Raleigh, NC",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Relay&job=27cb71c0-8d86-4088-beeb-cc6c60374a47&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
     },
     {
       "id": "65828c6b-4c53-427f-a274-399120310fc1",
