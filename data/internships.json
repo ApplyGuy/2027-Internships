@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:00:28.833Z",
+  "updatedAt": "2026-10-16T04:15:24.032Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -6057,18 +6057,6 @@
       "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
     },
     {
-      "id": "c23b79cd-d630-4621-877d-d24d39681088",
-      "company": "Gfs",
-      "title": "Digital Product Management Internship",
-      "category": "Product",
-      "location": "Wyoming, MI",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Gfs&job=c23b79cd-d630-4621-877d-d24d39681088&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
-    },
-    {
       "id": "8a4db17c-6d83-4999-b0b6-8a1bba16cddb",
       "company": "Gfs",
       "title": "Software Engineer Intern (Low Code)",
@@ -6344,6 +6332,18 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
+    },
+    {
+      "id": "c23b79cd-d630-4621-877d-d24d39681088",
+      "company": "Gfs",
+      "title": "Digital Product Management Internship",
+      "category": "Product",
+      "location": "Wyoming, MI",
+      "season": "Not specified",
+      "posted": "2026-09-17",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Gfs&job=c23b79cd-d630-4621-877d-d24d39681088&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
     },
     {
       "id": "8bdd0995-c5b9-4481-b603-55128e03f4a4",
