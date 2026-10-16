@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-16T00:45:35.717Z",
+  "updatedAt": "2026-10-16T01:00:34.737Z",
   "jobs": [
+    {
+      "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
+      "company": "AiDASH, Inc.",
+      "title": "Software Engineering Intern, Backend",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AiDASH%2C+Inc.&job=41e2e71e-d65c-41d8-bc07-d6ec11b82e93&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
+    },
     {
       "id": "b9dfd506-05ab-4b4e-a1fa-5a6150389906",
       "company": "Commonwealth Fusion Systems",
@@ -3691,6 +3703,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4544004"
     },
     {
+      "id": "bd19b61a-a237-4075-8d08-e697624c4602",
+      "company": "upbound",
+      "title": "ServiceNow Developer Intern",
+      "category": "Software Engineering",
+      "location": "Plano, TX",
+      "season": "Not specified",
+      "posted": "2026-09-29",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=upbound&job=bd19b61a-a237-4075-8d08-e697624c4602&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/User-Experience-Intern_R-100778"
+    },
+    {
       "id": "6df74fdc-cacf-42ad-849c-c0b70bd18f80",
       "company": "Wegmans",
       "title": "Assistant Front End Manager Trainee",
@@ -3917,18 +3941,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
-    },
-    {
-      "id": "bd19b61a-a237-4075-8d08-e697624c4602",
-      "company": "upbound",
-      "title": "ServiceNow Developer Intern",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Not specified",
-      "posted": "2026-09-28",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=upbound&job=bd19b61a-a237-4075-8d08-e697624c4602&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/User-Experience-Intern_R-100778"
     },
     {
       "id": "f7b65a1d-7bd6-47cd-a17c-439276ccdc92",
