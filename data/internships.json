@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:00:28.480Z",
+  "updatedAt": "2026-10-16T02:15:24.738Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Centene&job=b2eb08a6-4e13-4958-81c2-4c72eb281e62&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710"
+    },
+    {
+      "id": "9f9ccce2-c0fe-42e0-a016-1f482274bd61",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
+      "category": "Software Engineering",
+      "location": "Warren, MI",
+      "season": "Summer 2027",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=9f9ccce2-c0fe-42e0-a016-1f482274bd61&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539"
     },
     {
       "id": "8d86191e-e6a3-4d44-b5e2-4d0f429161e9",
@@ -5181,18 +5193,6 @@
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
     },
     {
-      "id": "beeca24d-9f50-4438-a689-8410b6a7f057",
-      "company": "Cadence",
-      "title": "Graduate Student Intern - Software Engineering",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-09-22",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=beeca24d-9f50-4438-a689-8410b6a7f057&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-1"
-    },
-    {
       "id": "ecedd5b7-f89f-4171-a022-47975e3a6bf4",
       "company": "Cotiviti",
       "title": "Intern - Data Engineer AI (Databricks, SQL, Python, Governance)",
@@ -5455,6 +5455,18 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=Bracco&job=8caf1ebc-8886-415d-9c72-3ad7303450cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"
+    },
+    {
+      "id": "beeca24d-9f50-4438-a689-8410b6a7f057",
+      "company": "Cadence",
+      "title": "Graduate Student Intern - Software Engineering",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-09-21",
+      "age": "25d",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=beeca24d-9f50-4438-a689-8410b6a7f057&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-1"
     },
     {
       "id": "e602e92d-a9e2-4673-bbb9-6946f6b898be",
@@ -6812,54 +6824,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4a3d64a7-58f3-41af-8452-7683720e0a70&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484"
-    },
-    {
-      "id": "6122fc8a-1804-48a3-8486-9d654600147d",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6122fc8a-1804-48a3-8486-9d654600147d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955"
-    },
-    {
-      "id": "0fc0932a-eecf-42c1-b52b-63d96ae2de95",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Summer/Fall 2027)",
-      "category": "Software Engineering",
-      "location": "Rockford, IL",
-      "season": "Fall 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0fc0932a-eecf-42c1-b52b-63d96ae2de95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928"
-    },
-    {
-      "id": "06512220-f8bb-4e59-bb2a-d3de2eeddd27",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Annapolis, MD",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=06512220-f8bb-4e59-bb2a-d3de2eeddd27&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556"
-    },
-    {
-      "id": "36be5512-f593-4424-9d0a-6f8dcba4cc38",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "State College, PA",
-      "season": "Summer 2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=36be5512-f593-4424-9d0a-6f8dcba4cc38&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987"
     },
     {
       "id": "ebffdd24-cbe5-42d4-bd39-8f0bfd9a2da3",
