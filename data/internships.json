@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T12:15:52.075Z",
+  "updatedAt": "2026-10-16T12:30:21.856Z",
   "jobs": [
     {
       "id": "41e2e71e-d65c-41d8-bc07-d6ec11b82e93",
@@ -146,6 +146,19 @@
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
     },
     {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
+    },
+    {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
       "company": "Muon Space",
       "title": "Ground Software Engineering Intern (Summer 2027)",
@@ -264,6 +277,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Assurant&job=d7ae26f2-b24d-4fa2-b703-19a8f5d10de2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1"
+    },
+    {
+      "id": "cfce7817-357d-40cb-95c2-16c0cc4b1d04",
+      "company": "Assurant",
+      "title": "Summer 2027 Intern: Product Analyst Intern - Housing",
+      "category": "Product",
+      "location": "United States Virtual",
+      "season": "Summer 2027",
+      "posted": "2026-10-14",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Assurant&job=cfce7817-357d-40cb-95c2-16c0cc4b1d04&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
     },
     {
       "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
@@ -3233,18 +3258,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
       "applySupported": false
-    },
-    {
-      "id": "cfce7817-357d-40cb-95c2-16c0cc4b1d04",
-      "company": "Assurant",
-      "title": "Summer 2027 Intern: Product Analyst Intern - Housing",
-      "category": "Product",
-      "location": "United States Virtual",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Assurant&job=cfce7817-357d-40cb-95c2-16c0cc4b1d04&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
     },
     {
       "id": "3d1ea5e7-9ce6-4be0-bd1c-027b77661576",
