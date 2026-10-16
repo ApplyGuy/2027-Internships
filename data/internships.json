@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:00:36.328Z",
+  "updatedAt": "2026-10-16T21:15:38.814Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Inter+Miami+CF+LLC&job=a8563d19-9ad8-48a1-89e7-9a4c27d04920&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4592733"
+    },
+    {
+      "id": "989541f8-3b22-4829-9cdb-2a412ed5851e",
+      "company": "Mtb",
+      "title": "Technology Apprentice - Application Developer (ZDP)",
+      "category": "Software Engineering",
+      "location": "Buffalo, NY",
+      "season": "Apprenticeship",
+      "posted": "2026-10-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mtb&job=989541f8-3b22-4829-9cdb-2a412ed5851e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349"
     },
     {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
