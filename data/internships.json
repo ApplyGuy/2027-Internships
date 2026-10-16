@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:15:29.521Z",
+  "updatedAt": "2026-10-16T00:30:42.149Z",
   "jobs": [
     {
       "id": "b9dfd506-05ab-4b4e-a1fa-5a6150389906",
@@ -60,6 +60,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6788,18 +6801,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Smarty&job=ebffdd24-cbe5-42d4-bd39-8f0bfd9a2da3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749"
-    },
-    {
-      "id": "46b4f0e4-d24c-466d-873b-7338e67f77c0",
-      "company": "Smarty",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Orem, UT",
-      "season": "Not specified",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Smarty&job=46b4f0e4-d24c-466d-873b-7338e67f77c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/smarty/jobs/76ceddee-de0a-4218-a9fb-976bd420558a"
     },
     {
       "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
