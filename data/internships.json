@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:30:22.579Z",
+  "updatedAt": "2026-10-16T20:45:37.918Z",
   "jobs": [
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -6731,18 +6731,6 @@
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
     },
     {
-      "id": "e8074ba3-eba1-44f8-9dfd-3a0f8627d090",
-      "company": "Insulet",
-      "title": "Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite)",
-      "category": "Software Engineering",
-      "location": "Acton, MA",
-      "season": "2027",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Insulet&job=e8074ba3-eba1-44f8-9dfd-3a0f8627d090&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
-    },
-    {
       "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
       "company": "Valeo",
       "title": "Systems Engineering Co-Op (Software)",
@@ -6753,18 +6741,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Valeo&job=d27aafad-cd5f-4ad3-969b-05b946ac8814&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
-    },
-    {
-      "id": "abf9a87d-5c89-4d34-a63a-dd7d24cef492",
-      "company": "Vermeer",
-      "title": "IT Data Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Pella, IA",
-      "season": "Not specified",
-      "posted": "2026-09-16",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Vermeer&job=abf9a87d-5c89-4d34-a63a-dd7d24cef492&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
     }
   ]
 }
