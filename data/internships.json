@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:45:26.863Z",
+  "updatedAt": "2026-10-17T15:00:30.964Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -312,6 +312,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6475,30 +6488,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=CAMBA&job=c4bfebe3-7d16-4cd9-9b5d-92d49993faa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://camba.applytojob.com/apply/wv3YppWJJF"
-    },
-    {
-      "id": "fb195867-4176-49a5-a0e5-56a7aca66dde",
-      "company": "Elkay",
-      "title": "Product Management Intern (Summer 2027)",
-      "category": "Product",
-      "location": "Paso Robles, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
-    },
-    {
-      "id": "8bdd0995-c5b9-4481-b603-55128e03f4a4",
-      "company": "Join the Imagine team!",
-      "title": "Summer 2027 Software Development Intern",
-      "category": "Software Engineering",
-      "location": "Shakopee, MN",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Join+the+Imagine+team%21&job=8bdd0995-c5b9-4481-b603-55128e03f4a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4510538"
     },
     {
       "id": "3db93f94-e811-4617-9418-5b7cf08637b1",
