@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T03:30:33.969Z",
+  "updatedAt": "2026-10-17T03:45:34.719Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=57f5eaac-3e00-4806-92d6-5869d6bfd171&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611"
+    },
+    {
+      "id": "acdeb7d6-cc49-4679-ac17-5a85f898f379",
+      "company": "Ryan",
+      "title": "Summer 2027 Intern, Software Development",
+      "category": "Software Engineering",
+      "location": "Plano, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
+    },
+    {
+      "id": "222bb955-9202-497a-a40a-4f92af959eb9",
+      "company": "Ryan",
+      "title": "Summer 2027 Intern, Software Engineering",
+      "category": "Software Engineering",
+      "location": "Plano, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ryan&job=222bb955-9202-497a-a40a-4f92af959eb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
     },
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -182,6 +206,18 @@
       "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349"
     },
     {
+      "id": "37208540-579b-446f-9500-db62352683d0",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-10-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=37208540-579b-446f-9500-db62352683d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+    },
+    {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
       "company": "CACI",
       "title": "Software Development Intern - Summer 2027",
@@ -276,6 +312,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6643,18 +6692,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Visa&job=456f067f-45a6-478c-9d91-9a5c12109653&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W"
-    },
-    {
-      "id": "56e36739-8cba-4922-9c82-26c1c98a2c51",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
     }
   ]
 }
