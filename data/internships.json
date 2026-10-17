@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:45:49.225Z",
+  "updatedAt": "2026-10-17T21:00:34.360Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -6439,18 +6439,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
-    },
-    {
-      "id": "f2d529da-0313-401c-a32b-3b32e10c5946",
-      "company": "Tower Research Capital",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "New York",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Tower+Research+Capital&job=f2d529da-0313-401c-a32b-3b32e10c5946&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.tower-research.com/open-positions/?gh_jid=8212158"
     }
   ]
 }
