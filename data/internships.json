@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:30:40.550Z",
+  "updatedAt": "2026-10-17T20:45:49.225Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -312,19 +312,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6452,18 +6439,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
-    },
-    {
-      "id": "3db93f94-e811-4617-9418-5b7cf08637b1",
-      "company": "RTX",
-      "title": "Software Development Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Tewksbury, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3db93f94-e811-4617-9418-5b7cf08637b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413"
     },
     {
       "id": "f2d529da-0313-401c-a32b-3b32e10c5946",
