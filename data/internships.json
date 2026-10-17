@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:45:30.373Z",
+  "updatedAt": "2026-10-17T10:00:54.811Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -3992,6 +3992,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4544004"
     },
     {
+      "id": "f2e2dd3f-7df9-4258-842a-d03fa4729043",
+      "company": "Ttc",
+      "title": "Electrical/software Co-Op - BOSS Snowplow",
+      "category": "Software Engineering",
+      "location": "Iron Mountain, MI",
+      "season": "Co-op",
+      "posted": "2026-09-29",
+      "age": "18d",
+      "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
+    },
+    {
       "id": "bd19b61a-a237-4075-8d08-e697624c4602",
       "company": "upbound",
       "title": "ServiceNow Developer Intern",
@@ -4230,18 +4242,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8ebf0607-0022-4a4c-af1a-50ef4e5891b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
-    },
-    {
-      "id": "f2e2dd3f-7df9-4258-842a-d03fa4729043",
-      "company": "Ttc",
-      "title": "Electrical/software Co-Op - BOSS Snowplow",
-      "category": "Software Engineering",
-      "location": "Iron Mountain, MI",
-      "season": "Co-op",
-      "posted": "2026-09-28",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
     },
     {
       "id": "f7b65a1d-7bd6-47cd-a17c-439276ccdc92",
