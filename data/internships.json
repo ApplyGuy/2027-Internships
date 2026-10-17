@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T01:45:32.248Z",
+  "updatedAt": "2026-10-17T02:00:26.897Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -276,19 +276,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -4304,18 +4291,6 @@
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801"
     },
     {
-      "id": "e548dd63-35ed-47ae-afd8-fc5f4b583eac",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer II (Intern) – United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Not specified",
-      "posted": "2026-09-25",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802"
-    },
-    {
       "id": "d04990bf-589e-4270-b30e-70ca30244724",
       "company": "Elkay",
       "title": "Embedded Firmware Intern (Summer 2027)",
@@ -4652,6 +4627,18 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=04173206-13ef-4c2b-bc7c-5ef20273ca2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+    },
+    {
+      "id": "e548dd63-35ed-47ae-afd8-fc5f4b583eac",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) – United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-09-24",
+      "age": "23d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802"
     },
     {
       "id": "bb754c53-1ebd-471c-ad80-6ec643d07dda",
@@ -6440,18 +6427,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=CAMBA&job=c4bfebe3-7d16-4cd9-9b5d-92d49993faa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://camba.applytojob.com/apply/wv3YppWJJF"
-    },
-    {
-      "id": "0a152ee1-aa4f-4cec-8392-73c58151c518",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cloudflare&job=0a152ee1-aa4f-4cec-8392-73c58151c518&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
     },
     {
       "id": "fb195867-4176-49a5-a0e5-56a7aca66dde",
