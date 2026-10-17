@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:30:41.343Z",
+  "updatedAt": "2026-10-17T09:45:30.373Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -6514,18 +6514,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413"
     },
     {
-      "id": "61ebd8b8-0918-44a5-b957-152056f9c69b",
-      "company": "Smithnephew",
-      "title": "Intern Robotics Software Engineering",
-      "category": "Software Engineering",
-      "location": "Pittsburgh, PA",
-      "season": "Not specified",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Smithnephew&job=61ebd8b8-0918-44a5-b957-152056f9c69b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
-    },
-    {
       "id": "f2d529da-0313-401c-a32b-3b32e10c5946",
       "company": "Tower Research Capital",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -6656,30 +6644,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Visa&job=2820cb73-580c-4962-b68f-f5875ca321df&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W"
-    },
-    {
-      "id": "b80762fa-5a29-4a96-932d-03d91b9d41f7",
-      "company": "Visa",
-      "title": "Associate Product Manager (APM) Intern - Summer 2027",
-      "category": "Product",
-      "location": "Austin, TX",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=b80762fa-5a29-4a96-932d-03d91b9d41f7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W"
-    },
-    {
-      "id": "456f067f-45a6-478c-9d91-9a5c12109653",
-      "company": "Visa",
-      "title": "Associate Product Manager (APM) Intern - Summer 2027",
-      "category": "Product",
-      "location": "Foster City, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-17",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=456f067f-45a6-478c-9d91-9a5c12109653&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W"
     }
   ]
 }
