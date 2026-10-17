@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:15:38.138Z",
+  "updatedAt": "2026-10-17T14:30:45.010Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -2416,6 +2416,18 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=82c7ee06-c1fd-4f61-a883-4add39e2a2b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
+    },
+    {
+      "id": "fa50ca20-f808-42fc-883e-b69093786392",
+      "company": "Commure",
+      "title": "Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-05",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3"
     },
     {
       "id": "61348986-5b6e-4fd7-955f-2cf14106482a",
