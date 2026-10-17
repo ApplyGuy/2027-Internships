@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-541-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-539-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **541** active U.S. internships posted within the last **30 days**
+- **539** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 17, 2026, 12:30 PM PDT**
+- Last refresh: **Oct 17, 2026, 12:45 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**490 open roles**
+**488 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -513,9 +513,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Together AI | Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Together+AI&job=cb284cfe-fa39-4ad5-8c47-3a32582d8b08&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/togetherai/jobs/5232036007) |
 | Together AI | Software Development In Test Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Together+AI&job=77dd38cb-0d58-41d2-9a33-24eb684a0437&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/togetherai/jobs/5238472007) |
 | Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | Mountain View, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.withwaymo.com/jobs?gh_jid=8214519) |
-| Bcbsks | RPA Engineering Developer Intern | Topeka, KS | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bcbsks&job=06226225-902b-47f7-ad9d-3f9fe6619a38&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bcbsks.wd1.myworkdayjobs.com/external/job/Topeka/RPA-Engineering-Developer-Intern_R2026350) |
 | BERKLEY W R CORP | Data Engineer Intern | Urbandale, IA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=e7e75b1e-ad15-4e32-b547-0a8c20ed99fe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-berkley.icims.com/jobs/14436/data-engineer-intern/job) |
-| CAMBA | Internship Developer, Learning to Work Program | Brooklyn, NY | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CAMBA&job=c4bfebe3-7d16-4cd9-9b5d-92d49993faa5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://camba.applytojob.com/apply/wv3YppWJJF) |
 | RTX | Software Development Intern (Summer 2027) | Tewksbury, MA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3db93f94-e811-4617-9418-5b7cf08637b1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413) |
 | Tower Research Capital | Software Engineer Intern (Summer 2027) | New York | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tower+Research+Capital&job=f2d529da-0313-401c-a32b-3b32e10c5946&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.tower-research.com/open-positions/?gh_jid=8212158) |
 
