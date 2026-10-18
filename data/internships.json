@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:45:13.986Z",
+  "updatedAt": "2026-10-18T18:00:16.156Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -420,6 +420,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Tessera+Labs&job=a6ad42bb-b0f7-4cf2-b9ae-e93c70646e37&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7"
+    },
+    {
+      "id": "0006e9b8-083d-46c5-a3d5-43c631d7ae99",
+      "company": "Aero",
+      "title": "2027 Software Tools and Assurance Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-10-14",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=0006e9b8-083d-46c5-a3d5-43c631d7ae99&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
     },
     {
       "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
@@ -4917,18 +4929,6 @@
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Engineer-Intern_R016428"
     },
     {
-      "id": "0006e9b8-083d-46c5-a3d5-43c631d7ae99",
-      "company": "Aero",
-      "title": "2027 Software Tools and Assurance Intern",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "2027",
-      "posted": "2026-09-23",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Aero&job=0006e9b8-083d-46c5-a3d5-43c631d7ae99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
-    },
-    {
       "id": "ee6c4e99-dccd-4aad-9431-725c292dc902",
       "company": "Allegion",
       "title": "Summer Intern - Software Engineer",
@@ -6067,18 +6067,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bot+Auto&job=0f2fdd34-b8ad-4755-8cad-d1f0c7973b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/botauto/jobs/5429357008"
-    },
-    {
-      "id": "deadbfc7-fd21-45a2-9a00-e2bacc3abc30",
-      "company": "DeSHAZO LLC",
-      "title": "Jr. Software Developer Intern – Part-Time",
-      "category": "Software Engineering",
-      "location": "Azle, TX",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=DeSHAZO+LLC&job=deadbfc7-fd21-45a2-9a00-e2bacc3abc30&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4517949"
     },
     {
       "id": "b1424d74-79b7-4204-9745-ba7c60f78729",
