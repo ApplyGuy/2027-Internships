@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:45:22.879Z",
+  "updatedAt": "2026-10-18T16:00:32.534Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -312,6 +312,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6163,18 +6176,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Thrivent&job=de2d8da6-fcf4-4ff2-bdc0-33a0eb2aa2c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
-    },
-    {
-      "id": "718402f1-ed8b-49a5-b237-ddb34fb71e40",
-      "company": "Together AI",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Together+AI&job=718402f1-ed8b-49a5-b237-ddb34fb71e40&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007"
     },
     {
       "id": "97041ffa-c61c-4c00-bdab-aef79c6db585",
