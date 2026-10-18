@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:00:27.381Z",
+  "updatedAt": "2026-10-18T22:15:26.581Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -6067,30 +6067,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bot+Auto&job=0f2fdd34-b8ad-4755-8cad-d1f0c7973b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/botauto/jobs/5429357008"
-    },
-    {
-      "id": "de2d8da6-fcf4-4ff2-bdc0-33a0eb2aa2c6",
-      "company": "Thrivent",
-      "title": "Associate Software Engineer - Sophomore Intern Summer 2027",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Summer 2027",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Thrivent&job=de2d8da6-fcf4-4ff2-bdc0-33a0eb2aa2c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
-    },
-    {
-      "id": "97041ffa-c61c-4c00-bdab-aef79c6db585",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
     }
   ]
 }
