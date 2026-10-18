@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:15:20.333Z",
+  "updatedAt": "2026-10-18T02:30:40.351Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -312,19 +312,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6092,42 +6079,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=7725550d-597a-47ee-bcb4-140c45a3546d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-berkley.icims.com/jobs/14444/software-developer-%28.net%29-intern/job"
-    },
-    {
-      "id": "94e4821e-7697-45e6-99c7-d355fabff49a",
-      "company": "BERKLEY W R CORP",
-      "title": "Software Developer (Java) Intern | June 2027",
-      "category": "Software Engineering",
-      "location": "Urbandale, IA",
-      "season": "2027",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=94e4821e-7697-45e6-99c7-d355fabff49a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job"
-    },
-    {
-      "id": "78a84939-0a4f-427f-a333-ba25b46b61c6",
-      "company": "BERKLEY W R CORP",
-      "title": "Dynamics Admin/Developer Intern",
-      "category": "Software Engineering",
-      "location": "Urbandale, IA",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=78a84939-0a4f-427f-a333-ba25b46b61c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job"
-    },
-    {
-      "id": "7769990a-dc71-48b0-afee-36a25341fd83",
-      "company": "BERKLEY W R CORP",
-      "title": "Product Management Analyst Intern (Claims)",
-      "category": "Product",
-      "location": "Manassas, VA",
-      "season": "Not specified",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=BERKLEY+W+R+CORP&job=7769990a-dc71-48b0-afee-36a25341fd83&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-berkley.icims.com/jobs/14439/product-management-analyst-intern-%28claims%29/job"
     },
     {
       "id": "0f2fdd34-b8ad-4755-8cad-d1f0c7973b83",
