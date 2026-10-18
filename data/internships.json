@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:30:32.637Z",
+  "updatedAt": "2026-10-18T21:45:32.328Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -6080,18 +6080,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bot+Auto&job=0f2fdd34-b8ad-4755-8cad-d1f0c7973b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/botauto/jobs/5429357008"
-    },
-    {
-      "id": "800f6ac6-ffbe-42d9-a723-eba440c945d9",
-      "company": "Northrop Grumman",
-      "title": "2027 Intern Software Engineer",
-      "category": "Software Engineering",
-      "location": "Melbourne, FL",
-      "season": "2027",
-      "posted": "2026-09-18",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=800f6ac6-ffbe-42d9-a723-eba440c945d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
     },
     {
       "id": "de2d8da6-fcf4-4ff2-bdc0-33a0eb2aa2c6",
