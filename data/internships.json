@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:30:39.910Z",
+  "updatedAt": "2026-10-19T21:45:41.180Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -96,6 +96,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Inversion&job=aacdb5be-268d-40ed-b316-73b76da6ac4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005"
+    },
+    {
+      "id": "d294c12c-72ff-402e-a551-e52548eb7a7a",
+      "company": "Manhattan Associates",
+      "title": "A.I. Developer Co-Op (Boston, MA)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=d294c12c-72ff-402e-a551-e52548eb7a7a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046"
+    },
+    {
+      "id": "ffeba7c0-84fa-42c3-a858-14c10f742a95",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Intern - Application Analyst (Financials Software)",
+      "category": "Software Engineering",
+      "location": "Mandan, ND",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=ffeba7c0-84fa-42c3-a858-14c10f742a95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nisc/jobs/8301304"
+    },
+    {
+      "id": "391d6799-3c18-4e47-9c55-7c8f6c1930d8",
+      "company": "Nintendo",
+      "title": "Intern - IT Software Engineer",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=391d6799-3c18-4e47-9c55-7c8f6c1930d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4421632009"
     },
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
