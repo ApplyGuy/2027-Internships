@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-19T15:30:36.576Z",
+  "updatedAt": "2026-10-19T15:45:39.128Z",
   "jobs": [
+    {
+      "id": "25f07b17-a987-430e-8372-4eb560b09f8a",
+      "company": "Interclypse Inc.",
+      "title": "Junior Full Stack Software Engineer (Part-Time/Internship)",
+      "category": "Software Engineering",
+      "location": "Annapolis Junction, MD",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Interclypse+Inc.&job=25f07b17-a987-430e-8372-4eb560b09f8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767"
+    },
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
       "company": "Cisco",
@@ -312,6 +324,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -686,18 +711,6 @@
       "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1"
     },
     {
-      "id": "38ae6d9b-f535-43dc-8910-4e658d33bd85",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 - Returning Students",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Fall 2027",
-      "posted": "2026-10-13",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=38ae6d9b-f535-43dc-8910-4e658d33bd85&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1"
-    },
-    {
       "id": "bcc2b0f6-1e1b-46e3-9e8c-125288ea69bf",
       "company": "KLA",
       "title": "Software Engineer Intern - AI",
@@ -1008,6 +1021,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Fmr&job=aa2339b1-df57-4e2a-a524-6f147bf1ddb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+    },
+    {
+      "id": "38ae6d9b-f535-43dc-8910-4e658d33bd85",
+      "company": "Geaerospace",
+      "title": "Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 - Returning Students",
+      "category": "Software Engineering",
+      "location": "Evendale, OH",
+      "season": "Fall 2027",
+      "posted": "2026-10-12",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=38ae6d9b-f535-43dc-8910-4e658d33bd85&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1"
     },
     {
       "id": "d73aaf88-3ce0-4b75-8730-e2e59a5ba09e",
