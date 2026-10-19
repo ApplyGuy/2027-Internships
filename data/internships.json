@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:45:34.806Z",
+  "updatedAt": "2026-10-19T12:00:42.566Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -216,6 +216,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=37208540-579b-446f-9500-db62352683d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+    },
+    {
+      "id": "2f4a7ff3-33d0-4aa2-ba16-06c37fba2927",
+      "company": "Alliedsolutions",
+      "title": "Product Management Intern - Risk Management",
+      "category": "Product",
+      "location": "St. Paul, MN",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=2f4a7ff3-33d0-4aa2-ba16-06c37fba2927&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
     },
     {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
