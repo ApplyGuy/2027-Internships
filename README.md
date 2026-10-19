@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-505-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-506-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **505** active U.S. internships posted within the last **30 days**
+- **506** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 19, 2026, 1:00 PM PDT**
+- Last refresh: **Oct 19, 2026, 1:15 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,11 +24,13 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**459 open roles**
+**460 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Americanfidelity | Software Developer Innovation Internship | Oklahoma City, OK | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Americanfidelity&job=676a28a6-a007-4554-ae38-311f3c3295a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118) |
+| Bracebridge Capital | Northeastern University Software Engineer - Application Development Co-op | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracebridge+Capital&job=e51a392d-7a78-413b-914d-0c2896c1f9d9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) |
+| Bracebridge Capital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracebridge+Capital&job=12fc3180-38c6-4982-ae4b-33756287dd75&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) |
 | Interclypse Inc. | Junior Full Stack Software Engineer (Part-Time/Internship) | Annapolis Junction, MD | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Interclypse+Inc.&job=25f07b17-a987-430e-8372-4eb560b09f8a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767) |
 | Cisco | Software Engineer Data & AI PhD (Intern) - United States | San Jose California | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=57f5eaac-3e00-4806-92d6-5869d6bfd171&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) |
 | Ryan | Summer 2027 Intern, Software Development | Plano, TX | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) |
@@ -53,7 +55,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Icf | 2027 Summer Intern, Software Engineer (Reston, VA) | Reston, VA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) |
 | Inversion | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Inversion&job=89d69d0f-67f8-4bb4-bb45-ab34a0070da3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | Lnw | Intern Software Engineering | Reno, NV | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885) |
-| Microsoft | Research Intern - Efficient AI Software Systems | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393557041731) |
 | Muon Space | Ground Software Engineering Intern (Summer 2027) | San Jose, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Muon+Space&job=1b0d7e33-8f30-43af-bfbb-59730f834a7f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/muonspace/jobs/5266679007) |
 | OpenGov | Intern, Software Engineer | US \| Massachusetts \| Boston | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=OpenGov&job=8004eaff-4f89-41de-be11-706ad2632dbd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Spokane Valley, WA | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) |
