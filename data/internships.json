@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:00:39.492Z",
+  "updatedAt": "2026-10-19T22:16:14.974Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -168,6 +168,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Patreon&job=53afab4e-f2b3-471e-b9f0-4e997e16a60a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
+    },
+    {
+      "id": "eee40738-14f9-4eb0-9be9-b3e8550afbfa",
+      "company": "Ttc",
+      "title": "Cloud Software Development Intern - The Toro Company",
+      "category": "Software Engineering",
+      "location": "Frederick, CO",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttc&job=eee40738-14f9-4eb0-9be9-b3e8550afbfa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"
+    },
+    {
+      "id": "d494d93b-4f04-4420-91ab-663549f8d35c",
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Software Engineer",
+      "category": "Software Engineering",
+      "location": "Holtsville, NY",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=d494d93b-4f04-4420-91ab-663549f8d35c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
     },
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
