@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-513-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-516-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -12,10 +12,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **513** active U.S. internships posted within the last **30 days**
+- **516** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 19, 2026, 2:45 PM PDT**
+- Last refresh: **Oct 19, 2026, 3:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**466 open roles**
+**469 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -32,12 +32,15 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Bracebridge Capital | Northeastern University Software Engineer - Application Development Co-op | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracebridge+Capital&job=e51a392d-7a78-413b-914d-0c2896c1f9d9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) |
 | Bracebridge Capital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracebridge+Capital&job=12fc3180-38c6-4982-ae4b-33756287dd75&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cognex&job=3875b8a4-ac91-46fc-8487-a3f8a1e5e4a2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549) |
+| Heron Power | Intern, Firmware Engineering | Scotts Valley, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Heron+Power&job=49441198-fa79-4013-b1ab-96e5f0672689&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da) |
 | Interclypse Inc. | Junior Full Stack Software Engineer (Part-Time/Internship) | Annapolis Junction, MD | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Interclypse+Inc.&job=25f07b17-a987-430e-8372-4eb560b09f8a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767) |
 | Inversion | Vehicle Software Engineer - Summer Internship 2027 | Playa Vista, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Inversion&job=add3f2db-f43a-4b1d-94a4-c26cabf6ed08&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) |
 | Inversion | AI & Internal Tools Software Engineer - Summer Internship 2027 | Playa Vista, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Inversion&job=aacdb5be-268d-40ed-b316-73b76da6ac4c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) |
 | Manhattan Associates | A.I. Developer Co-Op (Boston, MA) | Boston, MA | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Manhattan+Associates&job=d294c12c-72ff-402e-a551-e52548eb7a7a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046) |
 | National Information Solutions Cooperative (NISC) | Intern - Application Analyst (Financials Software) | Mandan, ND | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=ffeba7c0-84fa-42c3-a858-14c10f742a95&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/nisc/jobs/8301304) |
 | Nintendo | Intern - IT Software Engineer | Redmond, WA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nintendo&job=391d6799-3c18-4e47-9c55-7c8f6c1930d8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.nintendo.com/?gh_jid=4421632009) |
+| Patreon | Software Engineering Intern - Summer 2027 | San Francisco, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Patreon&job=69f0365b-6a8e-40fc-a339-4c5ddfa8a3ea&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587) |
+| Patreon | Software Engineering Intern - Summer 2027 | New York | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Patreon&job=53afab4e-f2b3-471e-b9f0-4e997e16a60a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c) |
 | Cisco | Software Engineer Data & AI PhD (Intern) - United States | San Jose California | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=57f5eaac-3e00-4806-92d6-5869d6bfd171&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) |
 | Ryan | Summer 2027 Intern, Software Development | Plano, TX | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) |
 | AgZen | Software Engineering Co-op | Somerville, MA | Co-op | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AgZen&job=3d0360b0-7f8f-41d6-bd9f-0ee56677e59d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a) |
