@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:45:43.123Z",
+  "updatedAt": "2026-10-19T21:00:38.789Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cognex&job=3875b8a4-ac91-46fc-8487-a3f8a1e5e4a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549"
+    },
+    {
+      "id": "8ca84f74-49c8-4783-8b89-44d07f0e62be",
+      "company": "Elkay",
+      "title": "Product Management Intern - Summer 2027",
+      "category": "Product",
+      "location": "Downers Grove, IL",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=8ca84f74-49c8-4783-8b89-44d07f0e62be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065"
     },
     {
       "id": "25f07b17-a987-430e-8372-4eb560b09f8a",
@@ -360,19 +372,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
