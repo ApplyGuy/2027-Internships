@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:00:39.879Z",
+  "updatedAt": "2026-10-19T07:15:35.507Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -24,18 +24,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
-    },
-    {
-      "id": "222bb955-9202-497a-a40a-4f92af959eb9",
-      "company": "Ryan",
-      "title": "Summer 2027 Intern, Software Engineering",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-17",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Ryan&job=222bb955-9202-497a-a40a-4f92af959eb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
     },
     {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
@@ -204,6 +192,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mtb&job=989541f8-3b22-4829-9cdb-2a412ed5851e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349"
+    },
+    {
+      "id": "b787f774-8e7d-4908-bf49-4681a0f8e88f",
+      "company": "Ryan",
+      "title": "Summer 2027 Intern, Software Engineering",
+      "category": "Software Engineering",
+      "location": "Plano, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-16",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Ryan&job=b787f774-8e7d-4908-bf49-4681a0f8e88f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/students-graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
     },
     {
       "id": "37208540-579b-446f-9500-db62352683d0",
