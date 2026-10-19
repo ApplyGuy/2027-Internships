@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T14:45:36.437Z",
+  "updatedAt": "2026-10-19T15:00:36.933Z",
   "jobs": [
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
@@ -204,18 +204,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Ryan&job=b787f774-8e7d-4908-bf49-4681a0f8e88f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ryan.wd1.myworkdayjobs.com/students-graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
-    },
-    {
-      "id": "37208540-579b-446f-9500-db62352683d0",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-10-16",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=37208540-579b-446f-9500-db62352683d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
     },
     {
       "id": "2f4a7ff3-33d0-4aa2-ba16-06c37fba2927",
@@ -432,6 +420,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Tessera+Labs&job=a6ad42bb-b0f7-4cf2-b9ae-e93c70646e37&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7"
+    },
+    {
+      "id": "37208540-579b-446f-9500-db62352683d0",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=37208540-579b-446f-9500-db62352683d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
     },
     {
       "id": "0006e9b8-083d-46c5-a3d5-43c631d7ae99",
