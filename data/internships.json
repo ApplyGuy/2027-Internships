@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:45:41.180Z",
+  "updatedAt": "2026-10-19T22:00:39.492Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Elkay&job=8ca84f74-49c8-4783-8b89-44d07f0e62be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065"
+    },
+    {
+      "id": "49441198-fa79-4013-b1ab-96e5f0672689",
+      "company": "Heron Power",
+      "title": "Intern, Firmware Engineering",
+      "category": "Software Engineering",
+      "location": "Scotts Valley, CA",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Heron+Power&job=49441198-fa79-4013-b1ab-96e5f0672689&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da"
     },
     {
       "id": "25f07b17-a987-430e-8372-4eb560b09f8a",
@@ -132,6 +144,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=391d6799-3c18-4e47-9c55-7c8f6c1930d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4421632009"
+    },
+    {
+      "id": "69f0365b-6a8e-40fc-a339-4c5ddfa8a3ea",
+      "company": "Patreon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Patreon&job=69f0365b-6a8e-40fc-a339-4c5ddfa8a3ea&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587"
+    },
+    {
+      "id": "53afab4e-f2b3-471e-b9f0-4e997e16a60a",
+      "company": "Patreon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Patreon&job=53afab4e-f2b3-471e-b9f0-4e997e16a60a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
     },
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
