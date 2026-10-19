@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:00:38.789Z",
+  "updatedAt": "2026-10-19T21:15:41.976Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -72,6 +72,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Interclypse+Inc.&job=25f07b17-a987-430e-8372-4eb560b09f8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767"
+    },
+    {
+      "id": "add3f2db-f43a-4b1d-94a4-c26cabf6ed08",
+      "company": "Inversion",
+      "title": "Vehicle Software Engineer - Summer Internship 2027",
+      "category": "Software Engineering",
+      "location": "Playa Vista, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Inversion&job=add3f2db-f43a-4b1d-94a4-c26cabf6ed08&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
+    },
+    {
+      "id": "aacdb5be-268d-40ed-b316-73b76da6ac4c",
+      "company": "Inversion",
+      "title": "AI & Internal Tools Software Engineer - Summer Internship 2027",
+      "category": "Software Engineering",
+      "location": "Playa Vista, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Inversion&job=aacdb5be-268d-40ed-b316-73b76da6ac4c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005"
     },
     {
       "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
