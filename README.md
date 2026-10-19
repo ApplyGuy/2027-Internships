@@ -15,7 +15,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **508** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 19, 2026, 1:45 PM PDT**
+- Last refresh: **Oct 19, 2026, 2:00 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -24,7 +24,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**462 open roles**
+**461 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -56,7 +56,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Icf | 2027 Summer Intern, Software Engineer (Reston, VA) | Reston, VA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) |
 | Inversion | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Inversion&job=89d69d0f-67f8-4bb4-bb45-ab34a0070da3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | Lnw | Intern Software Engineering | Reno, NV | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885) |
-| Microsoft | Research Intern - Efficient AI Software Systems | United States, Washington, Redmond | — | 4d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393557041731) |
 | Muon Space | Ground Software Engineering Intern (Summer 2027) | San Jose, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Muon+Space&job=1b0d7e33-8f30-43af-bfbb-59730f834a7f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/muonspace/jobs/5266679007) |
 | OpenGov | Intern, Software Engineer | US \| Massachusetts \| Boston | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=OpenGov&job=8004eaff-4f89-41de-be11-706ad2632dbd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Spokane Valley, WA | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) |
@@ -493,10 +492,11 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**46 open roles**
+**47 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| Elkay | Product Management Intern - Summer 2027 | Downers Grove, IL | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Elkay&job=8ca84f74-49c8-4783-8b89-44d07f0e62be&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | Alliedsolutions | Product Management Intern - Risk Management | St. Paul, MN | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Alliedsolutions&job=2f4a7ff3-33d0-4aa2-ba16-06c37fba2927&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | Duolingo | Product Manager, MBA Intern | Pittsburgh, PA | — | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Duolingo&job=c0827da5-34ce-4ab1-8e1c-c72dd3cb5bd8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) |
 | NVIDIA | Product Management MBA Intern, Laptop - Summer 2027 | Santa Clara, CA | Summer 2027 | 4d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
