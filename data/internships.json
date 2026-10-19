@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:15:37.950Z",
+  "updatedAt": "2026-10-19T20:30:39.934Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bracebridge+Capital&job=12fc3180-38c6-4982-ae4b-33756287dd75&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"
+    },
+    {
+      "id": "3875b8a4-ac91-46fc-8487-a3f8a1e5e4a2",
+      "company": "Cognex",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Wauwatosa, WI",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cognex&job=3875b8a4-ac91-46fc-8487-a3f8a1e5e4a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549"
     },
     {
       "id": "25f07b17-a987-430e-8372-4eb560b09f8a",
