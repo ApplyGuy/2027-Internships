@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:45:35.035Z",
+  "updatedAt": "2026-10-20T09:00:34.737Z",
   "jobs": [
     {
       "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
@@ -314,18 +314,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee"
     },
     {
-      "id": "7eaadf61-2131-4442-b141-68678ac3de54",
-      "company": "Axiomspace",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Houston, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-16",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Axiomspace&job=7eaadf61-2131-4442-b141-68678ac3de54&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://axiomspace.wd5.myworkdayjobs.com/external_career_site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767"
-    },
-    {
       "id": "0eef7c36-cc93-4209-b9b9-37c6a1bc4071",
       "company": "Bah",
       "title": "University, Software Engineer Intern",
@@ -480,6 +468,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=2f4a7ff3-33d0-4aa2-ba16-06c37fba2927&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
+    },
+    {
+      "id": "7eaadf61-2131-4442-b141-68678ac3de54",
+      "company": "Axiomspace",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-15",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Axiomspace&job=7eaadf61-2131-4442-b141-68678ac3de54&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://axiomspace.wd5.myworkdayjobs.com/external_career_site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767"
     },
     {
       "id": "d09b50ee-c0d4-4305-97aa-1c62fbcf9a8e",
