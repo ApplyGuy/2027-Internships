@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:30:35.243Z",
+  "updatedAt": "2026-10-20T16:45:35.269Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -302,18 +302,6 @@
       "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
     },
     {
-      "id": "acdeb7d6-cc49-4679-ac17-5a85f898f379",
-      "company": "Ryan",
-      "title": "Summer 2027 Intern, Software Development",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-17",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
-    },
-    {
       "id": "3d0360b0-7f8f-41d6-bd9f-0ee56677e59d",
       "company": "AgZen",
       "title": "Software Engineering Co-op",
@@ -492,6 +480,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Ryan&job=b787f774-8e7d-4908-bf49-4681a0f8e88f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ryan.wd1.myworkdayjobs.com/students-graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
+    },
+    {
+      "id": "acdeb7d6-cc49-4679-ac17-5a85f898f379",
+      "company": "Ryan",
+      "title": "Summer 2027 Intern, Software Development",
+      "category": "Software Engineering",
+      "location": "Plano, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-16",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
     },
     {
       "id": "2f4a7ff3-33d0-4aa2-ba16-06c37fba2927",
