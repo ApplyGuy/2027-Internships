@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:45:41.811Z",
+  "updatedAt": "2026-10-20T08:00:36.470Z",
   "jobs": [
     {
       "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
@@ -636,18 +636,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
-    },
-    {
-      "id": "786ff59d-15cf-4dba-b9bd-b04782285fdb",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Boise, ID",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=786ff59d-15cf-4dba-b9bd-b04782285fdb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
     },
     {
       "id": "a6ad42bb-b0f7-4cf2-b9ae-e93c70646e37",
@@ -1356,6 +1344,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a7d63087-7a12-4ae8-9974-bdfc18ff4906&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1"
+    },
+    {
+      "id": "786ff59d-15cf-4dba-b9bd-b04782285fdb",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-10-12",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=786ff59d-15cf-4dba-b9bd-b04782285fdb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
     },
     {
       "id": "bcad00b1-c813-43b9-af70-b75d96e79a12",
