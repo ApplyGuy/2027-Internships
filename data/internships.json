@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:31:04.588Z",
+  "updatedAt": "2026-10-20T02:45:42.040Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -518,18 +518,6 @@
       "listingUrl": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002"
     },
     {
-      "id": "5c9752c1-7c25-48c1-83d3-c3f975fa8406",
-      "company": "Icf",
-      "title": "2027 Summer Intern, Software Engineer (Reston, VA)",
-      "category": "Software Engineering",
-      "location": "Reston, VA",
-      "season": "Summer 2027",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
-    },
-    {
       "id": "89d69d0f-67f8-4bb4-bb45-ab34a0070da3",
       "company": "Inversion",
       "title": "Avionics Embedded Software Engineer - Summer Internship 2027",
@@ -552,6 +540,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -792,6 +793,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3aaa7242-ca8d-4a8e-a46c-295a903f29bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
+    },
+    {
+      "id": "5c9752c1-7c25-48c1-83d3-c3f975fa8406",
+      "company": "Icf",
+      "title": "2027 Summer Intern, Software Engineer (Reston, VA)",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-14",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Icf&job=5c9752c1-7c25-48c1-83d3-c3f975fa8406&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
     },
     {
       "id": "a5e77350-1b52-4731-9fb6-68b83e006742",
