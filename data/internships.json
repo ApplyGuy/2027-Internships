@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:00:40.569Z",
+  "updatedAt": "2026-10-20T00:15:35.615Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -144,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=391d6799-3c18-4e47-9c55-7c8f6c1930d8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4421632009"
+    },
+    {
+      "id": "295d11ba-3a17-4d65-99df-503029cad02a",
+      "company": "Palantir Technologies",
+      "title": "Software Engineer, Internship - Query Engines",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-10-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=295d11ba-3a17-4d65-99df-503029cad02a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"
     },
     {
       "id": "69f0365b-6a8e-40fc-a339-4c5ddfa8a3ea",
