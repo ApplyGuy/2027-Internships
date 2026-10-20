@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:45:38.278Z",
+  "updatedAt": "2026-10-20T02:00:40.090Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -230,18 +230,6 @@
       "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
     },
     {
-      "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI PhD (Intern) - United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Not specified",
-      "posted": "2026-10-17",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=57f5eaac-3e00-4806-92d6-5869d6bfd171&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611"
-    },
-    {
       "id": "acdeb7d6-cc49-4679-ac17-5a85f898f379",
       "company": "Ryan",
       "title": "Summer 2027 Intern, Software Development",
@@ -336,6 +324,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Centene&job=b2eb08a6-4e13-4958-81c2-4c72eb281e62&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710"
+    },
+    {
+      "id": "57f5eaac-3e00-4806-92d6-5869d6bfd171",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-10-16",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=57f5eaac-3e00-4806-92d6-5869d6bfd171&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611"
     },
     {
       "id": "3ff1bef3-9c21-46d6-8684-fb7d3e619cd1",
