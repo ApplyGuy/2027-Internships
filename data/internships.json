@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:01:12.018Z",
+  "updatedAt": "2026-10-20T01:15:36.920Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -914,18 +914,6 @@
       "listingUrl": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
     },
     {
-      "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
-      "company": "Geaerospace",
-      "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students",
-      "category": "Software Engineering",
-      "location": "Evendale, OH",
-      "season": "Summer 2027",
-      "posted": "2026-10-13",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=5476b56a-4b48-4df8-8083-9cf8611745d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1"
-    },
-    {
       "id": "bcc2b0f6-1e1b-46e3-9e8c-125288ea69bf",
       "company": "KLA",
       "title": "Software Engineer Intern - AI",
@@ -1236,6 +1224,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Fmr&job=aa2339b1-df57-4e2a-a524-6f147bf1ddb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+    },
+    {
+      "id": "5476b56a-4b48-4df8-8083-9cf8611745d3",
+      "company": "Geaerospace",
+      "title": "Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students",
+      "category": "Software Engineering",
+      "location": "Evendale, OH",
+      "season": "Summer 2027",
+      "posted": "2026-10-12",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Geaerospace&job=5476b56a-4b48-4df8-8083-9cf8611745d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1"
     },
     {
       "id": "38ae6d9b-f535-43dc-8910-4e658d33bd85",
