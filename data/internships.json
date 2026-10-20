@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:45:38.611Z",
+  "updatedAt": "2026-10-20T22:00:34.048Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -60,6 +60,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Philips&job=3810b24d-8d55-4c57-a3de-1103dfbdbfdc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146"
+    },
+    {
+      "id": "f9ee112e-ffcb-4ef3-b861-83cdf9e42ca4",
+      "company": "Skydio",
+      "title": "Embedded Software Engineer Intern - Winer 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=f9ee112e-ffcb-4ef3-b861-83cdf9e42ca4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
+    },
+    {
+      "id": "d45888c0-0887-4d02-b351-a4fe12f41e87",
+      "company": "Skydio",
+      "title": "Mobile Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=d45888c0-0887-4d02-b351-a4fe12f41e87&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
     },
     {
       "id": "7d1c7663-fed6-4331-8ffa-d91518d95827",
