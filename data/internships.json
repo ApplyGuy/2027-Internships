@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:45:43.500Z",
+  "updatedAt": "2026-10-20T19:00:44.568Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -674,18 +674,6 @@
       "listingUrl": "https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2"
     },
     {
-      "id": "b94c14c2-9bf7-4586-ac34-2c2614489792",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Spokane Valley, WA",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
-    },
-    {
       "id": "a6ad42bb-b0f7-4cf2-b9ae-e93c70646e37",
       "company": "Tessera Labs",
       "title": "Software Engineering Intern, Full Stack",
@@ -1116,6 +1104,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=6c5c057b-7ea5-42b4-b67b-367ade3848b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
+    },
+    {
+      "id": "b94c14c2-9bf7-4586-ac34-2c2614489792",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Spokane Valley, WA",
+      "season": "Not specified",
+      "posted": "2026-10-13",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=b94c14c2-9bf7-4586-ac34-2c2614489792&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
     },
     {
       "id": "bd480cb7-f75a-46a7-9b23-06b72451dafb",
