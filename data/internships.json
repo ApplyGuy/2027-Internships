@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:45:42.040Z",
+  "updatedAt": "2026-10-20T03:00:38.914Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -540,19 +540,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -3776,16 +3763,16 @@
       "listingUrl": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004"
     },
     {
-      "id": "5db43189-6117-4dc0-b505-e4a535ce14b5",
-      "company": "Kla",
+      "id": "bdff8b88-0ceb-4f4e-87f8-bb6cfcce606e",
+      "company": "KLA",
       "title": "Software Engineering Intern",
       "category": "Software Engineering",
       "location": "Milpitas, CA",
       "season": "Not specified",
       "posted": "2026-09-30",
       "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=5db43189-6117-4dc0-b505-e4a535ce14b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
+      "url": "https://applyguy.ai/jobs?company=KLA&job=bdff8b88-0ceb-4f4e-87f8-bb6cfcce606e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2641572"
     },
     {
       "id": "98170cd2-892e-406d-b3ff-bbff4bb1c486",
