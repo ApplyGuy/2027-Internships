@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:30:39.424Z",
+  "updatedAt": "2026-10-20T14:45:39.796Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allstate&job=26ca9ddf-9a4b-41d4-9d6a-07b6f385683c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
+    },
+    {
+      "id": "acdf7231-de75-4c96-87b0-b395a928383b",
+      "company": "Ciena",
+      "title": "Software Engineer (Security) - Intern (Winter 2027)",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Winter 2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ciena&job=acdf7231-de75-4c96-87b0-b395a928383b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
     },
     {
       "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
