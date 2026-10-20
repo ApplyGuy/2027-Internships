@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:45:36.418Z",
+  "updatedAt": "2026-10-20T01:01:12.018Z",
   "jobs": [
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
@@ -12,6 +12,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Americanfidelity&job=676a28a6-a007-4554-ae38-311f3c3295a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://americanfidelity.wd5.myworkdayjobs.com/external/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118"
+    },
+    {
+      "id": "fe39aa7b-b3e5-45d9-8105-c3ba4291355c",
+      "company": "Amplify",
+      "title": "Summer 2027: Product Management Intern",
+      "category": "Product",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amplify&job=fe39aa7b-b3e5-45d9-8105-c3ba4291355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e"
+    },
+    {
+      "id": "c806d68c-f162-4e86-be95-cdc6327bd070",
+      "company": "Amplify",
+      "title": "Summer 2027: Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amplify&job=c806d68c-f162-4e86-be95-cdc6327bd070&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa"
     },
     {
       "id": "e51a392d-7a78-413b-914d-0c2896c1f9d9",
