@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:30:39.286Z",
+  "updatedAt": "2026-10-20T18:45:43.500Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -1442,18 +1442,6 @@
       "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
     },
     {
-      "id": "b7ffea0b-9e58-4565-95d3-e988dcfb9fe2",
-      "company": "Workday",
-      "title": "Software Development Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Pleasanton, CA",
-      "season": "Not specified",
-      "posted": "2026-10-10",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Workday&job=b7ffea0b-9e58-4565-95d3-e988dcfb9fe2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
-    },
-    {
       "id": "d7a0efed-9d88-4259-8c87-7e76744bc014",
       "company": "Amat",
       "title": "Software Engineering Summer Intern (Masters - Santa Clara, CA)",
@@ -1753,6 +1741,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Tenet3&job=7c3446bb-735f-4082-a1b1-e513844dd9ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenet3/jobs/8878874002"
+    },
+    {
+      "id": "b7ffea0b-9e58-4565-95d3-e988dcfb9fe2",
+      "company": "Workday",
+      "title": "Software Development Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Pleasanton, CA",
+      "season": "Not specified",
+      "posted": "2026-10-09",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Workday&job=b7ffea0b-9e58-4565-95d3-e988dcfb9fe2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
     },
     {
       "id": "68852663-6f5a-4357-a188-63fb8c7b6c03",
