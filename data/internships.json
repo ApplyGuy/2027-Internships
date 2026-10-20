@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:15:40.049Z",
+  "updatedAt": "2026-10-20T16:30:35.243Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Space+Dynamics+Laboratory&job=7d1c7663-fed6-4331-8ffa-d91518d95827&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://spacedynamicslaboratory.applytojob.com/apply/2nLIPPkeTN"
+    },
+    {
+      "id": "0318e129-e344-42d3-b414-6c007fe70f79",
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Supplies & Sensors Product Manager",
+      "category": "Product",
+      "location": "Lincolnshire, IL",
+      "season": "Summer 2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=0318e129-e344-42d3-b414-6c007fe70f79&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640"
     },
     {
       "id": "676a28a6-a007-4554-ae38-311f3c3295a9",
