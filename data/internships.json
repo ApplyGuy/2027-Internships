@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:30:43.572Z",
+  "updatedAt": "2026-10-20T21:45:38.611Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
+    },
+    {
+      "id": "3810b24d-8d55-4c57-a3de-1103dfbdbfdc",
+      "company": "Philips",
+      "title": "Intern – R&D Front-End Innovation Intern - Oral Healthcare – Bothell, WA – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Bothell, WA",
+      "season": "Summer 2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=3810b24d-8d55-4c57-a3de-1103dfbdbfdc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146"
     },
     {
       "id": "7d1c7663-fed6-4331-8ffa-d91518d95827",
@@ -614,19 +626,6 @@
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
     },
     {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
-    },
-    {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
       "company": "Muon Space",
       "title": "Ground Software Engineering Intern (Summer 2027)",
@@ -1035,18 +1034,6 @@
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280"
     },
     {
-      "id": "c822c4a1-08fd-4073-8a72-0f52a5f35746",
-      "company": "Lifefitness",
-      "title": "Android Software Intern",
-      "category": "Software Engineering",
-      "location": "Schaumburg, IL 60173",
-      "season": "Not specified",
-      "posted": "2026-10-13",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Lifefitness&job=c822c4a1-08fd-4073-8a72-0f52a5f35746&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277"
-    },
-    {
       "id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
       "company": "Marvell",
       "title": "Firmware Engineer Intern, BS - Summer 2027",
@@ -1357,6 +1344,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=ec61f5ce-a077-416b-86e1-7508c7577fe5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701"
+    },
+    {
+      "id": "c822c4a1-08fd-4073-8a72-0f52a5f35746",
+      "company": "Lifefitness",
+      "title": "Android Software Intern",
+      "category": "Software Engineering",
+      "location": "Schaumburg, IL 60173",
+      "season": "Not specified",
+      "posted": "2026-10-12",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Lifefitness&job=c822c4a1-08fd-4073-8a72-0f52a5f35746&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277"
     },
     {
       "id": "741ee0c3-e3bb-4a23-b829-7b311cb02847",
