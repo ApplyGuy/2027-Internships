@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:00:43.537Z",
+  "updatedAt": "2026-10-20T15:15:36.374Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -578,19 +578,6 @@
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
     },
     {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
-    },
-    {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
       "company": "Muon Space",
       "title": "Ground Software Engineering Intern (Summer 2027)",
@@ -733,18 +720,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Assurant&job=cfce7817-357d-40cb-95c2-16c0cc4b1d04&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
-    },
-    {
-      "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
-      "company": "Boseallaboutme",
-      "title": "Embedded Audio ML Engineer Co-op",
-      "category": "Software Engineering",
-      "location": "MA, Framingham",
-      "season": "Co-op",
-      "posted": "2026-10-14",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
     },
     {
       "id": "b23a7070-e4a2-4cd8-92a8-a31a3249fdce",
@@ -937,6 +912,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Bmo&job=6f91611b-65c6-4acc-9aa7-7833eca57779&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/privileged/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-1"
+    },
+    {
+      "id": "a2efd085-fc23-40cf-ac4d-709bec2ebda1",
+      "company": "Boseallaboutme",
+      "title": "Embedded Audio ML Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "MA, Framingham",
+      "season": "Co-op",
+      "posted": "2026-10-13",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=a2efd085-fc23-40cf-ac4d-709bec2ebda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"
     },
     {
       "id": "4d2fd592-9f95-4ff1-994d-d7535cd0c58b",
