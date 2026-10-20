@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:00:44.568Z",
+  "updatedAt": "2026-10-20T19:15:44.056Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=acdf7231-de75-4c96-87b0-b395a928383b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+    },
+    {
+      "id": "16cf7bba-953d-4f5a-9bcf-9a97d9e85b3b",
+      "company": "Cryptic Vector",
+      "title": "Winter/Spring 2027 Full Stack Developer Internship",
+      "category": "Software Engineering",
+      "location": "Liberty Township, OH",
+      "season": "Spring 2027",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cryptic+Vector&job=16cf7bba-953d-4f5a-9bcf-9a97d9e85b3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581377"
     },
     {
       "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
