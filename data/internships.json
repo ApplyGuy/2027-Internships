@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T00:01:08.934Z",
+  "updatedAt": "2026-10-21T00:15:38.154Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Allstate&job=26ca9ddf-9a4b-41d4-9d6a-07b6f385683c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
+    },
+    {
+      "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
+      "company": "Assurant",
+      "title": "Summer 2027 Intern: Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-10-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Assurant&job=d7ae26f2-b24d-4fa2-b703-19a8f5d10de2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1"
     },
     {
       "id": "acdf7231-de75-4c96-87b0-b395a928383b",
@@ -758,18 +770,6 @@
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
     },
     {
-      "id": "d7ae26f2-b24d-4fa2-b703-19a8f5d10de2",
-      "company": "Assurant",
-      "title": "Summer 2027 Intern: Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Atlanta, GA",
-      "season": "Summer 2027",
-      "posted": "2026-10-14",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Assurant&job=d7ae26f2-b24d-4fa2-b703-19a8f5d10de2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1"
-    },
-    {
       "id": "cfce7817-357d-40cb-95c2-16c0cc4b1d04",
       "company": "Assurant",
       "title": "Summer 2027 Intern: Product Analyst Intern - Housing",
@@ -1478,18 +1478,6 @@
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/intern-external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702"
     },
     {
-      "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
-      "company": "Parsons",
-      "title": "Software Engineer Co-Op - TS/SCI",
-      "category": "Software Engineering",
-      "location": "VA Centreville",
-      "season": "Co-op",
-      "posted": "2026-10-11",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
-    },
-    {
       "id": "d7a0efed-9d88-4259-8c87-7e76744bc014",
       "company": "Amat",
       "title": "Software Engineering Summer Intern (Masters - Santa Clara, CA)",
@@ -1669,6 +1657,18 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Nelnet&job=69729f56-48f2-4b68-96c9-2bd019e20e3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
+    },
+    {
+      "id": "d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6",
+      "company": "Parsons",
+      "title": "Software Engineer Co-Op - TS/SCI",
+      "category": "Software Engineering",
+      "location": "VA Centreville",
+      "season": "Co-op",
+      "posted": "2026-10-09",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
     },
     {
       "id": "1b902c4d-a077-4ae5-9e8e-9d7b658c9bf3",
