@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T01:30:42.621Z",
+  "updatedAt": "2026-10-21T01:45:39.455Z",
   "jobs": [
     {
       "id": "c05af5c2-e102-406c-a3d0-4f1fe4130b54",
@@ -600,6 +600,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Alliedsolutions&job=2f4a7ff3-33d0-4aa2-ba16-06c37fba2927&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
+    },
+    {
+      "id": "df78b9fc-45da-44a3-ae1a-322aae98878c",
+      "company": "Aoins",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Bedford, NH",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Aoins&job=df78b9fc-45da-44a3-ae1a-322aae98878c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465"
     },
     {
       "id": "7eaadf61-2131-4442-b141-68678ac3de54",
@@ -2488,18 +2500,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Amgen&job=23ed97e2-7288-4de7-b14e-b237ef9da1dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886"
-    },
-    {
-      "id": "df78b9fc-45da-44a3-ae1a-322aae98878c",
-      "company": "Aoins",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Bedford, NH",
-      "season": "Not specified",
-      "posted": "2026-10-06",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Aoins&job=df78b9fc-45da-44a3-ae1a-322aae98878c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465"
     },
     {
       "id": "ef26c9d9-f449-48a3-8a47-f8ccf2a41665",
