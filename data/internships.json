@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:00:35.001Z",
+  "updatedAt": "2026-10-21T16:15:44.784Z",
   "jobs": [
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
@@ -62,16 +62,40 @@
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
     },
     {
+      "id": "bd25fab2-08e8-4b20-815b-eee6195bca41",
+      "company": "Lnw",
+      "title": "Software Engineer - Intern",
+      "category": "Software Engineering",
+      "location": "Las Vegas, NV",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=bd25fab2-08e8-4b20-815b-eee6195bca41&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"
+    },
+    {
+      "id": "831ed650-2dc1-486a-9fd8-ab3e338a01a6",
+      "company": "Lnw",
+      "title": "Intern Software Engineering",
+      "category": "Software Engineering",
+      "location": "Las Vegas, NV",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=831ed650-2dc1-486a-9fd8-ab3e338a01a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982"
+    },
+    {
       "id": "36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43",
       "company": "Rakuten",
       "title": "Intern - Software Engineer, AI User Experience",
       "category": "Software Engineering",
-      "location": "San Mateo, CA",
+      "location": "Bellevue, WA",
       "season": "Not specified",
       "posted": "2026-10-21",
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rakuten&job=36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rakuten.wd1.myworkdayjobs.com/rakutenamericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171"
+      "listingUrl": "https://rakuten.wd1.myworkdayjobs.com/rakutenamericas/job/WA-Bellevue/Intern---Software-Engineer--AI-User-Experience_1033171"
     },
     {
       "id": "2f6d9384-e007-4530-a237-78ceaef30f20",
