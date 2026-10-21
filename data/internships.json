@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T00:30:36.926Z",
+  "updatedAt": "2026-10-21T00:45:36.522Z",
   "jobs": [
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cryptic+Vector&job=16cf7bba-953d-4f5a-9bcf-9a97d9e85b3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581377"
+    },
+    {
+      "id": "0c112f01-d62b-4b0d-8ff0-8b1e3e9739e0",
+      "company": "Humble Robotics",
+      "title": "Embedded Software Engineer, 2027 Internship",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "2027",
+      "posted": "2026-10-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Humble+Robotics&job=0c112f01-d62b-4b0d-8ff0-8b1e3e9739e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3"
     },
     {
       "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
