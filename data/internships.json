@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:45:43.578Z",
+  "updatedAt": "2026-10-21T21:00:36.895Z",
   "jobs": [
     {
       "id": "98128ba2-f9f6-4476-b6dd-5427259c0304",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=ed717d29-e678-4a58-b5e3-4f91fcfbe105&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088"
+    },
+    {
+      "id": "886777b2-73cb-4035-baba-4f9785d17ca1",
+      "company": "IDEMIA North America",
+      "title": "Cloud Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=886777b2-73cb-4035-baba-4f9785d17ca1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job"
     },
     {
       "id": "c05af5c2-e102-406c-a3d0-4f1fe4130b54",
@@ -888,19 +900,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
