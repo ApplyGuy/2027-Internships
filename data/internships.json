@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:30:35.035Z",
+  "updatedAt": "2026-10-21T18:45:40.484Z",
   "jobs": [
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
@@ -6138,18 +6138,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
-    },
-    {
-      "id": "401ec484-9b16-4ceb-af7b-e9886bb1ca6e",
-      "company": "Bound",
-      "title": "Product Management Intern (Summer 2027)",
-      "category": "Product",
-      "location": "Ames, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316"
     },
     {
       "id": "11c17fe3-14dd-44b6-9844-c45735c642c9",
