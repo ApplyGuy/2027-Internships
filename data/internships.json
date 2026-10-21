@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-21T03:00:42.917Z",
+  "updatedAt": "2026-10-21T03:15:41.358Z",
   "jobs": [
+    {
+      "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
+      "company": "GoFundMe",
+      "title": "MBA Product Management Internship, Summer 2027",
+      "category": "Product",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=GoFundMe&job=16c43773-06b5-4f18-8439-1fc73c97d3fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/gofundme/jobs/8304644"
+    },
     {
       "id": "ed717d29-e678-4a58-b5e3-4f91fcfbe105",
       "company": "Hpe",
