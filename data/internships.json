@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T03:30:42.918Z",
+  "updatedAt": "2026-10-21T03:45:38.753Z",
   "jobs": [
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Intel&job=a240414b-4f3d-42ef-b769-a11aa25d6558&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
+    },
+    {
+      "id": "2f6d9384-e007-4530-a237-78ceaef30f20",
+      "company": "Rhoda AI",
+      "title": "Software Engineer Intern, Inference",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rhoda+AI&job=2f6d9384-e007-4530-a237-78ceaef30f20&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4"
     },
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
@@ -732,19 +744,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -4366,7 +4365,7 @@
     {
       "id": "d3aa30a2-644b-487e-a068-24f93d612f68",
       "company": "Rhoda AI",
-      "title": "Robot Software Engineer Internship",
+      "title": "Software Engineer Intern, Rhoda Platform",
       "category": "Software Engineering",
       "location": "Mountain View, CA",
       "season": "Not specified",
