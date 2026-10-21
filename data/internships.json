@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:30:43.421Z",
+  "updatedAt": "2026-10-21T21:45:37.510Z",
   "jobs": [
     {
       "id": "98128ba2-f9f6-4476-b6dd-5427259c0304",
@@ -900,19 +900,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -6259,18 +6246,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
-    },
-    {
-      "id": "5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
     }
   ]
 }
