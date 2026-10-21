@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-21T20:01:12.372Z",
+  "updatedAt": "2026-10-21T20:15:40.641Z",
   "jobs": [
+    {
+      "id": "98128ba2-f9f6-4476-b6dd-5427259c0304",
+      "company": "Aero",
+      "title": "2027 Cloud Solutions Engineer / Site Reliability Undergrad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=98128ba2-f9f6-4476-b6dd-5427259c0304&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016936"
+    },
+    {
+      "id": "88e4c78b-51be-497f-8cd6-015cc1b83701",
+      "company": "Aero",
+      "title": "2027 Embedded Software Engineering Undergrad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=88e4c78b-51be-497f-8cd6-015cc1b83701&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
+    },
+    {
+      "id": "56faed54-9c42-48cd-bd06-301389904046",
+      "company": "Aero",
+      "title": "2027 Embedded Software Engineering Grad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=56faed54-9c42-48cd-bd06-301389904046&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950"
+    },
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
       "company": "GoFundMe",
@@ -4841,18 +4877,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=ade997b6-bb2e-444e-9bfe-d755e95d569a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
-    },
-    {
-      "id": "628a0a59-d0d6-4a7c-8ac7-34b8645622b5",
-      "company": "Aero",
-      "title": "2027 Cloud Solutions Engineer / Site Reliability Undergrad Intern",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "2027",
-      "posted": "2026-09-26",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Aero&job=628a0a59-d0d6-4a7c-8ac7-34b8645622b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714"
     },
     {
       "id": "0bb930cf-2ec4-4506-8d04-935da0f34250",
