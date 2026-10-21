@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:00:39.137Z",
+  "updatedAt": "2026-10-21T04:15:39.086Z",
   "jobs": [
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Intel&job=a240414b-4f3d-42ef-b769-a11aa25d6558&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
+    },
+    {
+      "id": "36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43",
+      "company": "Rakuten",
+      "title": "Intern - Software Engineer, AI User Experience",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rakuten&job=36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rakuten.wd1.myworkdayjobs.com/rakutenamericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171"
     },
     {
       "id": "2f6d9384-e007-4530-a237-78ceaef30f20",
@@ -1140,18 +1152,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Lifefitness&job=f9add349-d2d4-4442-80ed-df135e91b956&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/Rosemont-IL/Product-Management-Intern_JR-025280"
-    },
-    {
-      "id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern, BS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-13",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461"
     },
     {
       "id": "de062b86-0280-4e13-84ef-04b3f857305d",
@@ -2345,18 +2345,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineer-Intern_R-00193933"
     },
     {
-      "id": "caaf9f6b-8127-4ee6-8d34-454d92f2d5c6",
-      "company": "Marvell",
-      "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-07",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Marvell&job=caaf9f6b-8127-4ee6-8d34-454d92f2d5c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1"
-    },
-    {
       "id": "bd38f9e6-3f8b-4bf8-9cf0-ed1102c093bc",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineering Intern - Roy UT",
@@ -2667,6 +2655,18 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lyft&job=8e16ea86-bd69-4782-a749-f715efc5dd3e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002"
+    },
+    {
+      "id": "a2fc44da-c816-4656-b1ca-8ba7669d0083",
+      "company": "Marvell",
+      "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-06",
+      "age": "15d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=a2fc44da-c816-4656-b1ca-8ba7669d0083&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989"
     },
     {
       "id": "d5c5845c-164a-4ba6-b1d3-8dcda4805575",
@@ -3953,6 +3953,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=bdff8b88-0ceb-4f4e-87f8-bb6cfcce606e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2641572"
+    },
+    {
+      "id": "f4726d71-bcc9-4638-b6fc-afb634bdbbe2",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern, BS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-09-30",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=f4726d71-bcc9-4638-b6fc-afb634bdbbe2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
     },
     {
       "id": "98170cd2-892e-406d-b3ff-bbff4bb1c486",
@@ -6115,18 +6127,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=55aae376-4615-4d23-9bf9-c02a1b8dbbdb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
-    },
-    {
-      "id": "3bba73e7-435d-4267-900b-1c2932e2c355",
-      "company": "Northrop Grumman",
-      "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
-      "category": "Software Engineering",
-      "location": "Baltimore, MD",
-      "season": "2027",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=3bba73e7-435d-4267-900b-1c2932e2c355&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
     },
     {
       "id": "8c72d919-f250-4275-8eb8-543dcde46973",
