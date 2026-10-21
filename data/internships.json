@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-21T01:00:40.732Z",
+  "updatedAt": "2026-10-21T01:15:34.754Z",
   "jobs": [
+    {
+      "id": "c05af5c2-e102-406c-a3d0-4f1fe4130b54",
+      "company": "Intel",
+      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=c05af5c2-e102-406c-a3d0-4f1fe4130b54&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138"
+    },
+    {
+      "id": "a240414b-4f3d-42ef-b769-a11aa25d6558",
+      "company": "Intel",
+      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+      "category": "Software Engineering",
+      "location": "Hillsboro, OR",
+      "season": "2027",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Intel&job=a240414b-4f3d-42ef-b769-a11aa25d6558&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
+    },
     {
       "id": "26ca9ddf-9a4b-41d4-9d6a-07b6f385683c",
       "company": "Allstate",
