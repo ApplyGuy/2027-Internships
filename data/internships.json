@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:15:44.784Z",
+  "updatedAt": "2026-10-21T16:30:42.849Z",
   "jobs": [
     {
       "id": "16c43773-06b5-4f18-8439-1fc73c97d3fd",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Rhoda+AI&job=2f6d9384-e007-4530-a237-78ceaef30f20&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4"
+    },
+    {
+      "id": "59fa8605-517a-4612-88ae-c6a1eb425d14",
+      "company": "Smithnephew",
+      "title": "Intern Computer Vision Software Engineering",
+      "category": "Software Engineering",
+      "location": "Andover, MA",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Smithnephew&job=59fa8605-517a-4612-88ae-c6a1eb425d14&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964"
     },
     {
       "id": "60197ec7-0175-453e-af26-843f8cbf40bc",
@@ -6236,18 +6248,6 @@
       "listingUrl": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
     },
     {
-      "id": "f62f3c58-b9d0-4c77-b550-70c754d1f5cf",
-      "company": "Rippling",
-      "title": "Full Stack Software Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
-    },
-    {
       "id": "c5706040-fcd3-407d-be0b-ca6791187456",
       "company": "SingleStore",
       "title": "MIT- Software Engineer Intern | Engine",
@@ -6282,30 +6282,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=0858716a-c7b3-43c0-a7e8-396491af4a52&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
-    },
-    {
-      "id": "c3038adf-92d5-4e4c-9b11-d37c758ac82e",
-      "company": "upbound",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Draper, UT",
-      "season": "Not specified",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=upbound&job=c3038adf-92d5-4e4c-9b11-d37c758ac82e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Draper-UT/Software-Engineer-Intern_R-100759"
-    },
-    {
-      "id": "b46aec68-56b4-4fa8-9a0c-32f63282d559",
-      "company": "upbound",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Not specified",
-      "posted": "2026-09-21",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=upbound&job=b46aec68-56b4-4fa8-9a0c-32f63282d559&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
     },
     {
       "id": "167e4593-b80e-4c9b-aac2-0d384329fa09",
