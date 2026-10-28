@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:45:42.078Z",
+  "updatedAt": "2026-10-28T17:00:38.485Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -108,6 +108,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gaig&job=625ff10f-fc34-44b5-9328-7b4961b72f66&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
+    },
+    {
+      "id": "b5ab1328-bc87-452a-9dca-f5a0bd17dc74",
+      "company": "RTX",
+      "title": "Software Engineer Co-op (January 2027)",
+      "category": "Software Engineering",
+      "location": "Marlborough, MA",
+      "season": "2027",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=b5ab1328-bc87-452a-9dca-f5a0bd17dc74&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
+    },
+    {
+      "id": "10463c15-737e-4890-b7c7-a089358527ae",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=10463c15-737e-4890-b7c7-a089358527ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169"
     },
     {
       "id": "398c0d8c-6470-4fcf-8765-7d1dee2c4375",
@@ -3352,18 +3376,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
     },
     {
-      "id": "f33251f4-ef31-4d57-b1b9-1af8e1ec56c7",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Summer 2027",
-      "posted": "2026-10-09",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f33251f4-ef31-4d57-b1b9-1af8e1ec56c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890"
-    },
-    {
       "id": "eceeb37b-604c-4ae4-80a0-5465799313f7",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -4264,18 +4276,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Overland+AI&job=45276322-e09b-4c72-bb3d-abb106e99a09&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
-    },
-    {
-      "id": "b8311174-1820-4346-ad99-41207d28cbb5",
-      "company": "RTX",
-      "title": "Software Engineer Co-op (January 2027)",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "2027",
-      "posted": "2026-10-06",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=b8311174-1820-4346-ad99-41207d28cbb5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330"
     },
     {
       "id": "4a8fe78e-0c22-4b03-a279-24efeeca2bee",
