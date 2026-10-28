@@ -4,11 +4,14 @@
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
+> [!TIP]
+> **Bring new internships to your Discord.** [Connect your channel →](https://applyguy.ai/community-feeds?feed=internships&utm_source=github&utm_medium=repository&utm_campaign=internships)
+>
+> Create a Discord channel webhook, sign in to Apply Guy, and paste its URL. Choose internships, new-grad jobs, or both. Free, with new listings only. Pause anytime.
+
 > 🚨 **Apply early.** Get a free email when a new internship opens: [Turn on internship alerts →](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 ⭐ **Star this repo** to keep the list one click away.
-
-**Run a Discord community?** [Send new listings to your channel →](https://applyguy.ai/community-feeds?feed=internships&utm_source=github&utm_medium=repository). Connect a webhook and get new openings automatically.
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
