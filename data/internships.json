@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:30:30.490Z",
+  "updatedAt": "2026-10-28T22:45:08.308Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -216,6 +216,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=c9222fb3-2fb9-4068-ba01-9c6209a32a6f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"
+    },
+    {
+      "id": "ae9819ae-0635-4c02-bf8d-f24edd40efcb",
+      "company": "Sonos",
+      "title": "Software Engineering Intern (Boston)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=ae9819ae-0635-4c02-bf8d-f24edd40efcb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
+    },
+    {
+      "id": "6d747a28-a803-4d0c-b98f-ba83875e0d31",
+      "company": "Sonos",
+      "title": "Software Engineering Intern (Seattle)",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=6d747a28-a803-4d0c-b98f-ba83875e0d31&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885"
+    },
+    {
+      "id": "4881b223-a7ff-4b8d-bd7e-e3ae2064339e",
+      "company": "Sonos",
+      "title": "Software Product Management Intern (Seattle)",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=4881b223-a7ff-4b8d-bd7e-e3ae2064339e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
     },
     {
       "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
@@ -480,18 +516,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Saviynt&job=398e86e1-6e97-43d9-a83b-1e4d8f4ca33f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7"
-    },
-    {
-      "id": "5dc9336a-70db-4c06-a541-0ce19e9568b0",
-      "company": "Sonos",
-      "title": "Software Engineering Intern (Seattle)",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "season": "Not specified",
-      "posted": "2026-10-27",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Sonos&job=5dc9336a-70db-4c06-a541-0ce19e9568b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"
     },
     {
       "id": "3e2b641f-b8db-4296-ac8d-3339c519d455",
@@ -4987,30 +5011,6 @@
       "listingUrl": "https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
     },
     {
-      "id": "a70f2545-efe9-4b34-a8c9-65b30859755e",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=a70f2545-efe9-4b34-a8c9-65b30859755e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
-    },
-    {
-      "id": "7bef89fc-7153-4adf-bd51-52d203d09f4b",
-      "company": "The Hartford",
-      "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
-      "category": "Software Engineering",
-      "location": "Hartford, CT",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7bef89fc-7153-4adf-bd51-52d203d09f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"
-    },
-    {
       "id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
       "company": "Adobe",
       "title": "2027 Intern - Machine Learning Engineer",
@@ -6090,30 +6090,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-hrblock.icims.com/jobs/76986/embark-product-management-intern---s/job"
-    },
-    {
-      "id": "e73f8219-6f45-4e37-82ae-58a904057c41",
-      "company": "RTX",
-      "title": "Flight Control Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e73f8219-6f45-4e37-82ae-58a904057c41&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040"
-    },
-    {
-      "id": "08b11484-990a-42b0-8fb3-ce99fa40b5d3",
-      "company": "RTX",
-      "title": "Co-Op - SQL Database & Back-End Developer (Hybrid)",
-      "category": "Software Engineering",
-      "location": "East Hartford, CT",
-      "season": "Co-op",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=08b11484-990a-42b0-8fb3-ce99fa40b5d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Co-Op---SQL-Database---Back-End-Developer--Hybrid-_01878526"
     }
   ]
 }
