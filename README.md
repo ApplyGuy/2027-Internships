@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-512-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-511-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **512** active U.S. internships posted within the last **30 days**
+- **511** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 28, 2026, 4:15 PM PDT**
+- Last refresh: **Oct 28, 2026, 4:30 PM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -52,6 +52,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Sonos | Software Engineering Intern (Boston) | Boston, MA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sonos&job=ae9819ae-0635-4c02-bf8d-f24edd40efcb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1) |
 | Sonos | Software Engineering Intern (Seattle) | Seattle, WA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sonos&job=6d747a28-a803-4d0c-b98f-ba83875e0d31&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885) |
 | Sonos | Software Product Management Intern (Seattle) | Seattle, WA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sonos&job=4881b223-a7ff-4b8d-bd7e-e3ae2064339e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) |
+| The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus) | Columbus, OH | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Hartford&job=23c211e2-12e0-4994-a983-e7f95d04d8be&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Columbus-OH/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Columbus-_R2626609) |
 | Bah | University - 2027 Summer Games Software Developer Intern - Dayton, OH | Dayton, OH | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bah&job=3bc77243-95c5-43b9-b062-27b760cbefac&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) |
 | Bah | University - 2027 Summer Games Software Developer Intern - Lexington, MA | Lexington, MA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bah&job=24422f1f-79ac-4e5f-9d08-02ba22565c3f&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) |
 | Bah | University - 2027 Summer Games Software Developer Intern - Albuquerque, NM | Albuquerque, NM | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bah&job=1ce3e35e-c62d-4471-94c1-4472b84fcbb6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) |
@@ -489,11 +490,10 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Ttc | Electrical/software Co-Op - BOSS Snowplow | Iron Mountain, MI | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ttc&job=f2e2dd3f-7df9-4258-842a-d03fa4729043&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089) |
 | upbound | ServiceNow Developer Intern | Plano, TX | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=upbound&job=bd19b61a-a237-4075-8d08-e697624c4602&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/User-Experience-Intern_R-100778) |
 | GITAI | Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027 | Los Angeles, CA | Fall 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GITAI&job=95e82e78-1f94-4dcf-802f-c1f9c67c7acd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/gitai/jobs/5437128008) |
-| H&amp;R Block Management, LLC | Embark Software Engineering Intern - S | Kansas City, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job) |
 
 ## Product Management Internships
 
-**53 open roles**
+**52 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -549,7 +549,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Adobe | 2027 MBA Intern – Product Manager | San Jose, CA | 2027 | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Adobe&job=7fa12f92-054e-4ab5-8872-018d5ae235f6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) |
 | Epic Games | Technical Product Management Intern | Cary, NC | — | 28d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Epic+Games&job=70e00d5d-a32c-47d7-8df0-ce05d3538705&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) |
 | Epic Games | Product Management Intern | Cary, NC | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Epic+Games&job=46133479-9f00-4936-90c7-ab89dc64b2f3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) |
-| H&amp;R Block Management, LLC | Embark Product Management Intern - S | Kansas City, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-hrblock.icims.com/jobs/76986/embark-product-management-intern---s/job) |
 
 ## Contributing
 
