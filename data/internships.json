@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:15:36.713Z",
+  "updatedAt": "2026-10-28T22:30:30.490Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -122,6 +122,18 @@
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
     },
     {
+      "id": "9d535274-698b-4a06-a43a-b06acf705f2f",
+      "company": "Gauss Management Research & Engineering",
+      "title": "Web Application Developer Intern",
+      "category": "Software Engineering",
+      "location": "South Ogden, UT",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gauss+Management+Research+%26+Engineering&job=9d535274-698b-4a06-a43a-b06acf705f2f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4621147"
+    },
+    {
       "id": "eadaa783-b8d1-4149-82cf-cbc536351841",
       "company": "Jci",
       "title": "Software Engineering Co-Op",
@@ -132,6 +144,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=eadaa783-b8d1-4149-82cf-cbc536351841&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2"
+    },
+    {
+      "id": "88bab77b-82d8-4ed0-8042-8ce7c3430c2c",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, CPU Debugger (NTD)",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=88bab77b-82d8-4ed0-8042-8ce7c3430c2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4471972009"
+    },
+    {
+      "id": "216b24a9-df27-4e54-804e-962da732f5b2",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, DevOps (NTD)",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=216b24a9-df27-4e54-804e-962da732f5b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4472002009"
     },
     {
       "id": "b5ab1328-bc87-452a-9dca-f5a0bd17dc74",
