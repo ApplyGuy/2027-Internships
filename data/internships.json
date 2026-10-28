@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:00:36.288Z",
+  "updatedAt": "2026-10-28T09:15:09.692Z",
   "jobs": [
     {
       "id": "aa3c0a80-343b-4663-83b0-f127c168fb07",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=98395cd4-4a76-4b95-a688-75da642ce272&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
+    },
+    {
+      "id": "c415de2c-1848-443d-a12e-8e030868e9f0",
+      "company": "Dtna",
+      "title": "Software Release Management Intern",
+      "category": "Software Engineering",
+      "location": "Portland, OR",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dtna&job=c415de2c-1848-443d-a12e-8e030868e9f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432"
     },
     {
       "id": "e1331b4a-d8ab-4232-8753-1016313f91c1",
