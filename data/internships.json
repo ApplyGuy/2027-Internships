@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:45:08.308Z",
+  "updatedAt": "2026-10-28T23:00:11.185Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -216,6 +216,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=c9222fb3-2fb9-4068-ba01-9c6209a32a6f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"
+    },
+    {
+      "id": "99ea1634-6e19-455c-afb3-831b5d37f958",
+      "company": "SharkNinja",
+      "title": "Spring 2027: Product Strategy & Development Co-Op (January to June) ",
+      "category": "Product",
+      "location": "Needham, MA",
+      "season": "Spring 2027",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SharkNinja&job=99ea1634-6e19-455c-afb3-831b5d37f958&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006"
     },
     {
       "id": "ae9819ae-0635-4c02-bf8d-f24edd40efcb",
