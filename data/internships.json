@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:15:24.690Z",
+  "updatedAt": "2026-10-28T23:30:09.091Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -264,6 +264,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Sonos&job=4881b223-a7ff-4b8d-bd7e-e3ae2064339e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
+    },
+    {
+      "id": "23c211e2-12e0-4994-a983-e7f95d04d8be",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)",
+      "category": "Software Engineering",
+      "location": "Columbus, OH",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=23c211e2-12e0-4994-a983-e7f95d04d8be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Columbus-OH/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Columbus-_R2626609"
     },
     {
       "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
@@ -6130,30 +6142,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=GITAI&job=95e82e78-1f94-4dcf-802f-c1f9c67c7acd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/gitai/jobs/5437128008"
-    },
-    {
-      "id": "a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa",
-      "company": "H&amp;R Block Management, LLC",
-      "title": "Embark Software Engineering Intern - S",
-      "category": "Software Engineering",
-      "location": "Kansas City, MO",
-      "season": "Not specified",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job"
-    },
-    {
-      "id": "59c34282-fa73-4d53-a2c7-3e571a797c5e",
-      "company": "H&amp;R Block Management, LLC",
-      "title": "Embark Product Management Intern - S",
-      "category": "Product",
-      "location": "Kansas City, MO",
-      "season": "Not specified",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=59c34282-fa73-4d53-a2c7-3e571a797c5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-hrblock.icims.com/jobs/76986/embark-product-management-intern---s/job"
     }
   ]
 }
