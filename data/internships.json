@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:15:34.101Z",
+  "updatedAt": "2026-10-28T21:30:33.852Z",
   "jobs": [
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
+    },
+    {
+      "id": "15c4f741-10b9-4ba4-8bf9-d9357820ad2c",
+      "company": "Beli",
+      "title": "Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Beli&job=15c4f741-10b9-4ba4-8bf9-d9357820ad2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027"
     },
     {
       "id": "5d6b6248-7384-44e8-a84c-45958b276c55",
@@ -6054,18 +6066,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=08b11484-990a-42b0-8fb3-ce99fa40b5d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Co-Op---SQL-Database---Back-End-Developer--Hybrid-_01878526"
-    },
-    {
-      "id": "f7b65a1d-7bd6-47cd-a17c-439276ccdc92",
-      "company": "Voyager Technologies, Inc.",
-      "title": "2027 Software Engineering Intern ",
-      "category": "Software Engineering",
-      "location": "Long Beach, CA",
-      "season": "2027",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Voyager+Technologies%2C+Inc.&job=f7b65a1d-7bd6-47cd-a17c-439276ccdc92&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
     }
   ]
 }
