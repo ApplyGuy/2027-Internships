@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-507-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-506-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **507** active U.S. internships posted within the last **30 days**
+- **506** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 28, 2026, 4:00 AM PDT**
+- Last refresh: **Oct 28, 2026, 4:15 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**456 open roles**
+**455 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -482,7 +482,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Framatome Inc. | AI and Software Innovation Intern | Lynchburg, VA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Framatome+Inc.&job=11d865fd-e388-44a2-98bf-4c53c7fcb224&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-framatome.icims.com/jobs/3385/ai-and-software-innovation-intern/job) |
 | GITAI | Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027 | Los Angeles, CA | Fall 2026 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GITAI&job=95e82e78-1f94-4dcf-802f-c1f9c67c7acd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/gitai/jobs/5437128008) |
 | H&amp;R Block Management, LLC | Embark Software Engineering Intern - S | Kansas City, MO | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=H%26amp%3BR+Block+Management%2C+LLC&job=a6ac977c-1d0e-4c40-89cf-8f3f9a3e1bfa&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job) |
-| Philips | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, WA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=933ad0ba-27d6-4f73-8e43-bff73798ede2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074) |
 | Poet | Software Developer Intern - Summer 2027 | Sioux Falls, SD | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Poet&job=8afcc612-ff9f-4bc6-9cd0-fa07af8cd735&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://poet.wd1.myworkdayjobs.com/poet/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) |
 | RTX | Flight Control Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=e73f8219-6f45-4e37-82ae-58a904057c41&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040) |
 | RTX | Co-Op - SQL Database & Back-End Developer (Hybrid) | East Hartford, CT | Co-op | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=08b11484-990a-42b0-8fb3-ce99fa40b5d3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Co-Op---SQL-Database---Back-End-Developer--Hybrid-_01878526) |
