@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:30:15.881Z",
+  "updatedAt": "2026-10-29T09:45:27.010Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -168,6 +168,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
+    },
+    {
+      "id": "1ce3e35e-c62d-4471-94c1-4472b84fcbb6",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Albuquerque, NM",
+      "category": "Software Engineering",
+      "location": "Albuquerque, NM",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=1ce3e35e-c62d-4471-94c1-4472b84fcbb6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335"
     },
     {
       "id": "00d6d47f-3797-4dc7-ac9f-8ccfdb8a9def",
@@ -504,18 +516,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Bah&job=24422f1f-79ac-4e5f-9d08-02ba22565c3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274"
-    },
-    {
-      "id": "1ce3e35e-c62d-4471-94c1-4472b84fcbb6",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern - Albuquerque, NM",
-      "category": "Software Engineering",
-      "location": "Albuquerque, NM",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=1ce3e35e-c62d-4471-94c1-4472b84fcbb6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335"
     },
     {
       "id": "29b0b344-8548-4664-8743-f23c4ba2a3b9",
