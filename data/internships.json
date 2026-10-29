@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:00:39.742Z",
+  "updatedAt": "2026-10-29T22:15:30.454Z",
   "jobs": [
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Asml&job=73fc73ef-75e4-466b-b378-f2c23fdbeec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
+    },
+    {
+      "id": "4d1a9ffe-c8bc-4037-abe1-a7b93e84a72d",
+      "company": "Danaher",
+      "title": "Intern - Application Integration Developer",
+      "category": "Software Engineering",
+      "location": "Brea, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=4d1a9ffe-c8bc-4037-abe1-a7b93e84a72d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677"
     },
     {
       "id": "f2c9cc94-504a-40de-bdab-f71ebb0414ef",
@@ -985,18 +997,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Carrier&job=092ff398-ef48-4f99-a519-e13a8dd86b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
-    },
-    {
-      "id": "29b0b344-8548-4664-8743-f23c4ba2a3b9",
-      "company": "Cohesity",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-26",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Cohesity&job=29b0b344-8548-4664-8743-f23c4ba2a3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
     },
     {
       "id": "59307b15-2797-44e4-9db7-66c6ee1e9885",
@@ -6091,18 +6091,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=b89779e2-953f-46ff-8a51-f4f49d254e54&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
-    },
-    {
-      "id": "c43957c4-eb6f-4c83-b8e9-f6f823df74b4",
-      "company": "Amca",
-      "title": "Software Engineering Internship (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Amca&job=c43957c4-eb6f-4c83-b8e9-f6f823df74b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
     },
     {
       "id": "9ed1c65c-06f1-4999-90cf-68fe20a63ddf",
