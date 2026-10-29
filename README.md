@@ -18,7 +18,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **507** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Oct 29, 2026, 4:45 AM PDT**
+- Last refresh: **Oct 29, 2026, 5:00 AM PDT**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -492,8 +492,8 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
-| Archgroup | Digital Product Management UI/UX Intern | Greensboro, NC | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Archgroup&job=28490be2-517a-4baa-922c-c9cfdac787f9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) |
 | Tmobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=fa3829df-b400-46f5-af43-3c2306513d55&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) |
+| Archgroup | Digital Product Management UI/UX Intern | Greensboro, NC | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Archgroup&job=28490be2-517a-4baa-922c-c9cfdac787f9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) |
 | SharkNinja | Spring 2027: Product Strategy & Development Co-Op (January to June) | Needham, MA | Spring 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SharkNinja&job=99ea1634-6e19-455c-afb3-831b5d37f958&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Visa&job=622de105-0e2c-4b33-ac3a-f4e9df58add1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) |
 | Parallel Systems | Product Management Intern | Los Angeles, CA | — | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Parallel+Systems&job=0288aa9d-760f-4212-a583-f3b64d2fbd6a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007) |
