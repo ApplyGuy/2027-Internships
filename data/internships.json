@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:45:32.168Z",
+  "updatedAt": "2026-10-29T23:00:32.936Z",
   "jobs": [
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -85,18 +85,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HP&job=dd9c21bc-2664-4a0f-86f7-3d5bce42c369&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1"
-    },
-    {
-      "id": "557e93ab-2170-4492-9371-087b4bb339fc",
-      "company": "HP",
-      "title": "Software Systems Intern - HP IQ",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-10-29",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=HP&job=557e93ab-2170-4492-9371-087b4bb339fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
     },
     {
       "id": "6322ad80-f9f5-4574-a5f9-91de32df8631",
@@ -435,6 +423,18 @@
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
     },
     {
+      "id": "48ec677f-34a6-4f93-a583-4bb0de4c0a10",
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern (C#)",
+      "category": "Software Engineering",
+      "location": "Wayzata, MN",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Garda+Capital+Partners&job=48ec677f-34a6-4f93-a583-4bb0de4c0a10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004"
+    },
+    {
       "id": "9d535274-698b-4a06-a43a-b06acf705f2f",
       "company": "Gauss Management Research & Engineering",
       "title": "Web Application Developer Intern",
@@ -469,6 +469,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802"
+    },
+    {
+      "id": "557e93ab-2170-4492-9371-087b4bb339fc",
+      "company": "HP",
+      "title": "Software Systems Intern - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=557e93ab-2170-4492-9371-087b4bb339fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
     },
     {
       "id": "eadaa783-b8d1-4149-82cf-cbc536351841",
