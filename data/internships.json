@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T14:15:13.602Z",
+  "updatedAt": "2026-10-29T14:30:44.662Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -708,6 +708,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=100de565-d4ce-4573-a275-4f01deeb4467&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
+    },
+    {
+      "id": "2345cfec-c181-4b0f-acd8-08aadf6d9251",
+      "company": "SageSure",
+      "title": "Data Science Product Analyst Intern ",
+      "category": "Product",
+      "location": "Fairfield, CA",
+      "season": "Not specified",
+      "posted": "2026-10-27",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=SageSure&job=2345cfec-c181-4b0f-acd8-08aadf6d9251&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006"
     },
     {
       "id": "398e86e1-6e97-43d9-a83b-1e4d8f4ca33f",
