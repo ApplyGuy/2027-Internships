@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:30:37.396Z",
+  "updatedAt": "2026-10-29T18:45:45.997Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -1419,6 +1419,32 @@
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -1921,6 +1947,19 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
@@ -2785,6 +2824,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
