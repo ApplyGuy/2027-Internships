@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:00:28.086Z",
+  "updatedAt": "2026-10-29T09:15:27.618Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -926,18 +926,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007"
     },
     {
-      "id": "1904db18-53bf-4e9e-9754-7dc630fc170c",
-      "company": "Hpe",
-      "title": "AI/ML Developer Intern",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-10-26",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Hpe&job=1904db18-53bf-4e9e-9754-7dc630fc170c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
-    },
-    {
       "id": "add7986f-cba2-4ef4-8fc8-bc0869e9c454",
       "company": "Niantic Spatial",
       "title": "Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
@@ -1044,6 +1032,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=f5ca0fce-d5be-4a48-aa7c-ed3f55bf829c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715"
+    },
+    {
+      "id": "1904db18-53bf-4e9e-9754-7dc630fc170c",
+      "company": "Hpe",
+      "title": "AI/ML Developer Intern",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-25",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=1904db18-53bf-4e9e-9754-7dc630fc170c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
     },
     {
       "id": "c88a74bd-6b57-41ee-b515-acffc05f0bb5",
@@ -1395,18 +1395,6 @@
       "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
-      "id": "1793a160-a0ff-47e0-b4a5-d27bdf6336ec",
-      "company": "RTX",
-      "title": "Software Engineering  Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Summer 2027",
-      "posted": "2026-10-23",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=1793a160-a0ff-47e0-b4a5-d27bdf6336ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
-    },
-    {
       "id": "3e24cb00-6d1f-4895-9fac-f40c3c382169",
       "company": "Skydio",
       "title": "Embedded Software Engineer Intern - Winter 2027",
@@ -1657,6 +1645,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8eadf222-19e7-4444-9469-42a9c3d3b265&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
+    },
+    {
+      "id": "1793a160-a0ff-47e0-b4a5-d27bdf6336ec",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Aurora, CO",
+      "season": "Summer 2027",
+      "posted": "2026-10-22",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=1793a160-a0ff-47e0-b4a5-d27bdf6336ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
     },
     {
       "id": "c0e4757f-9c34-4263-903c-1049c3a41d56",
