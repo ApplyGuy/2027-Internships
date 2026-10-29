@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:30:29.725Z",
+  "updatedAt": "2026-10-29T19:45:29.997Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -132,6 +132,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Signify&job=7682ab00-2d2a-4f9e-8cae-0a42c79c94d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870"
+    },
+    {
+      "id": "5e18aaae-81a6-4d70-9dd8-6f1f71d8d9ae",
+      "company": "Sonos",
+      "title": "Software Product Management Intern (Seattle)",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=5e18aaae-81a6-4d70-9dd8-6f1f71d8d9ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
+    },
+    {
+      "id": "24b87472-5f07-4fbb-8c2c-6634ab2fbd67",
+      "company": "Sonos",
+      "title": "Software Partner Engineering Intern (Boston)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sonos&job=24b87472-5f07-4fbb-8c2c-6634ab2fbd67&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1"
     },
     {
       "id": "c8982161-0f3e-4be3-a258-e9b723d83241",
@@ -540,18 +564,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Sonos&job=6d747a28-a803-4d0c-b98f-ba83875e0d31&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885"
-    },
-    {
-      "id": "4881b223-a7ff-4b8d-bd7e-e3ae2064339e",
-      "company": "Sonos",
-      "title": "Software Product Management Intern (Seattle)",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Sonos&job=4881b223-a7ff-4b8d-bd7e-e3ae2064339e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
     },
     {
       "id": "23c211e2-12e0-4994-a983-e7f95d04d8be",
@@ -1322,18 +1334,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2642189"
     },
     {
-      "id": "458efb6b-5f8b-418e-be70-0d27d5f889ad",
-      "company": "Wegmans",
-      "title": "Assistant Front End Manager Trainee",
-      "category": "Software Engineering",
-      "location": "Crofton, MD",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Wegmans&job=458efb6b-5f8b-418e-be70-0d27d5f889ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0300905"
-    },
-    {
       "id": "9cc69af8-eca5-4082-aa92-2d53e9c3caad",
       "company": "1Password",
       "title": "Product Management Intern, End User Experience - Winter 2027",
@@ -1513,6 +1513,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=8ae28a62-fdd1-423b-b9de-f2bd7bbc9a3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
+    },
+    {
+      "id": "458efb6b-5f8b-418e-be70-0d27d5f889ad",
+      "company": "Wegmans",
+      "title": "Assistant Front End Manager Trainee",
+      "category": "Software Engineering",
+      "location": "Crofton, MD",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Wegmans&job=458efb6b-5f8b-418e-be70-0d27d5f889ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0300905"
     },
     {
       "id": "c9876e28-202a-45c0-b314-f1501e838906",
