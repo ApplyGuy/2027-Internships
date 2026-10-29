@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:45:29.547Z",
+  "updatedAt": "2026-10-29T17:01:00.036Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -168,6 +168,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
+    },
+    {
+      "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
+      "company": "Bah",
+      "title": "University - 2027 Summer Games Software Developer Intern - Dayton, OH",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bah&job=3bc77243-95c5-43b9-b062-27b760cbefac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345"
     },
     {
       "id": "24422f1f-79ac-4e5f-9d08-02ba22565c3f",
@@ -504,18 +516,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=23c211e2-12e0-4994-a983-e7f95d04d8be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Columbus-OH/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Columbus-_R2626609"
-    },
-    {
-      "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
-      "company": "Bah",
-      "title": "University - 2027 Summer Games Software Developer Intern - Dayton, OH",
-      "category": "Software Engineering",
-      "location": "Dayton, OH",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Bah&job=3bc77243-95c5-43b9-b062-27b760cbefac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345"
     },
     {
       "id": "a4381a9d-490d-464b-88dd-0bcb5580042e",
@@ -6032,18 +6032,6 @@
       "listingUrl": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004"
     },
     {
-      "id": "92d9cbb0-4a81-4b76-aa0a-0310d7992f99",
-      "company": "Haier",
-      "title": "Software Engineering Co-op_Fall 2026",
-      "category": "Software Engineering",
-      "location": "Ky, Louisville",
-      "season": "2026",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Haier&job=92d9cbb0-4a81-4b76-aa0a-0310d7992f99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-26919"
-    },
-    {
       "id": "9ed1c65c-06f1-4999-90cf-68fe20a63ddf",
       "company": "Iridium Communications Inc.",
       "title": "Iridium Software Engineering Internship &ndash; Summer 2027",
@@ -6054,30 +6042,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Iridium+Communications+Inc.&job=9ed1c65c-06f1-4999-90cf-68fe20a63ddf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job"
-    },
-    {
-      "id": "78f7ddf3-8bd8-4bd4-bc3d-8f0be9d65ee8",
-      "company": "RTX",
-      "title": "Software Engineering  Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Woburn, MA",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=78f7ddf3-8bd8-4bd4-bc3d-8f0be9d65ee8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
-    },
-    {
-      "id": "42fb3097-d16f-4f99-8b55-8f1fc3d3ff11",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Rockford, IL",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42fb3097-d16f-4f99-8b55-8f1fc3d3ff11&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
     }
   ]
 }
