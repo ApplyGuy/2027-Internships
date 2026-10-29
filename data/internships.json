@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:15:14.949Z",
+  "updatedAt": "2026-10-29T01:30:39.707Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -36,6 +36,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Asml&job=73fc73ef-75e4-466b-b378-f2c23fdbeec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
+    },
+    {
+      "id": "f2c9cc94-504a-40de-bdab-f71ebb0414ef",
+      "company": "HP",
+      "title": "Software Product Security Intern - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=f2c9cc94-504a-40de-bdab-f71ebb0414ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
+    },
+    {
+      "id": "dd9c21bc-2664-4a0f-86f7-3d5bce42c369",
+      "company": "HP",
+      "title": "Software Engineering Intern - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=dd9c21bc-2664-4a0f-86f7-3d5bce42c369&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1"
+    },
+    {
+      "id": "2988cd16-7865-4c2a-9267-220d7f2a7f2a",
+      "company": "HP",
+      "title": "Software Quality Assurance Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=2988cd16-7865-4c2a-9267-220d7f2a7f2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1"
+    },
+    {
+      "id": "0078e6a6-d14e-43c7-9ed5-d858490b2808",
+      "company": "HP",
+      "title": "Software Systems Intern - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=0078e6a6-d14e-43c7-9ed5-d858490b2808&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1"
     },
     {
       "id": "93f92eb4-de92-44fb-8961-e3a71701f256",
