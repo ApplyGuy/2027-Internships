@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:30:16.549Z",
+  "updatedAt": "2026-10-29T03:45:40.866Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -5886,18 +5886,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=b89779e2-953f-46ff-8a51-f4f49d254e54&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
-    },
-    {
-      "id": "9106354c-42fd-46d2-b8ee-564a2ca8ba20",
-      "company": "Aero",
-      "title": "2027 Software Engineering Undergrad Intern",
-      "category": "Software Engineering",
-      "location": "Chantilly, VA",
-      "season": "2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Aero&job=9106354c-42fd-46d2-b8ee-564a2ca8ba20&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
     },
     {
       "id": "c43957c4-eb6f-4c83-b8e9-f6f823df74b4",
