@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:15:09.746Z",
+  "updatedAt": "2026-10-29T11:30:15.416Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -710,18 +710,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532"
     },
     {
-      "id": "26cfe82c-875c-4770-88e9-f5b487caa4f6",
-      "company": "RTX",
-      "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
-      "category": "Software Engineering",
-      "location": "Aurora, CO",
-      "season": "Co-op",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=26cfe82c-875c-4770-88e9-f5b487caa4f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752"
-    },
-    {
       "id": "100de565-d4ce-4573-a275-4f01deeb4467",
       "company": "RTX",
       "title": "Secure Software Intern (Summer 2027)",
@@ -984,6 +972,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Parallel+Systems&job=a3cea309-2060-4f1a-8077-e28e7d99010e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"
+    },
+    {
+      "id": "26cfe82c-875c-4770-88e9-f5b487caa4f6",
+      "company": "RTX",
+      "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
+      "category": "Software Engineering",
+      "location": "Aurora, CO",
+      "season": "Co-op",
+      "posted": "2026-10-26",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=26cfe82c-875c-4770-88e9-f5b487caa4f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752"
     },
     {
       "id": "287efc50-bfa0-489c-9751-1b99c33369a7",
