@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:15:43.133Z",
+  "updatedAt": "2026-10-29T16:30:28.481Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -422,18 +422,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
     },
     {
-      "id": "398c0d8c-6470-4fcf-8765-7d1dee2c4375",
-      "company": "RTX",
-      "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite",
-      "category": "Software Engineering",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "posted": "2026-10-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=398c0d8c-6470-4fcf-8765-7d1dee2c4375&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187"
-    },
-    {
       "id": "10463c15-737e-4890-b7c7-a089358527ae",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -696,6 +684,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4bce6763-c16d-4f94-8e59-187f694d5704&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532"
+    },
+    {
+      "id": "398c0d8c-6470-4fcf-8765-7d1dee2c4375",
+      "company": "RTX",
+      "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite",
+      "category": "Software Engineering",
+      "location": "Marlborough, MA",
+      "season": "Summer 2027",
+      "posted": "2026-10-27",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=398c0d8c-6470-4fcf-8765-7d1dee2c4375&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187"
     },
     {
       "id": "100de565-d4ce-4573-a275-4f01deeb4467",
