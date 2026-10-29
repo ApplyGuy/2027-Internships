@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:15:13.677Z",
+  "updatedAt": "2026-10-29T08:30:24.803Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -278,7 +278,7 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4621147"
     },
     {
-      "id": "57098403-2bc2-4f2a-b53e-59544703cde5",
+      "id": "8d6bc8c2-99f9-44fb-ba46-bffb36433c11",
       "company": "HP",
       "title": "Software Engineering Intern, Connectivity - HP IQ",
       "category": "Software Engineering",
@@ -286,8 +286,8 @@
       "season": "Not specified",
       "posted": "2026-10-28",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=57098403-2bc2-4f2a-b53e-59544703cde5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812"
+      "url": "https://applyguy.ai/jobs?company=HP&job=8d6bc8c2-99f9-44fb-ba46-bffb36433c11&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1"
     },
     {
       "id": "eadaa783-b8d1-4149-82cf-cbc536351841",
@@ -386,18 +386,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
     },
     {
-      "id": "10463c15-737e-4890-b7c7-a089358527ae",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Summer 2027",
-      "posted": "2026-10-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=10463c15-737e-4890-b7c7-a089358527ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169"
-    },
-    {
       "id": "398c0d8c-6470-4fcf-8765-7d1dee2c4375",
       "company": "RTX",
       "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite",
@@ -408,6 +396,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=398c0d8c-6470-4fcf-8765-7d1dee2c4375&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187"
+    },
+    {
+      "id": "10463c15-737e-4890-b7c7-a089358527ae",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=10463c15-737e-4890-b7c7-a089358527ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169"
     },
     {
       "id": "c9222fb3-2fb9-4068-ba01-9c6209a32a6f",
@@ -650,18 +650,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452"
     },
     {
-      "id": "100de565-d4ce-4573-a275-4f01deeb4467",
-      "company": "RTX",
-      "title": "Secure Software Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Woburn, MA",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=100de565-d4ce-4573-a275-4f01deeb4467&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
-    },
-    {
       "id": "74dd2007-825a-4e49-8d64-43043b3b3913",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -720,6 +708,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=26cfe82c-875c-4770-88e9-f5b487caa4f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752"
+    },
+    {
+      "id": "100de565-d4ce-4573-a275-4f01deeb4467",
+      "company": "RTX",
+      "title": "Secure Software Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Woburn, MA",
+      "season": "Summer 2027",
+      "posted": "2026-10-27",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=100de565-d4ce-4573-a275-4f01deeb4467&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
     },
     {
       "id": "398e86e1-6e97-43d9-a83b-1e4d8f4ca33f",
