@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:45:14.597Z",
+  "updatedAt": "2026-10-29T11:00:14.420Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HP&job=557e93ab-2170-4492-9371-087b4bb339fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
+    },
+    {
+      "id": "cbdbb6dd-4286-4040-ac1c-376cbf6f9cae",
+      "company": "Kla",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=cbdbb6dd-4286-4040-ac1c-376cbf6f9cae&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
     },
     {
       "id": "5b2b8016-396f-4819-b316-0d47d2fbdf67",
@@ -6066,30 +6078,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42fb3097-d16f-4f99-8b55-8f1fc3d3ff11&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
-    },
-    {
-      "id": "c5ccecdb-9253-49d5-90c0-17a8eae54247",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c5ccecdb-9253-49d5-90c0-17a8eae54247&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951"
-    },
-    {
-      "id": "5e13e742-f662-47ad-ad62-09f53c05240e",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Richardson, TX",
-      "season": "Summer 2027",
-      "posted": "2026-09-29",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5e13e742-f662-47ad-ad62-09f53c05240e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
     },
     {
       "id": "0b8949e5-6588-431e-a279-7ff7170b88c8",
