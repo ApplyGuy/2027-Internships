@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:00:15.558Z",
+  "updatedAt": "2026-10-29T12:15:15.118Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -48,18 +48,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=HP&job=dd9c21bc-2664-4a0f-86f7-3d5bce42c369&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1"
-    },
-    {
-      "id": "2988cd16-7865-4c2a-9267-220d7f2a7f2a",
-      "company": "HP",
-      "title": "Software Quality Assurance Intern",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-10-29",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=HP&job=2988cd16-7865-4c2a-9267-220d7f2a7f2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1"
     },
     {
       "id": "557e93ab-2170-4492-9371-087b4bb339fc",
@@ -326,6 +314,18 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1"
     },
     {
+      "id": "9ba7c06a-36b0-4c90-823f-8a139fcd5f50",
+      "company": "HP",
+      "title": "Software Quality Assurance Intern",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802"
+    },
+    {
       "id": "eadaa783-b8d1-4149-82cf-cbc536351841",
       "company": "Jci",
       "title": "Software Engineering Co-Op",
@@ -528,18 +528,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Bah&job=3bc77243-95c5-43b9-b062-27b760cbefac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345"
-    },
-    {
-      "id": "29b0b344-8548-4664-8743-f23c4ba2a3b9",
-      "company": "Cohesity",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Cohesity&job=29b0b344-8548-4664-8743-f23c4ba2a3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
     },
     {
       "id": "a4381a9d-490d-464b-88dd-0bcb5580042e",
@@ -900,6 +888,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Carrier&job=092ff398-ef48-4f99-a519-e13a8dd86b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
+    },
+    {
+      "id": "29b0b344-8548-4664-8743-f23c4ba2a3b9",
+      "company": "Cohesity",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-26",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Cohesity&job=29b0b344-8548-4664-8743-f23c4ba2a3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
     },
     {
       "id": "59307b15-2797-44e4-9db7-66c6ee1e9885",
