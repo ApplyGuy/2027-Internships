@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:15:14.318Z",
+  "updatedAt": "2026-10-29T23:30:32.285Z",
   "jobs": [
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -169,6 +169,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=e3341772-e8ea-4505-95d5-560abc0dcf5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4472147009"
+    },
+    {
+      "id": "e47b43f4-ab9a-4863-95e4-28bdeae6ed21",
+      "company": "NVIDIA",
+      "title": "AI Systems Software Engineering Intern – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=e47b43f4-ab9a-4863-95e4-28bdeae6ed21&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"
+    },
+    {
+      "id": "59e782ff-c930-41b3-bf0b-f1aa2bb07f98",
+      "company": "NVIDIA",
+      "title": "Compiler Software Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Summer 2027",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=59e782ff-c930-41b3-bf0b-f1aa2bb07f98&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
     },
     {
       "id": "20d45f54-f92d-4670-b48d-519551bb778f",
@@ -807,18 +831,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
     },
     {
-      "id": "589993c6-bd95-45a2-98d5-03b20cdfd371",
-      "company": "RTX",
-      "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
-      "category": "Software Engineering",
-      "location": "Richardson, TX",
-      "season": "Co-op",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=589993c6-bd95-45a2-98d5-03b20cdfd371&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756"
-    },
-    {
       "id": "4d3d87a1-40bd-42f5-837a-6c346072f545",
       "company": "RTX",
       "title": "Part time Software Engineer Co-op (Remote)",
@@ -1117,6 +1129,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Parallel+Systems&job=a3cea309-2060-4f1a-8077-e28e7d99010e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"
+    },
+    {
+      "id": "589993c6-bd95-45a2-98d5-03b20cdfd371",
+      "company": "RTX",
+      "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
+      "category": "Software Engineering",
+      "location": "Richardson, TX",
+      "season": "Co-op",
+      "posted": "2026-10-26",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=589993c6-bd95-45a2-98d5-03b20cdfd371&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756"
     },
     {
       "id": "4bce6763-c16d-4f94-8e59-187f694d5704",
