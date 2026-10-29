@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:45:45.997Z",
+  "updatedAt": "2026-10-29T19:00:33.451Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -108,6 +108,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5b2b8016-396f-4819-b316-0d47d2fbdf67&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
+    },
+    {
+      "id": "e3341772-e8ea-4505-95d5-560abc0dcf5c",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Connectivity (NTD)",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=e3341772-e8ea-4505-95d5-560abc0dcf5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4472147009"
+    },
+    {
+      "id": "7682ab00-2d2a-4f9e-8cae-0a42c79c94d6",
+      "company": "Signify",
+      "title": "Product Management Intern, Cooper Lighting Solutions - Spring 2027",
+      "category": "Product",
+      "location": "Peachtree City, GA",
+      "season": "Spring 2027",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Signify&job=7682ab00-2d2a-4f9e-8cae-0a42c79c94d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870"
     },
     {
       "id": "c8982161-0f3e-4be3-a258-e9b723d83241",
