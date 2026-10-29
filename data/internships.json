@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:00:59.537Z",
+  "updatedAt": "2026-10-29T21:16:00.214Z",
   "jobs": [
     {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
@@ -590,6 +590,18 @@
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Columbus-OH/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Columbus-_R2626609"
     },
     {
+      "id": "4bdeb64e-3c3d-489f-b6dc-6e851faec7e9",
+      "company": "Asml",
+      "title": "Internship- Platform Software Engineer In Test",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-27",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=4bdeb64e-3c3d-489f-b6dc-6e851faec7e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
+    },
+    {
       "id": "a4381a9d-490d-464b-88dd-0bcb5580042e",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - Scientific Software Engineer - Summer 2027",
@@ -744,18 +756,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=589993c6-bd95-45a2-98d5-03b20cdfd371&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756"
-    },
-    {
-      "id": "4bce6763-c16d-4f94-8e59-187f694d5704",
-      "company": "RTX",
-      "title": "Software Engineering  Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4bce6763-c16d-4f94-8e59-187f694d5704&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532"
     },
     {
       "id": "398c0d8c-6470-4fcf-8765-7d1dee2c4375",
@@ -1058,6 +1058,18 @@
       "listingUrl": "https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"
     },
     {
+      "id": "4bce6763-c16d-4f94-8e59-187f694d5704",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-26",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4bce6763-c16d-4f94-8e59-187f694d5704&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532"
+    },
+    {
       "id": "26cfe82c-875c-4770-88e9-f5b487caa4f6",
       "company": "RTX",
       "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
@@ -1272,18 +1284,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=ac72fd42-231e-48b3-93df-9d442b6d9de4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568"
-    },
-    {
-      "id": "4bdeb64e-3c3d-489f-b6dc-6e851faec7e9",
-      "company": "Asml",
-      "title": "Internship- Platform Software Engineer In Test",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=4bdeb64e-3c3d-489f-b6dc-6e851faec7e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
     },
     {
       "id": "dcc91428-d622-466c-9384-52bd0a8aa910",
