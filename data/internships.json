@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:30:41.604Z",
+  "updatedAt": "2026-10-29T07:45:12.824Z",
   "jobs": [
     {
       "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
@@ -878,6 +878,18 @@
       "listingUrl": "https://benchmark-space-systems-inc.breezy.hr/p/da54fac87273-software-engineering-intern"
     },
     {
+      "id": "092ff398-ef48-4f99-a519-e13a8dd86b83",
+      "company": "Carrier",
+      "title": "Software Engineering Intern - Summer",
+      "category": "Software Engineering",
+      "location": "CAN01: Carrier-Syracuse",
+      "season": "Summer",
+      "posted": "2026-10-26",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Carrier&job=092ff398-ef48-4f99-a519-e13a8dd86b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
+    },
+    {
       "id": "59307b15-2797-44e4-9db7-66c6ee1e9885",
       "company": "Glean",
       "title": "Software Engineer, Intern (Summer 2027)",
@@ -1164,18 +1176,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=4bdeb64e-3c3d-489f-b6dc-6e851faec7e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
-    },
-    {
-      "id": "092ff398-ef48-4f99-a519-e13a8dd86b83",
-      "company": "Carrier",
-      "title": "Software Engineering Intern - Summer",
-      "category": "Software Engineering",
-      "location": "CAN01: Carrier-Syracuse",
-      "season": "Summer",
-      "posted": "2026-10-24",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Carrier&job=092ff398-ef48-4f99-a519-e13a8dd86b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
     },
     {
       "id": "dcc91428-d622-466c-9384-52bd0a8aa910",
