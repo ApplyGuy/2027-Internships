@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:31:01.780Z",
+  "updatedAt": "2026-10-30T03:45:35.152Z",
   "jobs": [
     {
       "id": "892f0873-75d0-4496-8e57-5855478f3e5c",
@@ -61,18 +61,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=99e4ae1c-84a6-4da0-bf85-b84d38e6ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459"
-    },
-    {
-      "id": "73fc73ef-75e4-466b-b378-f2c23fdbeec4",
-      "company": "Asml",
-      "title": "Internship/Co-Op: Data Engineer",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Co-op",
-      "posted": "2026-10-29",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=73fc73ef-75e4-466b-b378-f2c23fdbeec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
     },
     {
       "id": "7faf158d-7dfc-4f87-aa96-6df7ab9860e0",
@@ -397,6 +385,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
+    },
+    {
+      "id": "73fc73ef-75e4-466b-b378-f2c23fdbeec4",
+      "company": "Asml",
+      "title": "Internship/Co-Op: Data Engineer",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Co-op",
+      "posted": "2026-10-28",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=73fc73ef-75e4-466b-b378-f2c23fdbeec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
     },
     {
       "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
@@ -1624,6 +1624,32 @@
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -2140,6 +2166,19 @@
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
     },
     {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
+    },
+    {
       "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
       "company": "NVIDIA",
       "title": "Systems Software Intern, Aerial PHY- Summer 2027",
@@ -2354,18 +2393,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=a240414b-4f3d-42ef-b769-a11aa25d6558&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
-    },
-    {
-      "id": "7439a235-5689-423f-af67-2068eac2ef5d",
-      "company": "NVIDIA",
-      "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
-      "category": "Product",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-20",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=7439a235-5689-423f-af67-2068eac2ef5d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
     },
     {
       "id": "3810b24d-8d55-4c57-a3de-1103dfbdbfdc",
@@ -2618,6 +2645,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=10ca4da9-3410-44f1-bf63-55f3b25dd285&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+    },
+    {
+      "id": "ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0",
+      "company": "NVIDIA",
+      "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
+      "category": "Product",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-19",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecb92eee-9c0e-40fb-a89d-a3db30cdd1c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
     },
     {
       "id": "295d11ba-3a17-4d65-99df-503029cad02a",
@@ -3002,6 +3041,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
