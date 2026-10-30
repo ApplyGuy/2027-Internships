@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:31:01.352Z",
+  "updatedAt": "2026-10-30T22:45:39.901Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -97,6 +97,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=9acfc46f-bf3a-499d-85a3-e8d7b95b2434&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829"
+    },
+    {
+      "id": "d48224c6-e9a7-45e6-9c6d-5e5e705b1421",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Performance Tools (NTD)",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=d48224c6-e9a7-45e6-9c6d-5e5e705b1421&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4473568009"
+    },
+    {
+      "id": "182a9af3-fb3b-420b-a6c4-660cfb00d916",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Graphics (NTD)",
+      "category": "Software Engineering",
+      "location": "Redmond, WA",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nintendo&job=182a9af3-fb3b-420b-a6c4-660cfb00d916&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.nintendo.com/?gh_jid=4473550009"
     },
     {
       "id": "86c69496-5fa1-437d-913d-d03564810a8a",
