@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:15:40.550Z",
+  "updatedAt": "2026-10-30T19:30:28.551Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -568,18 +568,6 @@
       "listingUrl": "https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027"
     },
     {
-      "id": "e4edb2b2-4bfc-4927-ab92-8144e8958120",
-      "company": "chathamfinancial",
-      "title": "2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Denver, CO",
-      "season": "2027",
-      "posted": "2026-10-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=e4edb2b2-4bfc-4927-ab92-8144e8958120&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
-    },
-    {
       "id": "c415de2c-1848-443d-a12e-8e030868e9f0",
       "company": "Dtna",
       "title": "Software Release Management Intern",
@@ -878,6 +866,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=5d6b6248-7384-44e8-a84c-45958b276c55&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618"
+    },
+    {
+      "id": "e4edb2b2-4bfc-4927-ab92-8144e8958120",
+      "company": "chathamfinancial",
+      "title": "2027 Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Denver, CO",
+      "season": "2027",
+      "posted": "2026-10-27",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=e4edb2b2-4bfc-4927-ab92-8144e8958120&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
     },
     {
       "id": "a4381a9d-490d-464b-88dd-0bcb5580042e",
