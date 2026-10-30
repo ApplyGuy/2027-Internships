@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:15:39.342Z",
+  "updatedAt": "2026-10-30T11:31:02.750Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -1491,18 +1491,6 @@
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565"
     },
     {
-      "id": "ac72fd42-231e-48b3-93df-9d442b6d9de4",
-      "company": "Asml",
-      "title": "Internship - Software Engineer In Test (MOD)",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=ac72fd42-231e-48b3-93df-9d442b6d9de4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568"
-    },
-    {
       "id": "dcc91428-d622-466c-9384-52bd0a8aa910",
       "company": "Directv",
       "title": "Customer Operations Product Management Intern (MBA Student Opportunity)",
@@ -1622,6 +1610,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Aoins&job=07995e6d-0016-4d3e-97c4-ff7e4b634bbe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aoins.wd5.myworkdayjobs.com/autoowners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772"
+    },
+    {
+      "id": "ac72fd42-231e-48b3-93df-9d442b6d9de4",
+      "company": "Asml",
+      "title": "Internship - Software Engineer In Test (MOD)",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=ac72fd42-231e-48b3-93df-9d442b6d9de4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568"
     },
     {
       "id": "49df6dcb-ef09-4a0b-bf1c-262810c1c3cd",
@@ -1876,7 +1876,7 @@
       "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
-      "id": "ab8f936d-6a76-41da-9cf6-dd0725361fa9",
+      "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
       "category": "Product",
@@ -1884,8 +1884,8 @@
       "season": "Summer 2027",
       "posted": "2026-10-22",
       "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ab8f936d-6a76-41da-9cf6-dd0725361fa9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ed0e176d-a3ac-4a66-a168-6cae64558cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
     },
     {
       "id": "6ad62c0d-e35b-455d-8cfe-344940bb7eff",
