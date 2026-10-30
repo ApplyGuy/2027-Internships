@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:16:03.954Z",
+  "updatedAt": "2026-10-30T20:31:01.929Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -1961,18 +1961,6 @@
       "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
-      "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
-      "company": "NVIDIA",
-      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
-      "category": "Product",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-22",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ed0e176d-a3ac-4a66-a168-6cae64558cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
-    },
-    {
       "id": "6ad62c0d-e35b-455d-8cfe-344940bb7eff",
       "company": "Palantir Technologies",
       "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
@@ -2283,6 +2271,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
+      "category": "Product",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ed0e176d-a3ac-4a66-a168-6cae64558cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
     },
     {
       "id": "36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43",
