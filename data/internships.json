@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T05:00:36.215Z",
+  "updatedAt": "2026-10-30T05:15:31.545Z",
   "jobs": [
+    {
+      "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
+      "company": "Axon",
+      "title": "2027 US Software Engineering Internship (Dedrone)",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "season": "2027",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Axon&job=a92b8b52-4305-4fdb-bd80-3b465443315f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"
+    },
     {
       "id": "79bf7862-7b9a-4949-8515-6d85f1718a6b",
       "company": "CACI",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=86c69496-5fa1-437d-913d-d03564810a8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1"
+    },
+    {
+      "id": "28440ead-23a8-4ddf-806d-3194eef110d2",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=28440ead-23a8-4ddf-806d-3194eef110d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
     },
     {
       "id": "dacf499e-9fa5-48e0-ae0f-7e8a2c063480",
@@ -867,18 +891,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
     },
     {
-      "id": "d83e1ce1-8bce-4b7c-af7b-46fb92915b60",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d83e1ce1-8bce-4b7c-af7b-46fb92915b60&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074"
-    },
-    {
       "id": "a0dce538-d218-4f57-9f29-fba6cecf14ea",
       "company": "RTX",
       "title": "Embedded Software Engineering Intern (Summer 2027)",
@@ -1636,6 +1648,32 @@
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -2150,6 +2188,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
@@ -3002,6 +3053,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
