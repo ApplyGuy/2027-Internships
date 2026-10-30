@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T04:45:38.437Z",
+  "updatedAt": "2026-10-30T05:00:36.215Z",
   "jobs": [
+    {
+      "id": "79bf7862-7b9a-4949-8515-6d85f1718a6b",
+      "company": "CACI",
+      "title": "Software Engineering Co-op/Intern - Spring 2027",
+      "category": "Software Engineering",
+      "location": "Rochester, NY",
+      "season": "Spring 2027",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=79bf7862-7b9a-4949-8515-6d85f1718a6b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
+    },
     {
       "id": "892f0873-75d0-4496-8e57-5855478f3e5c",
       "company": "IDEMIA North America",
