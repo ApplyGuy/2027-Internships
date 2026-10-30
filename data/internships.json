@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:45:37.647Z",
+  "updatedAt": "2026-10-30T14:00:31.129Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -1539,18 +1539,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
     },
     {
-      "id": "bed2959a-826b-4a6a-9f80-50bda94f2b29",
-      "company": "KLA",
-      "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=bed2959a-826b-4a6a-9f80-50bda94f2b29&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
-    },
-    {
       "id": "9cc69af8-eca5-4082-aa92-2d53e9c3caad",
       "company": "1Password",
       "title": "Product Management Intern, End User Experience - Winter 2027",
@@ -1682,6 +1670,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Kiongroup&job=cc2c86bc-9b58-4763-8e7b-ec8e2422fbac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
+    },
+    {
+      "id": "bed2959a-826b-4a6a-9f80-50bda94f2b29",
+      "company": "KLA",
+      "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=bed2959a-826b-4a6a-9f80-50bda94f2b29&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
     },
     {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
