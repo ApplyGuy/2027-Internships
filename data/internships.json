@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T21:45:40.446Z",
+  "updatedAt": "2026-10-30T22:00:38.586Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -109,6 +109,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OTTO+Engineering&job=6757a9bf-f187-411f-9f5e-0db53933d2a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027"
+    },
+    {
+      "id": "f638c97b-3f40-4335-8ed9-45a90709fb7d",
+      "company": "Residex Software",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "USA",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Residex+Software&job=f638c97b-3f40-4335-8ed9-45a90709fb7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630054"
     },
     {
       "id": "28440ead-23a8-4ddf-806d-3194eef110d2",
@@ -4108,18 +4120,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Parsons&job=d6f4a0f7-8ba9-4ea1-93e5-199c080c45b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
-    },
-    {
-      "id": "1b902c4d-a077-4ae5-9e8e-9d7b658c9bf3",
-      "company": "Residex Software",
-      "title": "Product Management Intern",
-      "category": "Product",
-      "location": "USA",
-      "season": "Not specified",
-      "posted": "2026-10-09",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Residex+Software&job=1b902c4d-a077-4ae5-9e8e-9d7b658c9bf3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799"
     },
     {
       "id": "d858d5c6-8600-4249-a5d4-2d08c61aeb25",
