@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T01:15:36.459Z",
+  "updatedAt": "2026-10-30T01:30:34.635Z",
   "jobs": [
+    {
+      "id": "892f0873-75d0-4496-8e57-5855478f3e5c",
+      "company": "IDEMIA North America",
+      "title": "Software Product Analyst Intern",
+      "category": "Software Engineering",
+      "location": "Reston, VA",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=892f0873-75d0-4496-8e57-5855478f3e5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8709/software-product-analyst-intern/job"
+    },
     {
       "id": "86c69496-5fa1-437d-913d-d03564810a8a",
       "company": "Northrop Grumman",
@@ -2046,14 +2058,14 @@
     {
       "id": "886777b2-73cb-4035-baba-4f9785d17ca1",
       "company": "IDEMIA North America",
-      "title": "Cloud Software Engineering Internship",
+      "title": "Full Stack Software Engineering Internship",
       "category": "Software Engineering",
-      "location": "Reston, VA",
+      "location": "Eden Prairie, MN",
       "season": "Not specified",
       "posted": "2026-10-21",
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=886777b2-73cb-4035-baba-4f9785d17ca1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job"
+      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job"
     },
     {
       "id": "bd25fab2-08e8-4b20-815b-eee6195bca41",
