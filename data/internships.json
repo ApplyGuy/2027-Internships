@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:00:39.418Z",
+  "updatedAt": "2026-10-30T07:15:37.334Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -265,6 +265,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=59e782ff-c930-41b3-bf0b-f1aa2bb07f98&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
+    },
+    {
+      "id": "ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba",
+      "company": "Philips",
+      "title": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027",
+      "category": "Software Engineering",
+      "location": "Murrysville, PA",
+      "season": "2027",
+      "posted": "2026-10-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730"
     },
     {
       "id": "20d45f54-f92d-4670-b48d-519551bb778f",
