@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:15:13.793Z",
+  "updatedAt": "2026-10-30T02:30:13.434Z",
   "jobs": [
     {
       "id": "892f0873-75d0-4496-8e57-5855478f3e5c",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=86c69496-5fa1-437d-913d-d03564810a8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1"
+    },
+    {
+      "id": "dacf499e-9fa5-48e0-ae0f-7e8a2c063480",
+      "company": "Tmobile",
+      "title": "Summer 2027 Assoc Product Manager Internship",
+      "category": "Product",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746"
     },
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
