@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:30:39.417Z",
+  "updatedAt": "2026-10-30T13:45:37.647Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -939,18 +939,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1"
     },
     {
-      "id": "bc09222d-0e27-4fa3-b22a-60f549097703",
-      "company": "RTX",
-      "title": "Part time Software Engineer Co-op (Remote)",
-      "category": "Software Engineering",
-      "location": "Richardson, TX",
-      "season": "Co-op",
-      "posted": "2026-10-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=bc09222d-0e27-4fa3-b22a-60f549097703&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
-    },
-    {
       "id": "a0dce538-d218-4f57-9f29-fba6cecf14ea",
       "company": "RTX",
       "title": "Embedded Software Engineering Intern (Summer 2027)",
@@ -1261,6 +1249,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Parallel+Systems&job=a3cea309-2060-4f1a-8077-e28e7d99010e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"
+    },
+    {
+      "id": "bc09222d-0e27-4fa3-b22a-60f549097703",
+      "company": "RTX",
+      "title": "Part time Software Engineer Co-op (Remote)",
+      "category": "Software Engineering",
+      "location": "Richardson, TX",
+      "season": "Co-op",
+      "posted": "2026-10-26",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=bc09222d-0e27-4fa3-b22a-60f549097703&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
     },
     {
       "id": "589993c6-bd95-45a2-98d5-03b20cdfd371",
