@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:45:40.425Z",
+  "updatedAt": "2026-10-30T17:00:29.682Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -121,6 +121,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746"
+    },
+    {
+      "id": "91a33b43-452a-4068-a9a7-73fec1f45ce8",
+      "company": "Wexinc",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=91a33b43-452a-4068-a9a7-73fec1f45ce8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern_R22585"
     },
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -6091,18 +6103,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Quantum+Signal+AI&job=aa37f857-f274-498f-b252-473613814761&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn"
-    },
-    {
-      "id": "8e0e44dd-b5e5-4ac4-b646-a3b606b34004",
-      "company": "RTX",
-      "title": "Embedded Software Security Eng. Intern - S3E",
-      "category": "Software Engineering",
-      "location": "Tucson, AZ",
-      "season": "Not specified",
-      "posted": "2026-09-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e0e44dd-b5e5-4ac4-b646-a3b606b34004&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712"
     },
     {
       "id": "f1b3abac-248d-4e6c-9f67-a84d0644206e",
