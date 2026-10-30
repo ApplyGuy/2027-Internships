@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:15:42.064Z",
+  "updatedAt": "2026-10-30T22:31:01.352Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=79bf7862-7b9a-4949-8515-6d85f1718a6b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
+    },
+    {
+      "id": "fd91f948-15ad-4246-b44c-fdf87e0c3491",
+      "company": "Elucid",
+      "title": "Software Engineering Intern: Spring 2027",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Spring 2027",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Elucid&job=fd91f948-15ad-4246-b44c-fdf87e0c3491&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://elucid.applytojob.com/apply/6VSEqF73l9"
     },
     {
       "id": "d54632e2-2394-454b-a93d-d671da41a2fc",
@@ -460,18 +472,6 @@
       "listingUrl": "https://apply.workable.com/syntiant/j/468B53B345/"
     },
     {
-      "id": "fa3829df-b400-46f5-af43-3c2306513d55",
-      "company": "Tmobile",
-      "title": "Summer 2027 Associate Technical Product Manager Internship",
-      "category": "Product",
-      "location": "Frisco, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-29",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=fa3829df-b400-46f5-af43-3c2306513d55&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499"
-    },
-    {
       "id": "3e5cf1fd-6b3f-418f-88ac-9d6131c24d38",
       "company": "Two Six Technologies",
       "title": "Systems Software Engineering Intern",
@@ -878,6 +878,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=23c211e2-12e0-4994-a983-e7f95d04d8be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Columbus-OH/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Columbus-_R2626609"
+    },
+    {
+      "id": "fa3829df-b400-46f5-af43-3c2306513d55",
+      "company": "Tmobile",
+      "title": "Summer 2027 Associate Technical Product Manager Internship",
+      "category": "Product",
+      "location": "Frisco, TX",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=fa3829df-b400-46f5-af43-3c2306513d55&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499"
     },
     {
       "id": "8063a064-d473-4118-9425-ee5eeed49d25",
@@ -1612,18 +1624,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4724521006"
     },
     {
-      "id": "fb0ed817-fa80-4233-b29c-49f162601ce8",
-      "company": "Kla",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=fb0ed817-fa80-4233-b29c-49f162601ce8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
-    },
-    {
       "id": "9cc69af8-eca5-4082-aa92-2d53e9c3caad",
       "company": "1Password",
       "title": "Product Management Intern, End User Experience - Winter 2027",
@@ -1769,6 +1769,18 @@
       "listingUrl": "https://apply.workable.com/coretek-services/j/21D19CC253/"
     },
     {
+      "id": "fb0ed817-fa80-4233-b29c-49f162601ce8",
+      "company": "Kla",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=fb0ed817-fa80-4233-b29c-49f162601ce8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
+    },
+    {
       "id": "d9f8408d-6ead-417e-af05-12ff9fcc48e5",
       "company": "Kla",
       "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
@@ -1791,32 +1803,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=bed2959a-826b-4a6a-9f80-50bda94f2b29&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
-    },
-    {
-      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Oklahoma, Tulsa",
-      "season": "Not specified",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:70563d2022c54be06bb0",
-      "company": "Microsoft",
-      "title": "Product Management Intern",
-      "category": "Product",
-      "location": "United States, Massachusetts, Cambridge",
-      "season": "Not specified",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-      "applySupported": false
     },
     {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
@@ -2333,19 +2319,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
-    },
-    {
-      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Cambridge",
-      "season": "Not specified",
-      "posted": "2026-10-21",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "applySupported": false
     },
     {
       "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
@@ -3198,19 +3171,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
