@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:46:15.123Z",
+  "updatedAt": "2026-10-30T01:00:33.557Z",
   "jobs": [
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -447,18 +447,6 @@
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
     },
     {
-      "id": "625ff10f-fc34-44b5-9328-7b4961b72f66",
-      "company": "Gaig",
-      "title": "Platform Operations Developer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Cincinnati, OH (USA)",
-      "season": "Summer 2027",
-      "posted": "2026-10-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Gaig&job=625ff10f-fc34-44b5-9328-7b4961b72f66&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
-    },
-    {
       "id": "48ec677f-34a6-4f93-a583-4bb0de4c0a10",
       "company": "Garda Capital Partners",
       "title": "Software Engineer Intern (C#)",
@@ -721,6 +709,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Commonwealth+Fusion+Systems&job=a4381a9d-490d-464b-88dd-0bcb5580042e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619"
+    },
+    {
+      "id": "625ff10f-fc34-44b5-9328-7b4961b72f66",
+      "company": "Gaig",
+      "title": "Platform Operations Developer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Cincinnati, OH (USA)",
+      "season": "Summer 2027",
+      "posted": "2026-10-27",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Gaig&job=625ff10f-fc34-44b5-9328-7b4961b72f66&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
     },
     {
       "id": "fe62422c-a1f9-4d4c-a101-712b43cf8f49",
@@ -1564,6 +1564,32 @@
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -2078,6 +2104,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
@@ -2942,6 +2981,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -5946,18 +5998,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=394fe88c-1f1c-4247-a8f0-bac3ecffc0c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007"
-    },
-    {
-      "id": "8a26990d-f234-430f-9457-37b2365690e9",
-      "company": "Muon Space",
-      "title": "GNC Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-09-30",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Muon+Space&job=8a26990d-f234-430f-9457-37b2365690e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
     },
     {
       "id": "fbb9f328-cf8e-4981-bf97-ff1890c27c86",
