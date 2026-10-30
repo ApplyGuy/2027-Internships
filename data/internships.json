@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:45:31.631Z",
+  "updatedAt": "2026-10-30T16:00:39.773Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -1685,18 +1685,6 @@
       "listingUrl": "https://apply.workable.com/coretek-services/j/21D19CC253/"
     },
     {
-      "id": "cc2c86bc-9b58-4763-8e7b-ec8e2422fbac",
-      "company": "Kiongroup",
-      "title": "Software Analytics Co-op",
-      "category": "Software Engineering",
-      "location": "Grand Rapids, MI",
-      "season": "Co-op",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Kiongroup&job=cc2c86bc-9b58-4763-8e7b-ec8e2422fbac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
-    },
-    {
       "id": "bed2959a-826b-4a6a-9f80-50bda94f2b29",
       "company": "KLA",
       "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
@@ -1887,6 +1875,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=40c286f3-3af9-4dd2-923e-cb0ce1fd884d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004"
+    },
+    {
+      "id": "cc2c86bc-9b58-4763-8e7b-ec8e2422fbac",
+      "company": "Kiongroup",
+      "title": "Software Analytics Co-op",
+      "category": "Software Engineering",
+      "location": "Grand Rapids, MI",
+      "season": "Co-op",
+      "posted": "2026-10-22",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Kiongroup&job=cc2c86bc-9b58-4763-8e7b-ec8e2422fbac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
       "id": "98a56d2e-e5b7-4aaa-a076-eb43fbdffdb0",
