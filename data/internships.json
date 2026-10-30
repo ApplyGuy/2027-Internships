@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:45:33.333Z",
+  "updatedAt": "2026-10-30T09:00:31.253Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -111,16 +111,16 @@
       "applySupported": false
     },
     {
-      "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
-      "company": "Asml",
-      "title": "Internship- Software Development Engineer in Test",
+      "id": "98395cd4-4a76-4b95-a688-75da642ce272",
+      "company": "chathamfinancial",
+      "title": "2027 Software Engineering Intern",
       "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Not specified",
+      "location": "Kennett Square, PA",
+      "season": "2027",
       "posted": "2026-10-29",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=99e4ae1c-84a6-4da0-bf85-b84d38e6ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459"
+      "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=98395cd4-4a76-4b95-a688-75da642ce272&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
     },
     {
       "id": "7faf158d-7dfc-4f87-aa96-6df7ab9860e0",
@@ -447,6 +447,18 @@
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
     },
     {
+      "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
+      "company": "Asml",
+      "title": "Internship- Software Development Engineer in Test",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=99e4ae1c-84a6-4da0-bf85-b84d38e6ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459"
+    },
+    {
       "id": "73fc73ef-75e4-466b-b378-f2c23fdbeec4",
       "company": "Asml",
       "title": "Internship/Co-Op: Data Engineer",
@@ -529,18 +541,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=e4edb2b2-4bfc-4927-ab92-8144e8958120&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
-    },
-    {
-      "id": "98395cd4-4a76-4b95-a688-75da642ce272",
-      "company": "chathamfinancial",
-      "title": "2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Kennett Square, PA",
-      "season": "2027",
-      "posted": "2026-10-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=chathamfinancial&job=98395cd4-4a76-4b95-a688-75da642ce272&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
     },
     {
       "id": "c415de2c-1848-443d-a12e-8e030868e9f0",
@@ -1684,32 +1684,6 @@
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
     },
     {
-      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "United States, Oklahoma, Tulsa",
-      "season": "Not specified",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:70563d2022c54be06bb0",
-      "company": "Microsoft",
-      "title": "Product Management Intern",
-      "category": "Product",
-      "location": "United States, Massachusetts, Cambridge",
-      "season": "Not specified",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-      "applySupported": false
-    },
-    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -1720,18 +1694,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=MongoDB&job=e0ef0052-1055-4712-a35d-86b3333ae940&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
-    },
-    {
-      "id": "98a56d2e-e5b7-4aaa-a076-eb43fbdffdb0",
-      "company": "Mtb",
-      "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
-      "category": "Software Engineering",
-      "location": "Buffalo, NY",
-      "season": "Not specified",
-      "posted": "2026-10-23",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Mtb&job=98a56d2e-e5b7-4aaa-a076-eb43fbdffdb0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
       "id": "3e24cb00-6d1f-4895-9fac-f40c3c382169",
@@ -1900,6 +1862,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=40c286f3-3af9-4dd2-923e-cb0ce1fd884d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004"
+    },
+    {
+      "id": "98a56d2e-e5b7-4aaa-a076-eb43fbdffdb0",
+      "company": "Mtb",
+      "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
+      "category": "Software Engineering",
+      "location": "Buffalo, NY",
+      "season": "Not specified",
+      "posted": "2026-10-22",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Mtb&job=98a56d2e-e5b7-4aaa-a076-eb43fbdffdb0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mtb.wd5.myworkdayjobs.com/campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
       "id": "ab8f936d-6a76-41da-9cf6-dd0725361fa9",
@@ -2224,19 +2198,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
-    },
-    {
-      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Cambridge",
-      "season": "Not specified",
-      "posted": "2026-10-21",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "applySupported": false
     },
     {
       "id": "36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43",
@@ -3089,19 +3050,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
