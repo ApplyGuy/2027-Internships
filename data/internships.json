@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:00:37.211Z",
+  "updatedAt": "2026-10-30T06:15:30.445Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -2188,18 +2188,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
     },
     {
-      "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
-      "company": "NVIDIA",
-      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=866b5ffb-90da-4fd0-a64e-d195a42fe355&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
-    },
-    {
       "id": "36a5aeb0-a88b-4ddf-8ed4-d14efe48fb43",
       "company": "Rakuten",
       "title": "Intern - Software Engineer, AI User Experience",
@@ -2402,6 +2390,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Intel&job=a240414b-4f3d-42ef-b769-a11aa25d6558&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
+    },
+    {
+      "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
+      "company": "NVIDIA",
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-20",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=866b5ffb-90da-4fd0-a64e-d195a42fe355&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
     },
     {
       "id": "3810b24d-8d55-4c57-a3de-1103dfbdbfdc",
