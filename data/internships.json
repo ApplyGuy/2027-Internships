@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T21:16:01.373Z",
+  "updatedAt": "2026-10-30T21:30:31.880Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -266,18 +266,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Gaig&job=199cc3fa-6c20-4ebe-a138-ac2496aa1879&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813"
-    },
-    {
-      "id": "f2c9cc94-504a-40de-bdab-f71ebb0414ef",
-      "company": "HP",
-      "title": "Software Product Security Intern - HP IQ",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-10-29",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=f2c9cc94-504a-40de-bdab-f71ebb0414ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
     },
     {
       "id": "6322ad80-f9f5-4574-a5f9-91de32df8631",
@@ -674,6 +662,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802"
+    },
+    {
+      "id": "29fafc4b-4262-406a-a45b-ea2c4ff449ec",
+      "company": "HP",
+      "title": "Software Product Security Intern - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-10-28",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=29fafc4b-4262-406a-a45b-ea2c4ff449ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1"
     },
     {
       "id": "557e93ab-2170-4492-9371-087b4bb339fc",
@@ -1769,6 +1769,32 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
     },
     {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -2283,6 +2309,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
@@ -3147,6 +3186,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
