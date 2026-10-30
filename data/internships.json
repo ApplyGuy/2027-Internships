@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:00:32.397Z",
+  "updatedAt": "2026-10-30T23:15:40.164Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -3063,30 +3063,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Pebl&job=47b5c101-2b3c-43c7-8d69-89816548b1c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4"
-    },
-    {
-      "id": "acdeb7d6-cc49-4679-ac17-5a85f898f379",
-      "company": "Ryan",
-      "title": "Summer 2027 Intern, Software Development",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-16",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Ryan&job=acdeb7d6-cc49-4679-ac17-5a85f898f379&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
-    },
-    {
-      "id": "222bb955-9202-497a-a40a-4f92af959eb9",
-      "company": "Ryan",
-      "title": "Summer 2027 Intern, Software Engineering",
-      "category": "Software Engineering",
-      "location": "Plano, TX",
-      "season": "Summer 2027",
-      "posted": "2026-10-16",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Ryan&job=222bb955-9202-497a-a40a-4f92af959eb9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
     },
     {
       "id": "2f4a7ff3-33d0-4aa2-ba16-06c37fba2927",
