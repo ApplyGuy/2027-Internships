@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:15:35.148Z",
+  "updatedAt": "2026-10-30T00:30:34.630Z",
   "jobs": [
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
@@ -1407,6 +1407,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4724521006"
     },
     {
+      "id": "fb0ed817-fa80-4233-b29c-49f162601ce8",
+      "company": "Kla",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-10-24",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=fb0ed817-fa80-4233-b29c-49f162601ce8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
+    },
+    {
       "id": "bed2959a-826b-4a6a-9f80-50bda94f2b29",
       "company": "KLA",
       "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
@@ -1429,18 +1441,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=931ad40a-4c25-44a4-883c-733b9817cf99&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
-    },
-    {
-      "id": "5f373a6b-8a79-49a0-b1f8-1f0cffb2e090",
-      "company": "KLA",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=5f373a6b-8a79-49a0-b1f8-1f0cffb2e090&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2642189"
     },
     {
       "id": "9cc69af8-eca5-4082-aa92-2d53e9c3caad",
@@ -1562,6 +1562,32 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Kiongroup&job=cc2c86bc-9b58-4763-8e7b-ec8e2422fbac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
+    },
+    {
+      "id": "custom:microsoft:92ee5e07722eb05c6dc9",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "United States, Oklahoma, Tulsa",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
     },
     {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
@@ -2078,6 +2104,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "866b5ffb-90da-4fd0-a64e-d195a42fe355",
@@ -2942,6 +2981,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
