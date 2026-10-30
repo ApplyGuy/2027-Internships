@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:00:30.555Z",
+  "updatedAt": "2026-10-30T11:15:39.342Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -435,18 +435,6 @@
       "listingUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139"
     },
     {
-      "id": "aa3c0a80-343b-4663-83b0-f127c168fb07",
-      "company": "Asml",
-      "title": "Internship - Frontend Developer",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
-    },
-    {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
       "company": "Asml",
       "title": "Internship- Software Development Engineer in Test",
@@ -805,6 +793,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=8063a064-d473-4118-9425-ee5eeed49d25&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"
+    },
+    {
+      "id": "aa3c0a80-343b-4663-83b0-f127c168fb07",
+      "company": "Asml",
+      "title": "Internship - Frontend Developer",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-27",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=aa3c0a80-343b-4663-83b0-f127c168fb07&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
     },
     {
       "id": "4bdeb64e-3c3d-489f-b6dc-6e851faec7e9",
