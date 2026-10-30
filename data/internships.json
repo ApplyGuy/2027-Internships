@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:31:01.929Z",
+  "updatedAt": "2026-10-30T20:45:40.005Z",
   "jobs": [
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -157,6 +157,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Stripe&job=09c6a83d-9c88-4336-a346-7d881fd9420d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://stripe.com/jobs/search?gh_jid=8333074"
+    },
+    {
+      "id": "0f7db5f9-6a38-4e17-8cb4-5fea643074a3",
+      "company": "Teamworks",
+      "title": "Product Management MBA Intern",
+      "category": "Product",
+      "location": "Remote, U.S.",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06"
     },
     {
       "id": "dacf499e-9fa5-48e0-ae0f-7e8a2c063480",
