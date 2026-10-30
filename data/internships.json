@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:45:38.615Z",
+  "updatedAt": "2026-10-30T08:00:37.211Z",
   "jobs": [
     {
       "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
@@ -1539,6 +1539,18 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
     },
     {
+      "id": "d9f8408d-6ead-417e-af05-12ff9fcc48e5",
+      "company": "Kla",
+      "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-10-24",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=d9f8408d-6ead-417e-af05-12ff9fcc48e5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
+    },
+    {
       "id": "bed2959a-826b-4a6a-9f80-50bda94f2b29",
       "company": "KLA",
       "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
@@ -1549,18 +1561,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=bed2959a-826b-4a6a-9f80-50bda94f2b29&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
-    },
-    {
-      "id": "931ad40a-4c25-44a4-883c-733b9817cf99",
-      "company": "KLA",
-      "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-10-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=931ad40a-4c25-44a4-883c-733b9817cf99&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
     },
     {
       "id": "9cc69af8-eca5-4082-aa92-2d53e9c3caad",
