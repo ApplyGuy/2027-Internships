@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T03:00:46.119Z",
+  "updatedAt": "2026-10-31T03:15:58.894Z",
   "jobs": [
+    {
+      "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
+      "company": "Firework",
+      "title": "Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Not specified",
+      "posted": "2026-10-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Firework&job=e8886a9b-8b7b-430c-baad-f82a9a082949&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"
+    },
     {
       "id": "978587c8-7eb8-432c-9cc4-880d0697aedd",
       "company": "HP",
