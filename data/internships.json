@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:00:12.016Z",
+  "updatedAt": "2026-10-31T23:15:09.827Z",
   "jobs": [
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -5695,42 +5695,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Spartannash&job=9e781cc1-6849-4f9b-a23e-ec0161cc0740&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
-    },
-    {
-      "id": "b21f5d5e-6fac-44d9-817f-ce35d8bb8fa5",
-      "company": "RTX",
-      "title": "Flight Control Software Engineering Intern (Summer 2027) (Open)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=b21f5d5e-6fac-44d9-817f-ce35d8bb8fa5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974"
-    },
-    {
-      "id": "e3dd4185-11a2-4a06-8860-cffd34f55cf9",
-      "company": "RTX",
-      "title": "Software Engineer, DevSecOps Co-Op (Summer/Fall 2027) (Hybrid)",
-      "category": "Software Engineering",
-      "location": "Aguadilla, PR",
-      "season": "Fall 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e3dd4185-11a2-4a06-8860-cffd34f55cf9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555"
-    },
-    {
-      "id": "cfb2a6ec-4ad0-49ab-a436-06429aaf4dfc",
-      "company": "RTX",
-      "title": "Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid)",
-      "category": "Software Engineering",
-      "location": "Aguadilla, PR",
-      "season": "Fall 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=cfb2a6ec-4ad0-49ab-a436-06429aaf4dfc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
     }
   ]
 }
