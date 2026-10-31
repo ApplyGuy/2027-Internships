@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:15:42.486Z",
+  "updatedAt": "2026-10-31T22:30:20.993Z",
   "jobs": [
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -5770,18 +5770,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=cfb2a6ec-4ad0-49ab-a436-06429aaf4dfc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
-    },
-    {
-      "id": "72a631ab-9568-4c51-ba04-9ab27a6e355c",
-      "company": "Walleye Capital Internships",
-      "title": "Special Projects Developer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Walleye+Capital+Internships&job=72a631ab-9568-4c51-ba04-9ab27a6e355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"
     }
   ]
 }
