@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:00:09.000Z",
+  "updatedAt": "2026-10-31T19:15:12.964Z",
   "jobs": [
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -5707,30 +5707,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Attentive&job=b432d3f6-8836-4ebc-8274-3e548b5f8b44&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/attentive/jobs/4429880009"
-    },
-    {
-      "id": "87c50de7-3689-43b1-b92f-66881d5d5cd4",
-      "company": "Election Systems & Software LLC",
-      "title": "Summer Internship 2027 - DevOps",
-      "category": "Software Engineering",
-      "location": "Omaha, NE",
-      "season": "Summer 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=87c50de7-3689-43b1-b92f-66881d5d5cd4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553481"
-    },
-    {
-      "id": "82381cee-a37d-4be4-8935-d452b9955a00",
-      "company": "Election Systems & Software LLC",
-      "title": "Summer Internship 2027 - Software Development",
-      "category": "Software Engineering",
-      "location": "Omaha, NE",
-      "season": "Summer 2027",
-      "posted": "2026-10-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Election+Systems+%26+Software+LLC&job=82381cee-a37d-4be4-8935-d452b9955a00&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447"
     },
     {
       "id": "4ac8d122-d8bc-4d5c-8c2d-5560447336b1",
