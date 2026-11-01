@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T01:15:40.151Z",
+  "updatedAt": "2026-11-01T01:30:12.906Z",
   "jobs": [
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -195,18 +195,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630054"
     },
     {
-      "id": "28440ead-23a8-4ddf-806d-3194eef110d2",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Cedar Rapids, IA",
-      "season": "Summer 2027",
-      "posted": "2026-10-30",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=28440ead-23a8-4ddf-806d-3194eef110d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
-    },
-    {
       "id": "0af1c032-a7a1-4c3e-bd79-4d8951aeb307",
       "company": "Signify",
       "title": "Product Management Intern, Cooper Lighting Solutions - Spring 2027",
@@ -400,18 +388,6 @@
       "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
     },
     {
-      "id": "2c459c95-f4eb-41e8-9b66-683a02f21e26",
-      "company": "Kla",
-      "title": "Software Intern",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-10-29",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=2c459c95-f4eb-41e8-9b66-683a02f21e26&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642700-1"
-    },
-    {
       "id": "cbdbb6dd-4286-4040-ac1c-376cbf6f9cae",
       "company": "Kla",
       "title": "Software Engineer Intern",
@@ -422,6 +398,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Kla&job=cbdbb6dd-4286-4040-ac1c-376cbf6f9cae&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+    },
+    {
+      "id": "8ffeaba6-2f2e-4a4f-8299-caf460797970",
+      "company": "KLA",
+      "title": "Software Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=8ffeaba6-2f2e-4a4f-8299-caf460797970&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Intern_2642700"
     },
     {
       "id": "e3341772-e8ea-4505-95d5-560abc0dcf5c",
@@ -470,6 +458,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Philips&job=ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730"
+    },
+    {
+      "id": "28440ead-23a8-4ddf-806d-3194eef110d2",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Cedar Rapids, IA",
+      "season": "Summer 2027",
+      "posted": "2026-10-29",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=28440ead-23a8-4ddf-806d-3194eef110d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
     },
     {
       "id": "20d45f54-f92d-4670-b48d-519551bb778f",
@@ -772,7 +772,7 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802"
     },
     {
-      "id": "29fafc4b-4262-406a-a45b-ea2c4ff449ec",
+      "id": "f2c9cc94-504a-40de-bdab-f71ebb0414ef",
       "company": "HP",
       "title": "Software Product Security Intern - HP IQ",
       "category": "Software Engineering",
@@ -780,8 +780,8 @@
       "season": "Not specified",
       "posted": "2026-10-28",
       "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=29fafc4b-4262-406a-a45b-ea2c4ff449ec&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1"
+      "url": "https://applyguy.ai/jobs?company=HP&job=f2c9cc94-504a-40de-bdab-f71ebb0414ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
     },
     {
       "id": "557e93ab-2170-4492-9371-087b4bb339fc",
