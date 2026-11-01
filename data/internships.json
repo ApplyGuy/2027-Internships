@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:15:21.531Z",
+  "updatedAt": "2026-11-01T10:30:20.230Z",
   "jobs": [
     {
       "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
@@ -266,18 +266,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=1a40cc5e-a42c-4c6c-98a6-ec805d2e7d95&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
-    },
-    {
-      "id": "dacf499e-9fa5-48e0-ae0f-7e8a2c063480",
-      "company": "Tmobile",
-      "title": "Summer 2027 Assoc Product Manager Internship",
-      "category": "Product",
-      "location": "Overland Park, KS",
-      "season": "Summer 2027",
-      "posted": "2026-10-30",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746"
     },
     {
       "id": "91a33b43-452a-4068-a9a7-73fec1f45ce8",
@@ -567,6 +555,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Syntiant&job=21c7919d-ef95-4a7e-819b-5e4f754f3ce2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apply.workable.com/syntiant/j/468B53B345/"
+    },
+    {
+      "id": "dacf499e-9fa5-48e0-ae0f-7e8a2c063480",
+      "company": "Tmobile",
+      "title": "Summer 2027 Assoc Product Manager Internship",
+      "category": "Product",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-10-29",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746"
     },
     {
       "id": "3e5cf1fd-6b3f-418f-88ac-9d6131c24d38",
