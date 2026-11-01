@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-01T19:15:11.427Z",
+  "updatedAt": "2026-11-01T19:30:19.572Z",
   "jobs": [
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-01",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
+    },
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
       "company": "Firework",
@@ -1889,6 +1902,19 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
     },
     {
+      "id": "custom:microsoft:70563d2022c54be06bb0",
+      "company": "Microsoft",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-23",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "applySupported": false
+    },
+    {
       "id": "e0ef0052-1055-4712-a35d-86b3333ae940",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -2403,6 +2429,19 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Metalenz&job=04b7b4d7-532b-4f40-8404-91a821be8fc6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+    },
+    {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
     },
     {
       "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
@@ -3219,6 +3258,19 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "17d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
@@ -5442,42 +5494,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Arc+Boat+Company&job=a82ae4fa-9d2f-4136-9e8f-75e49ab5718a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
-    },
-    {
-      "id": "f27e049e-2869-4699-91a8-300983cbd105",
-      "company": "Jci",
-      "title": "Software/Controls Engineering Grad Intern (Fall Intern)",
-      "category": "Software Engineering",
-      "location": "Salem-Virginia-United States of America",
-      "season": "Fall",
-      "posted": "2026-10-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Jci&job=f27e049e-2869-4699-91a8-300983cbd105&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
-    },
-    {
-      "id": "df98ee96-c8f4-45c2-b55a-d52d6ce65a03",
-      "company": "SpaceXAI",
-      "title": "Spring 2027 Software Engineering Internship/Co-op",
-      "category": "Software Engineering",
-      "location": "Palo Alto, CA",
-      "season": "Spring 2027",
-      "posted": "2026-10-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SpaceXAI&job=df98ee96-c8f4-45c2-b55a-d52d6ce65a03&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/xai/jobs/5252108007"
-    },
-    {
-      "id": "969a1f5b-6c1d-429e-be8a-2cf39691d453",
-      "company": "SpaceXAI",
-      "title": "Summer 2027 Software Engineering Internship/Co-op",
-      "category": "Software Engineering",
-      "location": "Palo Alto, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-02",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SpaceXAI&job=969a1f5b-6c1d-429e-be8a-2cf39691d453&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
     }
   ]
 }
