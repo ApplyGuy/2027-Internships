@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:30:09.392Z",
+  "updatedAt": "2026-11-01T06:45:24.747Z",
   "jobs": [
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -24,18 +24,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HP&job=978587c8-7eb8-432c-9cc4-880d0697aedd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1"
-    },
-    {
-      "id": "9058ecb9-88dd-4468-8548-30b007189f61",
-      "company": "Hpe",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Not specified",
-      "posted": "2026-10-31",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Hpe&job=9058ecb9-88dd-4468-8548-30b007189f61&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
     },
     {
       "id": "custom:amazon:0f6fb3e7fd3310b62be9",
@@ -97,6 +85,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=9814f3ec-da7e-4e86-81e6-268f59c80b81&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"
+    },
+    {
+      "id": "9058ecb9-88dd-4468-8548-30b007189f61",
+      "company": "Hpe",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Not specified",
+      "posted": "2026-10-30",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=9058ecb9-88dd-4468-8548-30b007189f61&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
     },
     {
       "id": "892f0873-75d0-4496-8e57-5855478f3e5c",
