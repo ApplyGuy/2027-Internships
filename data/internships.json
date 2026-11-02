@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-02T22:45:24.832Z",
+  "updatedAt": "2026-11-02T23:00:26.202Z",
   "jobs": [
+    {
+      "id": "a8aea8da-6dc3-4d95-b4a9-5d8240f18dcf",
+      "company": "Amat",
+      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=a8aea8da-6dc3-4d95-b4a9-5d8240f18dcf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003"
+    },
     {
       "id": "e1c14cd2-4a41-428a-953a-dc06ee71151d",
       "company": "Entrust",
@@ -108,6 +120,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Plexus&job=90950c9b-5a86-49c7-9ed3-a9bf85ff471d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782"
+    },
+    {
+      "id": "dec93db6-78e0-42fe-8c19-41ee2923da0c",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Agentic Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Frisco, TX",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=dec93db6-78e0-42fe-8c19-41ee2923da0c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007"
+    },
+    {
+      "id": "bbac746c-0170-4e2c-8c0c-af7049ed0c31",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=bbac746c-0170-4e2c-8c0c-af7049ed0c31&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007"
+    },
+    {
+      "id": "262d41ab-b3c6-4257-9ecf-97faef478310",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Agentic Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=262d41ab-b3c6-4257-9ecf-97faef478310&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007"
     },
     {
       "id": "9da348d5-c8e7-4ad7-a1ce-0dedffc5247a",
