@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:15:46.962Z",
+  "updatedAt": "2026-11-02T20:30:26.740Z",
   "jobs": [
     {
       "id": "e1c14cd2-4a41-428a-953a-dc06ee71151d",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ParetoHealth&job=44acc2c1-37d6-471e-b335-bfb2077c2cbd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
+    },
+    {
+      "id": "90950c9b-5a86-49c7-9ed3-a9bf85ff471d",
+      "company": "Plexus",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Neenah, WI",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Plexus&job=90950c9b-5a86-49c7-9ed3-a9bf85ff471d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782"
     },
     {
       "id": "979c8207-9ebc-4c7c-84cc-6ca1b5c5b80d",
