@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-02T18:00:26.629Z",
+  "updatedAt": "2026-11-02T18:15:16.285Z",
   "jobs": [
+    {
+      "id": "e1c14cd2-4a41-428a-953a-dc06ee71151d",
+      "company": "Entrust",
+      "title": "AI Developer Intern",
+      "category": "Software Engineering",
+      "location": "Shakopee, MN (GHQ)",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Entrust&job=e1c14cd2-4a41-428a-953a-dc06ee71151d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397"
+    },
     {
       "id": "ef969ae2-035d-473c-9dfe-9e517a1afb19",
       "company": "Envoy Air Inc.",
