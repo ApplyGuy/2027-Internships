@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:45:26.286Z",
+  "updatedAt": "2026-11-02T20:00:31.782Z",
   "jobs": [
     {
       "id": "e1c14cd2-4a41-428a-953a-dc06ee71151d",
@@ -24,6 +24,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Envoy+Air+Inc.&job=ef969ae2-035d-473c-9dfe-9e517a1afb19&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?hub=10"
+    },
+    {
+      "id": "12696bd2-02a8-44b7-90e3-a2188867d2cb",
+      "company": "Kla",
+      "title": "Software Engineer (AI/ML) Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kla&job=12696bd2-02a8-44b7-90e3-a2188867d2cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1"
+    },
+    {
+      "id": "8a088b9a-2a97-428b-920e-5d7cdd324462",
+      "company": "KLA",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Totowa, NJ",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=8a088b9a-2a97-428b-920e-5d7cdd324462&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151"
+    },
+    {
+      "id": "cf719277-c39e-4b4d-9ae6-1ea09a1f1a00",
+      "company": "Odl",
+      "title": "Corporate Product Management Intern",
+      "category": "Product",
+      "location": "Zeeland, MI",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Odl&job=cf719277-c39e-4b4d-9ae6-1ea09a1f1a00&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://odl.wd5.myworkdayjobs.com/ODL/job/Zeeland-MI/Corporate-Product-Management-Intern_R004251"
     },
     {
       "id": "6111189b-5813-4b17-b692-8da642ee83d5",
