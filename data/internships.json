@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:00:31.782Z",
+  "updatedAt": "2026-11-02T20:15:46.962Z",
   "jobs": [
     {
       "id": "e1c14cd2-4a41-428a-953a-dc06ee71151d",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ParetoHealth&job=44acc2c1-37d6-471e-b335-bfb2077c2cbd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
+    },
+    {
+      "id": "979c8207-9ebc-4c7c-84cc-6ca1b5c5b80d",
+      "company": "KnowBe4",
+      "title": "Software Engineer Summer Internship",
+      "category": "Software Engineering",
+      "location": "Clearwater, FL",
+      "season": "Summer",
+      "posted": "2026-11-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=KnowBe4&job=979c8207-9ebc-4c7c-84cc-6ca1b5c5b80d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
     },
     {
       "id": "dc80ae42-f61e-49a3-b896-55d05e07340b",
