@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:00:26.917Z",
+  "updatedAt": "2026-11-03T22:15:14.722Z",
   "jobs": [
     {
       "id": "fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069",
@@ -830,18 +830,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Gaig&job=199cc3fa-6c20-4ebe-a138-ac2496aa1879&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813"
-    },
-    {
-      "id": "9814f3ec-da7e-4e86-81e6-268f59c80b81",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-29",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=9814f3ec-da7e-4e86-81e6-268f59c80b81&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"
     },
     {
       "id": "cbdbb6dd-4286-4040-ac1c-376cbf6f9cae",
@@ -3629,18 +3617,6 @@
       "listingUrl": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002"
     },
     {
-      "id": "9f9ccce2-c0fe-42e0-a016-1f482274bd61",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
-      "category": "Software Engineering",
-      "location": "Warren, MI",
-      "season": "Summer 2027",
-      "posted": "2026-10-15",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=9f9ccce2-c0fe-42e0-a016-1f482274bd61&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539"
-    },
-    {
       "id": "89d69d0f-67f8-4bb4-bb45-ab34a0070da3",
       "company": "Inversion",
       "title": "Avionics Embedded Software Engineer - Summer Internship 2027",
@@ -3819,42 +3795,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Figure&job=82986888-d765-4e34-a68d-127aa37365c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
-    },
-    {
-      "id": "e7e511b6-553e-42d2-9a53-69635a47e139",
-      "company": "Generalmotors",
-      "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "2027",
-      "posted": "2026-10-14",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=e7e511b6-553e-42d2-9a53-69635a47e139&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406"
-    },
-    {
-      "id": "4cde2d25-f8cd-46df-8c9b-07956a57a1e9",
-      "company": "Generalmotors",
-      "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "2027",
-      "posted": "2026-10-14",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=4cde2d25-f8cd-46df-8c9b-07956a57a1e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
-    },
-    {
-      "id": "3aaa7242-ca8d-4a8e-a46c-295a903f29bc",
-      "company": "Generalmotors",
-      "title": "2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)",
-      "category": "Product",
-      "location": "Sunnyvale, CA",
-      "season": "2027",
-      "posted": "2026-10-14",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=3aaa7242-ca8d-4a8e-a46c-295a903f29bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
     },
     {
       "id": "5c9752c1-7c25-48c1-83d3-c3f975fa8406",
@@ -4843,18 +4783,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
     },
     {
-      "id": "66475e31-b7cd-4813-92b7-1da1ea61e813",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's)",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-08",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=66475e31-b7cd-4813-92b7-1da1ea61e813&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064"
-    },
-    {
       "id": "8aee560a-e240-43cb-9ca4-e84f9f5eb5e1",
       "company": "Gentuity",
       "title": "Test Engineer - Software & Systems Co-Op",
@@ -5444,18 +5372,6 @@
       "listingUrl": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
     },
     {
-      "id": "c1957bd2-1461-479d-a8f6-621c45c3dab3",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
-      "category": "Software Engineering",
-      "location": "Warren, MI",
-      "season": "Summer 2027",
-      "posted": "2026-10-06",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=c1957bd2-1461-479d-a8f6-621c45c3dab3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
-    },
-    {
       "id": "cd184fe0-dff9-4021-948b-b35d3055b721",
       "company": "IDEMIA North America",
       "title": "Software Engineering Internship - Enrollment and Credentialing Services",
@@ -5682,30 +5598,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Found+Industries&job=61348986-5b6e-4fd7-955f-2cf14106482a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"
-    },
-    {
-      "id": "8b5d7302-e273-4d88-98c9-223103dcaafa",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-05",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=8b5d7302-e273-4d88-98c9-223103dcaafa&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649"
-    },
-    {
-      "id": "206385ae-4f98-4fdf-bd00-b0eb7af56790",
-      "company": "Generalmotors",
-      "title": "2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
-      "category": "Software Engineering",
-      "location": "Sunnyvale, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-05",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=206385ae-4f98-4fdf-bd00-b0eb7af56790&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
     },
     {
       "id": "b8ff7e3b-9350-47ec-ab46-3b8ab0edeffc",
