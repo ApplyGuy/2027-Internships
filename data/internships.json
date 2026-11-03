@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:15:14.903Z",
+  "updatedAt": "2026-11-03T17:30:37.600Z",
   "jobs": [
     {
       "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jmfamily&job=f9e4f20c-7107-49cc-8305-e59909b4971c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
+    },
+    {
+      "id": "51821903-b78b-4dd6-b122-b43c731aaf3f",
+      "company": "KEEN Footwear",
+      "title": "AI Product Management Intern ",
+      "category": "Product",
+      "location": "Portland, OR",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
     },
     {
       "id": "d7a9c4b1-4f10-45a6-b956-4fe959decbce",
