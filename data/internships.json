@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:45:38.446Z",
+  "updatedAt": "2026-11-03T14:00:24.882Z",
   "jobs": [
     {
       "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
@@ -336,6 +336,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Plexus&job=90950c9b-5a86-49c7-9ed3-a9bf85ff471d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782"
+    },
+    {
+      "id": "03d7f657-a9cb-4b2c-86d9-130fbf363f89",
+      "company": "Shield AI",
+      "title": "Summer 2027 Intern - Embedded Firmware - 5810",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=03d7f657-a9cb-4b2c-86d9-130fbf363f89&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
     },
     {
       "id": "dec93db6-78e0-42fe-8c19-41ee2923da0c",
