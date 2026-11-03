@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-03T19:45:36.156Z",
+  "updatedAt": "2026-11-03T20:00:39.256Z",
   "jobs": [
+    {
+      "id": "fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069",
+      "company": "Arrowstreet Capital",
+      "title": "Software Engineer Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Arrowstreet+Capital&job=fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
+    },
     {
       "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
       "company": "Jmfamily",
