@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:30:14.981Z",
+  "updatedAt": "2026-11-03T20:45:38.342Z",
   "jobs": [
     {
       "id": "fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Arrowstreet+Capital&job=fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
+    },
+    {
+      "id": "67fd4eb7-0f7f-4b5e-95bd-dc0054f8ce2a",
+      "company": "Commonwealth Fusion Systems",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Devens, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Commonwealth+Fusion+Systems&job=67fd4eb7-0f7f-4b5e-95bd-dc0054f8ce2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
     },
     {
       "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
