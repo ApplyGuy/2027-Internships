@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-04T00:00:26.759Z",
+  "updatedAt": "2026-11-04T00:15:14.220Z",
   "jobs": [
+    {
+      "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
+      "company": "Northrop Grumman",
+      "title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
+      "category": "Software Engineering",
+      "location": "Manhattan Beach, CA",
+      "season": "2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ad10884d-f2dc-42f0-962c-5c898dcd4970&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"
+    },
+    {
+      "id": "acddf2ae-8336-4177-9bf0-f0942629010e",
+      "company": "Northrop Grumman",
+      "title": "2027 Ground Software Engineer Intern - Redondo Beach CA",
+      "category": "Software Engineering",
+      "location": "Redondo Beach, CA",
+      "season": "2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=acddf2ae-8336-4177-9bf0-f0942629010e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
+    },
+    {
+      "id": "29a8f8e6-8bb5-4682-a63b-ec6a6e707ca9",
+      "company": "Northrop Grumman",
+      "title": "2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD",
+      "category": "Software Engineering",
+      "location": "Baltimore, MD",
+      "season": "2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=29a8f8e6-8bb5-4682-a63b-ec6a6e707ca9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965"
+    },
     {
       "id": "fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069",
       "company": "Arrowstreet Capital",
