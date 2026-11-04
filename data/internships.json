@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:00:52.464Z",
+  "updatedAt": "2026-11-04T11:15:34.118Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -303,30 +303,6 @@
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735"
     },
     {
-      "id": "15b8bb7a-48f8-4427-98db-1d4383df5e90",
-      "company": "Tmobile",
-      "title": "Summer 2027 Product Operations Manager Internship",
-      "category": "Product",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=15b8bb7a-48f8-4427-98db-1d4383df5e90&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888"
-    },
-    {
-      "id": "1505252e-bcce-405c-82a0-e7c2b207833a",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Philadelphia, PA",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=1505252e-bcce-405c-82a0-e7c2b207833a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
-    },
-    {
       "id": "d5e8595a-012a-44b5-86fb-7d579abe426e",
       "company": "Toshiba Global Commerce Solutions - External",
       "title": "AI Software Engineering Intern",
@@ -459,18 +435,6 @@
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4749923005&gh_jid=4749923005"
     },
     {
-      "id": "12696bd2-02a8-44b7-90e3-a2188867d2cb",
-      "company": "Kla",
-      "title": "Software Engineer (AI/ML) Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=12696bd2-02a8-44b7-90e3-a2188867d2cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1"
-    },
-    {
       "id": "8a088b9a-2a97-428b-920e-5d7cdd324462",
       "company": "KLA",
       "title": "Software Engineer Intern",
@@ -481,6 +445,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=8a088b9a-2a97-428b-920e-5d7cdd324462&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151"
+    },
+    {
+      "id": "4ccfd93e-3a1e-4489-a202-7c5d158ca81a",
+      "company": "KLA",
+      "title": "Software Engineer (AI/ML) Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=4ccfd93e-3a1e-4489-a202-7c5d158ca81a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125"
     },
     {
       "id": "0e09bc47-8011-4811-b933-82e5e7ece439",
@@ -604,6 +580,30 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=03d7f657-a9cb-4b2c-86d9-130fbf363f89&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
+    },
+    {
+      "id": "15b8bb7a-48f8-4427-98db-1d4383df5e90",
+      "company": "Tmobile",
+      "title": "Summer 2027 Product Operations Manager Internship",
+      "category": "Product",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=15b8bb7a-48f8-4427-98db-1d4383df5e90&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888"
+    },
+    {
+      "id": "1505252e-bcce-405c-82a0-e7c2b207833a",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Philadelphia, PA",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=1505252e-bcce-405c-82a0-e7c2b207833a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
     },
     {
       "id": "dec93db6-78e0-42fe-8c19-41ee2923da0c",
