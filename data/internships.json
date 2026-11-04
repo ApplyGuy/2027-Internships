@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:00:16.079Z",
+  "updatedAt": "2026-11-04T16:15:14.342Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -144,6 +144,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=e42662a7-b223-40b3-b449-efe9055b21d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
+    },
+    {
+      "id": "b99b12ad-abe0-4dd1-b204-4fd387c691fb",
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Software Engineer",
+      "category": "Software Engineering",
+      "location": "Holtsville, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=b99b12ad-abe0-4dd1-b204-4fd387c691fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645"
+    },
+    {
+      "id": "52392174-a2a8-42b3-963b-942a2052e178",
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task Manager",
+      "category": "Software Engineering",
+      "location": "Kennesaw, GA",
+      "season": "Summer 2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=52392174-a2a8-42b3-963b-942a2052e178&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636"
     },
     {
       "id": "fcea3f6b-b3af-4d3c-91ef-c0c9f50e4069",
@@ -324,18 +348,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=d5e8595a-012a-44b5-86fb-7d579abe426e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
-    },
-    {
-      "id": "eff1ee04-ee67-4473-9a31-49310091b863",
-      "company": "zebra",
-      "title": "2027 Summer Internship (US) - Software Engineer",
-      "category": "Software Engineering",
-      "location": "Holtsville, NY",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=zebra&job=eff1ee04-ee67-4473-9a31-49310091b863&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638"
     },
     {
       "id": "98fbe760-1dfe-45db-a474-409ddf9892d5",
