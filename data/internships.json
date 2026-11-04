@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:45:15.859Z",
+  "updatedAt": "2026-11-04T12:00:38.908Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=29a8f8e6-8bb5-4682-a63b-ec6a6e707ca9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965"
+    },
+    {
+      "id": "315938bb-c87f-4ca6-89af-b2461a8ac932",
+      "company": "RTX",
+      "title": "Intern: Summer 2027 - Control/Diagnostic Software (Onsite)",
+      "category": "Software Engineering",
+      "location": "Jupiter, FL",
+      "season": "Summer 2027",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=315938bb-c87f-4ca6-89af-b2461a8ac932&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840"
     },
     {
       "id": "737c7c35-f7c5-4148-8bb5-1d5328a45acd",
