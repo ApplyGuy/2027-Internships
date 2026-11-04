@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:45:47.122Z",
+  "updatedAt": "2026-11-04T11:00:52.464Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -204,18 +204,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Labcorp&job=76f431b2-7e93-4f42-a723-59413d358901&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
-    },
-    {
-      "id": "0e09bc47-8011-4811-b933-82e5e7ece439",
-      "company": "Leidos",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Arlington, VA",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=0e09bc47-8011-4811-b933-82e5e7ece439&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
     },
     {
       "id": "custom:microsoft:121d306c133509735e49",
@@ -493,6 +481,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=8a088b9a-2a97-428b-920e-5d7cdd324462&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151"
+    },
+    {
+      "id": "0e09bc47-8011-4811-b933-82e5e7ece439",
+      "company": "Leidos",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Arlington, VA",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=0e09bc47-8011-4811-b933-82e5e7ece439&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
     },
     {
       "id": "custom:microsoft:2a0012d4adb50da9c2fd",
