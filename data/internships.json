@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:00:13.499Z",
+  "updatedAt": "2026-11-04T13:15:46.816Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -84,18 +84,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=737c7c35-f7c5-4148-8bb5-1d5328a45acd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499"
-    },
-    {
-      "id": "3e4b7da3-5d04-4f63-b4f6-4986705e4429",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "West Valley City, UT",
-      "season": "Summer 2027",
-      "posted": "2026-11-04",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
     },
     {
       "id": "feae4925-0814-44e7-9937-4e8454038280",
@@ -278,6 +266,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
     },
     {
+      "id": "3e4b7da3-5d04-4f63-b4f6-4986705e4429",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
+    },
+    {
       "id": "7f950497-ebe5-4d7e-9f81-1b126c9eeac0",
       "company": "Tmobile",
       "title": "Summer 2027 Software Engineering Internship",
@@ -300,18 +300,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=d5e8595a-012a-44b5-86fb-7d579abe426e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
-    },
-    {
-      "id": "3c92958c-5f19-4e03-8a5b-13829d49f403",
-      "company": "Valmont",
-      "title": "Embedded Systems Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Valley, NE",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Valmont&job=3c92958c-5f19-4e03-8a5b-13829d49f403&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
     },
     {
       "id": "eff1ee04-ee67-4473-9a31-49310091b863",
@@ -600,6 +588,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=262d41ab-b3c6-4257-9ecf-97faef478310&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007"
+    },
+    {
+      "id": "3c92958c-5f19-4e03-8a5b-13829d49f403",
+      "company": "Valmont",
+      "title": "Embedded Systems Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Valley, NE",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Valmont&job=3c92958c-5f19-4e03-8a5b-13829d49f403&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
     },
     {
       "id": "94486418-564c-4bad-90a4-fcfe44211921",
