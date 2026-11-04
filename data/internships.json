@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T00:15:14.220Z",
+  "updatedAt": "2026-11-04T00:30:38.110Z",
   "jobs": [
     {
       "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
@@ -132,6 +132,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=0e09bc47-8011-4811-b933-82e5e7ece439&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
+    },
+    {
+      "id": "ca37a0a4-258d-4462-90b5-166f629fe0da",
+      "company": "Nex",
+      "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Nex&job=ca37a0a4-258d-4462-90b5-166f629fe0da&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nex/jobs/5421056008"
     },
     {
       "id": "f2ad5eef-5e04-4d41-bbd8-208c606a67e3",
