@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-04T18:00:13.794Z",
+  "updatedAt": "2026-11-04T18:15:17.823Z",
   "jobs": [
+    {
+      "id": "fb81cfdd-e0b0-43af-8e84-50f20276dafe",
+      "company": "BorgWarner",
+      "title": "Software Engineering Intern (Year-Round)",
+      "category": "Software Engineering",
+      "location": "Auburn Hills, MI",
+      "season": "Year-round",
+      "posted": "2026-11-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=BorgWarner&job=fb81cfdd-e0b0-43af-8e84-50f20276dafe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
+    },
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
       "company": "Boseallaboutme",
@@ -12,18 +24,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=bf1dc4e3-ff08-4916-820c-c07bd1c6e467&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369"
-    },
-    {
-      "id": "a475de9e-4c27-4414-9f68-d6286b8b624a",
-      "company": "HP",
-      "title": "Software Engineering Intern, AIML Platform - HP IQ",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Not specified",
-      "posted": "2026-11-04",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=HP&job=a475de9e-4c27-4414-9f68-d6286b8b624a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1"
     },
     {
       "id": "fd178388-1bd2-4ce4-a914-9d8f297e9fdb",
@@ -194,6 +194,18 @@
       "listingUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
     },
     {
+      "id": "a475de9e-4c27-4414-9f68-d6286b8b624a",
+      "company": "HP",
+      "title": "Software Engineering Intern, AIML Platform - HP IQ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=HP&job=a475de9e-4c27-4414-9f68-d6286b8b624a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1"
+    },
+    {
       "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
       "company": "Jmfamily",
       "title": "Software Engineer Intern",
@@ -240,6 +252,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Labcorp&job=d598d6da-7a91-4769-ae9f-1b69e68738b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
+    },
+    {
+      "id": "custom:microsoft:121d306c133509735e49",
+      "company": "Microsoft",
+      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "applySupported": false
     },
     {
       "id": "ca37a0a4-258d-4462-90b5-166f629fe0da",
@@ -482,6 +507,45 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
     },
     {
+      "id": "custom:microsoft:2a0012d4adb50da9c2fd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Internship Opportunities",
+      "category": "Software Engineering",
+      "location": "United States, California, Aliso Viejo",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:f113e962cccbfe5e554d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:06e1f0e5fbe534799f5b",
+      "company": "Microsoft",
+      "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+      "applySupported": false
+    },
+    {
       "id": "6cdb6fdf-705a-4e50-bf94-bd7f08aa41d2",
       "company": "Northrop Grumman",
       "title": "Engineering Software and Analysis Intern",
@@ -696,6 +760,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=KnowBe4&job=dc80ae42-f61e-49a3-b896-55d05e07340b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002"
+    },
+    {
+      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-01",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "applySupported": false
     },
     {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
@@ -3041,6 +3118,19 @@
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
     },
     {
+      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "category": "Software Engineering",
+      "location": "United States, Massachusetts, Cambridge",
+      "season": "Not specified",
+      "posted": "2026-10-21",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "applySupported": false
+    },
+    {
       "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
@@ -3831,6 +3921,19 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=11cf7a34-9be4-473b-ba83-607a910664a9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+    },
+    {
+      "id": "custom:microsoft:236d5d441253cd899e87",
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-10-15",
+      "age": "20d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
