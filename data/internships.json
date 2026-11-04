@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:45:13.073Z",
+  "updatedAt": "2026-11-04T16:00:16.079Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -216,18 +216,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Labcorp&job=d598d6da-7a91-4769-ae9f-1b69e68738b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
-    },
-    {
-      "id": "76f431b2-7e93-4f42-a723-59413d358901",
-      "company": "Labcorp",
-      "title": "Co-op - Full-Stack Life Sciences Engineer",
-      "category": "Software Engineering",
-      "location": "Durham, NC",
-      "season": "Co-op",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Labcorp&job=76f431b2-7e93-4f42-a723-59413d358901&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
     },
     {
       "id": "ca37a0a4-258d-4462-90b5-166f629fe0da",
@@ -468,6 +456,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=4ccfd93e-3a1e-4489-a202-7c5d158ca81a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125"
+    },
+    {
+      "id": "76f431b2-7e93-4f42-a723-59413d358901",
+      "company": "Labcorp",
+      "title": "Co-op - Full-Stack Life Sciences Engineer",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Co-op",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Labcorp&job=76f431b2-7e93-4f42-a723-59413d358901&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
     },
     {
       "id": "0e09bc47-8011-4811-b933-82e5e7ece439",
