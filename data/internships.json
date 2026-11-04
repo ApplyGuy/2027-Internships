@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:15:14.342Z",
+  "updatedAt": "2026-11-04T16:30:37.107Z",
   "jobs": [
     {
       "id": "bf1dc4e3-ff08-4916-820c-c07bd1c6e467",
@@ -326,18 +326,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
     },
     {
-      "id": "7f950497-ebe5-4d7e-9f81-1b126c9eeac0",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=7f950497-ebe5-4d7e-9f81-1b126c9eeac0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
-    },
-    {
       "id": "d5e8595a-012a-44b5-86fb-7d579abe426e",
       "company": "Toshiba Global Commerce Solutions - External",
       "title": "AI Software Engineering Intern",
@@ -576,6 +564,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=03d7f657-a9cb-4b2c-86d9-130fbf363f89&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
+    },
+    {
+      "id": "7f950497-ebe5-4d7e-9f81-1b126c9eeac0",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=7f950497-ebe5-4d7e-9f81-1b126c9eeac0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
     },
     {
       "id": "355a5351-a3b8-423e-9887-5f53f184e4ac",
