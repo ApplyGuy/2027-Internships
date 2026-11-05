@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-484-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-482-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **484** active U.S. internships posted within the last **30 days**
+- **482** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 5, 2026, 8:00 AM PST**
+- Last refresh: **Nov 5, 2026, 8:15 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**426 open roles**
+**424 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -444,9 +444,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Tenstorrent University Jobs | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Austin, TX | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=ddc7ab0f-d434-4fe5-a762-242314787b71&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) |
 | Tenstorrent University Jobs | AI Software Intern (USA) | Austin, TX | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=64b5f056-e1a5-47e6-8c3f-984c02bfe7c0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) |
 | apexcapitalcorp | Software Engineer Intern | Fort Worth, TX | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=apexcapitalcorp&job=ef26c9d9-f449-48a3-8a47-f8ccf2a41665&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://apexcapitalcorp.wd5.myworkdayjobs.com/confidential/job/US-TX-Fort-Worth/Software-Engineer-Intern_R864) |
-| Courier Health | Software Engineering Intern (Summer 2027) | New York City, NY | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Courier+Health&job=d87255c9-10eb-4a7b-932f-c9e4ec186f92&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/courierhealth/jobs/5258913007) |
 | Ergotron, INC | Software Engineer Intern | Eagan, MN | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ergotron%2C+INC&job=de310f1e-7d71-4bd6-b92f-22bb5bdfce88&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564633) |
-| Everpure | Software Engineer Intern (Summer 2027) | Santa Clara, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Everpure&job=d7fb4995-7f06-4d75-a6f8-3057e6a2d85a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
 | IDEMIA North America | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IDEMIA+North+America&job=cd184fe0-dff9-4021-948b-b35d3055b721&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job) |
 | Lyft | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lyft&job=8e16ea86-bd69-4782-a749-f715efc5dd3e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Overland AI | Internship - Software Engineering | Seattle, WA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Overland+AI&job=45276322-e09b-4c72-bb3d-abb106e99a09&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) |
