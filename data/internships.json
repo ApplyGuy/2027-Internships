@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:15:09.050Z",
+  "updatedAt": "2026-11-05T21:30:12.058Z",
   "jobs": [
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Paypal&job=15e57902-a8e5-4c65-af8f-e43fb5c057f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581"
+    },
+    {
+      "id": "34233b86-7976-4fd5-bf24-ff03ce50b787",
+      "company": "Shield AI",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "2027",
+      "posted": "2026-11-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=34233b86-7976-4fd5-bf24-ff03ce50b787&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
     },
     {
       "id": "1662a9b3-3c06-4760-b94e-d3e3bc011fe5",
