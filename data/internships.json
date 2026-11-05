@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T00:45:33.417Z",
+  "updatedAt": "2026-11-05T01:00:31.554Z",
   "jobs": [
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
@@ -266,18 +266,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Engineering-Intern_2642004"
     },
     {
-      "id": "d598d6da-7a91-4769-ae9f-1b69e68738b9",
-      "company": "Labcorp",
-      "title": "Co-op - Agentic AI Developer",
-      "category": "Software Engineering",
-      "location": "Durham, NC",
-      "season": "Co-op",
-      "posted": "2026-11-03",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Labcorp&job=d598d6da-7a91-4769-ae9f-1b69e68738b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
-    },
-    {
       "id": "ca37a0a4-258d-4462-90b5-166f629fe0da",
       "company": "Nex",
       "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
@@ -504,6 +492,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=KLA&job=4ccfd93e-3a1e-4489-a202-7c5d158ca81a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125"
+    },
+    {
+      "id": "d598d6da-7a91-4769-ae9f-1b69e68738b9",
+      "company": "Labcorp",
+      "title": "Co-op - Agentic AI Developer",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Co-op",
+      "posted": "2026-11-02",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Labcorp&job=d598d6da-7a91-4769-ae9f-1b69e68738b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
     },
     {
       "id": "76f431b2-7e93-4f42-a723-59413d358901",
@@ -1038,10 +1038,10 @@
     {
       "id": "79bf7862-7b9a-4949-8515-6d85f1718a6b",
       "company": "CACI",
-      "title": "Software Engineering Co-op/Intern - Spring 2027",
+      "title": "Software Engineering Co-op/Intern - Summer 2027",
       "category": "Software Engineering",
       "location": "Rochester, NY",
-      "season": "Spring 2027",
+      "season": "Summer 2027",
       "posted": "2026-10-29",
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=79bf7862-7b9a-4949-8515-6d85f1718a6b&utm_source=github&utm_medium=listing&utm_campaign=internships",
