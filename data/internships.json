@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-05T00:15:21.653Z",
+  "updatedAt": "2026-11-05T00:30:30.556Z",
   "jobs": [
+    {
+      "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
+      "company": "Badgermeter",
+      "title": "Firmware Test Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Milwaukee, WI",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Badgermeter&job=f0374bb1-c226-406f-b61c-e5dc12b5d88c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675"
+    },
     {
       "id": "fb81cfdd-e0b0-43af-8e84-50f20276dafe",
       "company": "BorgWarner",
