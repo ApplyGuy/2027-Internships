@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:30:44.645Z",
+  "updatedAt": "2026-11-05T17:45:27.704Z",
   "jobs": [
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ilitch&job=d658f7ca-22ac-4501-b30a-a15af8297879&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"
+    },
+    {
+      "id": "935792d4-b4c9-448b-a69e-051026570259",
+      "company": "Jmfamily",
+      "title": "Software Analyst Intern",
+      "category": "Software Engineering",
+      "location": "Deerfield Beach, FL",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jmfamily&job=935792d4-b4c9-448b-a69e-051026570259&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"
+    },
+    {
+      "id": "4c50b612-7d23-49ce-b852-906f449dabb2",
+      "company": "Jmfamily",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Deerfield Beach, FL",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jmfamily&job=4c50b612-7d23-49ce-b852-906f449dabb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
     },
     {
       "id": "a0b94003-6d85-41d6-8348-242ab1ead35e",
@@ -480,18 +504,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Envoy+Air+Inc.&job=ef969ae2-035d-473c-9dfe-9e517a1afb19&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?hub=10"
-    },
-    {
-      "id": "f9e4f20c-7107-49cc-8305-e59909b4971c",
-      "company": "Jmfamily",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Deerfield Beach, FL",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Jmfamily&job=f9e4f20c-7107-49cc-8305-e59909b4971c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
     },
     {
       "id": "07c9d213-8a43-4b38-8222-4e13bf643e4b",
@@ -5562,18 +5574,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=apexcapitalcorp&job=ef26c9d9-f449-48a3-8a47-f8ccf2a41665&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apexcapitalcorp.wd5.myworkdayjobs.com/confidential/job/US-TX-Fort-Worth/Software-Engineer-Intern_R864"
-    },
-    {
-      "id": "cd184fe0-dff9-4021-948b-b35d3055b721",
-      "company": "IDEMIA North America",
-      "title": "Software Engineering Internship - Enrollment and Credentialing Services",
-      "category": "Software Engineering",
-      "location": "Brentwood, TN",
-      "season": "Not specified",
-      "posted": "2026-10-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=IDEMIA+North+America&job=cd184fe0-dff9-4021-948b-b35d3055b721&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job"
     },
     {
       "id": "84de3981-d44c-4197-81c3-0c64d3178c31",
