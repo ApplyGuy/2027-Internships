@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T18:31:09.720Z",
+  "updatedAt": "2026-11-05T18:45:13.701Z",
   "jobs": [
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Spgi&job=1662a9b3-3c06-4760-b94e-d3e3bc011fe5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1"
+    },
+    {
+      "id": "034111de-4844-47c8-96e7-39940cf657ce",
+      "company": "The Hartford",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
+      "category": "Software Engineering",
+      "location": "Hartford, CT",
+      "season": "Summer 2027",
+      "posted": "2026-11-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=034111de-4844-47c8-96e7-39940cf657ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105"
     },
     {
       "id": "fb81cfdd-e0b0-43af-8e84-50f20276dafe",
