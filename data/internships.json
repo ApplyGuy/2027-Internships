@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:45:38.498Z",
+  "updatedAt": "2026-11-05T23:00:11.739Z",
   "jobs": [
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
@@ -5646,30 +5646,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=apexcapitalcorp&job=ef26c9d9-f449-48a3-8a47-f8ccf2a41665&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://apexcapitalcorp.wd5.myworkdayjobs.com/confidential/job/US-TX-Fort-Worth/Software-Engineer-Intern_R864"
-    },
-    {
-      "id": "083067c1-6301-4c39-8d84-127512cca73e",
-      "company": "Sigma Computing",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-10-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Sigma+Computing&job=083067c1-6301-4c39-8d84-127512cca73e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
-    },
-    {
-      "id": "649aee06-9107-4e7a-a140-5ec902fe4ebb",
-      "company": "Sigma Computing",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-06",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Sigma+Computing&job=649aee06-9107-4e7a-a140-5ec902fe4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003"
     }
   ]
 }
