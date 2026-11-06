@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:45:12.672Z",
+  "updatedAt": "2026-11-06T06:00:15.443Z",
   "jobs": [
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
@@ -1273,6 +1273,42 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Wexinc&job=91a33b43-452a-4068-a9a7-73fec1f45ce8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern_R22585"
+    },
+    {
+      "id": "8f7050a0-0ee7-4b50-b78a-25d02aa77444",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-30",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Zoox&job=8f7050a0-0ee7-4b50-b78a-25d02aa77444&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"
+    },
+    {
+      "id": "b7fed818-5ae2-489f-ac4a-d44c17690f60",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-30",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Zoox&job=b7fed818-5ae2-489f-ac4a-d44c17690f60&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520"
+    },
+    {
+      "id": "661a8e04-8bb7-40f1-ac5f-0e8100a6a0fb",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+      "category": "Software Engineering",
+      "location": "Foster City, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-30",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Zoox&job=661a8e04-8bb7-40f1-ac5f-0e8100a6a0fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877"
     },
     {
       "id": "custom:amazon:c2645fb2c3dca698d2b2",
