@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:30:12.944Z",
+  "updatedAt": "2026-11-06T15:45:16.351Z",
   "jobs": [
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Riverside+Research+Institute&job=df971e6f-57b8-4b76-9653-109499a81378&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job"
+    },
+    {
+      "id": "ec37c2ec-e182-44a5-a8aa-a35c16f6e1b2",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Overland Park, KS",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=ec37c2ec-e182-44a5-a8aa-a35c16f6e1b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
     },
     {
       "id": "85a0c48c-9842-4abf-ad47-9cc77f734c18",
@@ -2006,18 +2018,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=fa3829df-b400-46f5-af43-3c2306513d55&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499"
-    },
-    {
-      "id": "8063a064-d473-4118-9425-ee5eeed49d25",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Overland Park, KS",
-      "season": "Summer 2027",
-      "posted": "2026-10-28",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=8063a064-d473-4118-9425-ee5eeed49d25&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"
     },
     {
       "id": "aa3c0a80-343b-4663-83b0-f127c168fb07",
