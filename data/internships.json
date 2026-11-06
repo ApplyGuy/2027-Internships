@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-06T17:15:13.578Z",
+  "updatedAt": "2026-11-06T17:30:12.067Z",
   "jobs": [
+    {
+      "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
+      "company": "Allied Consultants",
+      "title": "Power Platform Admin/Developer Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Allied+Consultants&job=a62e2257-c7e5-49ab-a280-abc640564f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job"
+    },
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
       "company": "Raft Company Website",
@@ -60,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Vizient&job=85a0c48c-9842-4abf-ad47-9cc77f734c18&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1"
+    },
+    {
+      "id": "ff4d309e-c3a6-4ee1-8887-846eb6ea03ad",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Waymo&job=ff4d309e-c3a6-4ee1-8887-846eb6ea03ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
     },
     {
       "id": "469552b9-c09c-4860-94b4-676cf29d165b",
