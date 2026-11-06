@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:00:13.984Z",
+  "updatedAt": "2026-11-06T19:15:12.214Z",
   "jobs": [
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allied+Consultants&job=a62e2257-c7e5-49ab-a280-abc640564f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job"
+    },
+    {
+      "id": "8e040dd4-6948-42e7-b6b5-640ddfc5923d",
+      "company": "Danaher",
+      "title": "Firmware Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Co-op",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=8e040dd4-6948-42e7-b6b5-640ddfc5923d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509"
     },
     {
       "id": "a86999bf-0ada-452a-82e8-e75c9dc08648",
