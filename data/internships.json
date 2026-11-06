@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-06T01:30:28.644Z",
+  "updatedAt": "2026-11-06T01:45:41.661Z",
   "jobs": [
+    {
+      "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
+      "company": "Raft Company Website",
+      "title": "Full Stack Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Raft+Company+Website&job=87f0ccc9-98bd-4adc-9a45-1f789d794806&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/raft/jobs/6240549004"
+    },
+    {
+      "id": "aeb90632-7148-41fc-895e-7e62bbbaaabb",
+      "company": "Raft Company Website",
+      "title": "DevOps Engineering Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "McLean, VA",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Raft+Company+Website&job=aeb90632-7148-41fc-895e-7e62bbbaaabb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/raft/jobs/6239819004"
+    },
     {
       "id": "f0374bb1-c226-406f-b61c-e5dc12b5d88c",
       "company": "Badgermeter",
