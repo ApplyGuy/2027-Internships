@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:30:10.666Z",
+  "updatedAt": "2026-11-06T08:45:28.841Z",
   "jobs": [
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
@@ -264,6 +264,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=034111de-4844-47c8-96e7-39940cf657ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105"
+    },
+    {
+      "id": "51f55457-9c41-49e9-9792-c7d5d1620139",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Summer 2027",
+      "posted": "2026-11-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=51f55457-9c41-49e9-9792-c7d5d1620139&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650"
     },
     {
       "id": "5a544637-ef1d-4381-b6e3-709f06993fde",
@@ -564,18 +576,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
-    },
-    {
-      "id": "feae4925-0814-44e7-9937-4e8454038280",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Atlanta, GA",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=feae4925-0814-44e7-9937-4e8454038280&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
     },
     {
       "id": "e42662a7-b223-40b3-b449-efe9055b21d5",
