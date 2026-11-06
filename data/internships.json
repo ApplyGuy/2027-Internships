@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:30:12.067Z",
+  "updatedAt": "2026-11-06T17:45:16.320Z",
   "jobs": [
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -12,6 +12,54 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Allied+Consultants&job=a62e2257-c7e5-49ab-a280-abc640564f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job"
+    },
+    {
+      "id": "a86999bf-0ada-452a-82e8-e75c9dc08648",
+      "company": "Match Group",
+      "title": "Backend Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Match+Group&job=a86999bf-0ada-452a-82e8-e75c9dc08648&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3"
+    },
+    {
+      "id": "3340f646-5b55-42be-9c79-0aac53c69504",
+      "company": "Match Group",
+      "title": "Machine Learning Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Palo Alto, CA",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Match+Group&job=3340f646-5b55-42be-9c79-0aac53c69504&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72"
+    },
+    {
+      "id": "26fa7f6f-9389-4bff-ac2f-f0eb5a2f05de",
+      "company": "Match Group",
+      "title": "Android Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Match+Group&job=26fa7f6f-9389-4bff-ac2f-f0eb5a2f05de&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d"
+    },
+    {
+      "id": "aef0d0e3-eb37-4e96-8706-cb6273058e2d",
+      "company": "Match Group",
+      "title": "iOS Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Match+Group&job=aef0d0e3-eb37-4e96-8706-cb6273058e2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef"
     },
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
