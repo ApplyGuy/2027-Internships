@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:45:41.421Z",
+  "updatedAt": "2026-11-06T10:00:10.562Z",
   "jobs": [
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
@@ -62,6 +62,18 @@
       "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R"
     },
     {
+      "id": "1bc5b0e0-c7d0-4300-a6f5-c06a18acd7bc",
+      "company": "Apex Technology, Inc.",
+      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=1bc5b0e0-c7d0-4300-a6f5-c06a18acd7bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda"
+    },
+    {
       "id": "0cadf04a-3709-46a0-9afd-c4be5d497403",
       "company": "Apex Technology, Inc.",
       "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
@@ -122,7 +134,7 @@
       "listingUrl": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"
     },
     {
-      "id": "1e5d9ff9-702a-45e0-89ce-6329ed642ec2",
+      "id": "682b8d5a-8365-490c-acb1-59f5a79e79d3",
       "company": "Invesco",
       "title": "Early Career Intern - Digital Product Management",
       "category": "Product",
@@ -130,8 +142,8 @@
       "season": "Not specified",
       "posted": "2026-11-05",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Invesco&job=1e5d9ff9-702a-45e0-89ce-6329ed642ec2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://invesco.wd1.myworkdayjobs.com/ivz/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1"
+      "url": "https://applyguy.ai/jobs?company=Invesco&job=682b8d5a-8365-490c-acb1-59f5a79e79d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://invesco.wd1.myworkdayjobs.com/ivzearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876"
     },
     {
       "id": "935792d4-b4c9-448b-a69e-051026570259",
