@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:00:09.965Z",
+  "updatedAt": "2026-11-06T12:15:38.373Z",
   "jobs": [
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
@@ -48,18 +48,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Vizient&job=85a0c48c-9842-4abf-ad47-9cc77f734c18&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1"
-    },
-    {
-      "id": "3005f74f-4f27-4523-9168-c8d6920e378c",
-      "company": "Vizient",
-      "title": "2027 Summer Internship - Product Operations",
-      "category": "Product",
-      "location": "Irving, TX 75062 Vizient Corporate HQ",
-      "season": "Summer 2027",
-      "posted": "2026-11-06",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Vizient&job=3005f74f-4f27-4523-9168-c8d6920e378c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R"
     },
     {
       "id": "1bc5b0e0-c7d0-4300-a6f5-c06a18acd7bc",
@@ -312,6 +300,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Tormach&job=5a544637-ef1d-4381-b6e3-709f06993fde&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tormach.bamboohr.com/careers/38"
+    },
+    {
+      "id": "3005f74f-4f27-4523-9168-c8d6920e378c",
+      "company": "Vizient",
+      "title": "2027 Summer Internship - Product Operations",
+      "category": "Product",
+      "location": "Irving, TX 75062 Vizient Corporate HQ",
+      "season": "Summer 2027",
+      "posted": "2026-11-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Vizient&job=3005f74f-4f27-4523-9168-c8d6920e378c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R"
     },
     {
       "id": "fb81cfdd-e0b0-43af-8e84-50f20276dafe",
