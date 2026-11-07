@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T02:45:28.433Z",
+  "updatedAt": "2026-11-07T03:00:16.488Z",
   "jobs": [
     {
       "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
@@ -168,6 +168,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=472b8616-4c82-4ab1-ab13-9b862b082e84&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
+    },
+    {
+      "id": "7df9ea49-b375-41b8-a252-9093a1b5d1df",
+      "company": "Phoenix Analysis And Design Technologies",
+      "title": "Software Sales Intern",
+      "category": "Software Engineering",
+      "location": "Tempe, AZ",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Phoenix+Analysis+And+Design+Technologies&job=7df9ea49-b375-41b8-a252-9093a1b5d1df&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640325"
     },
     {
       "id": "87f0ccc9-98bd-4adc-9a45-1f789d794806",
