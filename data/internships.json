@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:15:26.758Z",
+  "updatedAt": "2026-11-07T20:30:25.071Z",
   "jobs": [
     {
       "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
@@ -5596,18 +5596,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Zipline&job=5154933d-6ead-40de-b9f4-ac1a35136b5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003"
-    },
-    {
-      "id": "99d0750c-37a3-4724-8813-c538e5f63230",
-      "company": "My 7 Elevenhr",
-      "title": "Digital Product Manager Intern",
-      "category": "Product",
-      "location": "SSC Irving, TX",
-      "season": "Not specified",
-      "posted": "2026-10-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=My+7+Elevenhr&job=99d0750c-37a3-4724-8813-c538e5f63230&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991"
     }
   ]
 }
