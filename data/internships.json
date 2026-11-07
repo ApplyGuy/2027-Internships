@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:30:34.279Z",
+  "updatedAt": "2026-11-07T05:45:45.614Z",
   "jobs": [
     {
       "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Datarobot&job=5180670d-b2ce-47a6-831c-1de924e0b4c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764"
+    },
+    {
+      "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineer HR Data Products Internship",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=ee166f7f-da79-484c-a6f3-d4e37a0e9c1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916"
+    },
+    {
+      "id": "e18c0098-5216-4f85-a68e-d886574b04bc",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=e18c0098-5216-4f85-a68e-d886574b04bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"
     },
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
