@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:00:15.427Z",
+  "updatedAt": "2026-11-07T00:15:12.849Z",
   "jobs": [
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -132,6 +132,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Riverside+Research+Institute&job=df971e6f-57b8-4b76-9653-109499a81378&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job"
+    },
+    {
+      "id": "60b6f4f8-29fe-4886-b160-22c1e33eea4f",
+      "company": "The New York Times",
+      "title": "Backend Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=60b6f4f8-29fe-4886-b160-22c1e33eea4f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
+    },
+    {
+      "id": "f79db23f-cef5-4a68-96d0-ed447300a5e7",
+      "company": "The New York Times",
+      "title": "Android Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=f79db23f-cef5-4a68-96d0-ed447300a5e7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
+    },
+    {
+      "id": "a5f0917d-7428-485f-b373-fec810f77ebe",
+      "company": "The New York Times",
+      "title": "Full-Stack Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=a5f0917d-7428-485f-b373-fec810f77ebe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
+    },
+    {
+      "id": "4f82c024-b138-4d74-bacc-460831d3ed7e",
+      "company": "The New York Times",
+      "title": "Frontend Engineering Intern",
+      "category": "Software Engineering",
+      "location": "New York City, NY",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=4f82c024-b138-4d74-bacc-460831d3ed7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
     },
     {
       "id": "ec37c2ec-e182-44a5-a8aa-a35c16f6e1b2",
