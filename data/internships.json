@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:30:19.819Z",
+  "updatedAt": "2026-11-07T16:45:19.960Z",
   "jobs": [
     {
       "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
@@ -5699,18 +5699,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Gentuity&job=8aee560a-e240-43cb-9ca4-e84f9f5eb5e1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4572599"
-    },
-    {
-      "id": "728760a2-dab0-4b90-8362-2860814620e8",
-      "company": "IMC",
-      "title": "Machine Learning Engineer Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-10-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=IMC&job=728760a2-dab0-4b90-8362-2860814620e8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
     },
     {
       "id": "99d0750c-37a3-4724-8813-c538e5f63230",
