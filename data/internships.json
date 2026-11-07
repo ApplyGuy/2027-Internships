@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:15:12.849Z",
+  "updatedAt": "2026-11-07T00:30:11.701Z",
   "jobs": [
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -194,6 +194,18 @@
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
     },
     {
+      "id": "bec10e16-fbae-4a28-a732-16065ae8a32a",
+      "company": "Varda Space Industries",
+      "title": "Site Reliability Internship - Summer 2027",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Varda+Space+Industries&job=bec10e16-fbae-4a28-a732-16065ae8a32a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/8198267003"
+    },
+    {
       "id": "ff4d309e-c3a6-4ee1-8887-846eb6ea03ad",
       "company": "Waymo",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
@@ -348,18 +360,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Nooks&job=f22dbe19-f9a4-4449-8735-308ab4d099f4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb"
-    },
-    {
-      "id": "a0b94003-6d85-41d6-8348-242ab1ead35e",
-      "company": "Northrop Grumman",
-      "title": "2027 Spring Co-op Software Engineer Intern – McClellan CA",
-      "category": "Software Engineering",
-      "location": "McClellan, CA",
-      "season": "Spring 2027",
-      "posted": "2026-11-05",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a0b94003-6d85-41d6-8348-242ab1ead35e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329"
     },
     {
       "id": "fd008fba-c81c-4b0c-a451-05f766f37b0c",
@@ -552,6 +552,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dfefaf21-9e3d-4418-b154-ba8165fbb79b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"
+    },
+    {
+      "id": "a0b94003-6d85-41d6-8348-242ab1ead35e",
+      "company": "Northrop Grumman",
+      "title": "2027 Spring Co-op Software Engineer Intern – McClellan CA",
+      "category": "Software Engineering",
+      "location": "McClellan, CA",
+      "season": "Spring 2027",
+      "posted": "2026-11-04",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a0b94003-6d85-41d6-8348-242ab1ead35e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329"
     },
     {
       "id": "51c63356-f265-4e71-b3ec-4ebca635c059",
