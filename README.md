@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-482-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-484-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **482** active U.S. internships posted within the last **30 days**
+- **484** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 6, 2026, 9:30 PM PST**
+- Last refresh: **Nov 6, 2026, 9:45 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,12 +27,14 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**423 open roles**
+**425 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | CACI | Software Engineering Co-op - Spring 2027 | King of Prussia, PA | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CACI&job=cbe807b0-9dd7-40a6-a813-a28f7669ba62&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665) |
 | Datarobot | Software Design Engineer Intern | Boston Massachusetts | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Datarobot&job=5180670d-b2ce-47a6-831c-1de924e0b4c8&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
+| Tmobile | Summer 2027 Software Engineer HR Data Products Internship | Bellevue, WA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=ee166f7f-da79-484c-a6f3-d4e37a0e9c1b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) |
+| Tmobile | Summer 2027 Software Engineering Internship | Bellevue, WA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=e18c0098-5216-4f85-a68e-d886574b04bc&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917) |
 | Allied Consultants | Power Platform Admin/Developer Intern | Austin, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Allied+Consultants&job=a62e2257-c7e5-49ab-a280-abc640564f4b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job) |
 | Astranis | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco, CA | Winter 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Astranis&job=3cb11c0e-455b-4095-a0f6-722208744bf1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/astranis/jobs/4704571006) |
 | Danaher | Firmware Engineer Co-op | Indianapolis, IN | Co-op | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Danaher&job=8e040dd4-6948-42e7-b6b5-640ddfc5923d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509) |
