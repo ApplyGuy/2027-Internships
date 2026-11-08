@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-08T16:30:57.802Z",
+  "updatedAt": "2026-11-08T16:45:25.901Z",
   "jobs": [
-    {
-      "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
-      "company": "CACI",
-      "title": "Software Engineering Co-op - Spring 2027",
-      "category": "Software Engineering",
-      "location": "King of Prussia, PA",
-      "season": "Spring 2027",
-      "posted": "2026-11-07",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=cbe807b0-9dd7-40a6-a813-a28f7669ba62&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
-    },
     {
       "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
       "company": "Tmobile",
@@ -60,6 +48,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Astranis&job=3cb11c0e-455b-4095-a0f6-722208744bf1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704571006"
+    },
+    {
+      "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
+      "company": "CACI",
+      "title": "Software Engineering Co-op - Spring 2027",
+      "category": "Software Engineering",
+      "location": "King of Prussia, PA",
+      "season": "Spring 2027",
+      "posted": "2026-11-06",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=cbe807b0-9dd7-40a6-a813-a28f7669ba62&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
     },
     {
       "id": "8e040dd4-6948-42e7-b6b5-640ddfc5923d",
