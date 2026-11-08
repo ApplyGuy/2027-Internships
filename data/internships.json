@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:15:27.653Z",
+  "updatedAt": "2026-11-08T12:30:25.053Z",
   "jobs": [
     {
       "id": "cbe807b0-9dd7-40a6-a813-a28f7669ba62",
@@ -12,18 +12,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=cbe807b0-9dd7-40a6-a813-a28f7669ba62&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
-    },
-    {
-      "id": "5180670d-b2ce-47a6-831c-1de924e0b4c8",
-      "company": "Datarobot",
-      "title": "Software Design Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Boston Massachusetts",
-      "season": "Not specified",
-      "posted": "2026-11-07",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Datarobot&job=5180670d-b2ce-47a6-831c-1de924e0b4c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764"
     },
     {
       "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
@@ -84,6 +72,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Danaher&job=8e040dd4-6948-42e7-b6b5-640ddfc5923d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509"
+    },
+    {
+      "id": "5180670d-b2ce-47a6-831c-1de924e0b4c8",
+      "company": "Datarobot",
+      "title": "Software Design Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Boston Massachusetts",
+      "season": "Not specified",
+      "posted": "2026-11-06",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Datarobot&job=5180670d-b2ce-47a6-831c-1de924e0b4c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764"
     },
     {
       "id": "91581cb9-1b29-4354-a58b-6005e3888534",
