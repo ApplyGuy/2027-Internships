@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:15:29.347Z",
+  "updatedAt": "2026-11-08T17:30:26.805Z",
   "jobs": [
     {
       "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
@@ -12,18 +12,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=ee166f7f-da79-484c-a6f3-d4e37a0e9c1b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916"
-    },
-    {
-      "id": "e18c0098-5216-4f85-a68e-d886574b04bc",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-11-07",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=e18c0098-5216-4f85-a68e-d886574b04bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"
     },
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -300,6 +288,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=ec37c2ec-e182-44a5-a8aa-a35c16f6e1b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
+    },
+    {
+      "id": "e18c0098-5216-4f85-a68e-d886574b04bc",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-06",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=e18c0098-5216-4f85-a68e-d886574b04bc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"
     },
     {
       "id": "bec10e16-fbae-4a28-a732-16065ae8a32a",
