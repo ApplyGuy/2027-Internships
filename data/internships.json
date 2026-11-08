@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:15:25.754Z",
+  "updatedAt": "2026-11-08T22:30:29.186Z",
   "jobs": [
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -5247,30 +5247,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Wattswater&job=6ae17da9-779c-42b2-a55e-d6ec6e596606&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/intern-external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702"
-    },
-    {
-      "id": "dc97fce8-640d-4951-9000-3ae03a66ee48",
-      "company": "Zipline",
-      "title": "Firmware Engineer Intern (Summer 2027) ",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=dc97fce8-640d-4951-9000-3ae03a66ee48&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003"
-    },
-    {
-      "id": "5154933d-6ead-40de-b9f4-ac1a35136b5f",
-      "company": "Zipline",
-      "title": "Firmware Engineer Intern (Spring 2027) ",
-      "category": "Software Engineering",
-      "location": "South San Francisco, CA",
-      "season": "Spring 2027",
-      "posted": "2026-10-09",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Zipline&job=5154933d-6ead-40de-b9f4-ac1a35136b5f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003"
     }
   ]
 }
