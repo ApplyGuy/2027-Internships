@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:30:32.795Z",
+  "updatedAt": "2026-11-09T20:45:31.169Z",
   "jobs": [
     {
       "id": "03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e",
@@ -372,6 +372,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Waymo&job=ff4d309e-c3a6-4ee1-8887-846eb6ea03ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
+    },
+    {
+      "id": "custom:amazon:60357b602a74772980c8",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "US, WA, Seattle",
+      "season": "Summer 2027",
+      "posted": "2026-11-05",
+      "age": "4d",
+      "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+      "applySupported": false
     },
     {
       "id": "469552b9-c09c-4860-94b4-676cf29d165b",
