@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:30:21.160Z",
+  "updatedAt": "2026-11-09T21:45:20.046Z",
   "jobs": [
     {
       "id": "03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=b2a4e939-14a0-4f30-94e2-240d2455578b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1"
+    },
+    {
+      "id": "7cf797f1-239f-42d5-ba35-2e5c83b93777",
+      "company": "DwyerOmega",
+      "title": "Product Management Intern - Pressure & Force",
+      "category": "Product",
+      "location": "Michigan City, IN",
+      "season": "Not specified",
+      "posted": "2026-11-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DwyerOmega&job=7cf797f1-239f-42d5-ba35-2e5c83b93777&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741"
     },
     {
       "id": "d52a3d90-ece0-4623-bb7c-e8159c2c23a8",
