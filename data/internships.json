@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:00:18.901Z",
+  "updatedAt": "2026-11-10T03:15:18.160Z",
   "jobs": [
     {
       "id": "a2443324-be28-441c-90a4-792adb73ab0d",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=52168f6d-2e1d-4928-bc6a-51a8cf4d4ec8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628"
+    },
+    {
+      "id": "9a3a10fe-8dc6-4e85-a6ad-171a38fca21f",
+      "company": "Radiancetech",
+      "title": "Software Engineer Intern Spring/Summer 2027",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Summer 2027",
+      "posted": "2026-11-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=9a3a10fe-8dc6-4e85-a6ad-171a38fca21f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
     },
     {
       "id": "433d9e44-73ad-4cf6-b82a-b05243306ddc",
