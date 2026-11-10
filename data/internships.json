@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:15:12.344Z",
+  "updatedAt": "2026-11-10T08:30:49.329Z",
   "jobs": [
     {
       "id": "a2443324-be28-441c-90a4-792adb73ab0d",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=9a3a10fe-8dc6-4e85-a6ad-171a38fca21f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
+    },
+    {
+      "id": "aff5ee5c-6740-4964-9b65-ecece7dcd389",
+      "company": "REGENT",
+      "title": "Mission Software Engineering Intern (Summer)",
+      "category": "Software Engineering",
+      "location": "North Kingstown, RI",
+      "season": "Summer",
+      "posted": "2026-11-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=REGENT&job=aff5ee5c-6740-4964-9b65-ecece7dcd389&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa"
     },
     {
       "id": "7b4c8573-eb05-458a-9c10-410c3456a4ad",
