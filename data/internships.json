@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T19:00:38.864Z",
+  "updatedAt": "2026-11-10T19:15:11.980Z",
   "jobs": [
     {
       "id": "a2443324-be28-441c-90a4-792adb73ab0d",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=REGENT&job=aff5ee5c-6740-4964-9b65-ecece7dcd389&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa"
+    },
+    {
+      "id": "b40dce14-d7bd-4279-9e5c-6127b543de42",
+      "company": "SAS",
+      "title": "Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SAS&job=b40dce14-d7bd-4279-9e5c-6127b543de42&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-sas.icims.com/jobs/42765/summer-2027---evaas-instructional-design-e-learning-developer-intern/job"
     },
     {
       "id": "7b4c8573-eb05-458a-9c10-410c3456a4ad",
