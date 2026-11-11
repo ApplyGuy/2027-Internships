@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:45:35.060Z",
+  "updatedAt": "2026-11-11T22:00:35.108Z",
   "jobs": [
     {
       "id": "cf5e275f-43f3-4e88-8dd7-fd236d39a7dd",
@@ -144,18 +144,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=My+7+Elevenhr&job=d4650b4e-d806-4451-8287-9ffa8575d74e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281"
-    },
-    {
-      "id": "d2ef43a6-13bb-45ca-8e3a-5259d2863254",
-      "company": "NVIDIA",
-      "title": "Product Management Space Compute MBA Intern - Summer 2027",
-      "category": "Product",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-11-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628"
     },
     {
       "id": "5e0b4dab-a9af-48e5-a48f-f3c0ef5fdd68",
@@ -360,6 +348,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=366fee65-6cca-4afb-9a4e-ce2c4a61412f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1"
+    },
+    {
+      "id": "d2ef43a6-13bb-45ca-8e3a-5259d2863254",
+      "company": "NVIDIA",
+      "title": "Product Management Space Compute MBA Intern - Summer 2027",
+      "category": "Product",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-09",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628"
     },
     {
       "id": "c62b7fdc-ef98-4205-bcff-688fd2b4a73a",
