@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T19:45:23.863Z",
+  "updatedAt": "2026-11-11T20:00:24.090Z",
   "jobs": [
     {
       "id": "3d9ce4e2-7dce-4d11-9a10-46f0d5151219",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Brex&job=00f506fd-3ee6-4126-837e-5f8edd24adbb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
+    },
+    {
+      "id": "fe8c6f7a-08bc-4eb4-9109-2ac06e561a14",
+      "company": "Formlabs",
+      "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
+      "category": "Software Engineering",
+      "location": "Somerville, MA",
+      "season": "Summer",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Formlabs&job=fe8c6f7a-08bc-4eb4-9109-2ac06e561a14&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598"
     },
     {
       "id": "a8315fbf-5fa7-425e-88f4-7520c21c07a7",
