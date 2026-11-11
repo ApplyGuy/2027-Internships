@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-449-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-450-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **449** active U.S. internships posted within the last **30 days**
+- **450** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 11, 2026, 8:15 AM PST**
+- Last refresh: **Nov 11, 2026, 8:30 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,13 +27,14 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**392 open roles**
+**393 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Astranis | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Astranis&job=3d9ce4e2-7dce-4d11-9a10-46f0d5151219&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | Unisys | Software Engineer Intern | Eagan, MN | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Unisys&job=f145c870-02b7-4995-8291-9b0e90376513&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://unisys.wd5.myworkdayjobs.com/external/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421) |
 | Addepar | Software Engineering Intern - Summer 2027 | New York City, NY | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Addepar&job=ef09c094-5350-4558-b0a6-79616f2872ce&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) |
+| Amat | 2027 Spring Software Engineer Co-op (Billerica, MA) | Billerica, MA | Spring 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Amat&job=fb528319-7a3f-4345-9044-329f03036d23&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540) |
 | Cisco | Software Engineer Embedded Systems I (Intern) - United States | San Jose California | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cisco&job=4617507d-4374-4136-8ce9-0760b3331bd2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1) |
 | Formfactor | Software Engineer Intern | Livermore, CA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Formfactor&job=a2443324-be28-441c-90a4-792adb73ab0d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Livermore-CA/Software-Engineer-Intern_JR101288) |
 | My 7 Elevenhr | Data Engineer Intern | SSC Irving, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=My+7+Elevenhr&job=d4650b4e-d806-4451-8287-9ffa8575d74e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) |
