@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:45:14.521Z",
+  "updatedAt": "2026-11-11T01:00:12.121Z",
   "jobs": [
     {
       "id": "ef09c094-5350-4558-b0a6-79616f2872ce",
@@ -132,6 +132,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SAS&job=b40dce14-d7bd-4279-9e5c-6127b543de42&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-sas.icims.com/jobs/42765/summer-2027---evaas-instructional-design-e-learning-developer-intern/job"
+    },
+    {
+      "id": "c71e28ae-08b4-4289-a20c-72460856486c",
+      "company": "Skydio",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Winter 2027",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=c71e28ae-08b4-4289-a20c-72460856486c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded"
+    },
+    {
+      "id": "65f22701-d6f6-4325-8775-211a3996ffb6",
+      "company": "Skydio",
+      "title": "Middleware Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Mateo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Skydio&job=65f22701-d6f6-4325-8775-211a3996ffb6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
     },
     {
       "id": "7b4c8573-eb05-458a-9c10-410c3456a4ad",
@@ -5200,18 +5224,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Rhombus&job=3f899916-423f-46e1-ba6b-24a7395802ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
-    },
-    {
-      "id": "17b5bb2d-0f49-4c0b-b6f7-f6479a119129",
-      "company": "Rollsroyce",
-      "title": "Integrated Control Systems Engineer Intern (Software)",
-      "category": "Software Engineering",
-      "location": "Indianapolis, IN",
-      "season": "Not specified",
-      "posted": "2026-10-13",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=17b5bb2d-0f49-4c0b-b6f7-f6479a119129&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452"
     },
     {
       "id": "7df013bd-a0b7-4f3a-b84b-dd87c35ce786",
