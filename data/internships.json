@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:45:39.111Z",
+  "updatedAt": "2026-11-11T17:00:28.357Z",
   "jobs": [
     {
       "id": "3d9ce4e2-7dce-4d11-9a10-46f0d5151219",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Astranis&job=3d9ce4e2-7dce-4d11-9a10-46f0d5151219&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704569006"
+    },
+    {
+      "id": "16ff58e6-773d-4cbc-af5e-7025e6d68829",
+      "company": "Boseallaboutme",
+      "title": "Digital Signal Processing ML Software Development Co-op",
+      "category": "Software Engineering",
+      "location": "MA, Framingham",
+      "season": "Co-op",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=16ff58e6-773d-4cbc-af5e-7025e6d68829&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372"
     },
     {
       "id": "f145c870-02b7-4995-8291-9b0e90376513",
