@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:00:39.150Z",
+  "updatedAt": "2026-11-11T09:15:38.346Z",
   "jobs": [
     {
       "id": "ef09c094-5350-4558-b0a6-79616f2872ce",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Addepar&job=ef09c094-5350-4558-b0a6-79616f2872ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
+    },
+    {
+      "id": "4617507d-4374-4136-8ce9-0760b3331bd2",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I (Intern) - United States",
+      "category": "Software Engineering",
+      "location": "San Jose California",
+      "season": "Not specified",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=4617507d-4374-4136-8ce9-0760b3331bd2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1"
     },
     {
       "id": "a2443324-be28-441c-90a4-792adb73ab0d",
