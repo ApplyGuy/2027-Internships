@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:30:33.369Z",
+  "updatedAt": "2026-11-11T23:45:54.024Z",
   "jobs": [
     {
       "id": "cf5e275f-43f3-4e88-8dd7-fd236d39a7dd",
@@ -74,19 +74,6 @@
       "listingUrl": "https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008"
     },
     {
-      "id": "custom:microsoft:bd2e1c90c82a16ced04b",
-      "company": "Microsoft",
-      "title": "Product Manager: Internship Opportunities",
-      "category": "Product",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-11",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "applySupported": false
-    },
-    {
       "id": "a8315fbf-5fa7-425e-88f4-7520c21c07a7",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -97,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a8315fbf-5fa7-425e-88f4-7520c21c07a7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146"
+    },
+    {
+      "id": "0e2f13eb-792d-473a-94e6-cceb9a679ccb",
+      "company": "Rubrik Job Board",
+      "title": "Product Management Intern (MSP), Summer 2027",
+      "category": "Product",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=0e2f13eb-792d-473a-94e6-cceb9a679ccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967"
     },
     {
       "id": "c390ab35-0d88-4857-b29d-75e9553cfbbd",
@@ -975,32 +974,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
-      "id": "custom:microsoft:fecd5f9caab6f6d9fe6c",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-05",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
-      "company": "Microsoft",
-      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-05",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "applySupported": false
-    },
-    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -1419,19 +1392,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
-    },
-    {
-      "id": "custom:microsoft:121d306c133509735e49",
-      "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "applySupported": false
     },
     {
       "id": "ca37a0a4-258d-4462-90b5-166f629fe0da",
@@ -4269,19 +4229,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
     },
     {
-      "id": "custom:microsoft:245bb6ebc3bdccc371cd",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "category": "Software Engineering",
-      "location": "United States, Massachusetts, Cambridge",
-      "season": "Not specified",
-      "posted": "2026-10-21",
-      "age": "21d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "applySupported": false
-    },
-    {
       "id": "ed0e176d-a3ac-4a66-a168-6cae64558cd8",
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
@@ -5060,19 +5007,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Inversion&job=89d69d0f-67f8-4bb4-bb45-ab34a0070da3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
-    },
-    {
-      "id": "custom:microsoft:236d5d441253cd899e87",
-      "company": "Microsoft",
-      "title": "Research Intern - Efficient AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-10-15",
-      "age": "27d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-      "applySupported": false
     },
     {
       "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
