@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:00:30.827Z",
+  "updatedAt": "2026-11-11T18:15:29.359Z",
   "jobs": [
     {
       "id": "3d9ce4e2-7dce-4d11-9a10-46f0d5151219",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boseallaboutme&job=16ff58e6-773d-4cbc-af5e-7025e6d68829&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372"
+    },
+    {
+      "id": "00f506fd-3ee6-4126-837e-5f8edd24adbb",
+      "company": "Brex",
+      "title": "Software Engineer, Intern  (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Brex&job=00f506fd-3ee6-4126-837e-5f8edd24adbb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
     },
     {
       "id": "a8315fbf-5fa7-425e-88f4-7520c21c07a7",
@@ -144,18 +156,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Parspec&job=926ced64-47b4-4491-894a-93518294ed0a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56"
-    },
-    {
-      "id": "9a3a10fe-8dc6-4e85-a6ad-171a38fca21f",
-      "company": "Radiancetech",
-      "title": "Software Engineer Intern Spring/Summer 2027",
-      "category": "Software Engineering",
-      "location": "Dayton, OH",
-      "season": "Summer 2027",
-      "posted": "2026-11-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=9a3a10fe-8dc6-4e85-a6ad-171a38fca21f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
     },
     {
       "id": "aff5ee5c-6740-4964-9b65-ecece7dcd389",
@@ -348,6 +348,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Pivotal&job=31ead8d0-1098-4d0f-88ab-75a47a689733&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4"
+    },
+    {
+      "id": "9a3a10fe-8dc6-4e85-a6ad-171a38fca21f",
+      "company": "Radiancetech",
+      "title": "Software Engineer Intern Spring/Summer 2027",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Summer 2027",
+      "posted": "2026-11-09",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=9a3a10fe-8dc6-4e85-a6ad-171a38fca21f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
     },
     {
       "id": "e1f5ad58-39f4-49ca-ba66-b2b80825c922",
