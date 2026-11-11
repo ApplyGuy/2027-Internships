@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T08:16:06.387Z",
+  "updatedAt": "2026-11-11T08:31:06.004Z",
   "jobs": [
     {
       "id": "ef09c094-5350-4558-b0a6-79616f2872ce",
@@ -156,6 +156,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Skydio&job=65f22701-d6f6-4325-8775-211a3996ffb6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
+    },
+    {
+      "id": "abbca145-9239-4069-b3bb-e51b0585dda1",
+      "company": "Tmobile",
+      "title": "Summer 2027 T-Ads Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Philadelphia, PA",
+      "season": "Summer 2027",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=abbca145-9239-4069-b3bb-e51b0585dda1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
     },
     {
       "id": "7b4c8573-eb05-458a-9c10-410c3456a4ad",
@@ -1309,18 +1321,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
-    },
-    {
-      "id": "e42662a7-b223-40b3-b449-efe9055b21d5",
-      "company": "Tmobile",
-      "title": "Summer 2027 T-Ads Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Philadelphia, PA",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=e42662a7-b223-40b3-b449-efe9055b21d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
     },
     {
       "id": "d5e8595a-012a-44b5-86fb-7d579abe426e",
