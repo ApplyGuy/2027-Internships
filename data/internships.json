@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:15:38.629Z",
+  "updatedAt": "2026-11-11T16:30:39.639Z",
   "jobs": [
     {
       "id": "3d9ce4e2-7dce-4d11-9a10-46f0d5151219",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Addepar&job=ef09c094-5350-4558-b0a6-79616f2872ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
+    },
+    {
+      "id": "fb528319-7a3f-4345-9044-329f03036d23",
+      "company": "Amat",
+      "title": "2027 Spring Software Engineer Co-op (Billerica, MA)",
+      "category": "Software Engineering",
+      "location": "Billerica, MA",
+      "season": "Spring 2027",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=fb528319-7a3f-4345-9044-329f03036d23&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540"
     },
     {
       "id": "4617507d-4374-4136-8ce9-0760b3331bd2",
