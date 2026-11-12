@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:00:49.297Z",
+  "updatedAt": "2026-11-12T13:15:18.894Z",
   "jobs": [
     {
       "id": "a4625e05-43d3-476c-bea7-9dcfeb6550f8",
@@ -5451,18 +5451,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Travelpro+Products%2C+Inc.&job=adf8969b-0690-4737-bb66-b641bbbd1096&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581780"
-    },
-    {
-      "id": "fc55fafc-009d-4bd8-8767-b85a4cdb60df",
-      "company": "Vestmark, Inc.",
-      "title": "Software Engineer Co-op",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Co-op",
-      "posted": "2026-10-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Vestmark%2C+Inc.&job=fc55fafc-009d-4bd8-8767-b85a4cdb60df&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
     },
     {
       "id": "d09aaefa-1099-468b-8c4a-00e8dcf6f2a9",
