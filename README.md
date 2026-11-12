@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-456-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-455-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **456** active U.S. internships posted within the last **30 days**
+- **455** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 12, 2026, 8:30 AM PST**
+- Last refresh: **Nov 12, 2026, 8:45 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**401 open roles**
+**400 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -425,7 +425,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Tenstorrent University Jobs | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, TX | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=24953e68-7dff-4896-8613-7f339ab2f2df&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) |
 | Anduril Industries | 2027 Firmware Engineer Intern | Costa Mesa, CA | 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Anduril+Industries&job=74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
 | KLA | ML Engineer Intern | Milpitas, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=KLA&job=b5af8848-60a8-47a6-8cd6-35e06fce7a54&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/ML-Engineer-Intern_2641872) |
-| Rhombus | Software Engineering Intern - Summer 2027 | Sacramento, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rhombus&job=3f899916-423f-46e1-ba6b-24a7395802ba&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380) |
 | RTX | Software Engineering Intern (Summer 2027) | Annapolis Junction, MD | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=7df013bd-a0b7-4f3a-b84b-dd87c35ce786&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1) |
 | Wing | Software Engineering Intern, Summer 2027 | Palo Alto, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wing&job=d09aaefa-1099-468b-8c4a-00e8dcf6f2a9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wing.com/careers/8872476002?gh_jid=8872476002) |
 | Wing | Data Infra Software Engineering Intern, Summer 2027 | Palo Alto, CA | Summer 2027 | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wing&job=a176f468-96e1-40cb-9e90-2b95eab756fe&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wing.com/careers/8872471002?gh_jid=8872471002) |
