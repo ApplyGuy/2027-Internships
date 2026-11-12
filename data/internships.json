@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-12T02:30:23.699Z",
+  "updatedAt": "2026-11-12T02:45:54.207Z",
   "jobs": [
+    {
+      "id": "a4625e05-43d3-476c-bea7-9dcfeb6550f8",
+      "company": "Mksinst",
+      "title": "2027 Summer Software Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Andover, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mksinst&job=a4625e05-43d3-476c-bea7-9dcfeb6550f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"
+    },
     {
       "id": "b0a273a0-91eb-478b-a4b2-358ff5323658",
       "company": "RTX",
