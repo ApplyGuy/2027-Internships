@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:30:12.065Z",
+  "updatedAt": "2026-11-12T22:45:10.538Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -5469,18 +5469,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=24953e68-7dff-4896-8613-7f339ab2f2df&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"
-    },
-    {
-      "id": "74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d",
-      "company": "Anduril Industries",
-      "title": "2027 Firmware Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Costa Mesa, CA",
-      "season": "2027",
-      "posted": "2026-10-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"
     }
   ]
 }
