@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:30:12.300Z",
+  "updatedAt": "2026-11-12T20:45:10.262Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -5403,18 +5403,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=74a9b7e2-6a97-4ee1-89e7-e4fc59ab270d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"
-    },
-    {
-      "id": "b5af8848-60a8-47a6-8cd6-35e06fce7a54",
-      "company": "KLA",
-      "title": "ML Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Milpitas, CA",
-      "season": "Not specified",
-      "posted": "2026-10-13",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=KLA&job=b5af8848-60a8-47a6-8cd6-35e06fce7a54&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/ML-Engineer-Intern_2641872"
     },
     {
       "id": "d09aaefa-1099-468b-8c4a-00e8dcf6f2a9",
