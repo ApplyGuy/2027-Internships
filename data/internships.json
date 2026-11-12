@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:45:22.108Z",
+  "updatedAt": "2026-11-12T07:00:46.648Z",
   "jobs": [
     {
       "id": "a4625e05-43d3-476c-bea7-9dcfeb6550f8",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mksinst&job=a4625e05-43d3-476c-bea7-9dcfeb6550f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"
+    },
+    {
+      "id": "a16b86c0-c258-41f8-b072-a69cedc362bb",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-11-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a16b86c0-c258-41f8-b072-a69cedc362bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
     },
     {
       "id": "b0a273a0-91eb-478b-a4b2-358ff5323658",
@@ -1584,18 +1596,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RoboForce&job=99415abf-ea92-486b-a0ec-29f527511ff0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
-    },
-    {
-      "id": "3e4b7da3-5d04-4f63-b4f6-4986705e4429",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "West Valley City, UT",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
     },
     {
       "id": "d5e8595a-012a-44b5-86fb-7d579abe426e",
