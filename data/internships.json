@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:15:10.772Z",
+  "updatedAt": "2026-11-13T00:30:44.254Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -84,18 +84,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=6272cb8a-f747-4bf0-9e81-00f558186b60&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440"
-    },
-    {
-      "id": "0f893228-dac0-4d15-93e4-869878d782fd",
-      "company": "RTX",
-      "title": "Software Engineering Intern (ISET-IN-2)",
-      "category": "Software Engineering",
-      "location": "Sterling, VA",
-      "season": "Not specified",
-      "posted": "2026-11-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0f893228-dac0-4d15-93e4-869878d782fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017"
     },
     {
       "id": "e680ad51-d004-4638-962e-2bcbdb9f0bbd",
@@ -240,6 +228,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=edef8efc-e8bd-401a-affa-aaffa49a4a85&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+    },
+    {
+      "id": "0f893228-dac0-4d15-93e4-869878d782fd",
+      "company": "RTX",
+      "title": "Software Engineering Intern (ISET-IN-2)",
+      "category": "Software Engineering",
+      "location": "Sterling, VA",
+      "season": "Not specified",
+      "posted": "2026-11-11",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=0f893228-dac0-4d15-93e4-869878d782fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017"
     },
     {
       "id": "0e2f13eb-792d-473a-94e6-cceb9a679ccb",
