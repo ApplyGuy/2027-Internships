@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:15:14.115Z",
+  "updatedAt": "2026-11-13T21:30:29.480Z",
   "jobs": [
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Dtna&job=7c680887-04ca-4a50-84ae-9a9f563253a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681"
+    },
+    {
+      "id": "7b28fdf0-487c-455e-9ee5-23c6739c00ad",
+      "company": "Electric Power Engineers",
+      "title": "Software Power Systems Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Electric+Power+Engineers&job=7b28fdf0-487c-455e-9ee5-23c6739c00ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job"
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
