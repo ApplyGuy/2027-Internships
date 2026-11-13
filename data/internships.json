@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:16:02.216Z",
+  "updatedAt": "2026-11-13T19:30:48.026Z",
   "jobs": [
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Dtna&job=7c680887-04ca-4a50-84ae-9a9f563253a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681"
+    },
+    {
+      "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
+      "company": "Reliable Robotics Corporation",
+      "title": "Flight Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Mountain View, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Reliable+Robotics+Corporation&job=c4cd4e7e-0705-4991-9487-316eb52633f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed"
     },
     {
       "id": "ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf",
