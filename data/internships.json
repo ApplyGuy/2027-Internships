@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:45:59.494Z",
+  "updatedAt": "2026-11-13T20:00:20.420Z",
   "jobs": [
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
@@ -5355,18 +5355,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=37208540-579b-446f-9500-db62352683d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
-    },
-    {
-      "id": "82986888-d765-4e34-a68d-127aa37365c0",
-      "company": "Figure",
-      "title": "Embedded Software Engineering Intern [Winter 2027]",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Winter 2027",
-      "posted": "2026-10-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Figure&job=82986888-d765-4e34-a68d-127aa37365c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
     }
   ]
 }
