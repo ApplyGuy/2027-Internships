@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-447-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-448-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **447** active U.S. internships posted within the last **30 days**
+- **448** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 13, 2026, 3:00 PM PST**
+- Last refresh: **Nov 13, 2026, 3:15 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**392 open roles**
+**393 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -36,6 +36,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | IDEMIA North America | Full Stack Software Engineering Internship | Eden Prairie, MN | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IDEMIA+North+America&job=fafce143-4bce-46a2-93a5-f9704bd9d6fc&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job) |
 | IDEMIA North America | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=IDEMIA+North+America&job=98ad4588-7952-4e4d-84c4-b77c5277a71e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job) |
 | Reliable Robotics Corporation | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Reliable+Robotics+Corporation&job=c4cd4e7e-0705-4991-9487-316eb52633f1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed) |
+| Samsung Semiconductor | Intern, SSD Firmware Development | San Jose, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=9f1e235e-f944-4364-b4c1-5f9fcff96eb2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
 | Argonne | Intern – Business Information Systems, Enterprise Software Solutions | Lemont, IL | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Argonne&job=a9b5a908-1bb1-4fc7-a38d-d9a0e303a591&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://argonne.wd1.myworkdayjobs.com/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702) |
 | CACI | Embedded Software Development Intern - Summer 2027 | Denver, CO | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CACI&job=e585d40d-42c3-47f4-a59d-cc941499067d&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) |
 | Leidos | Junior Software Engineer / Data Scientist Intern | Tucson, AZ | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Leidos&job=f4254c7a-2bba-40ae-8b57-faf5cf3e6262&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) |
