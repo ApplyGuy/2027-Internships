@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-13T16:15:21.648Z",
+  "updatedAt": "2026-11-13T16:30:15.576Z",
   "jobs": [
+    {
+      "id": "ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf",
+      "company": "Wattswater",
+      "title": "Product Management Co-op, Jan-June 2027",
+      "category": "Product",
+      "location": "Menomonee Falls, WI",
+      "season": "2027",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wattswater&job=ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1"
+    },
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
       "company": "Argonne",
