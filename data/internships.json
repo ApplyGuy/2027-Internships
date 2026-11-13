@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T14:15:48.612Z",
+  "updatedAt": "2026-11-13T14:30:15.394Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -5355,18 +5355,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=5766dd98-90dc-4097-9704-1f9fce747164&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-peraton.icims.com/jobs/172378/mission-systems-software-%26-edge-computing-intern-%e2%80%93-norman%2c-ok/job"
-    },
-    {
-      "id": "e19d85dc-9788-4034-8b95-4008c17de1ae",
-      "company": "Point72",
-      "title": "2027 Summer Internship – Software Engineer ",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Summer 2027",
-      "posted": "2026-10-14",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Point72&job=e19d85dc-9788-4034-8b95-4008c17de1ae&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
     }
   ]
 }
