@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T01:45:15.689Z",
+  "updatedAt": "2026-11-13T02:00:33.985Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -230,18 +230,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806"
     },
     {
-      "id": "36a1be18-6d64-4b0b-9ada-5af9bf1bf037",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "posted": "2026-11-11",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=36a1be18-6d64-4b0b-9ada-5af9bf1bf037&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045"
-    },
-    {
       "id": "edef8efc-e8bd-401a-affa-aaffa49a4a85",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -444,6 +432,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e42aa36c-c3c2-450e-9ad2-1b8c4947a720&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020"
+    },
+    {
+      "id": "36a1be18-6d64-4b0b-9ada-5af9bf1bf037",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Largo, FL",
+      "season": "Summer 2027",
+      "posted": "2026-11-10",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=36a1be18-6d64-4b0b-9ada-5af9bf1bf037&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045"
     },
     {
       "id": "775ab20b-04bd-4939-9bcd-a99f91ae35e4",
