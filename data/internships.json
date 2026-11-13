@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T04:15:09.822Z",
+  "updatedAt": "2026-11-13T04:30:15.079Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=cef47f6d-5343-4b65-a30b-490fab9a55e6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007"
+    },
+    {
+      "id": "f40ad4ec-661b-49f9-8775-bf4e82dc4910",
+      "company": "North Atlantic Industries, Inc",
+      "title": "Intern - Embedded Software Engineer (Spring 2027)",
+      "category": "Software Engineering",
+      "location": "Bohemia, NY",
+      "season": "Spring 2027",
+      "posted": "2026-11-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=f40ad4ec-661b-49f9-8775-bf4e82dc4910&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112"
     },
     {
       "id": "c4e1235b-b25f-4c77-9fdd-810d28ffe6d7",
