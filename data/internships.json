@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:00:11.755Z",
+  "updatedAt": "2026-11-13T06:15:17.452Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -38,18 +38,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
     },
     {
-      "id": "a4625e05-43d3-476c-bea7-9dcfeb6550f8",
-      "company": "Mksinst",
-      "title": "2027 Summer Software Engineer Co-op",
-      "category": "Software Engineering",
-      "location": "Andover, MA",
-      "season": "Summer 2027",
-      "posted": "2026-11-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Mksinst&job=a4625e05-43d3-476c-bea7-9dcfeb6550f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"
-    },
-    {
       "id": "cef47f6d-5343-4b65-a30b-490fab9a55e6",
       "company": "Muon Space",
       "title": "Software Engineering Intern-Information Systems (Summer 2027)",
@@ -84,18 +72,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Octant+Bio&job=c4e1235b-b25f-4c77-9fdd-810d28ffe6d7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.octant.bio/jobs?gh_jid=6260895004"
-    },
-    {
-      "id": "a16b86c0-c258-41f8-b072-a69cedc362bb",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "West Valley City, UT",
-      "season": "Summer 2027",
-      "posted": "2026-11-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a16b86c0-c258-41f8-b072-a69cedc362bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
     },
     {
       "id": "b0a273a0-91eb-478b-a4b2-358ff5323658",
@@ -230,6 +206,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/minitab/jobs/8200698003"
     },
     {
+      "id": "a4625e05-43d3-476c-bea7-9dcfeb6550f8",
+      "company": "Mksinst",
+      "title": "2027 Summer Software Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Andover, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-11",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Mksinst&job=a4625e05-43d3-476c-bea7-9dcfeb6550f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"
+    },
+    {
       "id": "a650c068-263f-4778-a31f-cc2551c1f08f",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -252,6 +240,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=edef8efc-e8bd-401a-affa-aaffa49a4a85&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+    },
+    {
+      "id": "a16b86c0-c258-41f8-b072-a69cedc362bb",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-11-11",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a16b86c0-c258-41f8-b072-a69cedc362bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
     },
     {
       "id": "6272cb8a-f747-4bf0-9e81-00f558186b60",
