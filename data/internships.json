@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:00:35.464Z",
+  "updatedAt": "2026-11-13T23:15:31.651Z",
   "jobs": [
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Reliable+Robotics+Corporation&job=c4cd4e7e-0705-4991-9487-316eb52633f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed"
+    },
+    {
+      "id": "9f1e235e-f944-4364-b4c1-5f9fcff96eb2",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, SSD Firmware Development",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=9f1e235e-f944-4364-b4c1-5f9fcff96eb2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003"
     },
     {
       "id": "ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf",
