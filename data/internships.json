@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:45:43.768Z",
+  "updatedAt": "2026-11-13T04:00:41.770Z",
   "jobs": [
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -96,18 +96,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=b0a273a0-91eb-478b-a4b2-358ff5323658&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055"
-    },
-    {
-      "id": "6272cb8a-f747-4bf0-9e81-00f558186b60",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Mckinney, TX",
-      "season": "Summer 2027",
-      "posted": "2026-11-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6272cb8a-f747-4bf0-9e81-00f558186b60&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440"
     },
     {
       "id": "e680ad51-d004-4638-962e-2bcbdb9f0bbd",
@@ -265,6 +253,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=edef8efc-e8bd-401a-affa-aaffa49a4a85&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+    },
+    {
+      "id": "6272cb8a-f747-4bf0-9e81-00f558186b60",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Mckinney, TX",
+      "season": "Summer 2027",
+      "posted": "2026-11-11",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6272cb8a-f747-4bf0-9e81-00f558186b60&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440"
     },
     {
       "id": "0f893228-dac0-4d15-93e4-869878d782fd",
