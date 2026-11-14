@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-442-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-444-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **442** active U.S. internships posted within the last **30 days**
+- **444** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 14, 2026, 11:00 AM PST**
+- Last refresh: **Nov 14, 2026, 11:16 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,13 +27,14 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**391 open roles**
+**392 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | US, VA, Herndon | Summer 2027 | Today | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | US, OR, Umatilla | Summer 2027 | Today | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
 | Manulife | Spring Co-op 2027 - Software Engineering Intern | Boston, MA | Spring | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) |
+| SAS | Summer 2027 - Software Developer Intern (Go/Golang Experience) | Cary, NC | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SAS&job=c9180a2b-5cf0-488e-894c-cc93606247cb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job) |
 | Campingworld | Software Engineering Intern | Lincolnshire, IL | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Campingworld&job=e9bcd738-26e6-4b7b-889c-07bdf02b0731&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
 | Dtna | IT Developer Analyst Intern | Mount Holly, NC | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Dtna&job=7c680887-04ca-4a50-84ae-9a9f563253a0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681) |
 | Electric Power Engineers | Software Power Systems Engineering Intern | Austin, TX | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Electric+Power+Engineers&job=7b28fdf0-487c-455e-9ee5-23c6739c00ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job) |
@@ -425,10 +426,11 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**51 open roles**
+**52 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| SAS | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SAS&job=e979c43b-0397-439b-a8ad-45b127361642&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) |
 | Addepar | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
 | Campingworld | New Product Development Product Management Intern | Lincolnshire, IL | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Campingworld&job=8ea9535d-5e80-4b3f-bf60-936f6dd96586&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086) |
 | Wattswater | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wattswater&job=ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
