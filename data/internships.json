@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:00:38.368Z",
+  "updatedAt": "2026-11-14T19:16:04.844Z",
   "jobs": [
     {
       "id": "custom:amazon:20ee477668672ef530ba",
@@ -38,6 +38,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
+    },
+    {
+      "id": "e979c43b-0397-439b-a8ad-45b127361642",
+      "company": "SAS",
+      "title": "Summer 2027 - IoT Product Strategy Intern (Master's)",
+      "category": "Product",
+      "location": "Cary, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SAS&job=e979c43b-0397-439b-a8ad-45b127361642&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job"
+    },
+    {
+      "id": "c9180a2b-5cf0-488e-894c-cc93606247cb",
+      "company": "SAS",
+      "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SAS&job=c9180a2b-5cf0-488e-894c-cc93606247cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"
     },
     {
       "id": "6d629c0f-2f7a-4136-a61e-18b98ca5b986",
