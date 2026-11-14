@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:30:34.764Z",
+  "updatedAt": "2026-11-14T17:46:14.766Z",
   "jobs": [
     {
       "id": "custom:amazon:20ee477668672ef530ba",
@@ -5321,18 +5321,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Inversion&job=89d69d0f-67f8-4bb4-bb45-ab34a0070da3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
-    },
-    {
-      "id": "1b0d7e33-8f30-43af-bfbb-59730f834a7f",
-      "company": "Muon Space",
-      "title": "Ground Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-15",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Muon+Space&job=1b0d7e33-8f30-43af-bfbb-59730f834a7f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
     }
   ]
 }
