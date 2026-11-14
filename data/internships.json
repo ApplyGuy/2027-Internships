@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-14T00:15:15.406Z",
+  "updatedAt": "2026-11-14T00:30:21.619Z",
   "jobs": [
+    {
+      "id": "6d629c0f-2f7a-4136-a61e-18b98ca5b986",
+      "company": "Addepar",
+      "title": "Summer 2027 Internship - Product Analyst (Navigator)",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002"
+    },
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
       "company": "Dtna",
