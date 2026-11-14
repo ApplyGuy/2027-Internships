@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-14T01:00:14.907Z",
+  "updatedAt": "2026-11-14T01:15:12.311Z",
   "jobs": [
+    {
+      "id": "custom:amazon:20ee477668672ef530ba",
+      "company": "Amazon",
+      "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+      "category": "Software Engineering",
+      "location": "US, VA, Herndon",
+      "season": "Summer 2027",
+      "posted": "2026-11-14",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+      "applySupported": false
+    },
     {
       "id": "custom:amazon:584393c6e6db894350d4",
       "company": "Amazon",
