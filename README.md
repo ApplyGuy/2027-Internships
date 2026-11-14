@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-439-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-440-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **439** active U.S. internships posted within the last **30 days**
+- **440** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 13, 2026, 4:15 PM PST**
+- Last refresh: **Nov 13, 2026, 4:30 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -422,10 +422,11 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**51 open roles**
+**52 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
+| Addepar | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
 | Wattswater | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wattswater&job=ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
 | apexanalytix | Product Management Intern (Summer 2027) | Greensboro, NC | Summer 2027 | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=apexanalytix&job=cf5e275f-43f3-4e88-8dd7-fd236d39a7dd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
 | Rubrik Job Board | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Summer 2027 | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=0e2f13eb-792d-473a-94e6-cceb9a679ccb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) |
