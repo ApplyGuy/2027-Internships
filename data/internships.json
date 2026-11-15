@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-15T19:45:23.556Z",
+  "updatedAt": "2026-11-15T20:00:21.360Z",
   "jobs": [
+    {
+      "id": "2bc848cb-2c8b-499e-a5f8-4212fd2a77de",
+      "company": "Fanatics Collectibles",
+      "title": "Summer 2027 Internship - Product Management Intern",
+      "category": "Product",
+      "location": "Seattle, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009"
+    },
     {
       "id": "custom:amazon:20ee477668672ef530ba",
       "company": "Amazon",
