@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-16T14:45:30.926Z",
+  "updatedAt": "2026-11-16T15:00:48.145Z",
   "jobs": [
+    {
+      "id": "364ea8f8-a58b-4cce-8c07-8c0538c000d6",
+      "company": "Addepar",
+      "title": "Technical Product Management Intern (ADX) - Summer 2027 ",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Addepar&job=364ea8f8-a58b-4cce-8c07-8c0538c000d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002"
+    },
     {
       "id": "2bc848cb-2c8b-499e-a5f8-4212fd2a77de",
       "company": "Fanatics Collectibles",
