@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-434-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-435-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **434** active U.S. internships posted within the last **30 days**
+- **435** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 16, 2026, 6:15 PM PST**
+- Last refresh: **Nov 16, 2026, 6:30 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**381 open roles**
+**382 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -36,6 +36,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | SRI International | Drexel University Co-op: Embedded Software Engineering | Princeton, NJ | Co-op | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SRI+International&job=0933fce0-a332-4f88-8c68-98a4375b6445&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job) |
 | I 3 Corps | Embedded Systems Reverse Engineer Intern | Washington, D.C. | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=I+3+Corps&job=ef80f51a-13f0-4bb9-b687-f22f6a2fdae3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job) |
 | Minitab | Software Engineering Intern | State College, PA | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Minitab&job=668fe579-1c3e-40aa-80b0-aebf2cb1caac&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/minitab/jobs/8200708003) |
+| Pacific Fusion | Summer 2027 HPC/DevOps Engineering Intern | San Leandro, CA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pacific+Fusion&job=880f01ec-c29b-4020-baff-6a3931abe4b1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009) |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | US, VA, Herndon | Summer 2027 | 3d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | US, OR, Umatilla | Summer 2027 | 3d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
 | Eight Sleep | Short-Term Firmware Intern | San Francisco, CA | — | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Eight+Sleep&job=2f42698d-eb58-48aa-b0f8-655f7c66eaab&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b) |
