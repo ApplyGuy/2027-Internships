@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:15:33.843Z",
+  "updatedAt": "2026-11-17T07:30:38.916Z",
   "jobs": [
     {
       "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Forterra&job=931b6243-fba7-4488-bc81-90a9aeb050ed&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395"
+    },
+    {
+      "id": "34ddfe2b-1428-4688-bec1-7efc8e81c1be",
+      "company": "HexArmor",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HexArmor&job=34ddfe2b-1428-4688-bec1-7efc8e81c1be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
     },
     {
       "id": "6efca9d9-5e81-494a-bc28-f48061a3f7d9",
