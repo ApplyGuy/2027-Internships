@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:15:43.659Z",
+  "updatedAt": "2026-11-17T02:30:35.888Z",
   "jobs": [
     {
       "id": "931b6243-fba7-4488-bc81-90a9aeb050ed",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Minitab&job=668fe579-1c3e-40aa-80b0-aebf2cb1caac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/minitab/jobs/8200708003"
+    },
+    {
+      "id": "880f01ec-c29b-4020-baff-6a3931abe4b1",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 HPC/DevOps Engineering Intern",
+      "category": "Software Engineering",
+      "location": "San Leandro, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=880f01ec-c29b-4020-baff-6a3931abe4b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009"
     },
     {
       "id": "2bc848cb-2c8b-499e-a5f8-4212fd2a77de",
