@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:15:53.379Z",
+  "updatedAt": "2026-11-17T20:30:53.690Z",
   "jobs": [
     {
       "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Clera&job=85bae074-addc-4c73-92fa-5214dd5fe514&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/clera/42992916-9ca1-48ca-9378-f4a13ea3733d"
+    },
+    {
+      "id": "da1263e2-b7f8-4b13-93d7-5ba322178041",
+      "company": "Crusoe",
+      "title": "Software Engineering Intern, Summer 2027",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crusoe&job=da1263e2-b7f8-4b13-93d7-5ba322178041&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5"
+    },
+    {
+      "id": "2f0c110b-f37c-41cf-bd75-ce236d54291f",
+      "company": "Exowatt",
+      "title": "Robotics & Physical AI Spring Intern (Miami)",
+      "category": "Software Engineering",
+      "location": "Miami, FL",
+      "season": "Spring",
+      "posted": "2026-11-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Exowatt&job=2f0c110b-f37c-41cf-bd75-ce236d54291f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c"
     },
     {
       "id": "931b6243-fba7-4488-bc81-90a9aeb050ed",
@@ -266,6 +290,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
+    },
+    {
+      "id": "custom:microsoft:481b7f838d269ee17891",
+      "company": "Microsoft",
+      "title": "Research Intern - MSR Software-Hardware Co-design",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "applySupported": false
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
@@ -1492,6 +1529,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
+      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
+      "company": "Microsoft",
+      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "applySupported": false
+    },
+    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -1922,6 +1972,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
+    },
+    {
+      "id": "custom:microsoft:121d306c133509735e49",
+      "company": "Microsoft",
+      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "applySupported": false
     },
     {
       "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
