@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:00:39.908Z",
+  "updatedAt": "2026-11-17T21:15:19.851Z",
   "jobs": [
     {
       "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Exowatt&job=2f0c110b-f37c-41cf-bd75-ce236d54291f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c"
+    },
+    {
+      "id": "5269843a-e9b0-4cb7-854e-618254526cac",
+      "company": "Falcomm",
+      "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Falcomm&job=5269843a-e9b0-4cb7-854e-618254526cac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/falcomm/j/64D0E86EFE/"
+    },
+    {
+      "id": "4c357222-5779-4478-b141-bfeda1c76527",
+      "company": "Falcomm",
+      "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+      "category": "Software Engineering",
+      "location": "Atlanta, GA",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Falcomm&job=4c357222-5779-4478-b141-bfeda1c76527&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://apply.workable.com/falcomm/j/41F139E6F7/"
     },
     {
       "id": "931b6243-fba7-4488-bc81-90a9aeb050ed",
