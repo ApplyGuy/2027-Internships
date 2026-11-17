@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:15:28.666Z",
+  "updatedAt": "2026-11-17T22:30:16.128Z",
   "jobs": [
     {
       "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
@@ -326,19 +326,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
-    },
-    {
-      "id": "custom:microsoft:481b7f838d269ee17891",
-      "company": "Microsoft",
-      "title": "Research Intern - MSR Software-Hardware Co-design",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-13",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "applySupported": false
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
@@ -1565,19 +1552,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
-      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
-      "company": "Microsoft",
-      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-05",
-      "age": "12d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "applySupported": false
-    },
-    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -2008,19 +1982,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
-    },
-    {
-      "id": "custom:microsoft:121d306c133509735e49",
-      "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "14d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "applySupported": false
     },
     {
       "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
