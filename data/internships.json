@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:01:09.502Z",
+  "updatedAt": "2026-11-18T17:15:28.305Z",
   "jobs": [
     {
       "id": "f38b658d-9c76-4933-a680-7900cc4fecc3",
@@ -810,7 +810,7 @@
     {
       "id": "5e0b4dab-a9af-48e5-a48f-f3c0ef5fdd68",
       "company": "Palantir Technologies",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
       "category": "Software Engineering",
       "location": "Denver, CO",
       "season": "Not specified",
@@ -1878,7 +1878,7 @@
     {
       "id": "75c35577-4b5c-46a4-8c4a-91549aa8f6e4",
       "company": "Palantir Technologies",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
       "category": "Software Engineering",
       "location": "New York City, NY",
       "season": "Not specified",
@@ -5092,18 +5092,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Braze&job=da505778-79aa-407d-8409-5b24092e39c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/braze/jobs/8301086"
-    },
-    {
-      "id": "add3f2db-f43a-4b1d-94a4-c26cabf6ed08",
-      "company": "Inversion",
-      "title": "Vehicle Software Engineer - Summer Internship 2027",
-      "category": "Software Engineering",
-      "location": "Playa Vista, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-19",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Inversion&job=add3f2db-f43a-4b1d-94a4-c26cabf6ed08&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
     },
     {
       "id": "ffeba7c0-84fa-42c3-a858-14c10f742a95",
