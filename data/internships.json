@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:16:28.024Z",
+  "updatedAt": "2026-11-18T21:30:40.447Z",
   "jobs": [
     {
       "id": "f38b658d-9c76-4933-a680-7900cc4fecc3",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Raptor+Maps&job=b0589aa8-00bb-4ea0-a863-226b389a31ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
+    },
+    {
+      "id": "b650a085-0d76-44d0-8ad4-17d5b24dea81",
+      "company": "Truveta",
+      "title": "Winter Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Seattle, WA",
+      "season": "Winter",
+      "posted": "2026-11-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Truveta&job=b650a085-0d76-44d0-8ad4-17d5b24dea81&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/truveta/jobs/6249810004"
     },
     {
       "id": "3d00c98b-5fd0-479f-ba39-b8a22560b223",
