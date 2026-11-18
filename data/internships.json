@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:00:59.395Z",
+  "updatedAt": "2026-11-18T18:15:59.439Z",
   "jobs": [
     {
       "id": "f38b658d-9c76-4933-a680-7900cc4fecc3",
@@ -144,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HexArmor&job=34ddfe2b-1428-4688-bec1-7efc8e81c1be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
+    },
+    {
+      "id": "144b25be-b783-48a6-b3a5-cda298a5eec3",
+      "company": "Marvell",
+      "title": "AI Infrastructure Engineer Intern, MS - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-17",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=144b25be-b783-48a6-b3a5-cda298a5eec3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829"
     },
     {
       "id": "60d0b0cd-c770-4b74-8bc5-2060ffdebd86",
