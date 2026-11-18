@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:30:36.896Z",
+  "updatedAt": "2026-11-18T17:45:57.996Z",
   "jobs": [
     {
       "id": "f38b658d-9c76-4933-a680-7900cc4fecc3",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
+    },
+    {
+      "id": "75d6ae95-2a98-4f31-815d-6710ecf64593",
+      "company": "Galaxy",
+      "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
+      "category": "Software Engineering",
+      "location": "Afton, TX",
+      "season": "2027",
+      "posted": "2026-11-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Galaxy&job=75d6ae95-2a98-4f31-815d-6710ecf64593&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004"
     },
     {
       "id": "b0589aa8-00bb-4ea0-a863-226b389a31ca",
