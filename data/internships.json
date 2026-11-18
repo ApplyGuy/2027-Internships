@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-18T03:00:40.509Z",
+  "updatedAt": "2026-11-18T03:15:50.001Z",
   "jobs": [
+    {
+      "id": "b48e74dc-a6f5-4fbe-8a60-b601d86199d2",
+      "company": "apexanalytix",
+      "title": "Product Management (DevOps) Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Greensboro, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
+    },
     {
       "id": "3d00c98b-5fd0-479f-ba39-b8a22560b223",
       "company": "Anduril Industries",
@@ -474,7 +486,7 @@
     {
       "id": "cf5e275f-43f3-4e88-8dd7-fd236d39a7dd",
       "company": "apexanalytix",
-      "title": "Product Management Intern (Summer 2027)",
+      "title": "Product Management (Discovery) Intern - Summer 2027",
       "category": "Product",
       "location": "Greensboro, NC",
       "season": "Summer 2027",
