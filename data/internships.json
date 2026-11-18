@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-18T01:30:32.391Z",
+  "updatedAt": "2026-11-18T01:45:49.473Z",
   "jobs": [
+    {
+      "id": "3d00c98b-5fd0-479f-ba39-b8a22560b223",
+      "company": "Anduril Industries",
+      "title": "2027 Machine Learning Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Santa Ana, CA",
+      "season": "2027",
+      "posted": "2026-11-17",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=3d00c98b-5fd0-479f-ba39-b8a22560b223&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007"
+    },
     {
       "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
       "company": "Clera",
