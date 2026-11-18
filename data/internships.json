@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:30:48.820Z",
+  "updatedAt": "2026-11-18T04:46:20.758Z",
   "jobs": [
     {
       "id": "b48e74dc-a6f5-4fbe-8a60-b601d86199d2",
@@ -120,19 +120,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HexArmor&job=34ddfe2b-1428-4688-bec1-7efc8e81c1be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
-    },
-    {
-      "id": "custom:microsoft:3e0836a94e9ca282ffae",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-17",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-      "applySupported": false
     },
     {
       "id": "60d0b0cd-c770-4b74-8bc5-2060ffdebd86",
@@ -375,19 +362,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
-    },
-    {
-      "id": "custom:microsoft:481b7f838d269ee17891",
-      "company": "Microsoft",
-      "title": "Research Intern - MSR Software-Hardware Co-design",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-13",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "applySupported": false
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
@@ -1614,19 +1588,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
-      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
-      "company": "Microsoft",
-      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-05",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "applySupported": false
-    },
-    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -2057,19 +2018,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
-    },
-    {
-      "id": "custom:microsoft:121d306c133509735e49",
-      "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "applySupported": false
     },
     {
       "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
