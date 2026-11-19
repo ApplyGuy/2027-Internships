@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T23:00:16.801Z",
+  "updatedAt": "2026-11-19T23:15:34.582Z",
   "jobs": [
     {
       "id": "6260e515-3979-41eb-88a4-cf792af8075c",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Here+Group+Ltd&job=5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job"
+    },
+    {
+      "id": "2db1d6ed-ef79-4fa3-9091-abe4eee00de0",
+      "company": "Lucid Motors",
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=2db1d6ed-ef79-4fa3-9091-abe4eee00de0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007"
     },
     {
       "id": "16b3380c-357a-4fd0-b627-4e991011ca77",
