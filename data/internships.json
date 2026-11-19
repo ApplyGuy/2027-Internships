@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:00:48.352Z",
+  "updatedAt": "2026-11-19T21:15:36.267Z",
   "jobs": [
     {
       "id": "6260e515-3979-41eb-88a4-cf792af8075c",
@@ -5080,18 +5080,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Walrus&job=05a0b9e9-bdec-4960-a213-26250cf1e77a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5"
-    },
-    {
-      "id": "e25b9d40-6b8a-4616-acf0-842c86f78381",
-      "company": "FEV North America Inc",
-      "title": "Engineering Assistant (Intern) - Software Development (Part-time)",
-      "category": "Software Engineering",
-      "location": "Auburn Hills, MI",
-      "season": "Not specified",
-      "posted": "2026-10-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=FEV+North+America+Inc&job=e25b9d40-6b8a-4616-acf0-842c86f78381&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4600884"
     }
   ]
 }
