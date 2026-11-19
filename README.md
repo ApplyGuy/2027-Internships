@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-424-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-423-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **424** active U.S. internships posted within the last **30 days**
+- **423** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 19, 2026, 1:00 PM PST**
+- Last refresh: **Nov 19, 2026, 1:15 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**374 open roles**
+**373 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -404,7 +404,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Smithnephew | Intern Computer Vision Software Engineering | Andover, MA | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Smithnephew&job=59fa8605-517a-4612-88ae-c6a1eb425d14&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://smithnephew.wd5.myworkdayjobs.com/external/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964) |
 | Smithnephew | Co-Op Embedded Software Engineering | Andover, MA | Co-op | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Smithnephew&job=09943fa1-b294-4ceb-91b3-ba5245f19ecd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://smithnephew.wd5.myworkdayjobs.com/external/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) |
 | Walrus | Full Stack Developer Intern | New York City, NY | — | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Walrus&job=05a0b9e9-bdec-4960-a213-26250cf1e77a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5) |
-| FEV North America Inc | Engineering Assistant (Intern) - Software Development (Part-time) | Auburn Hills, MI | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=FEV+North+America+Inc&job=e25b9d40-6b8a-4616-acf0-842c86f78381&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4600884) |
 
 ## Product Management Internships
 
