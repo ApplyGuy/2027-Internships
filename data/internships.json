@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:16:05.799Z",
+  "updatedAt": "2026-11-19T19:30:38.419Z",
   "jobs": [
     {
       "id": "1b2ec54f-5f84-4d9e-82d5-b0f9eae8b0fb",
@@ -5068,18 +5068,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=FEV+North+America+Inc&job=e25b9d40-6b8a-4616-acf0-842c86f78381&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4600884"
-    },
-    {
-      "id": "0c112f01-d62b-4b0d-8ff0-8b1e3e9739e0",
-      "company": "Humble Robotics",
-      "title": "Embedded Software Engineer, 2027 Internship",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "2027",
-      "posted": "2026-10-20",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Humble+Robotics&job=0c112f01-d62b-4b0d-8ff0-8b1e3e9739e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3"
     }
   ]
 }
