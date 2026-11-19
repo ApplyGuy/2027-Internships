@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-19T20:15:35.917Z",
+  "updatedAt": "2026-11-19T20:30:18.498Z",
   "jobs": [
+    {
+      "id": "6260e515-3979-41eb-88a4-cf792af8075c",
+      "company": "Allied Consultants",
+      "title": "AI/ML Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Allied+Consultants&job=6260e515-3979-41eb-88a4-cf792af8075c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job"
+    },
     {
       "id": "1b2ec54f-5f84-4d9e-82d5-b0f9eae8b0fb",
       "company": "Amperity",
