@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:30:09.690Z",
+  "updatedAt": "2026-11-19T01:45:32.743Z",
   "jobs": [
     {
       "id": "5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4",
@@ -72,6 +72,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kira&job=3952a5db-7a26-4fcb-ba87-09209cd7d420&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe"
+    },
+    {
+      "id": "11880bd9-6674-4be6-b919-c2ffe268b4d6",
+      "company": "Lucid Software",
+      "title": "Product Management Internship - Summer 2027",
+      "category": "Product",
+      "location": "Salt Lake City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-11-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Software&job=11880bd9-6674-4be6-b919-c2ffe268b4d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004"
+    },
+    {
+      "id": "cfb8c3e5-1489-4d9c-b00e-8239696ec2ca",
+      "company": "Lucid Software",
+      "title": "Product Management Internship - Summer 2027",
+      "category": "Product",
+      "location": "Raleigh, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Software&job=cfb8c3e5-1489-4d9c-b00e-8239696ec2ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
     },
     {
       "id": "custom:microsoft:27f71c3a2ab7410fb03c",
