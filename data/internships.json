@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-20T05:45:12.251Z",
+  "updatedAt": "2026-11-20T06:00:43.836Z",
   "jobs": [
+    {
+      "id": "34bdd557-878b-4f63-b152-4363c30b9602",
+      "company": "Lucid Motors",
+      "title": "Intern, Infotainment Software, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=34bdd557-878b-4f63-b152-4363c30b9602&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
+    },
+    {
+      "id": "a75a2b10-a652-4f91-bb57-4e7506e245b6",
+      "company": "Lucid Motors",
+      "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=a75a2b10-a652-4f91-bb57-4e7506e245b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007"
+    },
     {
       "id": "6260e515-3979-41eb-88a4-cf792af8075c",
       "company": "Allied Consultants",
@@ -48,6 +72,42 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Here+Group+Ltd&job=5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job"
+    },
+    {
+      "id": "dbbc9d6b-ff79-4b3a-9a31-e9fdb3c11234",
+      "company": "Lucid Motors",
+      "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=dbbc9d6b-ff79-4b3a-9a31-e9fdb3c11234&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007"
+    },
+    {
+      "id": "acdb71b0-4089-4cf2-a22a-a792bc7722b4",
+      "company": "Lucid Motors",
+      "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=acdb71b0-4089-4cf2-a22a-a792bc7722b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007"
+    },
+    {
+      "id": "2940a455-e399-477d-9e5d-5e8cb2190d8d",
+      "company": "Lucid Motors",
+      "title": "Intern, Embedded Software, Summer 2027",
+      "category": "Software Engineering",
+      "location": "Newark, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=2940a455-e399-477d-9e5d-5e8cb2190d8d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007"
     },
     {
       "id": "2db1d6ed-ef79-4fa3-9091-abe4eee00de0",
