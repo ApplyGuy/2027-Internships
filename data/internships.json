@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:15:34.249Z",
+  "updatedAt": "2026-11-21T14:30:31.817Z",
   "jobs": [
     {
       "id": "1bcb0ccf-0ef0-49e6-a9f0-a73e9aeeb12c",
@@ -144,6 +144,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=2db1d6ed-ef79-4fa3-9091-abe4eee00de0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007"
+    },
+    {
+      "id": "595dd77c-b497-4f59-b145-0d511f789e32",
+      "company": "Neogen",
+      "title": "Software or Firmware Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Oakdale, MN",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Neogen&job=595dd77c-b497-4f59-b145-0d511f789e32&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
     },
     {
       "id": "16b3380c-357a-4fd0-b627-4e991011ca77",
