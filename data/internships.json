@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:15:35.180Z",
+  "updatedAt": "2026-11-21T19:30:36.759Z",
   "jobs": [
     {
       "id": "1bcb0ccf-0ef0-49e6-a9f0-a73e9aeeb12c",
@@ -4756,30 +4756,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7537d70b-fcee-4742-9e50-754719e466fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648-1"
-    },
-    {
-      "id": "9e81beb7-3ce7-484a-995b-e6ffcfeb21ce",
-      "company": "Twitch",
-      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Winter 2027",
-      "posted": "2026-10-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Twitch&job=9e81beb7-3ce7-484a-995b-e6ffcfeb21ce&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8886605002"
-    },
-    {
-      "id": "ee05398f-0ad9-44af-a768-6501e1af976c",
-      "company": "Twitch",
-      "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
-      "category": "Software Engineering",
-      "location": "San Francisco, CA",
-      "season": "Spring 2028",
-      "posted": "2026-10-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Twitch&job=ee05398f-0ad9-44af-a768-6501e1af976c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8886748002"
     },
     {
       "id": "10083037-fe03-4335-9fb8-58d48681c19c",
