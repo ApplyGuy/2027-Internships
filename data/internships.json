@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:00:32.276Z",
+  "updatedAt": "2026-11-21T21:15:13.856Z",
   "jobs": [
     {
       "id": "1bcb0ccf-0ef0-49e6-a9f0-a73e9aeeb12c",
@@ -4756,30 +4756,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=7537d70b-fcee-4742-9e50-754719e466fe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648-1"
-    },
-    {
-      "id": "10083037-fe03-4335-9fb8-58d48681c19c",
-      "company": "Ursa Major",
-      "title": "2027 Summer Software Development Intern",
-      "category": "Software Engineering",
-      "location": "Berthoud, CO",
-      "season": "Summer 2027",
-      "posted": "2026-10-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Ursa+Major&job=10083037-fe03-4335-9fb8-58d48681c19c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ursamajor.com/careers/?gh_jid=4746827005"
-    },
-    {
-      "id": "21e219bc-da5f-4281-afc8-968a69f1caf7",
-      "company": "Ursa Major",
-      "title": "2027 Summer Embedded Flight Software Intern",
-      "category": "Software Engineering",
-      "location": "Longmont, CO",
-      "season": "Summer 2027",
-      "posted": "2026-10-22",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Ursa+Major&job=21e219bc-da5f-4281-afc8-968a69f1caf7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ursamajor.com/careers/?gh_jid=4746825005"
     }
   ]
 }
