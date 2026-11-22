@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:30:38.840Z",
+  "updatedAt": "2026-11-22T23:45:09.954Z",
   "jobs": [
     {
       "id": "0180f67e-6734-4d24-a45e-2065c5743ed6",
@@ -4503,18 +4503,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Figure&job=05f870d7-ad8c-446c-8861-6c1e4c59812c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/figureai/jobs/4724521006"
-    },
-    {
-      "id": "c211715f-19de-493f-a976-a701b9b575a3",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I (Co-op) - United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Co-op",
-      "posted": "2026-10-23",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=c211715f-19de-493f-a976-a701b9b575a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701"
     }
   ]
 }
