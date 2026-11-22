@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-22T04:45:15.024Z",
+  "updatedAt": "2026-11-22T05:00:37.159Z",
   "jobs": [
+    {
+      "id": "0180f67e-6734-4d24-a45e-2065c5743ed6",
+      "company": "Neros Technologies",
+      "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Torrance, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Neros+Technologies&job=0180f67e-6734-4d24-a45e-2065c5743ed6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007"
+    },
     {
       "id": "042e4928-0086-46c1-8a23-752e66be5771",
       "company": "Gorbel",
