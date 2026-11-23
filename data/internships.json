@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T20:15:17.946Z",
+  "updatedAt": "2026-11-23T20:30:46.444Z",
   "jobs": [
     {
       "id": "4c84f770-b25b-45e5-8071-51d46797761e",
@@ -468,6 +468,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Truveta&job=b650a085-0d76-44d0-8ad4-17d5b24dea81&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/truveta/jobs/6249810004"
+    },
+    {
+      "id": "custom:amazon:5aff065072fb9c9228ff",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "US, CA, Sunnyvale",
+      "season": "Summer 2027",
+      "posted": "2026-11-17",
+      "age": "6d",
+      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+      "applySupported": false
     },
     {
       "id": "3d00c98b-5fd0-479f-ba39-b8a22560b223",
