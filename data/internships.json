@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:15:16.397Z",
+  "updatedAt": "2026-11-23T22:30:13.435Z",
   "jobs": [
     {
       "id": "4c84f770-b25b-45e5-8071-51d46797761e",
@@ -749,18 +749,6 @@
       "listingUrl": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"
     },
     {
-      "id": "8ea9535d-5e80-4b3f-bf60-936f6dd96586",
-      "company": "Campingworld",
-      "title": "New Product Development Product Management Intern",
-      "category": "Product",
-      "location": "Lincolnshire, IL",
-      "season": "Not specified",
-      "posted": "2026-11-13",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Campingworld&job=8ea9535d-5e80-4b3f-bf60-936f6dd96586&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086"
-    },
-    {
       "id": "e9bcd738-26e6-4b7b-889c-07bdf02b0731",
       "company": "Campingworld",
       "title": "Software Engineering Intern",
@@ -771,6 +759,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Campingworld&job=e9bcd738-26e6-4b7b-889c-07bdf02b0731&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080"
+    },
+    {
+      "id": "8ea9535d-5e80-4b3f-bf60-936f6dd96586",
+      "company": "Campingworld",
+      "title": "New Product Development Product Management Intern",
+      "category": "Product",
+      "location": "Lincolnshire, IL",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Campingworld&job=8ea9535d-5e80-4b3f-bf60-936f6dd96586&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086"
     },
     {
       "id": "7c680887-04ca-4a50-84ae-9a9f563253a0",
