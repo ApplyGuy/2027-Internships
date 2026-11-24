@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-24T22:30:34.188Z",
+  "updatedAt": "2026-11-24T22:45:42.583Z",
   "jobs": [
+    {
+      "id": "7f563e31-5092-4ac9-a7d3-ae49c54340d0",
+      "company": "Apex Technology, Inc.",
+      "title": "Software Engineer, Test Automation Internship (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Apex+Technology%2C+Inc.&job=7f563e31-5092-4ac9-a7d3-ae49c54340d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d"
+    },
     {
       "id": "c7391438-5da5-4844-8fdd-eb9c564d653f",
       "company": "Aptima Inc. (All Jobs)",
