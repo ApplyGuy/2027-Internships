@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-440-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-441-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **440** active U.S. internships posted within the last **30 days**
+- **441** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 8:45 AM PST**
+- Last refresh: **Nov 24, 2026, 9:00 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**378 open roles**
+**379 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -125,6 +125,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Motorolasolutions | Software System Technologist Intern (Summer 2027 Internship) | Chicago, IL | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Motorolasolutions&job=934a97c4-aafd-4299-9ea1-2eb8c91e4a14&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Chicago-IL/Software-System-Technologist-Intern--Summer-2027-Internship-_R70839) |
 | Nelnet | Intern - IT Software Engineer (Summer 2027) | Lincoln, NE | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nelnet&job=ecfdf3d3-c8f4-4645-b446-d7ab8aa74b2e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352) |
 | Pae | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | Houston, TX | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pae&job=9643d579-1daa-440b-b7a7-5e35c6b5aca7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1) |
+| Signify | Firmware Development Engineer Intern, Cooper Lighting Solutions - Spring 2027 | Atlanta, GA | Spring 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Signify&job=7362e7ca-3670-49eb-8ae2-7f56e6f5abe3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/Firmware-Development-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_367134) |
 | SRI International | Drexel University Co-op: Software Engineering | Princeton, NJ | Co-op | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SRI+International&job=60d0b0cd-c770-4b74-8bc5-2060ffdebd86&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job) |
 | SRI International | Drexel University Co-op: Software Engineering/Full stack development | Princeton, NJ | Co-op | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SRI+International&job=6efca9d9-5e81-494a-bc28-f48061a3f7d9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job) |
 | SRI International | Drexel University Co-op: Embedded Software Engineering | Princeton, NJ | Co-op | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SRI+International&job=0933fce0-a332-4f88-8c68-98a4375b6445&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job) |
