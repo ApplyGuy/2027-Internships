@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:00:39.481Z",
+  "updatedAt": "2026-11-24T14:15:38.630Z",
   "jobs": [
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
@@ -290,6 +290,18 @@
       "listingUrl": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832"
     },
     {
+      "id": "3aebc1e1-9f00-4e27-8f06-95df3dfeb1f2",
+      "company": "Rockwellautomation",
+      "title": "Intern, Software Engineer",
+      "category": "Software Engineering",
+      "location": "Milwaukee, WI",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=3aebc1e1-9f00-4e27-8f06-95df3dfeb1f2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2"
+    },
+    {
       "id": "7c47180c-8757-422f-a55f-44c3a549260a",
       "company": "Saabusa",
       "title": "Software Engineer Co-Op (Summer 2027)",
@@ -312,6 +324,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Saabusa&job=0304e789-bdfd-4b9f-a0c3-7001106129c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
+    },
+    {
+      "id": "796a5ea2-5822-4188-81c1-81c9a805510f",
+      "company": "Sec",
+      "title": "Data Engineer Intern",
+      "category": "Software Engineering",
+      "location": "6555 Excellence Way, TX",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sec&job=796a5ea2-5822-4188-81c1-81c9a805510f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374"
+    },
+    {
+      "id": "2e861fc2-9b0c-41ad-980d-226d3b0e1744",
+      "company": "Sec",
+      "title": "Software Development Engineer - Intern",
+      "category": "Software Engineering",
+      "location": "645 Clyde Avenue, CA",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sec&job=2e861fc2-9b0c-41ad-980d-226d3b0e1744&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018"
     },
     {
       "id": "c922f322-ab75-4bb4-a8dd-88ca41f36266",
@@ -360,6 +396,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=zebra&job=094aa21f-a5c4-436b-86fd-ba7173dfebf4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660"
+    },
+    {
+      "id": "b100c55b-dc5d-4a19-a7dc-e741f15ac9a5",
+      "company": "Zoll",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Chelmsford, MA",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Zoll&job=b100c55b-dc5d-4a19-a7dc-e741f15ac9a5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923"
     },
     {
       "id": "0180f67e-6734-4d24-a45e-2065c5743ed6",
@@ -470,6 +518,30 @@
       "listingUrl": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007"
     },
     {
+      "id": "163c52bb-d084-4dc5-ae01-417980d752f9",
+      "company": "Rockwellautomation",
+      "title": "Intern, Content IDE Software Development (LCS)",
+      "category": "Software Engineering",
+      "location": "Mayfield Heights, OH",
+      "season": "Not specified",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=163c52bb-d084-4dc5-ae01-417980d752f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"
+    },
+    {
+      "id": "0ea0e2d4-3ad1-4e0f-884b-64f9f1bbb9d0",
+      "company": "Sec",
+      "title": "Product Management Tools and Automation Intern",
+      "category": "Product",
+      "location": "6555 Excellence Way, TX",
+      "season": "Not specified",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Sec&job=0ea0e2d4-3ad1-4e0f-884b-64f9f1bbb9d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022"
+    },
+    {
       "id": "e91b74a7-d737-413b-98e3-66fcb13811bf",
       "company": "Symbotic",
       "title": "Intern- Software Engineer, Front-End",
@@ -492,6 +564,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=cd2af9b3-a64a-4433-9f3c-56365807d100&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767"
+    },
+    {
+      "id": "331db4d0-0b15-4006-bdc8-c0b1c220a39b",
+      "company": "Zoll",
+      "title": "Software Automation Intern",
+      "category": "Software Engineering",
+      "location": "Chelmsford, MA",
+      "season": "Not specified",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Zoll&job=331db4d0-0b15-4006-bdc8-c0b1c220a39b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/Chelmsford-MA/Software-Automation-Intern_R20929"
     },
     {
       "id": "6260e515-3979-41eb-88a4-cf792af8075c",
@@ -564,6 +648,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Here+Group+Ltd&job=5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job"
+    },
+    {
+      "id": "dcaa76eb-67d9-478e-8fff-283b23b1ea43",
+      "company": "Highmarkhealth",
+      "title": "Summer 2027 Data Engineer & Analyst enGen Undergraduate Intern",
+      "category": "Software Engineering",
+      "location": "Pittsburgh, PA",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Highmarkhealth&job=dcaa76eb-67d9-478e-8fff-283b23b1ea43&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722"
     },
     {
       "id": "ac21b9f7-192c-4ef3-b221-a87ad8c78665",
@@ -684,6 +780,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Pivotal&job=16b3380c-357a-4fd0-b627-4e991011ca77&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d"
+    },
+    {
+      "id": "ad78419b-d5da-45f5-8a85-3dd738ac7ea7",
+      "company": "Ptc",
+      "title": "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Ptc&job=ad78419b-d5da-45f5-8a85-3dd738ac7ea7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015"
     },
     {
       "id": "2db63528-c9c9-4ae4-8147-1821418e0650",
@@ -876,6 +984,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=5dccff2b-d2d6-42f3-b96d-bd851566b84c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61"
+    },
+    {
+      "id": "d14451b9-e272-4fe6-a114-27e746cc61ef",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=d14451b9-e272-4fe6-a114-27e746cc61ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112072-1"
     },
     {
       "id": "3eb977b6-47e2-4f6f-b0bd-4c6607e73736",
@@ -1287,6 +1407,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009"
     },
     {
+      "id": "4bbfd1ea-036c-4c2e-947d-94bc3d8b3008",
+      "company": "Sec",
+      "title": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
+      "category": "Product",
+      "location": "645 Clyde Avenue, CA",
+      "season": "Not specified",
+      "posted": "2026-11-16",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Sec&job=4bbfd1ea-036c-4c2e-947d-94bc3d8b3008&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020"
+    },
+    {
       "id": "2bc848cb-2c8b-499e-a5f8-4212fd2a77de",
       "company": "Fanatics Collectibles",
       "title": "Summer 2027 Internship - Product Management Intern",
@@ -1347,6 +1479,18 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Eight+Sleep&job=2f42698d-eb58-48aa-b0f8-655f7c66eaab&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b"
+    },
+    {
+      "id": "04007034-4a6d-46af-8f33-1c4d501b0a20",
+      "company": "Ptc",
+      "title": "Onshape Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-14",
+      "age": "10d",
+      "url": "https://applyguy.ai/jobs?company=Ptc&job=04007034-4a6d-46af-8f33-1c4d501b0a20&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
     },
     {
       "id": "e979c43b-0397-439b-a8ad-45b127361642",
@@ -1421,6 +1565,18 @@
       "listingUrl": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job"
     },
     {
+      "id": "fe9523da-54ca-4f08-8e5d-8135448ade32",
+      "company": "Entegris",
+      "title": "Associate Product Manager Intern",
+      "category": "Product",
+      "location": "Chaska, MN",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Entegris&job=fe9523da-54ca-4f08-8e5d-8135448ade32&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844"
+    },
+    {
       "id": "fafce143-4bce-46a2-93a5-f9704bd9d6fc",
       "company": "IDEMIA North America",
       "title": "Full Stack Software Engineering Internship",
@@ -1481,6 +1637,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003"
     },
     {
+      "id": "84cc147b-cb0a-4823-8f2d-ab4d8b5a0698",
+      "company": "Valeo",
+      "title": "Software Engineer Intern (Year-Round)",
+      "category": "Software Engineering",
+      "location": "Troy, MI",
+      "season": "Year-round",
+      "posted": "2026-11-13",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Valeo&job=84cc147b-cb0a-4823-8f2d-ab4d8b5a0698&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+    },
+    {
       "id": "ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf",
       "company": "Wattswater",
       "title": "Product Management Co-op, Jan-June 2027",
@@ -1491,6 +1659,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Wattswater&job=ccb645a2-8d4e-4411-a4ce-bc0fb0e4eedf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1"
+    },
+    {
+      "id": "aafb9f86-7df8-4c80-9847-8b7aa9a6b35b",
+      "company": "AeroVironment",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Lawrence, KS",
+      "season": "Not specified",
+      "posted": "2026-11-12",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=aafb9f86-7df8-4c80-9847-8b7aa9a6b35b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Lawrence-KS/Software-Engineering-Intern_9360"
     },
     {
       "id": "a9b5a908-1bb1-4fc7-a38d-d9a0e303a591",
@@ -1551,6 +1731,18 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=North+Atlantic+Industries%2C+Inc&job=f40ad4ec-661b-49f9-8775-bf4e82dc4910&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112"
+    },
+    {
+      "id": "881c9ec2-2926-48e5-82d4-2c8e080f4e8a",
+      "company": "Ptc",
+      "title": "Onshape Site Reliability Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-12",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Ptc&job=881c9ec2-2926-48e5-82d4-2c8e080f4e8a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"
     },
     {
       "id": "b1d48533-dee2-4dc6-9f25-ff0f60d6510d",
@@ -1647,6 +1839,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Mksinst&job=a4625e05-43d3-476c-bea7-9dcfeb6550f8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"
+    },
+    {
+      "id": "1d6ed7da-2823-468f-a850-b87d647f5cd1",
+      "company": "Rockwellautomation",
+      "title": "Intern, Software Developer/Engineering",
+      "category": "Software Engineering",
+      "location": "Mequon, WI",
+      "season": "Not specified",
+      "posted": "2026-11-11",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=1d6ed7da-2823-468f-a850-b87d647f5cd1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2"
     },
     {
       "id": "a650c068-263f-4778-a31f-cc2551c1f08f",
@@ -3053,6 +3257,30 @@
       "listingUrl": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
     },
     {
+      "id": "f4a8c527-6464-44dd-84a4-74a78bff0c17",
+      "company": "Trimble",
+      "title": "AI Developer Intern",
+      "category": "Software Engineering",
+      "location": "Dayton, OH",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=f4a8c527-6464-44dd-84a4-74a78bff0c17&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---OH-Dayton/AI-Developer-Intern_R58195"
+    },
+    {
+      "id": "d32b0fda-8a7e-4b8a-9160-e5497c05e85d",
+      "company": "Trimble",
+      "title": "AI Developer Intern",
+      "category": "Software Engineering",
+      "location": "Westminster, CO",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=d32b0fda-8a7e-4b8a-9160-e5497c05e85d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/AI-Developer-Intern_R58194"
+    },
+    {
       "id": "409daeed-21c0-40be-bd48-4c5970de6a11",
       "company": "USAFacts",
       "title": "Technical Product Manager Intern",
@@ -3221,6 +3449,18 @@
       "listingUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
     },
     {
+      "id": "062996ec-1225-4bbe-b819-5f97ebebe543",
+      "company": "Micron",
+      "title": "Intern - Front End Materials Category Supplier Manager (CSM)",
+      "category": "Software Engineering",
+      "location": "Boise, ID",
+      "season": "Not specified",
+      "posted": "2026-11-02",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=062996ec-1225-4bbe-b819-5f97ebebe543&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161"
+    },
+    {
       "id": "f2ad5eef-5e04-4d41-bbd8-208c606a67e3",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineering Intern - Colorado Springs",
@@ -3339,6 +3579,18 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=03d7f657-a9cb-4b2c-86d9-130fbf363f89&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
+    },
+    {
+      "id": "211dac0e-6e5d-4471-b8f2-e7f0ccb48d6a",
+      "company": "Snc",
+      "title": "DevOps Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Southern Pines, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-02",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=211dac0e-6e5d-4471-b8f2-e7f0ccb48d6a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1"
     },
     {
       "id": "7f950497-ebe5-4d7e-9f81-1b126c9eeac0",
@@ -4398,6 +4650,18 @@
       "listingUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120"
     },
     {
+      "id": "3f04b515-3c84-44df-bc1a-0d681b9b7956",
+      "company": "Micron",
+      "title": "Intern – CMBU Product Management",
+      "category": "Product",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-10-27",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=3f04b515-3c84-44df-bc1a-0d681b9b7956&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941"
+    },
+    {
       "id": "9da6207c-4dbe-4989-af16-2d6826b2390a",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineer Intern - Azusa CA",
@@ -4638,6 +4902,18 @@
       "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
     },
     {
+      "id": "5a839b83-8237-4972-9dda-d5322faca508",
+      "company": "Abb",
+      "title": "Product Management Intern Drive Products - Summer 2027",
+      "category": "Product",
+      "location": "New Berlin, WI",
+      "season": "Summer 2027",
+      "posted": "2026-10-26",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Abb&job=5a839b83-8237-4972-9dda-d5322faca508&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254"
+    },
+    {
       "id": "b67ba1b9-6831-4953-9a89-b2fd07c14c02",
       "company": "Analogdevices",
       "title": "DevOps Co-Op",
@@ -4720,6 +4996,18 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=46143068-4844-4fc6-88b2-e6f5537178db&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
+    },
+    {
+      "id": "75a800a7-1255-46fc-bce6-ba1c1eb06104",
+      "company": "Highmarkhealth",
+      "title": "Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern",
+      "category": "Software Engineering",
+      "location": "Pittsburgh, PA",
+      "season": "Summer 2027",
+      "posted": "2026-10-26",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Highmarkhealth&job=75a800a7-1255-46fc-bce6-ba1c1eb06104&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821"
     },
     {
       "id": "c50e0459-326d-4c85-9282-97a00db93faf",
