@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:15:37.663Z",
+  "updatedAt": "2026-11-24T20:30:35.210Z",
   "jobs": [
     {
       "id": "c7391438-5da5-4844-8fdd-eb9c564d653f",
@@ -348,6 +348,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Oscar+Health&job=4c67aba7-c5aa-45d3-bba7-130b73ce7121&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://oscarhealth.com/careers/jobs?gh_jid=8407472"
+    },
+    {
+      "id": "20affc43-78c9-41bc-829a-000f395a7748",
+      "company": "Philips",
+      "title": "Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Bothell, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=20affc43-78c9-41bc-829a-000f395a7748&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989"
     },
     {
       "id": "86fb7c7d-f78b-48d8-9c5a-1f74c23790da",
@@ -1621,6 +1633,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009"
+    },
+    {
+      "id": "62b359cf-3d3a-4c80-85a2-e1c685dba9d7",
+      "company": "Philips",
+      "title": "Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027",
+      "category": "Product",
+      "location": "Bedford, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-15",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=62b359cf-3d3a-4c80-85a2-e1c685dba9d7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145"
     },
     {
       "id": "6a3d5f44-1e82-494f-aa02-6aba5f8fc48e",
