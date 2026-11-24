@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-451-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-453-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **451** active U.S. internships posted within the last **30 days**
+- **453** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 12:15 PM PST**
+- Last refresh: **Nov 24, 2026, 12:30 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**388 open roles**
+**389 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -54,6 +54,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Motorolasolutions | Mission Critical Networks Software Engineer - Summer 2027 Internship | Schaumburg, IL | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Motorolasolutions&job=f0b6c22e-a6fe-441a-a2d7-070aae4e639a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631) |
 | Northrop Grumman | 2027 Software Test Engineering Intern - Roy UT | Roy, UT | 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=b97bef05-f988-4b6b-a5ae-d3ef89f47e1c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728) |
 | Oscar Health | Software Engineering Intern | New York City, NY | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Oscar+Health&job=4c67aba7-c5aa-45d3-bba7-130b73ce7121&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
+| Philips | Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027 | Bothell, WA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=20affc43-78c9-41bc-829a-000f395a7748&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989) |
 | Roche | 2027 Summer Intern - Software Engineer (Robotics) - Lab Automation | South San Francisco, CA | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Roche&job=86fb7c7d-f78b-48d8-9c5a-1f74c23790da&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832) |
 | Rockwellautomation | Intern, Software Engineer | Milwaukee, WI | — | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rockwellautomation&job=3aebc1e1-9f00-4e27-8f06-95df3dfeb1f2&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2) |
 | Saabusa | Software Engineer Co-Op (Summer 2027) | East Syracuse, NY (Collamer) | Summer 2027 | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Saabusa&job=7c47180c-8757-422f-a55f-44c3a549260a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1) |
@@ -422,7 +423,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**63 open roles**
+**64 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -448,6 +449,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Gaig | Underwriting/Product Management Intern (Year-Round) | Cincinnati, OH (USA) | Year-round | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gaig&job=79af342b-ccbc-4fb3-8e1f-e8f92b9b7a11&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Underwriting-Product-Management-Intern--Year-Round-_R9910-1) |
 | Sec | Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics) | 645 Clyde Avenue, CA | — | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sec&job=4bbfd1ea-036c-4c2e-947d-94bc3d8b3008&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020) |
 | Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA | Summer 2027 | 9d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
+| Philips | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, MA | Summer 2027 | 9d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philips&job=62b359cf-3d3a-4c80-85a2-e1c685dba9d7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
 | SAS | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Summer 2027 | 10d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SAS&job=e979c43b-0397-439b-a8ad-45b127361642&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) |
 | Campingworld | New Product Development Product Management Intern | Lincolnshire, IL | — | 11d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Campingworld&job=8ea9535d-5e80-4b3f-bf60-936f6dd96586&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086) |
 | Entegris | Associate Product Manager Intern | Chaska, MN | — | 11d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Entegris&job=fe9523da-54ca-4f08-8e5d-8135448ade32&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
