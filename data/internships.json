@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-24T14:45:34.468Z",
+  "updatedAt": "2026-11-24T15:00:38.492Z",
   "jobs": [
+    {
+      "id": "a28ef2c9-a299-4ed1-a7be-dde69f243b86",
+      "company": "Fanatics Collectibles",
+      "title": "Summer 2027 Internship - Product Management Intern, Card Tech",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=a28ef2c9-a299-4ed1-a7be-dde69f243b86&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009"
+    },
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
       "company": "Northrop Grumman",
