@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:15:35.657Z",
+  "updatedAt": "2026-11-24T17:30:38.591Z",
   "jobs": [
     {
       "id": "a28ef2c9-a299-4ed1-a7be-dde69f243b86",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=4a656e85-97fa-4468-aade-2be24e801e3a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918"
+    },
+    {
+      "id": "9b471173-8475-4729-a496-61d915d4c8c6",
+      "company": "QuEra Computing, Inc.",
+      "title": "Site Reliability Engineer Co-op",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Co-op",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=QuEra+Computing%2C+Inc.&job=9b471173-8475-4729-a496-61d915d4c8c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008"
     },
     {
       "id": "2aa9a083-1ac5-41ee-a620-4545d0877dcd",
