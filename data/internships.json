@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:45:58.706Z",
+  "updatedAt": "2026-11-24T08:00:37.152Z",
   "jobs": [
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -1481,18 +1481,6 @@
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
     },
     {
-      "id": "433d9e44-73ad-4cf6-b82a-b05243306ddc",
-      "company": "Art of Problem Solving",
-      "title": "Software Engineering Intern ",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Not specified",
-      "posted": "2026-11-09",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Art+of+Problem+Solving&job=433d9e44-73ad-4cf6-b82a-b05243306ddc&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003"
-    },
-    {
       "id": "03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e",
       "company": "Badgermeter",
       "title": "Product Management Intern",
@@ -2537,6 +2525,18 @@
       "listingUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
     },
     {
+      "id": "c1d81714-445e-487d-8959-a6306d682f20",
+      "company": "GDIT",
+      "title": "GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Bossier City, LA",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=c1d81714-445e-487d-8959-a6306d682f20&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941"
+    },
+    {
       "id": "fd178388-1bd2-4ce4-a914-9d8f297e9fdb",
       "company": "HP",
       "title": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
@@ -2631,6 +2631,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=d5e8595a-012a-44b5-86fb-7d579abe426e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
+    },
+    {
+      "id": "409daeed-21c0-40be-bd48-4c5970de6a11",
+      "company": "USAFacts",
+      "title": "Technical Product Manager Intern",
+      "category": "Product",
+      "location": "Bellevue, WA",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=USAFacts&job=409daeed-21c0-40be-bd48-4c5970de6a11&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/usafacts/jobs/4478253009"
     },
     {
       "id": "98fbe760-1dfe-45db-a474-409ddf9892d5",
@@ -2993,18 +3005,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007"
     },
     {
-      "id": "262d41ab-b3c6-4257-9ecf-97faef478310",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "Agentic Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Durham, NC",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=262d41ab-b3c6-4257-9ecf-97faef478310&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007"
-    },
-    {
       "id": "3c92958c-5f19-4e03-8a5b-13829d49f403",
       "company": "Valmont",
       "title": "Embedded Systems Engineering Intern",
@@ -3279,18 +3279,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=e0db7a76-f68d-4703-bf64-2dbe6afd1c68&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005"
-    },
-    {
-      "id": "1a40cc5e-a42c-4c6c-98a6-ec805d2e7d95",
-      "company": "The New York Times",
-      "title": "Backend Engineering Intern, Wirecutter",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-10-30",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=1a40cc5e-a42c-4c6c-98a6-ec805d2e7d95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
     },
     {
       "id": "8f7050a0-0ee7-4b50-b78a-25d02aa77444",
@@ -3580,6 +3568,18 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Two+Six+Technologies&job=3e5cf1fd-6b3f-418f-88ac-9d6131c24d38&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004"
+    },
+    {
+      "id": "dbef492f-637e-4d66-a6b4-fb1b9a0eb636",
+      "company": "USAFacts",
+      "title": "AI & Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Not specified",
+      "posted": "2026-10-29",
+      "age": "26d",
+      "url": "https://applyguy.ai/jobs?company=USAFacts&job=dbef492f-637e-4d66-a6b4-fb1b9a0eb636&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009"
     },
     {
       "id": "e9b23111-bfa0-476a-9b80-d70158309872",
