@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-24T19:45:36.403Z",
+  "updatedAt": "2026-11-24T20:00:40.444Z",
   "jobs": [
+    {
+      "id": "c7391438-5da5-4844-8fdd-eb9c564d653f",
+      "company": "Aptima Inc. (All Jobs)",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Fairborn, OH",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Aptima+Inc.+%28All+Jobs%29&job=c7391438-5da5-4844-8fdd-eb9c564d653f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689662"
+    },
     {
       "id": "a28ef2c9-a299-4ed1-a7be-dde69f243b86",
       "company": "Fanatics Collectibles",
@@ -12,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=a28ef2c9-a299-4ed1-a7be-dde69f243b86&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009"
+    },
+    {
+      "id": "da39ebc9-0423-40a1-a38c-0d1b8c5af7c6",
+      "company": "GDIT",
+      "title": "GDIT Summer Internship Program - Summer 2027 AI/ML Software Development and Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Bossier City, LA",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=da39ebc9-0423-40a1-a38c-0d1b8c5af7c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023"
+    },
+    {
+      "id": "3ecc5426-0e59-4289-8e36-65822e9ca048",
+      "company": "Motorolasolutions",
+      "title": "Software Engineering Intern - 2027 Internship Program",
+      "category": "Software Engineering",
+      "location": "Salt Lake City, UT (UT17)",
+      "season": "2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Motorolasolutions&job=3ecc5426-0e59-4289-8e36-65822e9ca048&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950"
     },
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
@@ -3327,18 +3363,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Commonwealth+Fusion+Systems&job=67fd4eb7-0f7f-4b5e-95bd-dc0054f8ce2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
-    },
-    {
-      "id": "c1d81714-445e-487d-8959-a6306d682f20",
-      "company": "GDIT",
-      "title": "GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Bossier City, LA",
-      "season": "Summer 2027",
-      "posted": "2026-11-03",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=c1d81714-445e-487d-8959-a6306d682f20&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941"
     },
     {
       "id": "fd178388-1bd2-4ce4-a914-9d8f297e9fdb",
