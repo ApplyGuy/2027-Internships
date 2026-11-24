@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-384-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-385-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **384** active U.S. internships posted within the last **30 days**
+- **385** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 2:15 AM PST**
+- Last refresh: **Nov 24, 2026, 2:30 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**333 open roles**
+**334 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -86,6 +86,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Falcomm | AI/ML Software Engineer Graduate Intern - AI/CAD Integration | Atlanta, GA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Falcomm&job=4c357222-5779-4478-b141-bfeda1c76527&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://apply.workable.com/falcomm/j/41F139E6F7/) |
 | Forterra | 2027 Intern - Software | Clarksburg, MD | 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Forterra&job=931b6243-fba7-4488-bc81-90a9aeb050ed&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
 | HexArmor | Software Engineering Intern | Atlanta, GA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HexArmor&job=34ddfe2b-1428-4688-bec1-7efc8e81c1be&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
+| Lumentum | Internship - SW Developer Support - Program Management Office | San Jose, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lumentum&job=ebcb1714-f913-4763-b545-d3d5b9522666&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lumentum.wd5.myworkdayjobs.com/lite/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) |
 | Manulife | Spring Co-op 2027 - Software Engineering, Security & Operations | Boston, MA | Spring | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Manulife&job=b1b437dd-4faf-464c-a129-4908a535b079&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121-1) |
 | Marvell | AI Infrastructure Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Marvell&job=144b25be-b783-48a6-b3a5-cda298a5eec3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829) |
 | Nelnet | Intern - IT Software Engineer (Summer 2027) | Lincoln, NE | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nelnet&job=ecfdf3d3-c8f4-4645-b446-d7ab8aa74b2e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352) |
