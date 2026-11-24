@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:30:35.817Z",
+  "updatedAt": "2026-11-24T12:45:32.941Z",
   "jobs": [
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
@@ -72,6 +72,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Benchling&job=fb163c72-8083-4ba7-b234-a2864fc89f06&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099"
+    },
+    {
+      "id": "fd12b227-2946-4b89-8b3d-094658460134",
+      "company": "Bmo",
+      "title": "Software Engineer, Winter 2027 (Co-op/Internship) -4 months",
+      "category": "Software Engineering",
+      "location": "San Ramon, CA",
+      "season": "Winter 2027",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bmo&job=fd12b227-2946-4b89-8b3d-094658460134&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974"
+    },
+    {
+      "id": "8dd3925d-d26e-4232-8801-6a95ac9f432f",
+      "company": "Cadence",
+      "title": "Software Engineering Intern - Circuit Simulation",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=8dd3925d-d26e-4232-8801-6a95ac9f432f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251"
     },
     {
       "id": "7112537c-5602-4efc-bc7a-1b991fc2e8be",
@@ -350,6 +374,18 @@
       "listingUrl": "https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004"
     },
     {
+      "id": "d5ea1f95-61a3-45c6-be7d-df8505ab66e0",
+      "company": "Aero",
+      "title": "2027 Software Systems Engineer and Acquisition Grad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=d5ea1f95-61a3-45c6-be7d-df8505ab66e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175"
+    },
+    {
       "id": "042e4928-0086-46c1-8a23-752e66be5771",
       "company": "Gorbel",
       "title": "Front-End Web Developer Co-Op",
@@ -456,6 +492,30 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Amperity&job=1b2ec54f-5f84-4d9e-82d5-b0f9eae8b0fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://amperity.com/careers?gh_jid=8393990#openpositions"
+    },
+    {
+      "id": "8c8297d7-6de2-4866-abe6-0da950569c34",
+      "company": "Cadence",
+      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=8c8297d7-6de2-4866-abe6-0da950569c34&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254"
+    },
+    {
+      "id": "3b4ebf57-4970-4b52-834c-2ba54157a826",
+      "company": "Compassion",
+      "title": "2027 Summer Internship - Data and Software Engineering",
+      "category": "Software Engineering",
+      "location": "Global Ministry Center",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Compassion&job=3b4ebf57-4970-4b52-834c-2ba54157a826&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
     },
     {
       "id": "ce74a8ab-0d1e-48c1-b356-0cd31aeb0f6c",
@@ -722,6 +782,18 @@
       "listingUrl": "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c"
     },
     {
+      "id": "53e4c027-6da1-4b0c-a4ef-dd66b69a9430",
+      "company": "Aero",
+      "title": "2027 Software Tools and Assurance Grad Intern",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "2027",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Aero&job=53e4c027-6da1-4b0c-a4ef-dd66b69a9430&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Grad-Intern_R017260"
+    },
+    {
       "id": "f38b658d-9c76-4933-a680-7900cc4fecc3",
       "company": "Airbnb",
       "title": "Software Engineering Intern (BS/MS)",
@@ -732,6 +804,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Airbnb&job=f38b658d-9c76-4933-a680-7900cc4fecc3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
+    },
+    {
+      "id": "81760078-46f6-4ce7-aa4f-c4c05f60db2c",
+      "company": "Analogdevices",
+      "title": "Embedded Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Austin, Plaza on the Lake, TX",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Analogdevices&job=81760078-46f6-4ce7-aa4f-c4c05f60db2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548"
     },
     {
       "id": "b48e74dc-a6f5-4fbe-8a60-b601d86199d2",
@@ -1081,6 +1165,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Addepar&job=364ea8f8-a58b-4cce-8c07-8c0538c000d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002"
+    },
+    {
+      "id": "ffcdcbc5-1258-41ef-b2c3-29355a22e894",
+      "company": "Asml",
+      "title": "Internship-Generative AI developer",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-11-16",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=ffcdcbc5-1258-41ef-b2c3-29355a22e894&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Generative-AI-developer_J-00355346"
     },
     {
       "id": "ef80f51a-13f0-4bb9-b687-f22f6a2fdae3",
