@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:30:37.403Z",
+  "updatedAt": "2026-11-24T19:45:36.403Z",
   "jobs": [
     {
       "id": "a28ef2c9-a299-4ed1-a7be-dde69f243b86",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=QuEra+Computing%2C+Inc.&job=9b471173-8475-4729-a496-61d915d4c8c6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008"
+    },
+    {
+      "id": "9456920c-ba09-4e11-ad07-f414e3c6f6f6",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Ft Wayne, IN",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9456920c-ba09-4e11-ad07-f414e3c6f6f6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983"
     },
     {
       "id": "2aa9a083-1ac5-41ee-a620-4545d0877dcd",
@@ -830,6 +842,18 @@
       "listingUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015"
     },
     {
+      "id": "279d08d1-b2a8-4b5a-9aa7-d1a035f4b3b8",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Indianapolis, IN",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=279d08d1-b2a8-4b5a-9aa7-d1a035f4b3b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01890571"
+    },
+    {
       "id": "2db63528-c9c9-4ae4-8147-1821418e0650",
       "company": "Scout Space",
       "title": "Embedded Firmware Engineering Intern (Summer 2027)",
@@ -1561,6 +1585,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009"
+    },
+    {
+      "id": "6a3d5f44-1e82-494f-aa02-6aba5f8fc48e",
+      "company": "RTX",
+      "title": "2027 Summer Intern - Software Engineering - Onsite",
+      "category": "Software Engineering",
+      "location": "El Segundo, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-15",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6a3d5f44-1e82-494f-aa02-6aba5f8fc48e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225"
     },
     {
       "id": "45c1d7b2-a65a-4dbe-a37f-7dba90c56467",
@@ -4828,18 +4864,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Protagonist&job=d6db626e-294e-4573-9cfe-19be26a11bf1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
-    },
-    {
-      "id": "74dd2007-825a-4e49-8d64-43043b3b3913",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Ft Wayne, IN",
-      "season": "Summer 2027",
-      "posted": "2026-10-27",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=74dd2007-825a-4e49-8d64-43043b3b3913&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1"
     },
     {
       "id": "a0dce538-d218-4f57-9f29-fba6cecf14ea",
