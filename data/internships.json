@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:30:52.520Z",
+  "updatedAt": "2026-11-24T07:45:58.706Z",
   "jobs": [
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -3414,6 +3414,18 @@
       "listingUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813"
     },
     {
+      "id": "9814f3ec-da7e-4e86-81e6-268f59c80b81",
+      "company": "Generalmotors",
+      "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+      "category": "Software Engineering",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-29",
+      "age": "26d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=9814f3ec-da7e-4e86-81e6-268f59c80b81&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"
+    },
+    {
       "id": "cbdbb6dd-4286-4040-ac1c-376cbf6f9cae",
       "company": "Kla",
       "title": "Software Engineer Intern",
@@ -3448,6 +3460,18 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=e3341772-e8ea-4505-95d5-560abc0dcf5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4472147009"
+    },
+    {
+      "id": "ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba",
+      "company": "Philips",
+      "title": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027",
+      "category": "Software Engineering",
+      "location": "Murrysville, PA",
+      "season": "2027",
+      "posted": "2026-10-29",
+      "age": "26d",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730"
     },
     {
       "id": "20d45f54-f92d-4670-b48d-519551bb778f",
@@ -4360,6 +4384,18 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Carrier&job=092ff398-ef48-4f99-a519-e13a8dd86b83&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
+    },
+    {
+      "id": "29b0b344-8548-4664-8743-f23c4ba2a3b9",
+      "company": "Cohesity",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-10-26",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Cohesity&job=29b0b344-8548-4664-8743-f23c4ba2a3b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
     },
     {
       "id": "dcc91428-d622-466c-9384-52bd0a8aa910",
