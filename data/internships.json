@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:31:03.297Z",
+  "updatedAt": "2026-11-24T09:46:07.885Z",
   "jobs": [
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -158,6 +158,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af"
     },
     {
+      "id": "b11b8eb8-6fc1-48ef-b860-248f761e99c0",
+      "company": "KLA",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=b11b8eb8-6fc1-48ef-b860-248f761e99c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern_2642953"
+    },
+    {
       "id": "a8fd0532-987f-465d-9a57-19be6ba13835",
       "company": "Leidos",
       "title": "Software Engineering Intern",
@@ -314,6 +326,18 @@
       "listingUrl": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job"
     },
     {
+      "id": "f1553f91-8fac-44fe-8ece-866d1914d201",
+      "company": "KLA",
+      "title": "Software Application Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Austin, TX",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=f1553f91-8fac-44fe-8ece-866d1914d201&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Application-Engineer-Intern_2643260"
+    },
+    {
       "id": "93c08f22-81ea-4d24-8695-4e7bc6442de6",
       "company": "Leidos",
       "title": "Software Developer Intern",
@@ -372,6 +396,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=2db1d6ed-ef79-4fa3-9091-abe4eee00de0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007"
+    },
+    {
+      "id": "6eaa9613-bad5-40a6-9b58-0a2a019265f1",
+      "company": "Megger",
+      "title": "Product Manager Intern",
+      "category": "Product",
+      "location": "Dallas, TX",
+      "season": "Not specified",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Megger&job=6eaa9613-bad5-40a6-9b58-0a2a019265f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://megger.wd3.myworkdayjobs.com/meggercareers/job/Dallas-United-States/Product-Manager-Intern_JR100870"
     },
     {
       "id": "595dd77c-b497-4f59-b145-0d511f789e32",
@@ -542,6 +578,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe"
     },
     {
+      "id": "7153c2a2-792d-4de5-aada-f0e023865176",
+      "company": "KLA",
+      "title": "Software Applications Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=7153c2a2-792d-4de5-aada-f0e023865176&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337"
+    },
+    {
       "id": "11880bd9-6674-4be6-b919-c2ffe268b4d6",
       "company": "Lucid Software",
       "title": "Product Management Internship - Summer 2027",
@@ -564,6 +612,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Lucid+Software&job=cfb8c3e5-1489-4d9c-b00e-8239696ec2ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
+    },
+    {
+      "id": "custom:microsoft:27f71c3a2ab7410fb03c",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+      "applySupported": false
     },
     {
       "id": "4736f928-b285-40bb-8347-dbbf40d22b97",
@@ -735,6 +796,31 @@
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829"
     },
     {
+      "id": "custom:microsoft:3e0836a94e9ca282ffae",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+      "applySupported": false
+    },
+    {
+      "id": "9643d579-1daa-440b-b7a7-5e35c6b5aca7",
+      "company": "Pae",
+      "title": "DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer",
+      "category": "Software Engineering",
+      "location": "Houston, TX",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=9643d579-1daa-440b-b7a7-5e35c6b5aca7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1"
+    },
+    {
       "id": "60d0b0cd-c770-4b74-8bc5-2060ffdebd86",
       "company": "SRI International",
       "title": "Drexel University Co-op: Software Engineering",
@@ -793,6 +879,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=I+3+Corps&job=ef80f51a-13f0-4bb9-b687-f22f6a2fdae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job"
+    },
+    {
+      "id": "0654459e-7383-41fa-b216-20098142484f",
+      "company": "KLA",
+      "title": "Firmware Intern",
+      "category": "Software Engineering",
+      "location": "Milpitas, CA",
+      "season": "Not specified",
+      "posted": "2026-11-16",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=KLA&job=0654459e-7383-41fa-b216-20098142484f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Firmware-Intern_2642154"
     },
     {
       "id": "668fe579-1c3e-40aa-80b0-aebf2cb1caac",
@@ -975,6 +1073,19 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Manulife&job=f3b88f71-f48b-4cae-a80c-4e6d2d3f314b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
+    },
+    {
+      "id": "custom:microsoft:481b7f838d269ee17891",
+      "company": "Microsoft",
+      "title": "Research Intern - MSR Software-Hardware Co-design",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "applySupported": false
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
@@ -2105,6 +2216,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
+      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
+      "company": "Microsoft",
+      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "applySupported": false
+    },
+    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -2547,6 +2671,19 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
+    },
+    {
+      "id": "custom:microsoft:121d306c133509735e49",
+      "company": "Microsoft",
+      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "applySupported": false
     },
     {
       "id": "ad10884d-f2dc-42f0-962c-5c898dcd4970",
