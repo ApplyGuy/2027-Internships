@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-436-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-439-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **436** active U.S. internships posted within the last **30 days**
+- **439** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 6:15 AM PST**
+- Last refresh: **Nov 24, 2026, 6:30 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**377 open roles**
+**378 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -103,6 +103,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Boseallaboutme | Software Engineer Co-op | MA, Framingham | Co-op | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boseallaboutme&job=b204499b-4a89-41e0-9f22-9736fbd72314&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) |
 | Cirrus Logic | 2027 Internship - Software Engineer (AI/ML) | Austin, TX | 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cirrus+Logic&job=5dccff2b-d2d6-42f3-b96d-bd851566b84c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61) |
 | Copart | Software Engineering Intern | Dallas, TX | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Copart&job=d14451b9-e272-4fe6-a114-27e746cc61ef&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112072-1) |
+| Gaig | Data Engineer Developer Intern – Summer 2027 | Cincinnati, OH (USA) | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gaig&job=30f9abae-8c27-4bbc-86f5-f083f100e431&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) |
 | Galaxy | 2027 Site Reliability Engineer Intern-Afton, Texas | Afton, TX | 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Galaxy&job=75d6ae95-2a98-4f31-815d-6710ecf64593&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) |
 | Kira | Software Engineering Intern (Winter '27) | New York | Winter 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kira&job=3952a5db-7a26-4fcb-ba87-09209cd7d420&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe) |
 | Kla | Software Applications Engineering Intern | Milpitas, CA | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kla&job=26cfbb63-4e02-4b7c-be39-42810c432b46&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1) |
@@ -411,7 +412,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**59 open roles**
+**61 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -430,7 +431,9 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Hubinternational | AI Product Analyst Intern | Chicago, IL | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hubinternational&job=98f99bdd-c9c4-4ed8-ae5a-a283f92b3aad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Product-Analyst-Intern_R0039542) |
 | Lucid Software | Product Management Internship - Summer 2027 | Salt Lake City, UT | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lucid+Software&job=11880bd9-6674-4be6-b919-c2ffe268b4d6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | Lucid Software | Product Management Internship - Summer 2027 | Raleigh, NC | Summer 2027 | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lucid+Software&job=cfb8c3e5-1489-4d9c-b00e-8239696ec2ca&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
+| Gaig | Technical Product Management Intern - Summer 2027 | Cincinnati, OH (USA) | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gaig&job=1df4eac2-4bf0-4d9b-b419-7167738e21c3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Technical-Product-Management-Intern---Summer-2027_R9883-1) |
 | Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York City, NY | Summer 2027 | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Addepar&job=364ea8f8-a58b-4cce-8c07-8c0538c000d6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/addepar1/jobs/8910324002) |
+| Gaig | Underwriting/Product Management Intern (Year-Round) | Cincinnati, OH (USA) | Year-round | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gaig&job=79af342b-ccbc-4fb3-8e1f-e8f92b9b7a11&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Underwriting-Product-Management-Intern--Year-Round-_R9910-1) |
 | Sec | Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics) | 645 Clyde Avenue, CA | — | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sec&job=4bbfd1ea-036c-4c2e-947d-94bc3d8b3008&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020) |
 | Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA | Summer 2027 | 9d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
 | SAS | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Summer 2027 | 10d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SAS&job=e979c43b-0397-439b-a8ad-45b127361642&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) |
