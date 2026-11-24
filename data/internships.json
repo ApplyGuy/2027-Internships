@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:00:37.152Z",
+  "updatedAt": "2026-11-24T08:16:01.406Z",
   "jobs": [
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -1013,18 +1013,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112"
     },
     {
-      "id": "c4e1235b-b25f-4c77-9fdd-810d28ffe6d7",
-      "company": "Octant Bio",
-      "title": "Software Engineer - Internship",
-      "category": "Software Engineering",
-      "location": "Emeryville, CA",
-      "season": "Not specified",
-      "posted": "2026-11-12",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Octant+Bio&job=c4e1235b-b25f-4c77-9fdd-810d28ffe6d7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.octant.bio/jobs?gh_jid=6260895004"
-    },
-    {
       "id": "b1d48533-dee2-4dc6-9f25-ff0f60d6510d",
       "company": "SK hynix memory solutions America Inc.",
       "title": "Embedded Software Engineer Intern",
@@ -1095,30 +1083,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Brex&job=00f506fd-3ee6-4126-837e-5f8edd24adbb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
-    },
-    {
-      "id": "fe8c6f7a-08bc-4eb4-9109-2ac06e561a14",
-      "company": "Formlabs",
-      "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Summer",
-      "posted": "2026-11-11",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Formlabs&job=fe8c6f7a-08bc-4eb4-9109-2ac06e561a14&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598"
-    },
-    {
-      "id": "b242fd8a-cf05-4dec-972a-69767c943c0e",
-      "company": "Lightmatter",
-      "title": "Laser Firmware Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Boston, MA",
-      "season": "Summer 2027",
-      "posted": "2026-11-11",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Lightmatter&job=b242fd8a-cf05-4dec-972a-69767c943c0e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008"
     },
     {
       "id": "0347ed6e-f455-41e6-8cc8-5e576b01bb9c",
@@ -1889,54 +1853,6 @@
       "listingUrl": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job"
     },
     {
-      "id": "60b6f4f8-29fe-4886-b160-22c1e33eea4f",
-      "company": "The New York Times",
-      "title": "Backend Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=60b6f4f8-29fe-4886-b160-22c1e33eea4f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
-    },
-    {
-      "id": "f79db23f-cef5-4a68-96d0-ed447300a5e7",
-      "company": "The New York Times",
-      "title": "Android Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=f79db23f-cef5-4a68-96d0-ed447300a5e7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
-    },
-    {
-      "id": "a5f0917d-7428-485f-b373-fec810f77ebe",
-      "company": "The New York Times",
-      "title": "Full-Stack Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=a5f0917d-7428-485f-b373-fec810f77ebe&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
-    },
-    {
-      "id": "4f82c024-b138-4d74-bacc-460831d3ed7e",
-      "company": "The New York Times",
-      "title": "Frontend Engineering Intern",
-      "category": "Software Engineering",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=4f82c024-b138-4d74-bacc-460831d3ed7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
-    },
-    {
       "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
       "company": "Tmobile",
       "title": "Summer 2027 Software Engineer HR Data Products Internship",
@@ -2621,18 +2537,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
     },
     {
-      "id": "d5e8595a-012a-44b5-86fb-7d579abe426e",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "AI Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Frisco, TX",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=d5e8595a-012a-44b5-86fb-7d579abe426e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
-    },
-    {
       "id": "409daeed-21c0-40be-bd48-4c5970de6a11",
       "company": "USAFacts",
       "title": "Technical Product Manager Intern",
@@ -2981,30 +2885,6 @@
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
     },
     {
-      "id": "dec93db6-78e0-42fe-8c19-41ee2923da0c",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "Agentic Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Frisco, TX",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=dec93db6-78e0-42fe-8c19-41ee2923da0c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007"
-    },
-    {
-      "id": "bbac746c-0170-4e2c-8c0c-af7049ed0c31",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Durham, NC",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=bbac746c-0170-4e2c-8c0c-af7049ed0c31&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007"
-    },
-    {
       "id": "3c92958c-5f19-4e03-8a5b-13829d49f403",
       "company": "Valmont",
       "title": "Embedded Systems Engineering Intern",
@@ -3029,30 +2909,6 @@
       "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632"
     },
     {
-      "id": "979c8207-9ebc-4c7c-84cc-6ca1b5c5b80d",
-      "company": "KnowBe4",
-      "title": "Software Engineer Summer Internship",
-      "category": "Software Engineering",
-      "location": "Clearwater, FL",
-      "season": "Summer",
-      "posted": "2026-11-01",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=KnowBe4&job=979c8207-9ebc-4c7c-84cc-6ca1b5c5b80d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
-    },
-    {
-      "id": "dc80ae42-f61e-49a3-b896-55d05e07340b",
-      "company": "KnowBe4",
-      "title": "Associate Product Manager Summer Internship (Hybrid)",
-      "category": "Product",
-      "location": "Clearwater, FL",
-      "season": "Summer",
-      "posted": "2026-11-01",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=KnowBe4&job=dc80ae42-f61e-49a3-b896-55d05e07340b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002"
-    },
-    {
       "id": "e8886a9b-8b7b-430c-baad-f82a9a082949",
       "company": "Firework",
       "title": "Data Engineer Intern",
@@ -3063,18 +2919,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Firework&job=e8886a9b-8b7b-430c-baad-f82a9a082949&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"
-    },
-    {
-      "id": "a92b8b52-4305-4fdb-bd80-3b465443315f",
-      "company": "Axon",
-      "title": "2027 US Software Engineering Internship (Dedrone)",
-      "category": "Software Engineering",
-      "location": "Seattle, WA",
-      "season": "2027",
-      "posted": "2026-10-30",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=a92b8b52-4305-4fdb-bd80-3b465443315f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"
     },
     {
       "id": "fd91f948-15ad-4246-b44c-fdf87e0c3491",
@@ -3267,18 +3111,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06"
-    },
-    {
-      "id": "e0db7a76-f68d-4703-bf64-2dbe6afd1c68",
-      "company": "The New York Times",
-      "title": "Product Management Intern, Wirecutter",
-      "category": "Product",
-      "location": "New York City, NY",
-      "season": "Not specified",
-      "posted": "2026-10-30",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=The+New+York+Times&job=e0db7a76-f68d-4703-bf64-2dbe6afd1c68&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005"
     },
     {
       "id": "8f7050a0-0ee7-4b50-b78a-25d02aa77444",
@@ -3834,18 +3666,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
     },
     {
-      "id": "fb2dbe91-f4eb-4b3e-851f-9a23316e8391",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Multimedia (NTD)",
-      "category": "Software Engineering",
-      "location": "Redmond, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Nintendo&job=fb2dbe91-f4eb-4b3e-851f-9a23316e8391&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.nintendo.com/?gh_jid=4469718009"
-    },
-    {
       "id": "bcf6ab7b-823a-4156-b7ec-c714b7c296c2",
       "company": "Nintendo",
       "title": "Intern - Software Engineer, Platform Security (NTD)",
@@ -3928,18 +3748,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=c9222fb3-2fb9-4068-ba01-9c6209a32a6f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"
-    },
-    {
-      "id": "99ea1634-6e19-455c-afb3-831b5d37f958",
-      "company": "SharkNinja",
-      "title": "Spring 2027: Product Strategy & Development Co-Op (January to June) ",
-      "category": "Product",
-      "location": "Needham, MA",
-      "season": "Spring 2027",
-      "posted": "2026-10-28",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=SharkNinja&job=99ea1634-6e19-455c-afb3-831b5d37f958&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006"
     },
     {
       "id": "ae9819ae-0635-4c02-bf8d-f24edd40efcb",
@@ -4408,18 +4216,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Directv&job=dcc91428-d622-466c-9384-52bd0a8aa910&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://directv.wd1.myworkdayjobs.com/Careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333"
-    },
-    {
-      "id": "59307b15-2797-44e4-9db7-66c6ee1e9885",
-      "company": "Glean",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Mountain View, CA",
-      "season": "Summer 2027",
-      "posted": "2026-10-26",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Glean&job=59307b15-2797-44e4-9db7-66c6ee1e9885&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005"
     },
     {
       "id": "c50e0459-326d-4c85-9282-97a00db93faf",
