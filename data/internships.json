@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:45:32.941Z",
+  "updatedAt": "2026-11-24T13:00:35.343Z",
   "jobs": [
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
@@ -852,6 +852,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Cirrus+Logic&job=5dccff2b-d2d6-42f3-b96d-bd851566b84c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61"
+    },
+    {
+      "id": "3eb977b6-47e2-4f6f-b0bd-4c6607e73736",
+      "company": "Crowdstrike",
+      "title": "MBA Product Manager Intern",
+      "category": "Product",
+      "location": "Multiple U.S. locations",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Crowdstrike&job=3eb977b6-47e2-4f6f-b0bd-4c6607e73736&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957"
     },
     {
       "id": "75d6ae95-2a98-4f31-815d-6710ecf64593",
