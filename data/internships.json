@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-24T06:15:19.392Z",
+  "updatedAt": "2026-11-24T06:30:18.817Z",
   "jobs": [
+    {
+      "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
+      "company": "SharkNinja",
+      "title": "Summer 2027: Firmware Engineering Intern, Advanced Development (May to August)",
+      "category": "Software Engineering",
+      "location": "Needham, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SharkNinja&job=a4d2b81d-1935-4119-afa0-26f2528458db&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006"
+    },
+    {
+      "id": "b94005fd-b511-4238-9f85-003b6795f43e",
+      "company": "SharkNinja",
+      "title": "Summer 2027: Software Development Test Engineering Co-op(May to August)",
+      "category": "Software Engineering",
+      "location": "Needham, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SharkNinja&job=b94005fd-b511-4238-9f85-003b6795f43e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006"
+    },
     {
       "id": "4c84f770-b25b-45e5-8071-51d46797761e",
       "company": "apexanalytix",
