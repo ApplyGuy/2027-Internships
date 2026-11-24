@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:15:38.026Z",
+  "updatedAt": "2026-11-24T10:30:50.342Z",
   "jobs": [
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -781,6 +781,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=HexArmor&job=34ddfe2b-1428-4688-bec1-7efc8e81c1be&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
+    },
+    {
+      "id": "ebcb1714-f913-4763-b545-d3d5b9522666",
+      "company": "Lumentum",
+      "title": "Internship - SW Developer Support - Program Management Office",
+      "category": "Software Engineering",
+      "location": "San Jose, CA",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Lumentum&job=ebcb1714-f913-4763-b545-d3d5b9522666&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lumentum.wd5.myworkdayjobs.com/lite/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729"
     },
     {
       "id": "b1b437dd-4faf-464c-a129-4908a535b079",
