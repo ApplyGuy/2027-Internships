@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:30:36.262Z",
+  "updatedAt": "2026-11-24T18:45:38.515Z",
   "jobs": [
     {
       "id": "a28ef2c9-a299-4ed1-a7be-dde69f243b86",
@@ -564,6 +564,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Sec&job=0ea0e2d4-3ad1-4e0f-884b-64f9f1bbb9d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022"
+    },
+    {
+      "id": "5eda6e33-2b44-4158-a13c-342fabeff8b7",
+      "company": "Statestreet",
+      "title": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
+      "category": "Product",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=5eda6e33-2b44-4158-a13c-342fabeff8b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339"
     },
     {
       "id": "e91b74a7-d737-413b-98e3-66fcb13811bf",
@@ -1154,6 +1166,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003"
     },
     {
+      "id": "fb249de4-857b-4b70-a7b4-d43d4966e1b0",
+      "company": "Statestreet",
+      "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "2027",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=fb249de4-857b-4b70-a7b4-d43d4966e1b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272"
+    },
+    {
       "id": "b650a085-0d76-44d0-8ad4-17d5b24dea81",
       "company": "Truveta",
       "title": "Winter Software Engineering Intern",
@@ -1393,6 +1417,42 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=SRI+International&job=0933fce0-a332-4f88-8c68-98a4375b6445&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job"
+    },
+    {
+      "id": "c93c3aeb-fc2f-45a5-9a2d-e1ebb81828a2",
+      "company": "Statestreet",
+      "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
+      "category": "Software Engineering",
+      "location": "Quincy, MA",
+      "season": "2027",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=c93c3aeb-fc2f-45a5-9a2d-e1ebb81828a2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801237"
+    },
+    {
+      "id": "9ffc50c5-42fb-4a00-81ce-72b27aa9c235",
+      "company": "Statestreet",
+      "title": "Full Stack Development Intern, Full-time Internship (Jan - June 2027)",
+      "category": "Software Engineering",
+      "location": "Quincy, MA",
+      "season": "2027",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=9ffc50c5-42fb-4a00-81ce-72b27aa9c235&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232"
+    },
+    {
+      "id": "5b027402-01b5-426d-a98b-27163a649992",
+      "company": "Statestreet",
+      "title": "Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)",
+      "category": "Software Engineering",
+      "location": "Quincy, MA",
+      "season": "2027",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=5b027402-01b5-426d-a98b-27163a649992&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234"
     },
     {
       "id": "364ea8f8-a58b-4cce-8c07-8c0538c000d6",
