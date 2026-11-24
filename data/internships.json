@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:00:36.430Z",
+  "updatedAt": "2026-11-24T11:15:34.188Z",
   "jobs": [
     {
       "id": "4a656e85-97fa-4468-aade-2be24e801e3a",
@@ -240,6 +240,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Roche&job=86fb7c7d-f78b-48d8-9c5a-1f74c23790da&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832"
+    },
+    {
+      "id": "7c47180c-8757-422f-a55f-44c3a549260a",
+      "company": "Saabusa",
+      "title": "Software Engineer Co-Op (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "East Syracuse, NY (Collamer)",
+      "season": "Summer 2027",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Saabusa&job=7c47180c-8757-422f-a55f-44c3a549260a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1"
+    },
+    {
+      "id": "0304e789-bdfd-4b9f-a0c3-7001106129c7",
+      "company": "Saabusa",
+      "title": "Software Engineering Co-Op (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "East Syracuse, NY (Collamer)",
+      "season": "Summer 2027",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Saabusa&job=0304e789-bdfd-4b9f-a0c3-7001106129c7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
     },
     {
       "id": "0180f67e-6734-4d24-a45e-2065c5743ed6",
