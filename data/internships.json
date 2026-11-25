@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:15:31.731Z",
+  "updatedAt": "2026-11-25T13:30:37.703Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -2322,18 +2322,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055"
     },
     {
-      "id": "a16b86c0-c258-41f8-b072-a69cedc362bb",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "West Valley City, UT",
-      "season": "Summer 2027",
-      "posted": "2026-11-11",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a16b86c0-c258-41f8-b072-a69cedc362bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
-    },
-    {
       "id": "6272cb8a-f747-4bf0-9e81-00f558186b60",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -2728,18 +2716,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=9a3a10fe-8dc6-4e85-a6ad-171a38fca21f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
-    },
-    {
-      "id": "e1f5ad58-39f4-49ca-ba66-b2b80825c922",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027) (Hybrid)",
-      "category": "Software Engineering",
-      "location": "Aguadilla, PR",
-      "season": "Summer 2027",
-      "posted": "2026-11-09",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e1f5ad58-39f4-49ca-ba66-b2b80825c922&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Intern--Summer-2027---Hybrid-_01888108"
     },
     {
       "id": "7b4c8573-eb05-458a-9c10-410c3456a4ad",
@@ -3616,6 +3592,18 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=RoboForce&job=99415abf-ea92-486b-a0ec-29f527511ff0&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
+    },
+    {
+      "id": "3e4b7da3-5d04-4f63-b4f6-4986705e4429",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "West Valley City, UT",
+      "season": "Summer 2027",
+      "posted": "2026-11-03",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3e4b7da3-5d04-4f63-b4f6-4986705e4429&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
     },
     {
       "id": "f4a8c527-6464-44dd-84a4-74a78bff0c17",
