@@ -18,7 +18,7 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 - **425** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 25, 2026, 3:30 PM PST**
+- Last refresh: **Nov 25, 2026, 3:45 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**361 open roles**
+**362 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -50,6 +50,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | P 3 It | Cloud Engineer Intern | Reston, VA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=P+3+It&job=8d7c9b13-cb38-4540-a8ae-aa95a7bcd733&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://p3it.bamboohr.com/careers/37) |
 | Pathlabs | Software and AI Engineering Intern | Missoula, MT | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pathlabs&job=fb9abccc-c2a6-43a7-b425-a53a956565e7&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://pathlabs.applytojob.com/apply/qW73dwA0iS) |
 | Prospect Equities | Backend / Frontend Developer Intern | Chicago, IL | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Prospect+Equities&job=7fa8feac-a5c4-4b67-af24-e6a239ff7968&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://prospectequities.applytojob.com/apply/XTbzSAcNtg) |
+| Revvity | Software Engineering Intern, In Vivo Imaging | Morrisville, NC | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Revvity&job=2e7fc474-749f-4707-a53b-96d09ed72b39&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://revvity.wd103.myworkdayjobs.com/external/job/Morrisville/Software-Engineering-Intern--In-Vivo-Imaging_JR-046080) |
 | SambaNova Systems | Machine Learning Engineer Intern | Austin, TX | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SambaNova+Systems&job=e583fb68-acfb-4880-a952-7726b564ced1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
 | SambaNova Systems | ML Infrastructure Engineer Intern | Austin, TX | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SambaNova+Systems&job=4bc5914e-17bb-4d32-b3d6-4bb1d4d4b963&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) |
 | Statestreet | Software Engineering Intern - Full-time Internship (Jan - June 2027) | Boston, MA | 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Statestreet&job=4e5df70b-e432-48e4-9d04-5a6a653dce1b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504) |
@@ -395,7 +396,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Product Management Internships
 
-**64 open roles**
+**63 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -438,7 +439,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Badgermeter | Product Management Intern | Milwaukee, WI | — | 16d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Badgermeter&job=03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) |
 | DwyerOmega | Product Management Intern - Pressure & Force | Michigan City, IN | — | 16d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DwyerOmega&job=7cf797f1-239f-42d5-ba35-2e5c83b93777&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) |
 | NVIDIA | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Summer 2027 | 16d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
-| Zoetis | Data & Analytics Product Operations Intern | Parsippany, NJ | — | 16d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zoetis&job=a1d8ba02-fa1f-459a-ae1f-f40440f4b6a6&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, GA | — | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Invesco&job=682b8d5a-8365-490c-acb1-59f5a79e79d3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://invesco.wd1.myworkdayjobs.com/ivzearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876) |
 | Vizient | 2027 Summer Internship - Product Operations Metrics & Reporting | Irving, TX 75062 Vizient Corporate HQ | Summer 2027 | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vizient&job=85a0c48c-9842-4abf-ad47-9cc77f734c18&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) |
 | Vizient | 2027 Summer Internship - Product Operations | Irving, TX 75062 Vizient Corporate HQ | Summer 2027 | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vizient&job=3005f74f-4f27-4523-9168-c8d6920e378c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) |
