@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:30:25.042Z",
+  "updatedAt": "2026-11-25T03:45:27.927Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -1297,18 +1297,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Mom%27s+Meals&job=4736f928-b285-40bb-8347-dbbf40d22b97&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0"
-    },
-    {
-      "id": "b0589aa8-00bb-4ea0-a863-226b389a31ca",
-      "company": "Raptor Maps",
-      "title": "Summer 2027 Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Somerville, MA",
-      "season": "Summer 2027",
-      "posted": "2026-11-18",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Raptor+Maps&job=b0589aa8-00bb-4ea0-a863-226b389a31ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
     },
     {
       "id": "768f30b0-0093-4664-955c-e4c7052cfc2e",
@@ -2896,18 +2884,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Raft+Company+Website&job=aeb90632-7148-41fc-895e-7e62bbbaaabb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/raft/jobs/6239819004"
-    },
-    {
-      "id": "df971e6f-57b8-4b76-9653-109499a81378",
-      "company": "Riverside Research Institute",
-      "title": "Software Applications Intern",
-      "category": "Software Engineering",
-      "location": "Fairborn, OH",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Riverside+Research+Institute&job=df971e6f-57b8-4b76-9653-109499a81378&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job"
     },
     {
       "id": "ee166f7f-da79-484c-a6f3-d4e37a0e9c1b",
