@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:46:07.547Z",
+  "updatedAt": "2026-11-25T16:30:33.861Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -1381,6 +1381,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Hubinternational&job=98f99bdd-c9c4-4ed8-ae5a-a283f92b3aad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Product-Analyst-Intern_R0039542"
+    },
+    {
+      "id": "553f3d47-8ac2-4858-b380-355d2e83025a",
+      "company": "Jci",
+      "title": "Software Engineering Co-Op",
+      "category": "Software Engineering",
+      "location": "Burlington-Massachusetts-United States of America",
+      "season": "Co-op",
+      "posted": "2026-11-18",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Jci&job=553f3d47-8ac2-4858-b380-355d2e83025a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"
     },
     {
       "id": "3952a5db-7a26-4fcb-ba87-09209cd7d420",
@@ -4769,18 +4781,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=HP&job=557e93ab-2170-4492-9371-087b4bb339fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
-    },
-    {
-      "id": "eadaa783-b8d1-4149-82cf-cbc536351841",
-      "company": "Jci",
-      "title": "Software Engineering Co-Op",
-      "category": "Software Engineering",
-      "location": "Burlington-Massachusetts-United States of America",
-      "season": "Co-op",
-      "posted": "2026-10-28",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Jci&job=eadaa783-b8d1-4149-82cf-cbc536351841&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2"
     },
     {
       "id": "bcf6ab7b-823a-4156-b7ec-c714b7c296c2",
