@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:30:41.878Z",
+  "updatedAt": "2026-11-25T05:45:39.923Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hiebing&job=c1f5188b-38d7-4b4e-b480-163b0c677d41&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hiebing.applytojob.com/apply/yIhDpeWv4F"
+    },
+    {
+      "id": "7ab9067e-6800-4941-869a-76b15e2a11bb",
+      "company": "Lunaroutpost",
+      "title": "Software Management Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Golden, CO",
+      "season": "Summer 2027",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lunaroutpost&job=7ab9067e-6800-4941-869a-76b15e2a11bb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://lunaroutpost.bamboohr.com/careers/420"
     },
     {
       "id": "6bdfeee7-fc85-4a13-953e-b899ea6a36ae",
