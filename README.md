@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-446-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-447-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **446** active U.S. internships posted within the last **30 days**
+- **447** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 25, 2026, 3:15 AM PST**
+- Last refresh: **Nov 25, 2026, 3:30 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**381 open roles**
+**382 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -79,6 +79,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Sec | Software Development Engineer - Intern | 645 Clyde Avenue, CA | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sec&job=2e861fc2-9b0c-41ad-980d-226d3b0e1744&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018) |
 | Shield | 2027 Summer Intern - Software Engineering - 5815 | Dallas, TX | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield&job=d8f4d88e-d23a-4fa8-9049-a4bfd7e62163&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
 | Sierraspace | 2027 Summer Internship - Software Engineering | Centennial, CO | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sierraspace&job=c922f322-ab75-4bb4-a8dd-88ca41f36266&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1) |
+| Takeda | 2027 Summer Internship Program: Digital Complaint System Developer | Lexington, MA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Takeda&job=770c5951-53d4-4ec0-a34e-4756404244b0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://takeda.wd502.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480) |
 | Tmobile | Summer 2027 Software Engineering Intern | Bellevue, WA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=e74ffa65-9c2c-4ff4-8c4c-b4861f7df4e9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511) |
 | Tmobile | Summer 2027 Database Platform Engineering Site Reliability Engineering \| SRE \| Internship | Atlanta, GA | Summer 2027 | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=c80f94da-4615-4557-b19a-ddbf02f3ca31&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE---Internship_REQ380923) |
 | Zoll | Software Engineering Intern | Chelmsford, MA | — | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zoll&job=b100c55b-dc5d-4a19-a7dc-e741f15ac9a5&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923) |
