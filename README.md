@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-447-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-448-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **447** active U.S. internships posted within the last **30 days**
+- **448** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 25, 2026, 10:00 AM PST**
+- Last refresh: **Nov 25, 2026, 10:15 AM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**383 open roles**
+**384 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -38,6 +38,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bandwidth&job=b44be02d-95af-4275-8387-2c81a1b4bf6e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) |
 | Fireflyspace | Internship - Software Engineering - Spring 2027 | Cedar Park, TX | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Fireflyspace&job=665df552-1a0e-419d-b581-a24e0c4b8cec&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188) |
 | Hiebing | AI Agent Developer Intern | Madison, WI | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hiebing&job=c1f5188b-38d7-4b4e-b480-163b0c677d41&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://hiebing.applytojob.com/apply/yIhDpeWv4F) |
+| Lightmatter | Firmware Intern – Summer 2027 | Boston, MA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lightmatter&job=2ff558f1-6035-4bda-896b-8fc73919dbb1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) |
 | Mariastechnology | Software Tester Intern | Covington, OH | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mariastechnology&job=6bdfeee7-fc85-4a13-953e-b899ea6a36ae&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mariastechnology.bamboohr.com/careers/25) |
 | Mariastechnology | Software Developer Intern | Covington, OH | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mariastechnology&job=36100991-01d6-42b3-bf00-f9d397b099de&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mariastechnology.bamboohr.com/careers/27) |
 | Neurospark | GTM Intern – Developer Relations & Technical Content | Santa Clara, CA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Neurospark&job=120e3eb1-5d57-49aa-92ca-e678dec74bae&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/neurospark/jobs/d6274edb-bd4d-4286-baea-faafb196df42) |
