@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:15:14.596Z",
+  "updatedAt": "2026-11-25T22:30:22.411Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -276,6 +276,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=c31e1d4c-f8e3-4e8a-a8d2-64157b52841b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091"
+    },
+    {
+      "id": "1e656ed9-61ec-47da-859f-edd006c3eddc",
+      "company": "Xona Space Systems",
+      "title": "Software Engineering (Engineering Productivity) Intern",
+      "category": "Software Engineering",
+      "location": "Burlingame, CA",
+      "season": "Not specified",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Xona+Space+Systems&job=1e656ed9-61ec-47da-859f-edd006c3eddc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab"
     },
     {
       "id": "7f563e31-5092-4ac9-a7d3-ae49c54340d0",
@@ -2922,18 +2934,6 @@
       "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Intern_2642954"
     },
     {
-      "id": "fdb72150-fabb-4930-9c2d-18efec3bab84",
-      "company": "Llbean",
-      "title": "Software Developer Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "Freeport, ME",
-      "season": "Summer 2027",
-      "posted": "2026-11-06",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Llbean&job=fdb72150-fabb-4930-9c2d-18efec3bab84&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1"
-    },
-    {
       "id": "a86999bf-0ada-452a-82e8-e75c9dc08648",
       "company": "Match Group",
       "title": "Backend Engineer Intern",
@@ -3292,18 +3292,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Shield&job=0a43597f-0529-46aa-8dcc-3ddb54138e8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2"
-    },
-    {
-      "id": "1662a9b3-3c06-4760-b94e-d3e3bc011fe5",
-      "company": "Spgi",
-      "title": "Summer Intern, Product Management",
-      "category": "Product",
-      "location": "New York City, NY",
-      "season": "Summer",
-      "posted": "2026-11-05",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Spgi&job=1662a9b3-3c06-4760-b94e-d3e3bc011fe5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1"
     },
     {
       "id": "d2a5f590-30e1-42bb-a256-02aa038ff993",
@@ -3832,18 +3820,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=07c9d213-8a43-4b38-8222-4e13bf643e4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4749923005&gh_jid=4749923005"
-    },
-    {
-      "id": "382e8c4f-5e01-4fe8-892d-6afbd227531a",
-      "company": "Kla",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-11-02",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=382e8c4f-5e01-4fe8-892d-6afbd227531a&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
     },
     {
       "id": "4ccfd93e-3a1e-4489-a202-7c5d158ca81a",
