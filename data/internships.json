@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T10:00:31.657Z",
+  "updatedAt": "2026-11-25T10:15:31.013Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -336,18 +336,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=7676e49b-528a-47da-98cf-4002b6608444&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766"
-    },
-    {
-      "id": "2aa9a083-1ac5-41ee-a620-4545d0877dcd",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Pullman, WA",
-      "season": "Not specified",
-      "posted": "2026-11-24",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=2aa9a083-1ac5-41ee-a620-4545d0877dcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-24060"
     },
     {
       "id": "a4d2b81d-1935-4119-afa0-26f2528458db",
@@ -1802,6 +1790,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=880f01ec-c29b-4020-baff-6a3931abe4b1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009"
+    },
+    {
+      "id": "2aa9a083-1ac5-41ee-a620-4545d0877dcd",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Pullman, WA",
+      "season": "Not specified",
+      "posted": "2026-11-16",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=2aa9a083-1ac5-41ee-a620-4545d0877dcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-24060"
     },
     {
       "id": "4bbfd1ea-036c-4c2e-947d-94bc3d8b3008",
