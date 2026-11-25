@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-445-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-446-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **445** active U.S. internships posted within the last **30 days**
+- **446** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 10:15 PM PST**
+- Last refresh: **Nov 24, 2026, 10:30 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**381 open roles**
+**382 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -38,6 +38,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Lunaroutpost | Software Management Intern - Summer 2027 | Golden, CO | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lunaroutpost&job=7ab9067e-6800-4941-869a-76b15e2a11bb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lunaroutpost.bamboohr.com/careers/420) |
 | Mariastechnology | Software Tester Intern | Covington, OH | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mariastechnology&job=6bdfeee7-fc85-4a13-953e-b899ea6a36ae&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mariastechnology.bamboohr.com/careers/25) |
 | Mariastechnology | Software Developer Intern | Covington, OH | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mariastechnology&job=36100991-01d6-42b3-bf00-f9d397b099de&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://mariastechnology.bamboohr.com/careers/27) |
+| Nottingham Spirk | Firmware Spring 2027 Co-Op | Cleveland, OH | Spring 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nottingham+Spirk&job=5249289b-3855-4dcd-a1fc-930f2f911bb4&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nottinghamspirk.applytojob.com/apply/udpROpEzBV) |
 | NVIDIA | Software Engineering Intern, Simulation Technology - Summer 2027 | Santa Clara, CA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=a2c5b753-584a-4e03-af15-fceb6ee5445c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531) |
 | P 3 It | Cloud Engineer Intern | Reston, VA | — | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=P+3+It&job=8d7c9b13-cb38-4540-a8ae-aa95a7bcd733&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://p3it.bamboohr.com/careers/37) |
 | Tmobile | Summer 2027 Software Engineering Internship | Bellevue, WA | Summer 2027 | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=c31e1d4c-f8e3-4e8a-a8d2-64157b52841b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091) |
@@ -85,7 +86,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Jabil | Software Engineering Intern | Austin, TX | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jabil&job=eea83715-8576-49a1-8806-ea168dc0ff92&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Software-Engineering-Intern_J2472697) |
 | Leidos | Data Engineer Intern | Fort Belvoir, VA | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Leidos&job=cb05a02d-25d6-4b79-8e05-43febda0a9f1&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994) |
 | Lucid Motors | Intern, Infotainment Software, Summer 2027 | Newark, CA | Summer 2027 | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lucid+Motors&job=34bdd557-878b-4f63-b152-4363c30b9602&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) |
-| Rockwellautomation | Intern, Content IDE Software Development (LCS) | Mayfield Heights, OH | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rockwellautomation&job=163c52bb-d084-4dc5-ae01-417980d752f9&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2) |
+| Rockwellautomation | Intern, Content IDE Software Development (LCS) | Mayfield Heights, OH | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rockwellautomation&job=8c148376-d93f-44f0-bac7-90a9c96b24fc&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1) |
 | Symbotic | Intern- Software Engineer, Front-End | USA Austin, TX | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Symbotic&job=e91b74a7-d737-413b-98e3-66fcb13811bf&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
 | Zoll | Software Automation Intern | Chelmsford, MA | — | 5d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zoll&job=331db4d0-0b15-4006-bdc8-c0b1c220a39b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/Chelmsford-MA/Software-Automation-Intern_R20929) |
 | Allied Consultants | AI/ML Engineer Intern | Austin, TX | — | 6d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Allied+Consultants&job=6260e515-3979-41eb-88a4-cf792af8075c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job) |
