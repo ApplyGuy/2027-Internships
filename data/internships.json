@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:15:58.743Z",
+  "updatedAt": "2026-11-25T19:30:32.871Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bandwidth&job=b44be02d-95af-4275-8387-2c81a1b4bf6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430"
+    },
+    {
+      "id": "025acc2f-6c62-4531-86ff-c8fa0b33fd53",
+      "company": "Carrier",
+      "title": "Software & Controls Engineering Intern - Summer",
+      "category": "Software Engineering",
+      "location": "CAN05: CCS-Charlotte",
+      "season": "Summer",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Carrier&job=025acc2f-6c62-4531-86ff-c8fa0b33fd53&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979"
     },
     {
       "id": "665df552-1a0e-419d-b581-a24e0c4b8cec",
