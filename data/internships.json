@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:15:32.937Z",
+  "updatedAt": "2026-11-25T11:30:31.973Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -684,6 +684,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Sierraspace&job=c922f322-ab75-4bb4-a8dd-88ca41f36266&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1"
+    },
+    {
+      "id": "770c5951-53d4-4ec0-a34e-4756404244b0",
+      "company": "Takeda",
+      "title": "2027 Summer Internship Program: Digital Complaint System Developer",
+      "category": "Software Engineering",
+      "location": "Lexington, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-23",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Takeda&job=770c5951-53d4-4ec0-a34e-4756404244b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://takeda.wd502.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Digital-Complaint-System-Developer_R0193480"
     },
     {
       "id": "e74ffa65-9c2c-4ff4-8c4c-b4861f7df4e9",
