@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:30:34.606Z",
+  "updatedAt": "2026-11-25T23:45:34.377Z",
   "jobs": [
     {
       "id": "8f962843-87c2-480c-94a7-20bfab042526",
@@ -252,6 +252,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Prospect+Equities&job=7fa8feac-a5c4-4b67-af24-e6a239ff7968&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg"
+    },
+    {
+      "id": "2e7fc474-749f-4707-a53b-96d09ed72b39",
+      "company": "Revvity",
+      "title": "Software Engineering Intern, In Vivo Imaging",
+      "category": "Software Engineering",
+      "location": "Morrisville, NC",
+      "season": "Not specified",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Revvity&job=2e7fc474-749f-4707-a53b-96d09ed72b39&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://revvity.wd103.myworkdayjobs.com/external/job/Morrisville/Software-Engineering-Intern--In-Vivo-Imaging_JR-046080"
     },
     {
       "id": "e583fb68-acfb-4880-a952-7726b564ced1",
@@ -2839,18 +2851,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Wexinc&job=da43d7cf-3b89-4ae2-bcb1-d1a8211b689b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern_R22542"
-    },
-    {
-      "id": "a1d8ba02-fa1f-459a-ae1f-f40440f4b6a6",
-      "company": "Zoetis",
-      "title": "Data & Analytics Product Operations Intern",
-      "category": "Product",
-      "location": "Parsippany, NJ",
-      "season": "Not specified",
-      "posted": "2026-11-09",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Zoetis&job=a1d8ba02-fa1f-459a-ae1f-f40440f4b6a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022"
     },
     {
       "id": "2851d5a7-8a21-4f31-a797-a7499a02ccf5",
