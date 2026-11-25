@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T06:15:32.642Z",
+  "updatedAt": "2026-11-25T06:30:31.206Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nikkiso+Clean+Energy+%26amp%3B+Industrial+Gases&job=1c8e5e8e-49ca-4ae1-a560-47c03b91ff7e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job"
+    },
+    {
+      "id": "5249289b-3855-4dcd-a1fc-930f2f911bb4",
+      "company": "Nottingham Spirk",
+      "title": "Firmware Spring 2027 Co-Op",
+      "category": "Software Engineering",
+      "location": "Cleveland, OH",
+      "season": "Spring 2027",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nottingham+Spirk&job=5249289b-3855-4dcd-a1fc-930f2f911bb4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV"
     },
     {
       "id": "a2c5b753-584a-4e03-af15-fceb6ee5445c",
@@ -783,7 +795,7 @@
       "listingUrl": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
     },
     {
-      "id": "163c52bb-d084-4dc5-ae01-417980d752f9",
+      "id": "8c148376-d93f-44f0-bac7-90a9c96b24fc",
       "company": "Rockwellautomation",
       "title": "Intern, Content IDE Software Development (LCS)",
       "category": "Software Engineering",
@@ -791,8 +803,8 @@
       "season": "Not specified",
       "posted": "2026-11-20",
       "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=163c52bb-d084-4dc5-ae01-417980d752f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"
+      "url": "https://applyguy.ai/jobs?company=Rockwellautomation&job=8c148376-d93f-44f0-bac7-90a9c96b24fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
     },
     {
       "id": "0ea0e2d4-3ad1-4e0f-884b-64f9f1bbb9d0",
