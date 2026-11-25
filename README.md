@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-439-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-437-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **439** active U.S. internships posted within the last **30 days**
+- **437** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 7:30 PM PST**
+- Last refresh: **Nov 24, 2026, 7:45 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**377 open roles**
+**375 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -120,7 +120,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Kira | Software Engineering Intern (Winter '27) | New York | Winter 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kira&job=3952a5db-7a26-4fcb-ba87-09209cd7d420&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe) |
 | Kla | Software Applications Engineering Intern | Milpitas, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kla&job=26cfbb63-4e02-4b7c-be39-42810c432b46&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1) |
 | Mom's Meals | Software Quality Assurance (QA) Intern | Ankeny, IA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mom%27s+Meals&job=4736f928-b285-40bb-8347-dbbf40d22b97&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0) |
-| Raptor Maps | Summer 2027 Software Engineering Intern | Somerville, MA | Summer 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Raptor+Maps&job=b0589aa8-00bb-4ea0-a863-226b389a31ca&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) |
 | Samsung Semiconductor | Intern, SSD Firmware Engineer | San Jose, CA | — | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=768f30b0-0093-4664-955c-e4c7052cfc2e&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) |
 | Statestreet | Software Engineering Intern - Full-time Internship (Jan - June 2027) | Boston, MA | 2027 | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Statestreet&job=fb249de4-857b-4b70-a7b4-d43d4966e1b0&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272) |
 | Truveta | Winter Software Engineering Intern | Seattle, WA | Winter | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Truveta&job=b650a085-0d76-44d0-8ad4-17d5b24dea81&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/truveta/jobs/6249810004) |
@@ -235,7 +234,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Phoenix Analysis And Design Technologies | Software Sales Intern | Tempe, AZ | — | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Phoenix+Analysis+And+Design+Technologies&job=7df9ea49-b375-41b8-a252-9093a1b5d1df&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640325) |
 | Raft Company Website | Full Stack Engineering Intern - Summer 2027 | McLean, VA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Raft+Company+Website&job=87f0ccc9-98bd-4adc-9a45-1f789d794806&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/raft/jobs/6240549004) |
 | Raft Company Website | DevOps Engineering Intern - Summer 2027 | McLean, VA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Raft+Company+Website&job=aeb90632-7148-41fc-895e-7e62bbbaaabb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/raft/jobs/6239819004) |
-| Riverside Research Institute | Software Applications Intern | Fairborn, OH | — | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Riverside+Research+Institute&job=df971e6f-57b8-4b76-9653-109499a81378&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job) |
 | Tmobile | Summer 2027 Software Engineer HR Data Products Internship | Bellevue, WA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tmobile&job=ee166f7f-da79-484c-a6f3-d4e37a0e9c1b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) |
 | Varda Space Industries | Site Reliability Internship - Summer 2027 | El Segundo, CA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Varda+Space+Industries&job=bec10e16-fbae-4a28-a732-16065ae8a32a&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineer, Multiverse | San Francisco, CA | Summer 2027 | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waymo&job=ff4d309e-c3a6-4ee1-8887-846eb6ea03ad&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.withwaymo.com/jobs?gh_jid=8350832) |
