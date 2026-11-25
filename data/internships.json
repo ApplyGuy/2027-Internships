@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:15:57.553Z",
+  "updatedAt": "2026-11-25T05:30:41.878Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -757,18 +757,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=34bdd557-878b-4f63-b152-4363c30b9602&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
-    },
-    {
-      "id": "a75a2b10-a652-4f91-bb57-4e7506e245b6",
-      "company": "Lucid Motors",
-      "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
-      "category": "Software Engineering",
-      "location": "Newark, CA",
-      "season": "Summer 2027",
-      "posted": "2026-11-20",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=a75a2b10-a652-4f91-bb57-4e7506e245b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007"
     },
     {
       "id": "163c52bb-d084-4dc5-ae01-417980d752f9",
@@ -1708,16 +1696,16 @@
       "listingUrl": "https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job"
     },
     {
-      "id": "0e98b470-cd3d-402a-9148-5e8ace778e6f",
-      "company": "Kla",
+      "id": "0654459e-7383-41fa-b216-20098142484f",
+      "company": "KLA",
       "title": "Firmware Intern",
       "category": "Software Engineering",
       "location": "Milpitas, CA",
       "season": "Not specified",
       "posted": "2026-11-16",
       "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Kla&job=0e98b470-cd3d-402a-9148-5e8ace778e6f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Firmware-Intern_2642154-1"
+      "url": "https://applyguy.ai/jobs?company=KLA&job=0654459e-7383-41fa-b216-20098142484f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Firmware-Intern_2642154"
     },
     {
       "id": "668fe579-1c3e-40aa-80b0-aebf2cb1caac",
