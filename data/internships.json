@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:15:32.830Z",
+  "updatedAt": "2026-11-25T04:30:35.401Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -817,6 +817,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Compassion&job=3b4ebf57-4970-4b52-834c-2ba54157a826&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
+    },
+    {
+      "id": "0cfc7720-225b-4b73-a77b-8c828ea5dcd3",
+      "company": "ENFOS",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "category": "Software Engineering",
+      "location": "Durham, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-19",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=ENFOS&job=0cfc7720-225b-4b73-a77b-8c828ea5dcd3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/enfos/jobs/4469165009"
     },
     {
       "id": "ce74a8ab-0d1e-48c1-b356-0cd31aeb0f6c",
@@ -2992,6 +3004,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=DwyerOmega&job=da0d3043-6338-4d7a-be93-75a2606a77fb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548"
+    },
+    {
+      "id": "e00892ee-49a3-4b26-b514-4d6eeb59f1d3",
+      "company": "Hearst",
+      "title": "Software Engineering Intern",
+      "category": "Software Engineering",
+      "location": "Carmel, IN",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Hearst&job=e00892ee-49a3-4b26-b514-4d6eeb59f1d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/hearst/jobs/4466334009"
     },
     {
       "id": "d658f7ca-22ac-4501-b30a-a15af8297879",
