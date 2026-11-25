@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:45:39.923Z",
+  "updatedAt": "2026-11-25T06:00:34.033Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=P+3+It&job=8d7c9b13-cb38-4540-a8ae-aa95a7bcd733&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://p3it.bamboohr.com/careers/37"
+    },
+    {
+      "id": "c31e1d4c-f8e3-4e8a-a8d2-64157b52841b",
+      "company": "Tmobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "category": "Software Engineering",
+      "location": "Bellevue, WA",
+      "season": "Summer 2027",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=c31e1d4c-f8e3-4e8a-a8d2-64157b52841b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091"
     },
     {
       "id": "7f563e31-5092-4ac9-a7d3-ae49c54340d0",
@@ -817,18 +829,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Symbotic&job=e91b74a7-d737-413b-98e3-66fcb13811bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
-    },
-    {
-      "id": "cd2af9b3-a64a-4433-9f3c-56365807d100",
-      "company": "Tmobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Summer 2027",
-      "posted": "2026-11-20",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=cd2af9b3-a64a-4433-9f3c-56365807d100&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767"
     },
     {
       "id": "331db4d0-0b15-4006-bdc8-c0b1c220a39b",
