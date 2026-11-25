@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:00:33.558Z",
+  "updatedAt": "2026-11-25T18:15:37.649Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Inscipher+Careers&job=c7e5a977-c66a-411e-9390-abb9ff1fb3e6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c"
+    },
+    {
+      "id": "2ff558f1-6035-4bda-896b-8fc73919dbb1",
+      "company": "Lightmatter",
+      "title": "Firmware Intern – Summer 2027",
+      "category": "Software Engineering",
+      "location": "Boston, MA",
+      "season": "Summer 2027",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lightmatter&job=2ff558f1-6035-4bda-896b-8fc73919dbb1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008"
     },
     {
       "id": "6bdfeee7-fc85-4a13-953e-b899ea6a36ae",
