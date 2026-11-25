@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:30:32.871Z",
+  "updatedAt": "2026-11-25T19:45:32.199Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -2008,6 +2008,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=SAS&job=c9180a2b-5cf0-488e-894c-cc93606247cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"
+    },
+    {
+      "id": "6d629c0f-2f7a-4136-a61e-18b98ca5b986",
+      "company": "Addepar",
+      "title": "Product Analyst (Navigator) Intern - Summer 2027",
+      "category": "Product",
+      "location": "New York City, NY",
+      "season": "Summer 2027",
+      "posted": "2026-11-13",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002"
     },
     {
       "id": "e9bcd738-26e6-4b7b-889c-07bdf02b0731",
