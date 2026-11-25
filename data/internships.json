@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:00:41.591Z",
+  "updatedAt": "2026-11-25T05:15:57.553Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fireflyspace&job=665df552-1a0e-419d-b581-a24e0c4b8cec&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188"
+    },
+    {
+      "id": "c1f5188b-38d7-4b4e-b480-163b0c677d41",
+      "company": "Hiebing",
+      "title": "AI Agent Developer Intern",
+      "category": "Software Engineering",
+      "location": "Madison, WI",
+      "season": "Not specified",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hiebing&job=c1f5188b-38d7-4b4e-b480-163b0c677d41&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://hiebing.applytojob.com/apply/yIhDpeWv4F"
     },
     {
       "id": "6bdfeee7-fc85-4a13-953e-b899ea6a36ae",
@@ -564,6 +576,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Sec&job=2e861fc2-9b0c-41ad-980d-226d3b0e1744&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018"
+    },
+    {
+      "id": "d8f4d88e-d23a-4fa8-9049-a4bfd7e62163",
+      "company": "Shield",
+      "title": "2027 Summer Intern - Software Engineering - 5815",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Summer 2027",
+      "posted": "2026-11-23",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=d8f4d88e-d23a-4fa8-9049-a4bfd7e62163&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503"
     },
     {
       "id": "c922f322-ab75-4bb4-a8dd-88ca41f36266",
@@ -2082,6 +2106,18 @@
       "listingUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"
     },
     {
+      "id": "d7b9bb33-b511-45ae-a7ef-22c4909b00f9",
+      "company": "Shield",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-12",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=d7b9bb33-b511-45ae-a7ef-22c4909b00f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a"
+    },
+    {
       "id": "b1d48533-dee2-4dc6-9f25-ff0f60d6510d",
       "company": "SK hynix memory solutions America Inc.",
       "title": "Embedded Software Engineer Intern",
@@ -2694,18 +2730,6 @@
       "listingUrl": "https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167"
     },
     {
-      "id": "b60bb559-9c41-48b8-a7a8-22fa841cb4d9",
-      "company": "UiPath",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Bellevue, WA",
-      "season": "Not specified",
-      "posted": "2026-11-09",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=UiPath&job=b60bb559-9c41-48b8-a7a8-22fa841cb4d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04"
-    },
-    {
       "id": "da43d7cf-3b89-4ae2-bcb1-d1a8211b689b",
       "company": "Wexinc",
       "title": "Software Engineer Intern",
@@ -2728,6 +2752,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Zoetis&job=a1d8ba02-fa1f-459a-ae1f-f40440f4b6a6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022"
+    },
+    {
+      "id": "2851d5a7-8a21-4f31-a797-a7499a02ccf5",
+      "company": "Shield",
+      "title": "2027 Summer Intern - Software Test Automation - 5796",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "Summer 2027",
+      "posted": "2026-11-07",
+      "age": "18d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=2851d5a7-8a21-4f31-a797-a7499a02ccf5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86"
     },
     {
       "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
@@ -3160,6 +3196,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a3b0247c-06cd-4c81-a200-a9b1d906e4b2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
+    },
+    {
+      "id": "0a43597f-0529-46aa-8dcc-3ddb54138e8e",
+      "company": "Shield",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "category": "Software Engineering",
+      "location": "Dallas, TX",
+      "season": "2027",
+      "posted": "2026-11-05",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=0a43597f-0529-46aa-8dcc-3ddb54138e8e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2"
     },
     {
       "id": "34233b86-7976-4fd5-bf24-ff03ce50b787",
