@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:30:20.252Z",
+  "updatedAt": "2026-11-25T21:45:46.409Z",
   "jobs": [
     {
       "id": "082289b7-c8e0-4fdd-881b-e36feabc1555",
@@ -2022,18 +2022,6 @@
       "listingUrl": "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job"
     },
     {
-      "id": "c9180a2b-5cf0-488e-894c-cc93606247cb",
-      "company": "SAS",
-      "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
-      "category": "Software Engineering",
-      "location": "Cary, NC",
-      "season": "Summer 2027",
-      "posted": "2026-11-14",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=SAS&job=c9180a2b-5cf0-488e-894c-cc93606247cb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"
-    },
-    {
       "id": "6d629c0f-2f7a-4136-a61e-18b98ca5b986",
       "company": "Addepar",
       "title": "Product Analyst (Navigator) Intern - Summer 2027",
@@ -2862,18 +2850,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86"
     },
     {
-      "id": "a62e2257-c7e5-49ab-a280-abc640564f4b",
-      "company": "Allied Consultants",
-      "title": "Power Platform Admin/Developer Intern",
-      "category": "Software Engineering",
-      "location": "Austin, TX",
-      "season": "Not specified",
-      "posted": "2026-11-06",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Allied+Consultants&job=a62e2257-c7e5-49ab-a280-abc640564f4b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job"
-    },
-    {
       "id": "3cb11c0e-455b-4095-a0f6-722208744bf1",
       "company": "Astranis",
       "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
@@ -3318,18 +3294,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2"
     },
     {
-      "id": "34233b86-7976-4fd5-bf24-ff03ce50b787",
-      "company": "Shield AI",
-      "title": "June 2027 Co-Op - Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Dallas, TX",
-      "season": "2027",
-      "posted": "2026-11-05",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=34233b86-7976-4fd5-bf24-ff03ce50b787&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
-    },
-    {
       "id": "1662a9b3-3c06-4760-b94e-d3e3bc011fe5",
       "company": "Spgi",
       "title": "Summer Intern, Product Management",
@@ -3738,6 +3702,18 @@
       "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/AI-Developer-Intern_R58194"
     },
     {
+      "id": "710f7d98-d8a4-4175-96a4-f43c602aebcc",
+      "company": "Trimble",
+      "title": "Product Management Intern",
+      "category": "Product",
+      "location": "Westminster, CO",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=710f7d98-d8a4-4175-96a4-f43c602aebcc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1"
+    },
+    {
       "id": "58480e1d-50a8-487c-abe6-908ee514c750",
       "company": "Trimble",
       "title": "Hardware/Software Testing Intern",
@@ -4036,18 +4012,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Roku&job=82519a55-f268-4377-ba9a-e980511b5145&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241"
-    },
-    {
-      "id": "03d7f657-a9cb-4b2c-86d9-130fbf363f89",
-      "company": "Shield AI",
-      "title": "Summer 2027 Intern - Embedded Firmware - 5810",
-      "category": "Software Engineering",
-      "location": "Dallas, TX",
-      "season": "Summer 2027",
-      "posted": "2026-11-02",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=03d7f657-a9cb-4b2c-86d9-130fbf363f89&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
     },
     {
       "id": "211dac0e-6e5d-4471-b8f2-e7f0ccb48d6a",
