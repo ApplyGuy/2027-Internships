@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-446-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-444-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **446** active U.S. internships posted within the last **30 days**
+- **444** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 24, 2026, 10:30 PM PST**
+- Last refresh: **Nov 24, 2026, 10:45 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**382 open roles**
+**380 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -193,8 +193,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | RTX | Software Engineering Intern (Summer 2027) | West Valley City, UT | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=a16b86c0-c258-41f8-b072-a69cedc362bb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1) |
 | RTX | Software Engineering Intern (Summer 2027) | Mckinney, TX | Summer 2027 | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=6272cb8a-f747-4bf0-9e81-00f558186b60&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440) |
 | RTX | Software Engineering Intern (ISET-IN-2) | Sterling, VA | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=0f893228-dac0-4d15-93e4-869878d782fd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
-| Securitymetrics | Intern - Software Engineer | Orem, UT | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Securitymetrics&job=c390ab35-0d88-4857-b29d-75e9553cfbbd&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://securitymetrics.bamboohr.com/careers/215) |
-| Shive Hattery Group, Inc. | Internship - Software Development | Iowa City, IA | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shive+Hattery+Group%2C+Inc.&job=b5a210e6-13d4-4f3b-a84a-4a6583c6fd8b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793) |
 | Unisys | Software Engineer Intern | Eagan, MN | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Unisys&job=f145c870-02b7-4995-8291-9b0e90376513&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://unisys.wd5.myworkdayjobs.com/external/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421) |
 | Zotec Partners | Software Engineer Intern, RCI | Carmel, IN | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zotec+Partners&job=63a86ed7-0a2e-4087-8907-e4f29f30c4a3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://zotecpartners.applytojob.com/apply/kZD502wRCY) |
 | Zotec Partners | Software Engineer Intern | Carmel, IN | — | 14d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zotec+Partners&job=3543c425-fd64-4a7b-8654-56c938fd7c72&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://zotecpartners.applytojob.com/apply/EGGe30UqYo) |
