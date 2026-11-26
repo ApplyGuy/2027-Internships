@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:00:35.028Z",
+  "updatedAt": "2026-11-26T03:15:15.107Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -1636,18 +1636,6 @@
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007"
     },
     {
-      "id": "85bae074-addc-4c73-92fa-5214dd5fe514",
-      "company": "Clera",
-      "title": "Full-Stack Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Not specified",
-      "posted": "2026-11-17",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Clera&job=85bae074-addc-4c73-92fa-5214dd5fe514&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://jobs.ashbyhq.com/clera/42992916-9ca1-48ca-9378-f4a13ea3733d"
-    },
-    {
       "id": "5269843a-e9b0-4cb7-854e-618254526cac",
       "company": "Falcomm",
       "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
@@ -2608,18 +2596,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Ecmtek&job=939abb27-09b7-4720-be15-a71836ed1fef&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://ecmtek.bamboohr.com/careers/51"
-    },
-    {
-      "id": "a2443324-be28-441c-90a4-792adb73ab0d",
-      "company": "Formfactor",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Livermore, CA",
-      "season": "Not specified",
-      "posted": "2026-11-09",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Formfactor&job=a2443324-be28-441c-90a4-792adb73ab0d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Livermore-CA/Software-Engineer-Intern_JR101288"
     },
     {
       "id": "d52a3d90-ece0-4623-bb7c-e8159c2c23a8",
@@ -3929,18 +3905,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=e3341772-e8ea-4505-95d5-560abc0dcf5c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4472147009"
-    },
-    {
-      "id": "ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba",
-      "company": "Philips",
-      "title": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027",
-      "category": "Software Engineering",
-      "location": "Murrysville, PA",
-      "season": "2027",
-      "posted": "2026-10-29",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=ff82b8ea-a392-46c9-bc13-9f4b31e5a8ba&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730"
     },
     {
       "id": "69e1c99e-3a0d-4433-a844-07dc12658ba3",
