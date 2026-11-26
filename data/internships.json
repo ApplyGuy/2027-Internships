@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T10:30:04.355Z",
+  "updatedAt": "2026-11-26T10:45:04.413Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -1419,18 +1419,6 @@
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548"
     },
     {
-      "id": "b48e74dc-a6f5-4fbe-8a60-b601d86199d2",
-      "company": "apexanalytix",
-      "title": "Product Management (DevOps) Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Greensboro, NC",
-      "season": "Summer 2027",
-      "posted": "2026-11-18",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
-    },
-    {
       "id": "b204499b-4a89-41e0-9f22-9736fbd72314",
       "company": "Boseallaboutme",
       "title": "Software Engineer Co-op",
@@ -1659,6 +1647,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=3d00c98b-5fd0-479f-ba39-b8a22560b223&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007"
+    },
+    {
+      "id": "b48e74dc-a6f5-4fbe-8a60-b601d86199d2",
+      "company": "apexanalytix",
+      "title": "Product Management (DevOps) Intern - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Greensboro, NC",
+      "season": "Summer 2027",
+      "posted": "2026-11-17",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
     },
     {
       "id": "5269843a-e9b0-4cb7-854e-618254526cac",
