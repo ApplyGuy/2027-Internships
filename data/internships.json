@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:00:17.699Z",
+  "updatedAt": "2026-11-26T00:15:40.705Z",
   "jobs": [
     {
       "id": "8f962843-87c2-480c-94a7-20bfab042526",
@@ -2692,6 +2692,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Skydio&job=65f22701-d6f6-4325-8775-211a3996ffb6&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
+    },
+    {
+      "id": "7eb25954-2a8d-40b9-b68d-a96c0c755859",
+      "company": "Thomsonreuters",
+      "title": "Software Engineer Co-Op",
+      "category": "Software Engineering",
+      "location": "New York",
+      "season": "Co-op",
+      "posted": "2026-11-10",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Thomsonreuters&job=7eb25954-2a8d-40b9-b68d-a96c0c755859&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587"
     },
     {
       "id": "03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e",
