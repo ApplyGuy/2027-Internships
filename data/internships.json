@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:45:06.593Z",
+  "updatedAt": "2026-11-26T23:00:04.515Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Asml&job=3b54d1fa-4fa4-41fa-be77-bf43d4dc5bbe&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859"
+    },
+    {
+      "id": "ba255edc-6722-45ae-883e-ac51d715c3a8",
+      "company": "ATOMS Careers page",
+      "title": "Software Engineering Intern - 2027 Summer Term ",
+      "category": "Software Engineering",
+      "location": "San Francisco, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ATOMS+Careers+page&job=ba255edc-6722-45ae-883e-ac51d715c3a8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"
     },
     {
       "id": "8f962843-87c2-480c-94a7-20bfab042526",
