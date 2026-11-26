@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:15:05.679Z",
+  "updatedAt": "2026-11-26T20:30:05.376Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -4150,18 +4150,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Protagonist&job=d6db626e-294e-4573-9cfe-19be26a11bf1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
-    },
-    {
-      "id": "2345cfec-c181-4b0f-acd8-08aadf6d9251",
-      "company": "SageSure",
-      "title": "Data Science Product Analyst Intern ",
-      "category": "Product",
-      "location": "Fairfield, CA",
-      "season": "Not specified",
-      "posted": "2026-10-27",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=SageSure&job=2345cfec-c181-4b0f-acd8-08aadf6d9251&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006"
     }
   ]
 }
