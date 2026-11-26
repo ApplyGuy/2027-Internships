@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:00:04.560Z",
+  "updatedAt": "2026-11-26T16:15:03.342Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -1081,6 +1081,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Symbotic&job=e91b74a7-d737-413b-98e3-66fcb13811bf&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
+    },
+    {
+      "id": "d27aafad-cd5f-4ad3-969b-05b946ac8814",
+      "company": "Valeo",
+      "title": "Systems Engineering Co-Op (Software)",
+      "category": "Software Engineering",
+      "location": "Troy, MI",
+      "season": "Co-op",
+      "posted": "2026-11-20",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Valeo&job=d27aafad-cd5f-4ad3-969b-05b946ac8814&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
     },
     {
       "id": "26e85a80-e0d5-4e72-8e70-57729ca999fe",
