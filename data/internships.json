@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-26T00:45:27.298Z",
+  "updatedAt": "2026-11-26T01:00:32.004Z",
   "jobs": [
+    {
+      "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
+      "company": "Asml",
+      "title": "Internship-Timing and Energy Software",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Not specified",
+      "posted": "2026-11-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Timing-and-Energy-Software_J-00358478"
+    },
+    {
+      "id": "3b54d1fa-4fa4-41fa-be77-bf43d4dc5bbe",
+      "company": "Asml",
+      "title": "Internship - Software Engineer",
+      "category": "Software Engineering",
+      "location": "San Diego, CA",
+      "season": "Not specified",
+      "posted": "2026-11-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=3b54d1fa-4fa4-41fa-be77-bf43d4dc5bbe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859"
+    },
     {
       "id": "8f962843-87c2-480c-94a7-20bfab042526",
       "company": "Ameren",
@@ -1587,6 +1611,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
     },
     {
+      "id": "custom:microsoft:27f71c3a2ab7410fb03c",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Software Systems",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+      "applySupported": false
+    },
+    {
       "id": "4736f928-b285-40bb-8347-dbbf40d22b97",
       "company": "Mom's Meals",
       "title": "Software Quality Assurance (QA) Intern",
@@ -1742,6 +1779,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=144b25be-b783-48a6-b3a5-cda298a5eec3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829"
+    },
+    {
+      "id": "custom:microsoft:3e0836a94e9ca282ffae",
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-17",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+      "applySupported": false
     },
     {
       "id": "934a97c4-aafd-4299-9ea1-2eb8c91e4a14",
@@ -2178,6 +2228,19 @@
       "listingUrl": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
     },
     {
+      "id": "custom:microsoft:481b7f838d269ee17891",
+      "company": "Microsoft",
+      "title": "Research Intern - MSR Software-Hardware Co-design",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-13",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "applySupported": false
+    },
+    {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
       "company": "Reliable Robotics Corporation",
       "title": "Flight Software Engineer Intern (Summer 2027)",
@@ -2538,18 +2601,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
     },
     {
-      "id": "fb528319-7a3f-4345-9044-329f03036d23",
-      "company": "Amat",
-      "title": "2027 Spring Software Engineer Co-op (Billerica, MA)",
-      "category": "Software Engineering",
-      "location": "Billerica, MA",
-      "season": "Spring 2027",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Amat&job=fb528319-7a3f-4345-9044-329f03036d23&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540"
-    },
-    {
       "id": "4617507d-4374-4136-8ce9-0760b3331bd2",
       "company": "Cisco",
       "title": "Software Engineer Embedded Systems I (Intern) - United States",
@@ -2716,18 +2767,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Badgermeter&job=03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676"
-    },
-    {
-      "id": "b2a4e939-14a0-4f30-94e2-240d2455578b",
-      "company": "Cisco",
-      "title": "Software Engineer Full-Stack / Backend I (Intern) – United States",
-      "category": "Software Engineering",
-      "location": "San Jose California",
-      "season": "Not specified",
-      "posted": "2026-11-09",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=b2a4e939-14a0-4f30-94e2-240d2455578b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1"
     },
     {
       "id": "7cf797f1-239f-42d5-ba35-2e5c83b93777",
@@ -3186,6 +3225,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
+      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
+      "company": "Microsoft",
+      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-05",
+      "age": "21d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "applySupported": false
+    },
+    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -3474,6 +3526,19 @@
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
     },
     {
+      "id": "custom:microsoft:121d306c133509735e49",
+      "company": "Microsoft",
+      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+      "category": "Software Engineering",
+      "location": "United States, Washington, Redmond",
+      "season": "Not specified",
+      "posted": "2026-11-03",
+      "age": "23d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "applySupported": false
+    },
+    {
       "id": "99415abf-ea92-486b-a0ec-29f527511ff0",
       "company": "RoboForce",
       "title": "Machine Learning Engineer Intern, AI & Robotics",
@@ -3570,18 +3635,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/usafacts/jobs/4478253009"
     },
     {
-      "id": "98fbe760-1dfe-45db-a474-409ddf9892d5",
-      "company": "Aero",
-      "title": "2027 Software Engineering Undergrad Intern",
-      "category": "Software Engineering",
-      "location": "El Segundo, CA",
-      "season": "2027",
-      "posted": "2026-11-02",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Aero&job=98fbe760-1dfe-45db-a474-409ddf9892d5&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"
-    },
-    {
       "id": "57385826-2ef3-4adb-a3cb-ac1a2fb5a169",
       "company": "Aero",
       "title": "2027 Software Engineering Grad Intern",
@@ -3592,18 +3645,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Aero&job=57385826-2ef3-4adb-a3cb-ac1a2fb5a169&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101"
-    },
-    {
-      "id": "a8aea8da-6dc3-4d95-b4a9-5d8240f18dcf",
-      "company": "Amat",
-      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-11-02",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Amat&job=a8aea8da-6dc3-4d95-b4a9-5d8240f18dcf&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003"
     },
     {
       "id": "cdc6ebf4-4e52-4b0e-86ec-5736b748cdda",
@@ -4339,18 +4380,6 @@
       "listingUrl": "https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472"
     },
     {
-      "id": "28490be2-517a-4baa-922c-c9cfdac787f9",
-      "company": "Archgroup",
-      "title": "Digital Product Management UI/UX Intern",
-      "category": "Product",
-      "location": "Greensboro, NC",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Archgroup&job=28490be2-517a-4baa-922c-c9cfdac787f9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139"
-    },
-    {
       "id": "99e4ae1c-84a6-4da0-bf85-b84d38e6ad72",
       "company": "Asml",
       "title": "Internship- Software Development Engineer in Test",
@@ -4361,18 +4390,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Asml&job=99e4ae1c-84a6-4da0-bf85-b84d38e6ad72&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459"
-    },
-    {
-      "id": "73fc73ef-75e4-466b-b378-f2c23fdbeec4",
-      "company": "Asml",
-      "title": "Internship/Co-Op: Data Engineer",
-      "category": "Software Engineering",
-      "location": "San Diego, CA",
-      "season": "Co-op",
-      "posted": "2026-10-28",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=73fc73ef-75e4-466b-b378-f2c23fdbeec4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
     },
     {
       "id": "3bc77243-95c5-43b9-b062-27b760cbefac",
