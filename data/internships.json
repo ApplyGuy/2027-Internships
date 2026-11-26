@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:15:34.948Z",
+  "updatedAt": "2026-11-26T01:30:39.250Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -2118,18 +2118,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002"
     },
     {
-      "id": "e9bcd738-26e6-4b7b-889c-07bdf02b0731",
-      "company": "Campingworld",
-      "title": "Software Engineering Intern",
-      "category": "Software Engineering",
-      "location": "Lincolnshire, IL",
-      "season": "Not specified",
-      "posted": "2026-11-13",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Campingworld&job=e9bcd738-26e6-4b7b-889c-07bdf02b0731&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080"
-    },
-    {
       "id": "8ea9535d-5e80-4b3f-bf60-936f6dd96586",
       "company": "Campingworld",
       "title": "New Product Development Product Management Intern",
@@ -3210,18 +3198,6 @@
       "listingUrl": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
     },
     {
-      "id": "6cbef2ae-8847-4231-b797-ff33d902d214",
-      "company": "Parsons",
-      "title": "Summer Embedded Developer Intern",
-      "category": "Software Engineering",
-      "location": "MD Columbia",
-      "season": "Summer",
-      "posted": "2026-11-05",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Parsons&job=6cbef2ae-8847-4231-b797-ff33d902d214&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299"
-    },
-    {
       "id": "7509b653-241b-45be-96b9-1cb3269a8db2",
       "company": "Paypal",
       "title": "Machine Learning Engineer PhD Intern - Summer 2027",
@@ -3376,18 +3352,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=68d7f014-2285-4000-be3b-e140d9bf0b9c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a"
-    },
-    {
-      "id": "f5009370-8534-4389-a6cf-4c099889c4ac",
-      "company": "Parsons",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "category": "Software Engineering",
-      "location": "AL Huntsville",
-      "season": "Summer 2027",
-      "posted": "2026-11-04",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Parsons&job=f5009370-8534-4389-a6cf-4c099889c4ac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
     },
     {
       "id": "315938bb-c87f-4ca6-89af-b2461a8ac932",
@@ -3714,18 +3678,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
     },
     {
-      "id": "c1aa2a70-d8d0-443c-88a5-18f7911220c0",
-      "company": "Parsons",
-      "title": "Software Engineer Intern (Fall 2026)",
-      "category": "Software Engineering",
-      "location": "Remote, U.S.",
-      "season": "Fall 2026",
-      "posted": "2026-11-02",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Parsons&job=c1aa2a70-d8d0-443c-88a5-18f7911220c0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Software-Engineer-Intern--Fall-2026-_R188147"
-    },
-    {
       "id": "90950c9b-5a86-49c7-9ed3-a9bf85ff471d",
       "company": "Plexus",
       "title": "Intern - Software Engineer (Summer 2027)",
@@ -4037,18 +3989,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
       "applySupported": false
-    },
-    {
-      "id": "79bf7862-7b9a-4949-8515-6d85f1718a6b",
-      "company": "CACI",
-      "title": "Software Engineering Co-op/Intern - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Rochester, NY",
-      "season": "Summer 2027",
-      "posted": "2026-10-29",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=79bf7862-7b9a-4949-8515-6d85f1718a6b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
     },
     {
       "id": "98395cd4-4a76-4b95-a688-75da642ce272",
