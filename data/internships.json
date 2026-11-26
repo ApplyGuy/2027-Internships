@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:00:21.542Z",
+  "updatedAt": "2026-11-26T06:15:29.011Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -98,7 +98,7 @@
       "listingUrl": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9"
     },
     {
-      "id": "1a13abc5-8a67-486b-a508-cddd277a0bf3",
+      "id": "21a98c64-8693-4d8b-8faa-89afbd02c80b",
       "company": "Digital Control Inc.",
       "title": "Software Engineering Intern",
       "category": "Software Engineering",
@@ -106,8 +106,8 @@
       "season": "Not specified",
       "posted": "2026-11-25",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Digital+Control+Inc.&job=1a13abc5-8a67-486b-a508-cddd277a0bf3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://apply.workable.com/digital-control/j/AB9A181560/"
+      "url": "https://applyguy.ai/jobs?company=Digital+Control+Inc.&job=21a98c64-8693-4d8b-8faa-89afbd02c80b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/joECwE3UKLuR3bn7TRoLa5/software-engineering-intern-in-kent-at-digital-control-inc."
     },
     {
       "id": "665df552-1a0e-419d-b581-a24e0c4b8cec",
@@ -1479,6 +1479,18 @@
       "listingUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957"
     },
     {
+      "id": "feb81dd3-4f85-464a-8123-b7743ee47bdb",
+      "company": "CWILL",
+      "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Not specified",
+      "posted": "2026-11-18",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=CWILL&job=feb81dd3-4f85-464a-8123-b7743ee47bdb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/d6XArGo3RK5F5RDNeLe84b/hybrid-ai-agent-r%26d-trainee---full-stack-engineer---bilingual-mandarin-in-cary-at-cwill"
+    },
+    {
       "id": "30f9abae-8c27-4bbc-86f5-f083f100e431",
       "company": "Gaig",
       "title": "Data Engineer Developer Intern – Summer 2027",
@@ -2524,6 +2536,18 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Badgermeter&job=03a9cf44-1c46-4c6c-9cb2-0fb1cd69f64e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676"
+    },
+    {
+      "id": "10ce0eb2-e67f-4450-948f-d84edb36e464",
+      "company": "CWILL",
+      "title": "Order Tracking R&D Trainee - Backend Engineer (Go / PHP) - Bilingual Mandarin",
+      "category": "Software Engineering",
+      "location": "Cary, NC",
+      "season": "Not specified",
+      "posted": "2026-11-09",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=CWILL&job=10ce0eb2-e67f-4450-948f-d84edb36e464&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/m9r2yWXqpK59VC5oD7P3rj/hybrid-order-tracking-r%26d-trainee---backend-engineer-(go-%2F-php)---bilingual-mandarin-in-cary-at-cwill"
     },
     {
       "id": "7cf797f1-239f-42d5-ba35-2e5c83b93777",
@@ -3953,6 +3977,18 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=HP&job=8d6bc8c2-99f9-44fb-ba46-bffb36433c11&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1"
+    },
+    {
+      "id": "c376b7df-b8fd-4463-8be5-1f1267fe7cfa",
+      "company": "Infleqtion",
+      "title": "Summer 2027 Internship - Quantum Software (QSW)",
+      "category": "Software Engineering",
+      "location": "Chicago, IL",
+      "season": "Summer 2027",
+      "posted": "2026-10-28",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Infleqtion&job=c376b7df-b8fd-4463-8be5-1f1267fe7cfa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://jobs.workable.com/view/dYzgxY7wmFJihiibcmCfAB/summer-2027-internship---quantum-software-(qsw)-in-chicago-at-infleqtion"
     },
     {
       "id": "bcf6ab7b-823a-4156-b7ec-c714b7c296c2",
