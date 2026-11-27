@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:30:04.830Z",
+  "updatedAt": "2026-11-27T22:45:03.854Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -3982,30 +3982,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Vestmark+Internship+Program&job=e9b23111-bfa0-476a-9b80-d70158309872&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"
-    },
-    {
-      "id": "bcf6ab7b-823a-4156-b7ec-c714b7c296c2",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Platform Security (NTD)",
-      "category": "Software Engineering",
-      "location": "Redmond, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nintendo&job=bcf6ab7b-823a-4156-b7ec-c714b7c296c2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.nintendo.com/?gh_jid=4469778009"
-    },
-    {
-      "id": "7a71e212-0164-4a30-8cf4-37c8cf180031",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Audio (NTD)",
-      "category": "Software Engineering",
-      "location": "Redmond, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nintendo&job=7a71e212-0164-4a30-8cf4-37c8cf180031&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.nintendo.com/?gh_jid=4470048009"
     }
   ]
 }
