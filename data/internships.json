@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:00:04.353Z",
+  "updatedAt": "2026-11-27T16:15:04.312Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -1189,18 +1189,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Gentuity&job=ce74a8ab-0d1e-48c1-b356-0cd31aeb0f6c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679467"
-    },
-    {
-      "id": "5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4",
-      "company": "Here Group Ltd",
-      "title": "Software Engineer Intern",
-      "category": "Software Engineering",
-      "location": "Chicago, IL",
-      "season": "Not specified",
-      "posted": "2026-11-19",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Here+Group+Ltd&job=5ec0c27d-f0ac-429b-8969-f2e5d60ae6c4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job"
     },
     {
       "id": "dcaa76eb-67d9-478e-8fff-283b23b1ea43",
