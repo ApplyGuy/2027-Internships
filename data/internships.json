@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:00:04.617Z",
+  "updatedAt": "2026-11-27T17:15:04.779Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -230,18 +230,6 @@
       "listingUrl": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV"
     },
     {
-      "id": "a2c5b753-584a-4e03-af15-fceb6ee5445c",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Simulation Technology - Summer 2027",
-      "category": "Software Engineering",
-      "location": "Santa Clara, CA",
-      "season": "Summer 2027",
-      "posted": "2026-11-25",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=a2c5b753-584a-4e03-af15-fceb6ee5445c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531"
-    },
-    {
       "id": "d627a43c-72b0-469e-8d73-6b3459668534",
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
@@ -252,6 +240,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d627a43c-72b0-469e-8d73-6b3459668534&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639"
+    },
+    {
+      "id": "a2c5b753-584a-4e03-af15-fceb6ee5445c",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Simulation Technology - Summer 2027",
+      "category": "Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "Summer 2027",
+      "posted": "2026-11-25",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=a2c5b753-584a-4e03-af15-fceb6ee5445c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531"
     },
     {
       "id": "76b9112b-2d10-478d-a17d-33a627a53beb",
