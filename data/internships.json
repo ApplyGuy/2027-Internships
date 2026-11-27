@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:15:03.862Z",
+  "updatedAt": "2026-11-27T22:30:04.830Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -4006,30 +4006,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=7a71e212-0164-4a30-8cf4-37c8cf180031&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4470048009"
-    },
-    {
-      "id": "994dd4d6-e37f-4255-b97a-110e2e7cf644",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, CPU Profiler (NTD)",
-      "category": "Software Engineering",
-      "location": "Redmond, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nintendo&job=994dd4d6-e37f-4255-b97a-110e2e7cf644&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.nintendo.com/?gh_jid=4469762009"
-    },
-    {
-      "id": "88bab77b-82d8-4ed0-8042-8ce7c3430c2c",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, CPU Debugger (NTD)",
-      "category": "Software Engineering",
-      "location": "Redmond, WA",
-      "season": "Not specified",
-      "posted": "2026-10-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nintendo&job=88bab77b-82d8-4ed0-8042-8ce7c3430c2c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "listingUrl": "https://careers.nintendo.com/?gh_jid=4471972009"
     }
   ]
 }
