@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:15:03.452Z",
+  "updatedAt": "2026-11-27T21:30:03.864Z",
   "jobs": [
     {
       "id": "73e33ff3-cc6b-4c08-bf9e-d9d44b6d7f3b",
@@ -1551,19 +1551,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
     },
     {
-      "id": "custom:microsoft:27f71c3a2ab7410fb03c",
-      "company": "Microsoft",
-      "title": "Research Intern - AI Software Systems",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-18",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
-      "applySupported": false
-    },
-    {
       "id": "4736f928-b285-40bb-8347-dbbf40d22b97",
       "company": "Mom's Meals",
       "title": "Software Quality Assurance (QA) Intern",
@@ -1695,19 +1682,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Marvell&job=144b25be-b783-48a6-b3a5-cda298a5eec3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829"
-    },
-    {
-      "id": "custom:microsoft:3e0836a94e9ca282ffae",
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-17",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-      "applySupported": false
     },
     {
       "id": "934a97c4-aafd-4299-9ea1-2eb8c91e4a14",
@@ -2118,19 +2092,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Martinmarietta&job=50e90128-70fe-4b2e-a6df-864b641ac7b5&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"
-    },
-    {
-      "id": "custom:microsoft:481b7f838d269ee17891",
-      "company": "Microsoft",
-      "title": "Research Intern - MSR Software-Hardware Co-design",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-13",
-      "age": "14d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "applySupported": false
     },
     {
       "id": "c4cd4e7e-0705-4991-9487-316eb52633f1",
@@ -3045,19 +3006,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
     },
     {
-      "id": "custom:microsoft:e3aa34d4cb5e7cf07496",
-      "company": "Microsoft",
-      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-05",
-      "age": "22d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-      "applySupported": false
-    },
-    {
       "id": "f22dbe19-f9a4-4449-8735-308ab4d099f4",
       "company": "Nooks",
       "title": "Software Engineer, Intern",
@@ -3284,19 +3232,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=KEEN+Footwear&job=51821903-b78b-4dd6-b122-b43c731aaf3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "listingUrl": "https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005"
-    },
-    {
-      "id": "custom:microsoft:121d306c133509735e49",
-      "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "category": "Software Engineering",
-      "location": "United States, Washington, Redmond",
-      "season": "Not specified",
-      "posted": "2026-11-03",
-      "age": "24d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-      "applySupported": false
     },
     {
       "id": "99415abf-ea92-486b-a0ec-29f527511ff0",
