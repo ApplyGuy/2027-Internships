@@ -1,6 +1,6 @@
 # 2027 SWE Internships & Product Management Internships
 
-[![Active internships](https://img.shields.io/badge/active%20internships-324-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
+[![Active internships](https://img.shields.io/badge/active%20internships-323-C26300?style=flat-square)](data/internships.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/internships?utm_source=github&utm_medium=repository&utm_campaign=internships)
 
 A continuously verified list of **Summer 2027 software engineering (SWE) internships**, **product management internships**, and current 2026/2027 co-ops in the United States. Use the **Season** column to distinguish recruiting cycles. Listings are sourced directly from company career pages by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=internships).
 
@@ -15,10 +15,10 @@ A continuously verified list of **Summer 2027 software engineering (SWE) interns
 
 🎓 **Graduating soon?** Browse [2027 New Grad Software Engineering Jobs →](https://github.com/ApplyGuy/2027-New-Grad-Jobs)
 
-- **324** active U.S. internships posted within the last **30 days**
+- **323** active U.S. internships posted within the last **30 days**
 - Every listing is still open and reverified every 15 minutes
 - Closed and expired internships are removed automatically
-- Last refresh: **Nov 27, 2026, 4:15 PM PST**
+- Last refresh: **Nov 27, 2026, 4:30 PM PST**
 - Machine-readable feed: [data/internships.json](data/internships.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -27,7 +27,7 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 
 ## Software Engineering Internships
 
-**266 open roles**
+**265 open roles**
 
 | Company | Role | Location | Season | Posted | Actions |
 |---|---|---|---|---:|---|
@@ -292,7 +292,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Zoox | PhD Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | Summer 2027 | 29d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Zoox&job=661a8e04-8bb7-40f1-ac5f-0e8100a6a0fb&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) |
 | Nintendo | Intern - Software Engineer, Connectivity (NTD) | Redmond, WA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nintendo&job=e3341772-e8ea-4505-95d5-560abc0dcf5c&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://careers.nintendo.com/?gh_jid=4472147009) |
 | Samsung Semiconductor | Intern, Systems Software Engineering | San Jose, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Samsung+Semiconductor&job=69e1c99e-3a0d-4433-a844-07dc12658ba3&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) |
-| Sophinea | Mobile App Developer Intern | Manassas, VA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Sophinea&job=c8982161-0f3e-4be3-a258-e9b723d83241&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/aS2gkEhMFAQsYCFVMLeWmf/mobile-app-developer-intern-in-manassas-at-sophinea) |
 | Syntiant | Internship - DevOps Machine Learning Infrastructure Engineer | Irvine, CA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Syntiant&job=a197d3e0-b9b6-41bd-9082-1ab6f37c672b&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/tZBq47XATeUXZdR8Rffrdy/internship---devops-machine-learning-infrastructure-engineer-in-irvine-at-syntiant) |
 | Two Six Technologies | Systems Software Engineering Intern | Arlington, VA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Two+Six+Technologies&job=3e5cf1fd-6b3f-418f-88ac-9d6131c24d38&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) |
 | USAFacts | AI & Software Engineering Intern | Bellevue, WA | — | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=USAFacts&job=dbef492f-637e-4d66-a6b4-fb1b9a0eb636&utm_source=github&utm_medium=listing&utm_campaign=internships) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/usafacts/jobs/4472154009) |
